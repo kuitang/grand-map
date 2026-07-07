@@ -1,0 +1,51 @@
+{
+ "qid": "Q2118293",
+ "names": [
+  "Oghuz Turks"
+ ],
+ "title": "Oghuz Turks",
+ "variantOf": "Q2118293",
+ "endonym": {
+  "native": "Oğuz",
+  "roman": "Oğuz"
+ },
+ "capsule": "The Oghuz Yabgu State was a nomadic Turkic confederation of twenty-four tribes, formed around 750 in the steppe between the Aral and Caspian seas after Oghuz groups, allied with Karluks and Kimeks, broke the Kangar/Pecheneg hold on the lower Syr Darya, ruling from its capital Yangikent under a hereditary yabgu. Still largely Tengrist rather than Muslim through much of this period, the state fought the Khazars but was weakened from the later tenth century by tax revolts and by the secession, around 985, of a commander named Seljuk, who took his followers to Jend, converted to Islam, and founded the line that became the Seljuk dynasty. The last yabgu, Shahmalik, briefly revived Oghuz fortunes by seizing Khwarezm from the Ghaznavids in 1041 before his capture and execution by the Seljuks; the remaining state was overrun by Kipchak tribes and absorbed by the Seljuk Empire by 1055-1056.",
+ "citations": [
+  {
+   "label": "Oghuz Yabgu State - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Oghuz_Yabgu_State"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The steppe extent of the Western Turkic Khaganate is reconstructed from Chinese dynastic histories (Sui shu, Tang shu) and Sogdian documents; core territories in the Ili and Chu valleys are reasonably established, but peripheral nomadic frontiers are broadly estimated and seasonal in character. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Turk",
+ "rulers": [
+  {
+   "name": "Ali Khan",
+   "native": "علی خان",
+   "roman": "Ali Khan",
+   "start": 980,
+   "end": 998,
+   "nativeName": "علی خان"
+  },
+  {
+   "name": "Shah Malik",
+   "native": "شاه ملک",
+   "roman": "Shah Malik",
+   "start": 998,
+   "end": 1042,
+   "nativeName": "شاه ملک"
+  }
+ ],
+ "blurbKey": "Q2118293__oghuz-turks"
+}

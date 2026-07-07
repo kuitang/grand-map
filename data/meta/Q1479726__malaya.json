@@ -1,0 +1,61 @@
+{
+ "qid": "Q1479726",
+ "names": [
+  "Malaya"
+ ],
+ "title": "Malaya",
+ "variantOf": "Q1479726",
+ "endonym": {
+  "native": "Malayapura",
+  "roman": "Malayapura"
+ },
+ "capsule": "This entry denotes the Malay kingdom of Melayu (Malayapura) in Sumatra's Batang Hari/Dharmasraya basin during the late 13th–mid 14th century. Nominally a Majapahit vassal, it was ruled from 1347 by Adityawarman — grandson of a Melayu king — who, per his 1347 Amoghapasa inscription, styled himself protector of Malayapura and effectively broke from Majapahit to found the highland kingdom that became Pagaruyung.",
+ "citations": [
+  {
+   "label": "Adityawarman – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Adityawarman"
+  },
+  {
+   "label": "Melayu Kingdom – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Melayu_Kingdom"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. This polity is poorly attested; sources consist largely of Javanese court poetry (Nagarakretagama), Chinese tributary records, and limited archaeological finds from the Batanghari valley — territorial extent is speculative. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Malaya",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Sang Nila Utama (Sri Tri Buana)",
+   "nativeName": "سري تري بوانا",
+   "roman": "Sri Tri Buana",
+   "start": 1299,
+   "end": 1347,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Sri Wikrama Wira",
+   "nativeName": "سري ويكرام ويرا",
+   "roman": "Sri Wikrama Wira",
+   "start": 1347,
+   "end": 1352,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q1479726__malaya"
+}

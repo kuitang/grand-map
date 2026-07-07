@@ -1,0 +1,108 @@
+{
+ "qid": "Q25979",
+ "names": [
+  "Eastern Kushans"
+ ],
+ "title": "Eastern Kushans",
+ "variantOf": "Q25979",
+ "endonym": {
+  "native": "ΚΟϷΑΝΟ",
+  "roman": "Košano"
+ },
+ "capsule": "After the Sasanian conquest of Bactria in the 230s split the Kushan realm, the Eastern (or 'Later') Kushans retained Gandhara and the Punjab, ruling from centers such as Purushapura (Peshawar) and Mathura. Kings including Kanishka II, Vasishka, Kanishka III, and Vasudeva II continued Kushan royal titulature and coinage even as Gupta power rose on the Gangetic plain to the east. The line faded by the mid-4th century as Samudragupta's Gupta Empire absorbed its remaining territories.",
+ "citations": [
+  {
+   "label": "Encyclopaedia Iranica, \"Kushan Dynasty i. History\"",
+   "url": "https://www.iranicaonline.org/articles/kushan-dynasty-i-history/"
+  },
+  {
+   "label": "Britannica, \"Kushan dynasty\"",
+   "url": "https://www.britannica.com/topic/Kushan-dynasty"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The core territorial extent in Bactria, Gandhara, and the northern Punjab is well attested by coinage, inscriptions (notably the Rabatak inscription), and Kushan-period archaeological sites; the eastern limit in the Gangetic plain and the precise northern boundary in Sogdia are reconstructed from coin distribution and remain approximate. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Kushan Empire",
+ "rulers": [
+  {
+   "qid": "Q1282366",
+   "name": "Vasudeva I",
+   "start": 191,
+   "end": 232,
+   "image": "Coin of the Kushan king Vasudeva I.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Coin%20of%20the%20Kushan%20king%20Vasudeva%20I.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "Classical Numismatic Group;[1]",
+    "attributionRequired": true
+   },
+   "nativeName": "Βασουδέβα Α΄",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q2511011",
+   "name": "Vāsishka",
+   "start": 247,
+   "end": 265,
+   "image": "Vasishka.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vasishka.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "CNG coins",
+    "attributionRequired": true
+   },
+   "nativeName": "Βασίσκα",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q1723774",
+   "name": "Kanishka III",
+   "start": 268,
+   "end": 268,
+   "image": "Kanishka III Circa AD 267-270.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kanishka%20III%20Circa%20AD%20267-270.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "CNG Coins",
+    "attributionRequired": true
+   },
+   "nativeName": "Κανίσκα Γ΄",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q15148314",
+   "name": "Vasudeva II",
+   "start": 275,
+   "end": 300,
+   "image": "Coin of VasudevaII.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Coin%20of%20VasudevaII.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "PHGCOM",
+    "attributionRequired": true
+   },
+   "nativeName": "Βασουδέβα Β΄",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q7462528",
+   "name": "Shaka Kushan",
+   "start": 300,
+   "end": 350,
+   "image": null,
+   "nativeName": "Σάκα των Κουσάν",
+   "nativeLang": "el"
+  }
+ ],
+ "blurbKey": "Q25979__eastern-kushans"
+}

@@ -1,0 +1,140 @@
+{
+ "qid": "Q179293",
+ "names": [
+  "Crown of Castile"
+ ],
+ "title": "Crown of Castile",
+ "variantOf": "Q179293",
+ "endonym": {
+  "native": "Corona de Castilla",
+  "roman": "Corona de Castilla"
+ },
+ "capsule": "From the permanent union of Castile and León under Ferdinand III in 1230, the Crown of Castile (Corona de Castilla) became the dominant power of the Reconquista, taking Córdoba in 1236 and Seville in 1248. Its 1469 dynastic marriage of Isabella I and Ferdinand II of Aragon created the joint rule of the \"Catholic Monarchs,\" who completed the conquest of Granada in 1492 and sponsored Columbus's first voyage, and the crown passed to their grandson Charles I in 1516, laying the institutional basis for a unified Spanish monarchy.",
+ "citations": [
+  {
+   "label": "Crown of Castile - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Crown_of_Castile"
+  },
+  {
+   "label": "Isabella I - Britannica",
+   "url": "https://www.britannica.com/biography/Isabella-I"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases (Times Atlas of World History; Kinder & Hilgemann; Shepherd 1926) at ~0.07° resolution. The moving Christian–Muslim frontier is dated by well-recorded city conquests. Confidence: high. Capsule researched for this polity/era specifically (confidence: high).",
+ "rulers": [
+  {
+   "name": "Ferdinand III",
+   "native": "Fernando III",
+   "roman": "Fernando III",
+   "start": 1217,
+   "end": 1252,
+   "nativeName": "Fernando III"
+  },
+  {
+   "name": "Alfonso X",
+   "native": "Alfonso X",
+   "roman": "Alfonso X",
+   "start": 1252,
+   "end": 1284,
+   "nativeName": "Alfonso X"
+  },
+  {
+   "name": "Sancho IV",
+   "native": "Sancho IV",
+   "roman": "Sancho IV",
+   "start": 1284,
+   "end": 1295,
+   "nativeName": "Sancho IV"
+  },
+  {
+   "name": "Ferdinand IV",
+   "native": "Fernando IV",
+   "roman": "Fernando IV",
+   "start": 1295,
+   "end": 1312,
+   "nativeName": "Fernando IV"
+  },
+  {
+   "name": "Alfonso XI",
+   "native": "Alfonso XI",
+   "roman": "Alfonso XI",
+   "start": 1312,
+   "end": 1350,
+   "nativeName": "Alfonso XI"
+  },
+  {
+   "name": "Peter",
+   "native": "Pedro I",
+   "roman": "Pedro I",
+   "start": 1350,
+   "end": 1369,
+   "nativeName": "Pedro I"
+  },
+  {
+   "name": "Henry II",
+   "native": "Enrique II",
+   "roman": "Enrique II",
+   "start": 1369,
+   "end": 1379,
+   "nativeName": "Enrique II"
+  },
+  {
+   "name": "John I",
+   "native": "Juan I",
+   "roman": "Juan I",
+   "start": 1379,
+   "end": 1390,
+   "nativeName": "Juan I"
+  },
+  {
+   "name": "Henry III",
+   "native": "Enrique III",
+   "roman": "Enrique III",
+   "start": 1390,
+   "end": 1406,
+   "nativeName": "Enrique III"
+  },
+  {
+   "name": "John II",
+   "native": "Juan II",
+   "roman": "Juan II",
+   "start": 1406,
+   "end": 1454,
+   "nativeName": "Juan II"
+  },
+  {
+   "name": "Henry IV",
+   "native": "Enrique IV",
+   "roman": "Enrique IV",
+   "start": 1454,
+   "end": 1474,
+   "nativeName": "Enrique IV"
+  },
+  {
+   "name": "Isabella I",
+   "native": "Isabel I",
+   "roman": "Isabel I",
+   "start": 1474,
+   "end": 1504,
+   "nativeName": "Isabel I"
+  },
+  {
+   "name": "Ferdinand V (co-ruler/regent)",
+   "native": "Fernando V",
+   "roman": "Fernando V",
+   "start": 1475,
+   "end": 1516,
+   "nativeName": "Fernando V"
+  },
+  {
+   "name": "Joanna I",
+   "native": "Juana I",
+   "roman": "Juana I",
+   "start": 1504,
+   "end": 1516,
+   "nativeName": "Juana I"
+  }
+ ],
+ "blurbKey": "Q179293__crown-of-castile"
+}

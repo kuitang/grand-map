@@ -1,0 +1,43 @@
+{
+ "qid": "Q671362",
+ "names": [
+  "Principality of Pinsk"
+ ],
+ "title": "Principality of Pinsk",
+ "variantOf": "Q671362",
+ "endonym": {
+  "native": "Пінскае княства",
+  "roman": "Pinskaye kniastva"
+ },
+ "capsule": "By the turn of the 14th century, Pinsk had long functioned as a separate appanage from Turov, its princely line descending from Yaroslav Yuryevich, the first attested prince of Pinsk from the 1170s. Positioned on the trade routes of the Pripyat marshes, the principality found itself squeezed between the rising Grand Duchy of Lithuania and the declining authority of the Rurikid princes of Galicia-Volhynia during this period. Around the 1320s, Pinsk passed peacefully into the orbit of Lithuania under Grand Duke Gediminas, ending its centuries-long existence as an independent Rurikid principality without a recorded conquest.",
+ "citations": [
+  {
+   "label": "Wikipedia: Principality of Turov",
+   "url": "https://en.wikipedia.org/wiki/Principality_of_Turov"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The core territory around Turov and Pinsk is well established, but the principality's exact boundaries and the precise extent of sub-principality control are not precisely mapped in surviving sources. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Principality of Turov",
+ "rulers": [
+  {
+   "name": "Demyd Volodymyrovych, Prince of Pinsk",
+   "native": "Демид Володимирович",
+   "roman": "Demyd Volodymyrovych",
+   "start": 1292,
+   "end": 1320,
+   "nativeName": "Демид Володимирович"
+  }
+ ],
+ "blurbKey": "Q671362__principality-of-pinsk"
+}

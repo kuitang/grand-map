@@ -1,0 +1,167 @@
+{
+ "qid": "Q2365048",
+ "names": [
+  "Adal Sultanate"
+ ],
+ "title": "Adal Sultanate",
+ "variantOf": "Q2365048",
+ "endonym": {
+  "native": "سلطنة عدل",
+  "roman": "Salṭanat ʿAdal"
+ },
+ "capsule": "The Adal Sultanate, refounded at Dakkar in 1415 by Sabr ad-Din III after the Ifat Sultanate's fall, waged intermittent war on Christian Ethiopia under the Walashma dynasty and expanded under Sultan Badlay (d. 1445). Its defining era came under Imam Ahmad ibn Ibrahim al-Ghazi, whose 1529–1543 Ottoman-aided jihad conquered much of the Ethiopian highlands until his death at Wayna Daga in 1543, leaving the weakened sultanate ruled from Harar, its capital since 1520.",
+ "citations": [
+  {
+   "label": "Adal Sultanate – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Adal_Sultanate"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The sultanate's core zones in the Ogaden and around Harar are documented in Abyssinian and Arabic sources, but peripheral boundaries — especially during Ahmad al-Ghazi's conquests — are expansive estimates derived from campaign narratives rather than fixed administrative lines. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Adal Sultanate",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Sabr ad-Din I",
+   "nativeName": "صبر الدين الأول",
+   "roman": "Ṣabr ad-Dīn I",
+   "start": 1415,
+   "end": 1422,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Mansur ad-Din",
+   "nativeName": "منصور الدين",
+   "roman": "Manṣūr ad-Dīn",
+   "start": 1422,
+   "end": 1424,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Jamal ad-Din II",
+   "nativeName": "جمال الدين الثاني",
+   "roman": "Jamāl ad-Dīn II",
+   "start": 1424,
+   "end": 1433,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Badlay ibn Sa'ad ad-Din",
+   "nativeName": "بدلاي بن سعد الدين",
+   "roman": "Badlāy ibn Saʿad ad-Dīn",
+   "start": 1433,
+   "end": 1445,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Muhammad ibn Badlay",
+   "nativeName": "محمد بن بدلاي",
+   "roman": "Muḥammad ibn Badlāy",
+   "start": 1445,
+   "end": 1472,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Shams ad-Din",
+   "nativeName": "شمس الدين",
+   "roman": "Shams ad-Dīn",
+   "start": 1472,
+   "end": 1488,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Muhammad ibn Azhar ad-Din",
+   "nativeName": "محمد بن أظهر الدين",
+   "roman": "Muḥammad ibn Aẓhar ad-Dīn",
+   "start": 1488,
+   "end": 1518,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Abu Bakr ibn Muhammad",
+   "nativeName": "أبو بكر بن محمد",
+   "roman": "Abū Bakr ibn Muḥammad",
+   "start": 1518,
+   "end": 1526,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ahmad ibn Ibrahim al-Ghazi (Ahmad Gran)",
+   "nativeName": "أحمد بن إبراهيم الغازي",
+   "roman": "Aḥmad ibn Ibrāhīm al-Ghāzī",
+   "start": 1527,
+   "end": 1543,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Nur ibn Mujahid",
+   "nativeName": "نور بن مجاهد",
+   "roman": "Nūr ibn Mujāhid",
+   "start": 1543,
+   "end": 1567,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Talha ibn Ahmad",
+   "nativeName": "طلحة بن أحمد",
+   "roman": "Ṭalḥa ibn Aḥmad",
+   "start": 1567,
+   "end": 1568,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Muhammad ibn Ibrahim",
+   "nativeName": "محمد بن إبراهيم",
+   "roman": "Muḥammad ibn Ibrāhīm",
+   "start": 1568,
+   "end": 1577,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q2365048__adal-sultanate"
+}

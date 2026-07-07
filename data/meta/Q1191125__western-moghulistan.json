@@ -1,0 +1,112 @@
+{
+ "qid": "Q1191125",
+ "names": [
+  "Western Moghulistan"
+ ],
+ "title": "Western Moghulistan",
+ "variantOf": "Q1191125",
+ "endonym": {
+  "native": "مغولستان",
+  "roman": "مغولستان",
+  "lang": "fa"
+ },
+ "capsule": "Western Moghulistan corresponds to the Yarkent Khanate, founded in 1514 when Sultan Said Khan conquered Kashgar, Yarkand, and Khotan from the Dughlat amir Mirza Abu Bakr and set himself up as ruler of the Tarim Basin's western oasis cities. Said's son Abdurrashid Khan (r. 1533-1565) continued to war with the Kirghiz-Kazakhs for control of the surrounding steppe, but by mid-century the khanate's authority was effectively restricted to the string of Tarim oases from Kashgar to Aksu. Ruled from Yarkand by a line of Chagatayid khans under growing influence of Naqshbandi Sufi khojas, the realm persisted through the early seventeenth century before later fragmenting into competing sub-khanates and Khoja factions.",
+ "citations": [
+  {
+   "label": "Moghulistan - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Moghulistan"
+  },
+  {
+   "label": "Mansur Khan (Moghul Khan) - Wikipedia",
+   "url": "https://en.m.wikipedia.org/wiki/Mansur_Khan_(Moghul_Khan)"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Moghulistan's territorial extent is reconstructed from Timurid chronicles, Chinese dynastic histories, and later Chagatai-language sources; the steppe frontiers were fluid and seasonal, and the polity's boundaries are broadly approximate rather than administratively demarcated. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Moghulistan",
+ "rulers": [
+  {
+   "name": "Sultan Sa'id Khan",
+   "native": "سلطان سعید خان",
+   "roman": "Sultan Sa'id Khan",
+   "start": 1514,
+   "end": 1533,
+   "nativeName": "سلطان سعید خان"
+  },
+  {
+   "name": "Abdurashid Khan",
+   "native": "عبد الرشید خان",
+   "roman": "Abdurashid Khan",
+   "start": 1533,
+   "end": 1560,
+   "nativeName": "عبد الرشید خان"
+  },
+  {
+   "name": "Abdul Karim Khan",
+   "native": "عبد الکریم خان",
+   "roman": "Abdul Karim Khan",
+   "start": 1560,
+   "end": 1591,
+   "nativeName": "عبد الکریم خان"
+  },
+  {
+   "name": "Muhammad Sultan Khan",
+   "native": "محمد سلطان خان",
+   "roman": "Muhammad Sultan Khan",
+   "start": 1591,
+   "end": 1609,
+   "nativeName": "محمد سلطان خان"
+  },
+  {
+   "name": "Shudja ad-Din Ahmad Khan",
+   "native": "شجاع الدین احمد خان",
+   "roman": "Shudja ad-Din Ahmad Khan",
+   "start": 1609,
+   "end": 1618,
+   "nativeName": "شجاع الدین احمد خان"
+  },
+  {
+   "name": "Kuraysh Sultan",
+   "native": "قریش سلطان",
+   "roman": "Kuraysh Sultan",
+   "start": 1618,
+   "end": 1618,
+   "nativeName": "قریش سلطان"
+  },
+  {
+   "name": "Abd al-Latif (Afaq) Khan",
+   "native": "عبد اللطیف خان",
+   "roman": "Abd al-Latif Khan",
+   "start": 1618,
+   "end": 1630,
+   "nativeName": "عبد اللطیف خان"
+  },
+  {
+   "name": "Sultan Ahmad Khan (Pulat Khan)",
+   "native": "سلطان احمد خان",
+   "roman": "Sultan Ahmad Khan",
+   "start": 1630,
+   "end": 1633,
+   "nativeName": "سلطان احمد خان"
+  },
+  {
+   "name": "Mahmud Sultan (Qilich Khan)",
+   "native": "محمود سلطان",
+   "roman": "Mahmud Sultan",
+   "start": 1633,
+   "end": 1636,
+   "nativeName": "محمود سلطان"
+  }
+ ],
+ "blurbKey": "Q1191125__western-moghulistan"
+}

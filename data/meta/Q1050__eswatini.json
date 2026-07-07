@@ -1,0 +1,210 @@
+{
+ "qid": "Q1050",
+ "names": [
+  "Eswatini"
+ ],
+ "title": "Eswatini",
+ "variantOf": "Q1050",
+ "endonym": {
+  "native": "Umbuso weSwatini",
+  "roman": "Umbuso weSwatini"
+ },
+ "capsule": "Eswatini in this 1969–2025 span covers the final years of British-protectorate Swaziland under King Sobhuza II, independence on 6 September 1968, Sobhuza's 1973 suspension of the Westminster-style constitution to install direct royal rule, and, after his 1982 death and a regency, the long reign of King Mswati III from 1986. In 2018 Mswati III renamed the country from the Kingdom of Swaziland to the Kingdom of Eswatini to mark 50 years of independence, presiding over one of the world's last absolute monarchies amid recurrent pro-democracy protests into the 2020s. This modern sovereign kingdom is distinct from the 19th-century concession-era polity sharing this Wikidata identifier.",
+ "citations": [
+  {
+   "label": "Mswati III — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mswati_III"
+  },
+  {
+   "label": "Eswatini — Britannica",
+   "url": "https://www.britannica.com/place/Eswatini"
+  },
+  {
+   "label": "Eswatini — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Eswatini"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Colonial-era boundaries were formally surveyed and delimited; the protectorate's extent is well documented and essentially identical to the present state, though pre-colonial Swazi territorial claims before 1881 are less precisely defined. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Eswatini",
+ "rulers": [
+  {
+   "qid": "Q379576",
+   "name": "Sobhuza II",
+   "start": 1899,
+   "end": 1982,
+   "image": "King Sobhuza II, 1945 (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/King%20Sobhuza%20II%2C%201945%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "OGL v1.0",
+    "artist": "The National Archives UK - Flickr account",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q489144",
+   "name": "Makhosini Dlamini",
+   "start": 1967,
+   "end": 1976,
+   "image": null
+  },
+  {
+   "qid": "Q338030",
+   "name": "Maphevu Dlamini",
+   "start": 1976,
+   "end": 1979,
+   "image": null
+  },
+  {
+   "qid": "Q1882346",
+   "name": "Mabandla Dlamini",
+   "start": 1980,
+   "end": 1983,
+   "image": null
+  },
+  {
+   "qid": "Q57340",
+   "name": "Mswati III",
+   "start": 1986,
+   "end": null,
+   "image": "Mswati III in Yokohama (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mswati%20III%20in%20Yokohama%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 4.0",
+    "artist": "Cabinet Public Relations Office of the Cabinet Secretariat",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q338072",
+   "name": "Obed Dlamini",
+   "start": 1989,
+   "end": 1993,
+   "image": null
+  },
+  {
+   "qid": "Q337955",
+   "name": "Andreas Fakudze",
+   "start": 1993,
+   "end": 1993,
+   "image": null
+  },
+  {
+   "qid": "Q57715",
+   "name": "Barnabas Sibusiso Dlamini",
+   "start": 1996,
+   "end": 2003,
+   "image": "Barnabas Sibusiso Dlamini 2011.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Barnabas%20Sibusiso%20Dlamini%202011.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 3.0",
+    "artist": "Photographer for the Governor-General of Australia",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q2290255",
+   "name": "Sishayi Nxumalo",
+   "start": 1996,
+   "end": 1996,
+   "image": null
+  },
+  {
+   "qid": "Q331724",
+   "name": "Themba Dlamini",
+   "start": 2003,
+   "end": 2008,
+   "image": "Visit by Absalom Themba Dlamini, Swazi Prime Minister, to the EC - 2005.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Visit%20by%20Absalom%20Themba%20Dlamini%2C%20Swazi%20Prime%20Minister%2C%20to%20the%20EC%20-%202005.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 4.0",
+    "artist": "Georges Boulougouris",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q2062420",
+   "name": "Paul Shabangu",
+   "start": 2003,
+   "end": 2003,
+   "image": null
+  },
+  {
+   "qid": "Q4901662",
+   "name": "Bheki Dlamini",
+   "start": 2008,
+   "end": 2008,
+   "image": null
+  },
+  {
+   "qid": "Q56630743",
+   "name": "Vincent Mhlanga",
+   "start": 2018,
+   "end": 2018,
+   "image": null
+  },
+  {
+   "qid": "Q57973856",
+   "name": "Ambrose Mandvulo Dlamini",
+   "start": 2018,
+   "end": 2020,
+   "image": "10.08 總統接見「史瓦帝尼王國總理戴安伯伉儷」 (48863175906).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/10.08%20%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E3%80%8C%E5%8F%B2%E7%93%A6%E5%B8%9D%E5%B0%BC%E7%8E%8B%E5%9C%8B%E7%B8%BD%E7%90%86%E6%88%B4%E5%AE%89%E4%BC%AF%E4%BC%89%E5%84%B7%E3%80%8D%20(48863175906).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 2.0",
+    "artist": "總統府",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q16973942",
+   "name": "Themba Nhlanganiso Masuku",
+   "start": 2020,
+   "end": 2021,
+   "image": "Themba Nhlanganiso Masuku.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Themba%20Nhlanganiso%20Masuku.jpg?width=320",
+   "imageLicense": {
+    "license": "OGL v1.0",
+    "artist": "Foreign and Commonwealth Office",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q107600891",
+   "name": "Cleopas Dlamini",
+   "start": 2021,
+   "end": 2023,
+   "image": "Cleopas Dlamini 2023.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cleopas%20Dlamini%202023.jpg?width=320",
+   "imageLicense": {
+    "license": "Attribution",
+    "artist": "Ministry of Foreign Affairs, Republic of China (Taiwan)",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q123342092",
+   "name": "Edeupa Yerimin",
+   "start": 2023,
+   "end": null,
+   "image": "Russell Dlamini official portrait.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Russell%20Dlamini%20official%20portrait.jpg?width=320",
+   "imageLicense": {
+    "license": "Attribution",
+    "artist": "總統府",
+    "attributionRequired": false
+   }
+  }
+ ],
+ "blurbKey": "Q1050__eswatini"
+}

@@ -1,0 +1,199 @@
+{
+ "qid": "Q241",
+ "names": [
+  "Republic of Cuba"
+ ],
+ "title": "Republic of Cuba",
+ "variantOf": "Q241",
+ "endonym": {
+  "native": "República de Cuba",
+  "roman": "República de Cuba"
+ },
+ "capsule": "The Republic of Cuba in this 1905–1960 span denotes the liberal-constitutional (and later Batista-dominated) republic established under U.S. tutelage after the 1902 end of American occupation, governed under the Platt Amendment's interventionist provisions until their 1934 abrogation. Sugar-export dependency, recurrent U.S. intervention, and alternating civilian and Fulgencio Batista-led governments (1933–44, 1952–58) characterized the period, ending when Batista fled Havana on 1 January 1959 and Fidel Castro's rebels took power. This pre-revolutionary republic is distinct from the Communist state established after 1959 sharing this identifier.",
+ "citations": [
+  {
+   "label": "Republic of Cuba (1902–1959) — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Republic_of_Cuba_(1902%E2%80%931959)"
+  },
+  {
+   "label": "Cuba: The early republic — Britannica",
+   "url": "https://www.britannica.com/place/Cuba/The-early-republic"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Cuban national territory is precisely defined as an island state; the dataset period 1905–1960 captures the pre-revolutionary republic with unambiguous boundaries. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Cuba",
+ "rulers": [
+  {
+   "name": "Tomás Estrada Palma",
+   "native": "Tomás Estrada Palma",
+   "roman": "Tomás Estrada Palma",
+   "start": 1902,
+   "end": 1906,
+   "nativeName": "Tomás Estrada Palma"
+  },
+  {
+   "name": "José Miguel Gómez",
+   "native": "José Miguel Gómez",
+   "roman": "José Miguel Gómez",
+   "start": 1909,
+   "end": 1913,
+   "nativeName": "José Miguel Gómez"
+  },
+  {
+   "name": "Mario García Menocal",
+   "native": "Mario García Menocal",
+   "roman": "Mario García Menocal",
+   "start": 1913,
+   "end": 1921,
+   "nativeName": "Mario García Menocal"
+  },
+  {
+   "name": "Alfredo Zayas",
+   "native": "Alfredo Zayas",
+   "roman": "Alfredo Zayas",
+   "start": 1921,
+   "end": 1925,
+   "nativeName": "Alfredo Zayas"
+  },
+  {
+   "name": "Gerardo Machado",
+   "native": "Gerardo Machado",
+   "roman": "Gerardo Machado",
+   "start": 1925,
+   "end": 1933,
+   "nativeName": "Gerardo Machado"
+  },
+  {
+   "name": "Alberto Herrera y Franchi",
+   "native": "Alberto Herrera y Franchi",
+   "roman": "Alberto Herrera",
+   "start": 1933,
+   "end": 1933,
+   "nativeName": "Alberto Herrera y Franchi"
+  },
+  {
+   "name": "Carlos Manuel de Céspedes y Quesada",
+   "native": "Carlos Manuel de Céspedes y Quesada",
+   "roman": "Carlos Manuel de Céspedes",
+   "start": 1933,
+   "end": 1933,
+   "nativeName": "Carlos Manuel de Céspedes y Quesada"
+  },
+  {
+   "name": "Ramón Grau San Martín (1st term)",
+   "native": "Ramón Grau San Martín",
+   "roman": "Ramón Grau San Martín",
+   "start": 1933,
+   "end": 1934,
+   "nativeName": "Ramón Grau San Martín"
+  },
+  {
+   "name": "Carlos Hevia",
+   "native": "Carlos Hevia",
+   "roman": "Carlos Hevia",
+   "start": 1934,
+   "end": 1934,
+   "nativeName": "Carlos Hevia"
+  },
+  {
+   "name": "Manuel Márquez Sterling",
+   "native": "Manuel Márquez Sterling y Loret de Mola",
+   "roman": "Manuel Márquez Sterling",
+   "start": 1934,
+   "end": 1934,
+   "nativeName": "Manuel Márquez Sterling y Loret de Mola"
+  },
+  {
+   "name": "Carlos Mendieta",
+   "native": "Carlos Mendieta",
+   "roman": "Carlos Mendieta",
+   "start": 1934,
+   "end": 1935,
+   "nativeName": "Carlos Mendieta"
+  },
+  {
+   "name": "José A. Barnet",
+   "native": "José Agripino Barnet",
+   "roman": "José A. Barnet",
+   "start": 1935,
+   "end": 1936,
+   "nativeName": "José Agripino Barnet"
+  },
+  {
+   "name": "Miguel Mariano Gómez",
+   "native": "Miguel Mariano Gómez",
+   "roman": "Miguel Mariano Gómez",
+   "start": 1936,
+   "end": 1936,
+   "nativeName": "Miguel Mariano Gómez"
+  },
+  {
+   "name": "Federico Laredo Brú",
+   "native": "Federico Laredo Brú",
+   "roman": "Federico Laredo Brú",
+   "start": 1936,
+   "end": 1940,
+   "nativeName": "Federico Laredo Brú"
+  },
+  {
+   "name": "Fulgencio Batista (1st term)",
+   "native": "Fulgencio Batista",
+   "roman": "Fulgencio Batista",
+   "start": 1940,
+   "end": 1944,
+   "nativeName": "Fulgencio Batista"
+  },
+  {
+   "name": "Ramón Grau San Martín (2nd term)",
+   "native": "Ramón Grau San Martín",
+   "roman": "Ramón Grau San Martín",
+   "start": 1944,
+   "end": 1948,
+   "nativeName": "Ramón Grau San Martín"
+  },
+  {
+   "name": "Carlos Prío Socarrás",
+   "native": "Carlos Prío Socarrás",
+   "roman": "Carlos Prío Socarrás",
+   "start": 1948,
+   "end": 1952,
+   "nativeName": "Carlos Prío Socarrás"
+  },
+  {
+   "name": "Fulgencio Batista (2nd term)",
+   "native": "Fulgencio Batista",
+   "roman": "Fulgencio Batista",
+   "start": 1952,
+   "end": 1959,
+   "nativeName": "Fulgencio Batista"
+  },
+  {
+   "name": "Manuel Urrutia Lleó",
+   "native": "Manuel Urrutia Lleó",
+   "roman": "Manuel Urrutia Lleó",
+   "start": 1959,
+   "end": 1959,
+   "nativeName": "Manuel Urrutia Lleó"
+  },
+  {
+   "name": "Osvaldo Dorticós Torrado",
+   "native": "Osvaldo Dorticós Torrado",
+   "roman": "Osvaldo Dorticós Torrado",
+   "start": 1959,
+   "end": 1976,
+   "nativeName": "Osvaldo Dorticós Torrado"
+  }
+ ],
+ "blurbKey": "Q241__republic-of-cuba"
+}

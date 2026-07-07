@@ -1,0 +1,38 @@
+{
+ "qid": "Q28567",
+ "names": [
+  "Later Mayan City-States"
+ ],
+ "title": "Later Mayan City-States",
+ "variantOf": "Q28567",
+ "endonym": {
+  "native": "Later Mayan City-States",
+  "roman": "Later Mayan City-States",
+  "lang": "yua"
+ },
+ "capsule": "Following the Classic Maya collapse, a new constellation of Maya city-states rose from roughly 850 CE onward in the Yucatán Peninsula and Guatemalan highlands, most prominently Chichén Itzá and, after its 13th-century decline, the Cocom-led league centered on Mayapán. This Postclassic world was more militarized and secular than its Classic predecessors, marked by fortified capitals, joint multepal rule, and expanding long-distance trade networks reaching central Mexico. Its polities persisted as independent Maya states until Spanish forces completed the conquest of Yucatán in 1546–1547, even though the isolated Itza kingdom around Lake Petén Itzá held out until 1697.",
+ "citations": [
+  {
+   "label": "Maya civilization - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Maya_civilization"
+  },
+  {
+   "label": "Maya - Britannica",
+   "url": "https://www.britannica.com/topic/Maya-people"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Major Classic-period city locations and rough territorial spheres of influence are reconstructed from LiDAR survey, excavation, and epigraphy; outer boundaries between polities and the full extent of any given city-state's control are interpreted from limited epigraphic and archaeological evidence, making the geometry a broad approximation. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Maya civilization",
+ "blurbKey": "Q28567__later-mayan-city-states"
+}

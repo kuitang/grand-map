@@ -1,0 +1,72 @@
+{
+ "qid": "Q7183",
+ "names": [
+  "Qin Dynasty"
+ ],
+ "title": "Qin Dynasty",
+ "variantOf": "Q7183",
+ "endonym": {
+  "native": "秦",
+  "roman": "Qín"
+ },
+ "capsule": "The Qin dynasty was China's first unified imperial state, founded when King Zheng of Qin completed his conquest of the six rival Warring States and adopted the title Qin Shi Huang, First Emperor, in 221 BC. In this later phase of his reign it built the earliest unified Great Wall using conscript labor, standardized weights, measures, currency, and script, and divided the realm into centrally administered commanderies and counties. The First Emperor died in 210 BC on a tour of the eastern provinces, and his son Qin Er Shi's brief, brutal reign amid rebellions such as those of Chen Sheng and Wu Guang brought the dynasty to collapse by 207 BC — distinct from the short-lived remnant kingdom of Zhai that Xiang Yu carved from Qin's former Guanzhong heartland afterward.",
+ "citations": [
+  {
+   "label": "Qin dynasty - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Qin_dynasty"
+  },
+  {
+   "label": "Qin Shi Huang - Britannica",
+   "url": "https://www.britannica.com/biography/Qin-Shi-Huang"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The Qin realm's extent is well documented in Han-era sources and confirmed by archaeological finds including the First Emperor's mausoleum; provincial boundaries within the empire are subject to ongoing revision. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Qin dynasty",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Qin Shi Huang (First Emperor, Ying Zheng)",
+   "nativeName": "秦始皇",
+   "roman": "Qín Shǐhuáng",
+   "start": -221,
+   "end": -210,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Qin Er Shi (Second Emperor, Huhai)",
+   "nativeName": "秦二世",
+   "roman": "Qín Èrshì",
+   "start": -210,
+   "end": -207,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ziying, King of Qin",
+   "nativeName": "秦王子嬰",
+   "roman": "Qín Wáng Zǐyīng",
+   "start": -207,
+   "end": -206,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q7183__qin-dynasty"
+}

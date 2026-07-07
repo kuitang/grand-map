@@ -1,0 +1,144 @@
+{
+ "qid": "Q25979",
+ "names": [
+  "Kushan Empire"
+ ],
+ "title": "Kushan Empire",
+ "variantOf": "Q25979",
+ "endonym": {
+  "native": "ΚΟϷΑΝΟ",
+  "roman": "Koshano"
+ },
+ "capsule": "The Kushan Empire proper — the unified realm founded by Kujula Kadphises (fl. c. 30–80 CE), who unified the five Yuezhi/Kushan yabghus and expanded from Bactria into Gandhara — reached its territorial and cultural height under Vima Kadphises, Kanishka I, and their successors, ruling a vast Silk Road empire stretching from Central Asia to the Gangetic plain and patronizing Buddhism, Zoroastrianism, and Greco-Roman-influenced Gandharan art. This span (43–238 CE) covers the empire while it remained a single political entity under one Kushan great king. It is distinct from the later 'Eastern Kushans' and 'Western Kushans,' the geographically divided successor polities that emerged after Sasanian conquest fragmented the empire from around 225 CE onward, and that share this same Wikidata identifier.",
+ "citations": [
+  {
+   "label": "Kushan Empire - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kushan_Empire"
+  },
+  {
+   "label": "Kushan dynasty - Britannica",
+   "url": "https://www.britannica.com/topic/Kushan-dynasty"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The core territorial extent in Bactria, Gandhara, and the northern Punjab is well attested by coinage, inscriptions (notably the Rabatak inscription), and Kushan-period archaeological sites; the eastern limit in the Gangetic plain and the precise northern boundary in Sogdia are reconstructed from coin distribution and remain approximate. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Kushan Empire",
+ "rulers": [
+  {
+   "qid": "Q560157",
+   "name": "Kujula Kadphises",
+   "start": 30,
+   "end": 80,
+   "image": "Kujula Kadphises (coin portrait).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kujula%20Kadphises%20(coin%20portrait).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 2.5",
+    "artist": "CNG",
+    "attributionRequired": true
+   },
+   "nativeName": "Κουζούλα Καδφίσης",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q1280448",
+   "name": "Vima Takto",
+   "start": 80,
+   "end": 90,
+   "image": "Coin of Kushan King Vima Takto.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Coin%20of%20Kushan%20King%20Vima%20Takto.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Per Honor et Gloria",
+    "attributionRequired": false
+   },
+   "nativeName": "Βήμα Τάκτο",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q1275140",
+   "name": "Vima Kadphises",
+   "start": 90,
+   "end": 100,
+   "image": "Portrait of Vima Kadphises.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Vima%20Kadphises.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "CNG Coins",
+    "attributionRequired": true
+   },
+   "nativeName": "Βήμα Καδφίσης",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q312544",
+   "name": "Kanishka",
+   "start": 127,
+   "end": 150,
+   "image": "KanishkaCoin3.JPG",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/KanishkaCoin3.JPG?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "No machine-readable author provided. World Imaging assumed (based on copyright claims).",
+    "attributionRequired": false
+   },
+   "nativeName": "Κανίσκα Α΄",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q1396420",
+   "name": "Huvishka",
+   "start": 151,
+   "end": 191,
+   "image": "HuvishkaBMCoin.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/HuvishkaBMCoin.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "No machine-readable author provided. World Imaging assumed (based on copyright claims).",
+    "attributionRequired": false
+   },
+   "nativeName": "Χουβίσκα",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q1282366",
+   "name": "Vasudeva I",
+   "start": 191,
+   "end": 232,
+   "image": "Coin of the Kushan king Vasudeva I.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Coin%20of%20the%20Kushan%20king%20Vasudeva%20I.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "Classical Numismatic Group;[1]",
+    "attributionRequired": true
+   },
+   "nativeName": "Βασουδέβα Α΄",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q2511011",
+   "name": "Vāsishka",
+   "start": 247,
+   "end": 265,
+   "image": "Vasishka.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vasishka.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "CNG coins",
+    "attributionRequired": true
+   },
+   "nativeName": "Βασίσκα",
+   "nativeLang": "el"
+  }
+ ],
+ "blurbKey": "Q25979__kushan-empire"
+}

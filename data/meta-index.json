@@ -1,0 +1,9670 @@
+{
+ "Qi": {
+  "qid": "Q1143524",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Qi (state)",
+  "file": "Q1143524__qi"
+ },
+ "Northern Qi": {
+  "qid": "Q1143524",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Qi (state)",
+  "file": "Q1143524__northern-qi"
+ },
+ "Lu": {
+  "qid": "Q555994",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Lu (state)",
+  "file": "Q555994__lu"
+ },
+ "Aq Qoyunlu": {
+  "qid": "Q555994",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Lu (state)",
+  "file": "Q555994__aq-qoyunlu"
+ },
+ "Wu": {
+  "qid": "Q274488",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Wu (state)",
+  "file": "Q274488__wu"
+ },
+ "Eastern Wu": {
+  "qid": "Q274488",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Wu (state)",
+  "file": "Q274488__eastern-wu"
+ },
+ "Zhao": {
+  "qid": "Q197430",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Zhao (state)"
+ },
+ "Wei": {
+  "qid": "Q320930",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Wei (state)",
+  "file": "Q320930__wei"
+ },
+ "Cao Wei": {
+  "qid": "Q320930",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Wei (state)",
+  "file": "Q320930__cao-wei"
+ },
+ "Later Western Liang": {
+  "qid": "Q849770",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Western Liang (555–587)"
+ },
+ "Eastern Göktürks": {
+  "qid": "Q2607292",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Göktürks"
+ },
+ "Western Göktürks": {
+  "qid": "Q874357",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Göktürks"
+ },
+ "Later Liang Dynasty": {
+  "qid": "Q783489",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Later Liang (Five Dynasties)"
+ },
+ "Southern Song": {
+  "qid": "Q7462",
+  "curated": true,
+  "file": "Q7462__southern-song"
+ },
+ "Bornu Empire": {
+  "qid": "Q894030",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kanem-Bornu Empire"
+ },
+ "Nogai Horde": {
+  "qid": "Q631210",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Nogai Horde",
+  "file": "Q631210__nogai-horde"
+ },
+ "Small Horde": {
+  "qid": "Q631210",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Nogai Horde",
+  "file": "Q631210__small-horde"
+ },
+ "Sloboda Ukraine": {
+  "qid": "Q598570",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sloboda Ukraine"
+ },
+ "Azerbaijan Democratic Republic": {
+  "qid": "Q206411",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Azerbaijan"
+ },
+ "French Mandate for Syria and Lebanon": {
+  "qid": "Q139708",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Mandate for Syria and the Lebanon"
+ },
+ "People's Socialist Republic of Albania": {
+  "qid": "Q467864",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "People's Socialist Republic of Albania"
+ },
+ "People's Republic of Bulgaria": {
+  "qid": "Q121932",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "People's Republic of Bulgaria"
+ },
+ "Republic of Vietnam": {
+  "qid": "Q180573",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "South Vietnam"
+ },
+ "Sumerian City-States": {
+  "qid": "Q2345840",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "History of Sumer"
+ },
+ "Elam": {
+  "qid": "Q128904",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Elam"
+ },
+ "Early Dynastic Period of Egypt": {
+  "qid": "Q187979",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Early Dynastic Period (Egypt)"
+ },
+ "Indus Valley Civilization": {
+  "qid": "Q42534",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Indus Valley Civilisation"
+ },
+ "Old Kingdom of Egypt": {
+  "qid": "Q177819",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Old Kingdom of Egypt"
+ },
+ "Akkadian Empire": {
+  "qid": "Q4461035",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Akkadian Empire"
+ },
+ "Lower Egypt": {
+  "qid": "Q463871",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Old Kingdom of Egypt"
+ },
+ "Upper Egypt": {
+  "qid": "Q203751",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Old Kingdom of Egypt"
+ },
+ "Gutian Dynasty": {
+  "qid": "Q1064034",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Gutian rule in Mesopotamia"
+ },
+ "Middle Kingdom of Egypt": {
+  "qid": "Q191324",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Middle Kingdom of Egypt"
+ },
+ "Assyria": {
+  "qid": "Q41137",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Assyria"
+ },
+ "Hyksos": {
+  "qid": "Q192319",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Hyksos"
+ },
+ "Babylonia": {
+  "qid": "Q47690",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Babylonia"
+ },
+ "First Sealand Dynasty": {
+  "qid": "Q7440601",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "First Sealand dynasty"
+ },
+ "Fifteenth Dynasty of Egypt": {
+  "qid": "Q728479",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Fifteenth Dynasty of Egypt"
+ },
+ "Seventeenth Dynasty of Egypt": {
+  "qid": "Q642301",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Seventeenth Dynasty of Egypt"
+ },
+ "Sixteenth Dynasty of Egypt": {
+  "qid": "Q737695",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sixteenth Dynasty of Egypt"
+ },
+ "Minoan civilization": {
+  "qid": "Q134178",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Minoan civilization"
+ },
+ "Hittites": {
+  "qid": "Q5406",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Hittites"
+ },
+ "Shang Dynasty": {
+  "qid": "Q128938",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Shang dynasty"
+ },
+ "Mitanni": {
+  "qid": "Q178665",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Mitanni"
+ },
+ "Mycenaean Greece": {
+  "qid": "Q181264",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Mycenaean Greece"
+ },
+ "New Kingdom of Egypt": {
+  "qid": "Q180568",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "New Kingdom of Egypt"
+ },
+ "Neo-Hittite states": {
+  "qid": "Q770281",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Neo-Hittite states"
+ },
+ "Phoenicia": {
+  "qid": "Q41642",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Phoenicia",
+  "file": "Q41642__phoenicia"
+ },
+ "Phoenician Empire": {
+  "qid": "Q41642",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Phoenicia",
+  "file": "Q41642__phoenician-empire"
+ },
+ "Philistia": {
+  "qid": "Q7185566",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Philistia"
+ },
+ "Greek Dark Ages": {
+  "qid": "Q210443",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Greek Dark Ages"
+ },
+ "Zhou Dynasty": {
+  "qid": "Q35216",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Zhou dynasty"
+ },
+ "Kingdom of Israel": {
+  "qid": "Q3185305",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Israel (united monarchy)"
+ },
+ "Kingdom of Kush": {
+  "qid": "Q241790",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Kush"
+ },
+ "Kingdom of Judah": {
+  "qid": "Q48685",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Judah"
+ },
+ "Tabal Kingdom": {
+  "qid": "Q727710",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Tabal (state)"
+ },
+ "Neo-Assyrian Empire": {
+  "qid": "Q10914393",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Neo-Assyrian Empire"
+ },
+ "Phrygia": {
+  "qid": "Q32579",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Phrygia"
+ },
+ "Kingdom of Urartu": {
+  "qid": "Q185068",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Urartu"
+ },
+ "Sabaeans": {
+  "qid": "Q940785",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sabaeans"
+ },
+ "Greek City-States": {
+  "qid": "Q148837",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Polis"
+ },
+ "Twenty-third Dynasty of Egypt": {
+  "qid": "Q748170",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Twenty-third Dynasty of Egypt"
+ },
+ "Twenty-second Dynasty of Egypt": {
+  "qid": "Q737629",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Twenty-second Dynasty of Egypt"
+ },
+ "Jin": {
+  "qid": "Q6201794",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Jin (Chinese state)",
+  "file": "Q6201794__jin"
+ },
+ "Former Jin": {
+  "qid": "Q6201794",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Jin (Chinese state)",
+  "file": "Q6201794__former-jin"
+ },
+ "Chu": {
+  "qid": "Q504759",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Chu (state)"
+ },
+ "Qin": {
+  "qid": "Q1471995",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Qin (state)",
+  "file": "Q1471995__qin"
+ },
+ "Former Qin": {
+  "qid": "Q1471995",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Qin (state)",
+  "file": "Q1471995__former-qin"
+ },
+ "Etruscans": {
+  "qid": "Q17161",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Etruscan civilization"
+ },
+ "Spring and Autumn States": {
+  "qid": "Q185047",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Spring and Autumn Period"
+ },
+ "Roman Kingdom": {
+  "qid": "Q201038",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Roman Kingdom"
+ },
+ "Song": {
+  "qid": "Q7462",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Song (state)",
+  "file": "Q7462__song"
+ },
+ "Northern Song": {
+  "qid": "Q7462",
+  "curated": true,
+  "file": "Q7462__northern-song"
+ },
+ "Teng": {
+  "qid": "Q1356151",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Teng (state)"
+ },
+ "Chen": {
+  "qid": "Q1069690",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Chen (state)"
+ },
+ "Wey": {
+  "qid": "Q1147897",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Wey (state)"
+ },
+ "Cao": {
+  "qid": "Q204077",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Cao (state)",
+  "file": "Q204077__cao"
+ },
+ "Cao Cao": {
+  "qid": "Q204077",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Cao (state)",
+  "file": "Q204077__cao-cao"
+ },
+ "Zheng": {
+  "qid": "Q197598",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Zheng (state)"
+ },
+ "Cai": {
+  "qid": "Q1025803",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Cai (state)"
+ },
+ "Zhu": {
+  "qid": "Q227007",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Zhu (state)"
+ },
+ "Yan": {
+  "qid": "Q1472004",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Yan (state)",
+  "file": "Q1472004__yan"
+ },
+ "Former Yan": {
+  "qid": "Q1472004",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Yan (state)",
+  "file": "Q1472004__former-yan"
+ },
+ "Later Zhou": {
+  "qid": "Q1154556",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Later Zhou"
+ },
+ "Xu": {
+  "qid": "Q2650109",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Xu (state)"
+ },
+ "Phoenician Colonies": {
+  "qid": "Q1094394",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Colonies in antiquity"
+ },
+ "Hadhramaut": {
+  "qid": "Q1517159",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Hadhramaut"
+ },
+ "Lydia": {
+  "qid": "Q620765",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Lydia"
+ },
+ "Macedonian Empire": {
+  "qid": "Q83958",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Macedonia (ancient kingdom)"
+ },
+ "Olmec Civilization": {
+  "qid": "Q135364",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Olmecs"
+ },
+ "Scythia": {
+  "qid": "Q131802",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Scythians"
+ },
+ "Carthage": {
+  "qid": "Q2429397",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ancient Carthage"
+ },
+ "Assyrian Egypt": {
+  "qid": "Q97357417",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Assyrian conquest of Egypt"
+ },
+ "Twenty-sixth Dynasty of Egypt": {
+  "qid": "Q662410",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Twenty-sixth Dynasty of Egypt"
+ },
+ "Median Kingdom": {
+  "qid": "Q1183338",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Median dynasty"
+ },
+ "Janapada of Avanti": {
+  "qid": "Q4827705",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Avanti (region)"
+ },
+ "Janapada of Anga": {
+  "qid": "Q1155818",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Anga"
+ },
+ "Mahajanapadas": {
+  "qid": "Q846025",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Mahajanapadas"
+ },
+ "Neo-Babylonian Empire": {
+  "qid": "Q624887",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Neo-Babylonian Empire"
+ },
+ "Janapada of Magadha": {
+  "qid": "Q234009",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Magadha"
+ },
+ "Janapada of Malla": {
+  "qid": "Q1376303",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Malla (tribe)"
+ },
+ "Janapada of Aśmaka": {
+  "qid": "Q1194906",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Asmaka"
+ },
+ "Janapada of Vajji": {
+  "qid": "Q605199",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Vajjika League"
+ },
+ "Janapada of Cedī": {
+  "qid": "Q124207979",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Cedī (tribe)"
+ },
+ "Janapada of Kuru": {
+  "qid": "Q1068408",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kuru Kingdom"
+ },
+ "Janapada of Kosala": {
+  "qid": "Q756854",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kosala"
+ },
+ "Janapada of Matsya": {
+  "qid": "Q2665398",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Matsya (tribe)"
+ },
+ "Janapada of Surasena": {
+  "qid": "Q1330149",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Surasena"
+ },
+ "Janapada of Pañcāla": {
+  "qid": "Q558603",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Pañcāla"
+ },
+ "Janapada of Vatsa": {
+  "qid": "Q1331184",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Vatsa"
+ },
+ "Janapada of Gandhāra": {
+  "qid": "Q112980583",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Gandhāra (kingdom)"
+ },
+ "Janapada of Kāśī": {
+  "qid": "Q12660335",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kāśī (kingdom)"
+ },
+ "Janapada of Kamboja": {
+  "qid": "Q2586782",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kambojas"
+ },
+ "Peloponnesian League": {
+  "qid": "Q208742",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Peloponnesian League"
+ },
+ "Achaemenid Empire": {
+  "qid": "Q389688",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Achaemenid Empire"
+ },
+ "Yue": {
+  "qid": "Q1936158",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Yue (state)",
+  "file": "Q1936158__yue"
+ },
+ "Minyue": {
+  "qid": "Q1936158",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Yue (state)",
+  "file": "Q1936158__minyue"
+ },
+ "Roman Republic": {
+  "qid": "Q17167",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Roman Republic"
+ },
+ "Zapotec Civilization": {
+  "qid": "Q844750",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Zapotec civilization"
+ },
+ "Magadha - Haryanka dynasty": {
+  "qid": "Q12459974",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Haryanka dynasty"
+ },
+ "Warring States China": {
+  "qid": "Q185063",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Warring States Period"
+ },
+ "Odrysian Kingdom": {
+  "qid": "Q870517",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Odrysian kingdom"
+ },
+ "Yuezhi": {
+  "qid": "Q467985",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Yuezhi"
+ },
+ "Magadha - Shaishunaga dynasty": {
+  "qid": "Q972165",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Shaishunaga dynasty"
+ },
+ "Cimmerian Bosporus": {
+  "qid": "Q321371",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Bosporan Kingdom"
+ },
+ "Han": {
+  "qid": "Q1968654",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Han (state)",
+  "file": "Q1968654__han"
+ },
+ "Beylik of Saruhan": {
+  "qid": "Q1968654",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Han (state)",
+  "file": "Q1968654__beylik-of-saruhan"
+ },
+ "Thirtieth Dynasty of Egypt": {
+  "qid": "Q386303",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Thirtieth Dynasty of Egypt"
+ },
+ "Minaeans": {
+  "qid": "Q1177379",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Minaeans"
+ },
+ "Second Athenian League": {
+  "qid": "Q2338980",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Second Athenian League"
+ },
+ "Sacred Band of Thebes": {
+  "qid": "Q5760",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Thebes, Greece"
+ },
+ "Zhongshan": {
+  "qid": "Q59223",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Zhongshan"
+ },
+ "Thebans": {
+  "qid": "Q7777597",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Theban"
+ },
+ "Qataban": {
+  "qid": "Q748595",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Qataban"
+ },
+ "Nanda Empire": {
+  "qid": "Q949268",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Nanda Empire"
+ },
+ "Kingdom of Bithynia": {
+  "qid": "Q3762571",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Bithynia"
+ },
+ "Ptolemaic Kingdom": {
+  "qid": "Q2320005",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ptolemaic Kingdom"
+ },
+ "Cyrenaica": {
+  "qid": "Q165198",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Cyrenaica"
+ },
+ "Kingdom of Armenia": {
+  "qid": "Q208404",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Armenia (antiquity)"
+ },
+ "Laomedon": {
+  "qid": "Q977461",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Laomedon of Mytilene"
+ },
+ "Athenian Coalition": {
+  "qid": "Q33745",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Peloponnesian War"
+ },
+ "Kingdom of Lysimachus": {
+  "qid": "Q32133",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Lysimachian Empire"
+ },
+ "Perdiccas": {
+  "qid": "Q202113",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Perdiccas"
+ },
+ "Maurya Empire": {
+  "qid": "Q62943",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Maurya Empire"
+ },
+ "Seleucid Empire": {
+  "qid": "Q705904",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Seleucid dynasty"
+ },
+ "Kalinga": {
+  "qid": "Q356524",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kalinga"
+ },
+ "Polyperchon": {
+  "qid": "Q312008",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Polyperchon"
+ },
+ "Atropatene": {
+  "qid": "Q260437",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Atropatene"
+ },
+ "Colchis": {
+  "qid": "Q183150",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Colchis"
+ },
+ "Early Cheras": {
+  "qid": "Q877155",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Chera dynasty"
+ },
+ "Early Pandyas": {
+  "qid": "Q3532152",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Early Pandyas"
+ },
+ "Anurādhapura": {
+  "qid": "Q5724",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Anurādhapura"
+ },
+ "Early Cholas": {
+  "qid": "Q3532146",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Early Cholas"
+ },
+ "Antigonid Dynasty": {
+  "qid": "Q237325",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Antigonid dynasty",
+  "file": "Q237325__antigonid-dynasty"
+ },
+ "Antigonid Macedonia": {
+  "qid": "Q237325",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Antigonid dynasty",
+  "file": "Q237325__antigonid-macedonia"
+ },
+ "Aetolian League": {
+  "qid": "Q245273",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Aetolian League"
+ },
+ "Kingdom of Pontus": {
+  "qid": "Q7380487",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Pontus"
+ },
+ "Achaean League": {
+  "qid": "Q244796",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Achaean League"
+ },
+ "Paphlagonia": {
+  "qid": "Q622032",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Paphlagonia"
+ },
+ "Galatia": {
+  "qid": "Q26847",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Galatia"
+ },
+ "Kingdom of Pergamon": {
+  "qid": "Q2022162",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Pergamon"
+ },
+ "Greek Colonies": {
+  "qid": "Q828047",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Greek colonisation"
+ },
+ "Mamertines": {
+  "qid": "Q1164281",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Mamertines"
+ },
+ "Âu Lạc": {
+  "qid": "Q867227",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Âu Lạc"
+ },
+ "Kingdom of Sophene": {
+  "qid": "Q2626105",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Sophene"
+ },
+ "Illyrian Kingdom": {
+  "qid": "Q16084290",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Illyrian kingdom"
+ },
+ "Greco-Bactrian Kingdom": {
+  "qid": "Q488880",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Greco-Bactrian Kingdom"
+ },
+ "Mayan City-States": {
+  "qid": "Q28567",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Maya civilization",
+  "file": "Q28567__mayan-city-states"
+ },
+ "Later Mayan City-States": {
+  "qid": "Q28567",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Maya civilization",
+  "file": "Q28567__later-mayan-city-states"
+ },
+ "Parthian Empire": {
+  "qid": "Q1986139",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Parthian Empire"
+ },
+ "Kingdom of Cappadocia": {
+  "qid": "Q29654286",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Cappadocia"
+ },
+ "Satavahana Dynasty": {
+  "qid": "Q5257",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Satavahana dynasty"
+ },
+ "Qin Dynasty": {
+  "qid": "Q7183",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Qin dynasty",
+  "file": "Q7183__qin-dynasty"
+ },
+ "Zhai": {
+  "qid": "Q7183",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Qin dynasty",
+  "file": "Q7183__zhai"
+ },
+ "Mauretania": {
+  "qid": "Q309272",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Mauretania"
+ },
+ "Western Chu": {
+  "qid": "Q1151705",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Chu-Han Contention"
+ },
+ "Eighteen Kingdoms": {
+  "qid": "Q5349053",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Eighteen Kingdoms",
+  "file": "Q5349053__eighteen-kingdoms"
+ },
+ "Dai": {
+  "qid": "Q5349053",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Eighteen Kingdoms",
+  "file": "Q5349053__dai"
+ },
+ "Jibei": {
+  "qid": "Q5349053",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Eighteen Kingdoms",
+  "file": "Q5349053__jibei"
+ },
+ "Jiujiang": {
+  "qid": "Q5349053",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Eighteen Kingdoms",
+  "file": "Q5349053__jiujiang"
+ },
+ "Henan": {
+  "qid": "Q5349053",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Eighteen Kingdoms",
+  "file": "Q5349053__henan"
+ },
+ "Hán": {
+  "qid": "Q5349053",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Eighteen Kingdoms",
+  "file": "Q5349053__h-n"
+ },
+ "Linjiang": {
+  "qid": "Q5349053",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Eighteen Kingdoms",
+  "file": "Q5349053__linjiang"
+ },
+ "Chang-shan": {
+  "qid": "Q5349053",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Eighteen Kingdoms",
+  "file": "Q5349053__chang-shan"
+ },
+ "Sai": {
+  "qid": "Q5349053",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Eighteen Kingdoms",
+  "file": "Q5349053__sai"
+ },
+ "Liaodong": {
+  "qid": "Q5349053",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Eighteen Kingdoms",
+  "file": "Q5349053__liaodong"
+ },
+ "Jiaodong": {
+  "qid": "Q5349053",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Eighteen Kingdoms",
+  "file": "Q5349053__jiaodong"
+ },
+ "Yong": {
+  "qid": "Q5349053",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Eighteen Kingdoms",
+  "file": "Q5349053__yong"
+ },
+ "Yin": {
+  "qid": "Q5349053",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Eighteen Kingdoms",
+  "file": "Q5349053__yin"
+ },
+ "Xiongnu": {
+  "qid": "Q188836",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Xiongnu",
+  "file": "Q188836__xiongnu"
+ },
+ "Southern Xiongnu": {
+  "qid": "Q188836",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Xiongnu",
+  "file": "Q188836__southern-xiongnu"
+ },
+ "Nanyue": {
+  "qid": "Q827040",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Nanyue"
+ },
+ "Han Dynasty": {
+  "qid": "Q1068371",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Han dynasty",
+  "file": "Q1068371__han-dynasty"
+ },
+ "Chauhan Dynasty": {
+  "qid": "Q1068371",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Han dynasty",
+  "file": "Q1068371__chauhan-dynasty"
+ },
+ "Gojoseon": {
+  "qid": "Q28405",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Gojoseon",
+  "file": "Q28405__gojoseon"
+ },
+ "Joseon": {
+  "qid": "Q28405",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Gojoseon",
+  "file": "Q28405__joseon"
+ },
+ "Ankhwennefer": {
+  "qid": "Q489289",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ankhwennefer (pharaoh)"
+ },
+ "Korean Jin": {
+  "qid": "Q1155101",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Jin (Korean state)"
+ },
+ "Kingdom of Numidia": {
+  "qid": "Q156173",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Jugurtha"
+ },
+ "Rhodes": {
+  "qid": "Q43048",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Rhodes",
+  "file": "Q43048__rhodes"
+ },
+ "Domain of Rhodes": {
+  "qid": "Q43048",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Rhodes",
+  "file": "Q43048__domain-of-rhodes"
+ },
+ "Mahameghavahana Dynasty": {
+  "qid": "Q6733051",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Mahameghavahana dynasty"
+ },
+ "Molossians": {
+  "qid": "Q827399",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Molossians"
+ },
+ "Wusun": {
+  "qid": "Q854062",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Wusun"
+ },
+ "Shunga Empire": {
+  "qid": "Q651377",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Shunga Empire"
+ },
+ "Nabataeans": {
+  "qid": "Q220594",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Nabataeans"
+ },
+ "Indo-Scythians": {
+  "qid": "Q240123",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Indo-Scythians"
+ },
+ "Judea": {
+  "qid": "Q104028",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Judea"
+ },
+ "Indo-Greeks": {
+  "qid": "Q215643",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Indo-Greek Kingdom"
+ },
+ "Great Yuan": {
+  "qid": "Q7313",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Yuan dynasty",
+  "file": "Q7313__great-yuan"
+ },
+ "Yuan Dynasty": {
+  "qid": "Q7313",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Yuan dynasty",
+  "file": "Q7313__yuan-dynasty"
+ },
+ "Great Mongol State": {
+  "qid": "Q7313",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Yuan dynasty",
+  "file": "Q7313__great-mongol-state"
+ },
+ "Byeonhan": {
+  "qid": "Q1378584",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Byeonhan confederacy"
+ },
+ "Dongye": {
+  "qid": "Q105946539",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Dongye"
+ },
+ "Italian City-States": {
+  "qid": "Q4115680",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Italian city-states"
+ },
+ "Jinhan": {
+  "qid": "Q701273",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Jinhan confederacy"
+ },
+ "Mahan": {
+  "qid": "Q421372",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Mahan"
+ },
+ "Thracian Kingdom": {
+  "qid": "Q104815700",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Thracian kingdom"
+ },
+ "Kanva Dynasty": {
+  "qid": "Q784974",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kanva dynasty"
+ },
+ "Kingdom of Osroene": {
+  "qid": "Q237234",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Osroene"
+ },
+ "Caucasian Iberia": {
+  "qid": "Q19083",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Iberia"
+ },
+ "Caucasian Albania": {
+  "qid": "Q177076",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Caucasian Albania"
+ },
+ "Kingdom of Gordyene": {
+  "qid": "Q29237",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Corduene"
+ },
+ "Kingdom of Commagene": {
+  "qid": "Q332137",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Commagene"
+ },
+ "Lazica": {
+  "qid": "Q136884",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Lazica",
+  "file": "Q136884__lazica"
+ },
+ "Kingdom of Lazica": {
+  "qid": "Q136884",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Lazica",
+  "file": "Q136884__kingdom-of-lazica"
+ },
+ "Kingdom of Adiabene": {
+  "qid": "Q149747",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Adiabene"
+ },
+ "Teotihuacan": {
+  "qid": "Q172613",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Teotihuacan"
+ },
+ "Kingdom of Axum": {
+  "qid": "Q139377",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Aksum"
+ },
+ "Goguryeo": {
+  "qid": "Q28370",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Goguryeo"
+ },
+ "Dong-okjeo": {
+  "qid": "Q713393",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Okjeo"
+ },
+ "Roman Empire": {
+  "qid": "Q2277",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Roman Empire"
+ },
+ "Indo-Parthians": {
+  "qid": "Q1255614",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Indo-Parthian Kingdom"
+ },
+ "Xin Dynasty": {
+  "qid": "Q504769",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Xin dynasty"
+ },
+ "Goths": {
+  "qid": "Q42193",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Goths"
+ },
+ "Kushan Empire": {
+  "qid": "Q25979",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kushan Empire",
+  "file": "Q25979__kushan-empire"
+ },
+ "Eastern Kushans": {
+  "qid": "Q25979",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kushan Empire",
+  "file": "Q25979__eastern-kushans"
+ },
+ "Western Kushans": {
+  "qid": "Q25979",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kushan Empire",
+  "file": "Q25979__western-kushans"
+ },
+ "Western Satraps": {
+  "qid": "Q2086608",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Western Satraps"
+ },
+ "Trưng sisters": {
+  "qid": "Q1207428",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Trưng sisters"
+ },
+ "Funan": {
+  "qid": "Q867782",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Funan"
+ },
+ "Xianbei": {
+  "qid": "Q861054",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Xianbei"
+ },
+ "Pyu City-States": {
+  "qid": "Q1627675",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Pyu city-states"
+ },
+ "Huns": {
+  "qid": "Q45813",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Huns",
+  "file": "Q45813__huns"
+ },
+ "Hunnic Empire": {
+  "qid": "Q45813",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Huns",
+  "file": "Q45813__hunnic-empire"
+ },
+ "Protectorate of the Western Regions": {
+  "qid": "Q911440",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Protectorate of the Western Regions"
+ },
+ "Norse": {
+  "qid": "Q909583",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Norse"
+ },
+ "Chámpa": {
+  "qid": "Q216786",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Champa"
+ },
+ "Gothia": {
+  "qid": "Q422253",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Gothia"
+ },
+ "Sasanian Empire": {
+  "qid": "Q1661685",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sasanian Empire",
+  "file": "Q1661685__sasanian-empire"
+ },
+ "Indo-Sasanian Empire": {
+  "qid": "Q1661685",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sasanian Empire",
+  "file": "Q1661685__indo-sasanian-empire"
+ },
+ "Shu Han": {
+  "qid": "Q320925",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Shu Han"
+ },
+ "Burgundians": {
+  "qid": "Q13590051",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Burgundians",
+  "file": "Q13590051__burgundians"
+ },
+ "Burgundian Kingdom": {
+  "qid": "Q13590051",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Burgundians",
+  "file": "Q13590051__burgundian-kingdom"
+ },
+ "Ripuarian Franks": {
+  "qid": "Q316860",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ripuarian Franks"
+ },
+ "Vakataka Kingdom": {
+  "qid": "Q1501306",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Vakataka dynasty"
+ },
+ "Gallic Empire": {
+  "qid": "Q273025",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Gallic Empire"
+ },
+ "Palmyrene Empire": {
+  "qid": "Q877875",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Palmyrene Empire"
+ },
+ "Tamna": {
+  "qid": "Q28057",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Tamna"
+ },
+ "Western Jin": {
+  "qid": "Q7352",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Jin dynasty (266-420)"
+ },
+ "Lakhmid Kingdom": {
+  "qid": "Q943191",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Lakhmid kingdom"
+ },
+ "Saxons": {
+  "qid": "Q101985",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Saxons"
+ },
+ "Late Pallava Empire": {
+  "qid": "Q466803",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Pallava dynasty"
+ },
+ "Tuyuhun": {
+  "qid": "Q1196201",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Tuyuhun"
+ },
+ "Yaudheya Republic": {
+  "qid": "Q8050331",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Yaudheya"
+ },
+ "Cheng Han": {
+  "qid": "Q1069905",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Cheng-Han"
+ },
+ "Former Zhao": {
+  "qid": "Q1574107",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Han-Zhao"
+ },
+ "Former Liang": {
+  "qid": "Q943392",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Former Liang"
+ },
+ "Gupta Empire": {
+  "qid": "Q11774",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Gupta Empire"
+ },
+ "Vandals": {
+  "qid": "Q42211",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Vandals"
+ },
+ "Later Zhao": {
+  "qid": "Q2314907",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Later Zhao"
+ },
+ "Alodia": {
+  "qid": "Q449639",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Alodia"
+ },
+ "Makuria": {
+  "qid": "Q829356",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Makuria",
+  "file": "Q829356__makuria"
+ },
+ "Makuria Kingdom": {
+  "qid": "Q829356",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Makuria",
+  "file": "Q829356__makuria-kingdom"
+ },
+ "Nobatia": {
+  "qid": "Q568523",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Nobatia"
+ },
+ "Baekje": {
+  "qid": "Q28428",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Baekje"
+ },
+ "Kadamba Empire": {
+  "qid": "Q1479952",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kadamba Empire"
+ },
+ "Kalabhra Dynasty": {
+  "qid": "Q2572901",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kalabhra dynasty"
+ },
+ "Kamarupa Kingdom": {
+  "qid": "Q1194765",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kamarupa"
+ },
+ "Kidarites": {
+  "qid": "Q26996",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kidarites"
+ },
+ "Salian Franks": {
+  "qid": "Q939852",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Salian Franks"
+ },
+ "Tarumanagara": {
+  "qid": "Q2247225",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Tarumanagara"
+ },
+ "Silla": {
+  "qid": "Q28456",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Silla"
+ },
+ "Western Qin": {
+  "qid": "Q1668970",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Western Qin"
+ },
+ "Northern Wei": {
+  "qid": "Q875305",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Northern Wei"
+ },
+ "Western Yan": {
+  "qid": "Q1149230",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Western Yan"
+ },
+ "Angles": {
+  "qid": "Q234218",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Angles"
+ },
+ "Later Liang": {
+  "qid": "Q2314869",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Later Liang (Sixteen Kingdoms)"
+ },
+ "Later Yan": {
+  "qid": "Q1534482",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Later Yan"
+ },
+ "Later Qin": {
+  "qid": "Q1730130",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Later Qin"
+ },
+ "Xionites": {
+  "qid": "Q26264",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Xionites"
+ },
+ "Eastern Roman Empire": {
+  "qid": "Q12544",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Byzantine Empire",
+  "file": "Q12544__eastern-roman-empire"
+ },
+ "Western Roman Empire": {
+  "qid": "Q42834",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Western Roman Empire"
+ },
+ "Visigoths": {
+  "qid": "Q23693",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Visigoths"
+ },
+ "Northern Liang": {
+  "qid": "Q1539360",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Northern Liang"
+ },
+ "Southern Liang": {
+  "qid": "Q1069868",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Liang dynasty",
+  "file": "Q1069868__southern-liang"
+ },
+ "Liang Dynasty": {
+  "qid": "Q1069868",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Liang dynasty",
+  "file": "Q1069868__liang-dynasty"
+ },
+ "Southern Yan": {
+  "qid": "Q1329439",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Southern Yan"
+ },
+ "Rouran Khaganate": {
+  "qid": "Q155361",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Rouran Khaganate"
+ },
+ "Western Liang": {
+  "qid": "Q4186404",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Western Liang (Sixteen Kingdoms)"
+ },
+ "Northern Yan": {
+  "qid": "Q2006864",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Northern Yan"
+ },
+ "Xia": {
+  "qid": "Q7427",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Xia",
+  "file": "Q7427__xia"
+ },
+ "Western Xia": {
+  "qid": "Q7427",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Xia",
+  "file": "Q7427__western-xia"
+ },
+ "White Huns": {
+  "qid": "Q41761342",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "White Huns"
+ },
+ "Kingdom of the Suebi": {
+  "qid": "Q1048918",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of the Suebi"
+ },
+ "Alans": {
+  "qid": "Q178054",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Alans"
+ },
+ "Liu Song Dynasty": {
+  "qid": "Q49697",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Liu Song dynasty"
+ },
+ "Visigothic Kingdom": {
+  "qid": "Q126936",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Visigothic Kingdom"
+ },
+ "Brythonic Kingdoms": {
+  "qid": "Q849967",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Celtic Britons",
+  "file": "Q849967__brythonic-kingdoms"
+ },
+ "Brythons": {
+  "qid": "Q849967",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Celtic Britons",
+  "file": "Q849967__brythons"
+ },
+ "Vandal Kingdom": {
+  "qid": "Q10416611",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Vandal Kingdom"
+ },
+ "Anglo-Saxon England": {
+  "qid": "Q784963",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "History of Anglo-Saxon England"
+ },
+ "Rugiland": {
+  "qid": "Q872644",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Rugiland"
+ },
+ "Ostrogoths": {
+  "qid": "Q103122",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ostrogoths"
+ },
+ "Kingdom of the Franks": {
+  "qid": "Q146246",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Francia",
+  "file": "Q146246__kingdom-of-the-franks"
+ },
+ "Merovingian Empire": {
+  "qid": "Q146246",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Francia",
+  "file": "Q146246__merovingian-empire"
+ },
+ "Carolingian Empire": {
+  "qid": "Q146246",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Francia",
+  "file": "Q146246__carolingian-empire"
+ },
+ "Kingdom of Alamannia": {
+  "qid": "Q2208978",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Alamannia"
+ },
+ "Thuringian states": {
+  "qid": "Q315010",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Thuringian states"
+ },
+ "Maitraka Dynasty": {
+  "qid": "Q6737189",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Maitraka dynasty"
+ },
+ "Kingdom of Thuringia": {
+  "qid": "Q268562",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Basina of Thuringia"
+ },
+ "Kingdom of Soissons": {
+  "qid": "Q1247508",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Soissons"
+ },
+ "Lombards": {
+  "qid": "Q130900",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Lombards"
+ },
+ "Southern Qi": {
+  "qid": "Q62456",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Southern Qi"
+ },
+ "Kingdom of Kent": {
+  "qid": "Q328818",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Kent"
+ },
+ "Kingdom of Sussex": {
+  "qid": "Q676184",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Sussex"
+ },
+ "Ostrogothic Kingdom": {
+  "qid": "Q583038",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ostrogothic Kingdom"
+ },
+ "Scandinavian minor kingdoms": {
+  "qid": "Q1275225",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Vendel Period"
+ },
+ "Ghassanids": {
+  "qid": "Q733668",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ghassanids"
+ },
+ "Kingdom of the Gepids": {
+  "qid": "Q201706",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Gepids"
+ },
+ "Wihtgar": {
+  "qid": "Q3568009",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Wihtwara"
+ },
+ "Eastern Wei": {
+  "qid": "Q307069",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Eastern Wei"
+ },
+ "Himyarite Kingdom": {
+  "qid": "Q289577",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Himyarite Kingdom"
+ },
+ "Western Wei": {
+  "qid": "Q1143164",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Western Wei"
+ },
+ "Kingdom of East Anglia": {
+  "qid": "Q837998",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of East Anglia"
+ },
+ "Kingdom of Deira": {
+  "qid": "Q506008",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Deira"
+ },
+ "Kingdom of Wessex": {
+  "qid": "Q105313",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Wessex"
+ },
+ "Kingdom of Mercia": {
+  "qid": "Q105092",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Mercia"
+ },
+ "Kingdom of Essex": {
+  "qid": "Q110888",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Essex"
+ },
+ "Kingdom of Lindsey": {
+  "qid": "Q886986",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Lindsey"
+ },
+ "Kingdom of Gwent": {
+  "qid": "Q2594661",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Gwent"
+ },
+ "Asuka Japan": {
+  "qid": "Q210688",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Asuka period"
+ },
+ "Kingdom of Brycheiniog": {
+  "qid": "Q954585",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Brycheiniog"
+ },
+ "Kingdom of Gwynedd": {
+  "qid": "Q816814",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Gwynedd"
+ },
+ "Kingdom of Powys": {
+  "qid": "Q769782",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Powys"
+ },
+ "Kingdom of Morgannwg": {
+  "qid": "Q13131807",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Morgannwg"
+ },
+ "Dál Riata": {
+  "qid": "Q111471",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Dál Riata"
+ },
+ "Bavarians": {
+  "qid": "Q13048507",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Bavarians"
+ },
+ "Early Lý Dynasty": {
+  "qid": "Q2441129",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Early Lý dynasty"
+ },
+ "Classic Veracruz Culture": {
+  "qid": "Q2379418",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Classic Veracruz culture"
+ },
+ "Yenisei Kyrgyz": {
+  "qid": "Q83142",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Yenisei Kyrgyz"
+ },
+ "Chalukya Dynasty": {
+  "qid": "Q1395011",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Chalukya dynasty"
+ },
+ "Chenla": {
+  "qid": "Q1057118",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Chenla",
+  "file": "Q1057118__chenla"
+ },
+ "Water Chenla": {
+  "qid": "Q1057118",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Chenla",
+  "file": "Q1057118__water-chenla"
+ },
+ "Land Chenla": {
+  "qid": "Q1057118",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Chenla",
+  "file": "Q1057118__land-chenla"
+ },
+ "Maukhari Dynasty": {
+  "qid": "Q12448145",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Maukhari dynasty"
+ },
+ "Kingdom of Bernicia": {
+  "qid": "Q623751",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Bernicia"
+ },
+ "Göktürk Khaganate": {
+  "qid": "Q15146034",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "First Turkic Khaganate"
+ },
+ "Avar Khaganate": {
+  "qid": "Q68962",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Pannonian Avars"
+ },
+ "Turk Shahis": {
+  "qid": "Q654380",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kabul Shahi"
+ },
+ "Chen Dynasty": {
+  "qid": "Q62454",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Chen dynasty"
+ },
+ "Northern Zhou": {
+  "qid": "Q551067",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Northern Zhou"
+ },
+ "Georgia": {
+  "qid": "Q154667",
+  "curated": true,
+  "file": "Q154667__georgia"
+ },
+ "Duchy of Thuringia": {
+  "qid": "Q5311389",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Thuringia"
+ },
+ "Duchy of Tuscia": {
+  "qid": "Q1054580",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Tuscia"
+ },
+ "Duchy of Benevento": {
+  "qid": "Q267816",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Benevento"
+ },
+ "Duchy of Spoleto": {
+  "qid": "Q2829270",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Spoleto"
+ },
+ "Hwicce": {
+  "qid": "Q733799",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Hwicce"
+ },
+ "Kingdom of Italy": {
+  "qid": "Q172579",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Italy"
+ },
+ "Sui Dynasty": {
+  "qid": "Q7405",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sui dynasty"
+ },
+ "Breton Kingdoms": {
+  "qid": "Q309197",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Bretons"
+ },
+ "Karkota Dynasty": {
+  "qid": "Q466433",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Karkota dynasty"
+ },
+ "Kingdom of Dunoting": {
+  "qid": "Q2264840",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Dunoding"
+ },
+ "Pandya Dynasty": {
+  "qid": "Q844910",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Pandya dynasty",
+  "file": "Q844910__pandya-dynasty"
+ },
+ "Pandya Empire": {
+  "qid": "Q844910",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Pandya dynasty",
+  "file": "Q844910__pandya-empire"
+ },
+ "Kingdom of Rheged": {
+  "qid": "Q633573",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Rheged"
+ },
+ "Gauda Kingdom": {
+  "qid": "Q17076645",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Gauda Kingdom"
+ },
+ "Dumnonia": {
+  "qid": "Q313136",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Dumnonia"
+ },
+ "Magna Frisia": {
+  "qid": "Q87791",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Frisian Kingdom"
+ },
+ "Frisia Kingdom": {
+  "qid": "Q4492881",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Frisia",
+  "file": "Q4492881__frisia-kingdom"
+ },
+ "Frisia": {
+  "qid": "Q4492881",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Frisia",
+  "file": "Q4492881__frisia"
+ },
+ "Kingdom of Northumbria": {
+  "qid": "Q107299",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Northumbria"
+ },
+ "Harsha's Empire": {
+  "qid": "Q216895",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Harsha"
+ },
+ "Tibetan Empire": {
+  "qid": "Q2431480",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Tibetan Empire"
+ },
+ "Tang Dynasty": {
+  "qid": "Q9683",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Tang dynasty"
+ },
+ "Samo's Empire": {
+  "qid": "Q149427",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Samo's Empire"
+ },
+ "Gao Kaidao": {
+  "qid": "Q712564",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Gao Kaidao"
+ },
+ "Kashmir": {
+  "qid": "Q43100",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kashmir"
+ },
+ "Aquitaine": {
+  "qid": "Q1179",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Aquitaine"
+ },
+ "Khazaria": {
+  "qid": "Q173282",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Khazars"
+ },
+ "Rashidun Caliphate": {
+  "qid": "Q12490507",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Rashidun Caliphate"
+ },
+ "Byzantine Empire": {
+  "qid": "Q12544",
+  "curated": true,
+  "file": "Q12544__byzantine-empire"
+ },
+ "Old Great Bulgaria": {
+  "qid": "Q191484",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Old Great Bulgaria"
+ },
+ "Balasagan": {
+  "qid": "Q3633213",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Balasagan"
+ },
+ "Lavo Kingdom": {
+  "qid": "Q1332305",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Lavo Kingdom"
+ },
+ "Dabuyid Dynasty": {
+  "qid": "Q2816439",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Dabuyid dynasty"
+ },
+ "Strathclyde": {
+  "qid": "Q124661",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Strathclyde"
+ },
+ "Khadga Dynasty": {
+  "qid": "Q6398879",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Khadga Dynasty"
+ },
+ "Umayyad Caliphate": {
+  "qid": "Q8575586",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Umayyad Caliphate"
+ },
+ "Haripuñjaya": {
+  "qid": "Q255931",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Haripuñjaya"
+ },
+ "Carantania": {
+  "qid": "Q501754",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Carantania"
+ },
+ "Turks": {
+  "qid": "Q2118293",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Turk",
+  "file": "Q2118293__turks"
+ },
+ "Oghuz Turks": {
+  "qid": "Q2118293",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Turk",
+  "file": "Q2118293__oghuz-turks"
+ },
+ "Sunda Kingdom": {
+  "qid": "Q1469742",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sunda Kingdom"
+ },
+ "Srivijaya": {
+  "qid": "Q234197",
+  "curated": true
+ },
+ "Volga Bulgaria": {
+  "qid": "Q185488",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Volga Bulgaria"
+ },
+ "Galuh Kingdom": {
+  "qid": "Q5519387",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Galuh Kingdom"
+ },
+ "Unified Silla": {
+  "qid": "Q715257",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Unified Silla"
+ },
+ "Principality of Iberia": {
+  "qid": "Q199389",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Iberia"
+ },
+ "First Bulgarian Empire": {
+  "qid": "Q203817",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "First Bulgarian Empire"
+ },
+ "Türgesh": {
+  "qid": "Q1277895",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Türgesh"
+ },
+ "Cyprus Condominium": {
+  "qid": "Q229",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Cyprus",
+  "file": "Q229__cyprus-condominium"
+ },
+ "Republic of Cyprus": {
+  "qid": "Q229",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Cyprus",
+  "file": "Q229__republic-of-cyprus"
+ },
+ "Balhae": {
+  "qid": "Q28322",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Balhae"
+ },
+ "Republic of Venice": {
+  "qid": "Q4948",
+  "curated": true
+ },
+ "Nara Japan": {
+  "qid": "Q189178",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Nara period"
+ },
+ "Cornwall": {
+  "qid": "Q23148",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Cornwall"
+ },
+ "Kingdom of Asturias": {
+  "qid": "Q231392",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Asturias"
+ },
+ "Kingdom of Neustria": {
+  "qid": "Q106577",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Neustria"
+ },
+ "Kannauj-Varman Dynasty": {
+  "qid": "Q614890",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kannauj"
+ },
+ "Gurjara-Pratihara Dynasty": {
+  "qid": "Q5324",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Gurjara-Pratihara dynasty"
+ },
+ "Mataram Kingdom": {
+  "qid": "Q402580",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Mataram Kingdom"
+ },
+ "Nanzhao": {
+  "qid": "Q1045322",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Nanzhao"
+ },
+ "Duchy of Croatia": {
+  "qid": "Q2576305",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Croatia"
+ },
+ "Pala Empire": {
+  "qid": "Q668412",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Pala Empire"
+ },
+ "Uyghur Khaganate": {
+  "qid": "Q831218",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Uyghur Khaganate"
+ },
+ "Emirate of Nekor": {
+  "qid": "Q1709337",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Emirate of Nekor"
+ },
+ "Abbasid Caliphate": {
+  "qid": "Q12536",
+  "curated": true,
+  "file": "Q12536__abbasid-caliphate"
+ },
+ "Buyid Dynasty": {
+  "qid": "Q12536",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Abbasid Caliphate",
+  "file": "Q12536__buyid-dynasty"
+ },
+ "Abbasid Caliphate/Buyid Dynasty": {
+  "qid": "Q12536",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Abbasid Caliphate",
+  "file": "Q12536__abbasid-caliphate-buyid-dynasty"
+ },
+ "Kimek-Kipchak confederation": {
+  "qid": "Q2477776",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kimek-Kipchak confederation"
+ },
+ "Fihrids": {
+  "qid": "Q5448100",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Fihrids"
+ },
+ "Kharijites": {
+  "qid": "Q189570",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kharijites"
+ },
+ "Rashtrakuta Dynasty": {
+  "qid": "Q856691",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Rashtrakuta dynasty"
+ },
+ "Papal States": {
+  "qid": "Q170174",
+  "curated": true
+ },
+ "Emirate of Córdoba": {
+  "qid": "Q1337854",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Emirate of Córdoba"
+ },
+ "Duchy of Naples": {
+  "qid": "Q1051600",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Naples"
+ },
+ "Principality of Serbia": {
+  "qid": "Q1311990",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Serbia",
+  "file": "Q1311990__principality-of-serbia"
+ },
+ "Grand Principality of Serbia": {
+  "qid": "Q1311990",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Serbia",
+  "file": "Q1311990__grand-principality-of-serbia"
+ },
+ "Duchy of Gascony": {
+  "qid": "Q2295939",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Gascony"
+ },
+ "Rustamid dynasty": {
+  "qid": "Q940123",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Rustamid dynasty"
+ },
+ "Obotrites": {
+  "qid": "Q156108",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Obotrites"
+ },
+ "Viking settlements": {
+  "qid": "Q12567",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Vikings"
+ },
+ "Frisians": {
+  "qid": "Q106416",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Frisians"
+ },
+ "Qarlugs": {
+  "qid": "Q2330335",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Mongol invasion of Central Asia"
+ },
+ "Idrisids": {
+  "qid": "Q431575",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Idrisid dynasty"
+ },
+ "Ghana Empire": {
+  "qid": "Q206789",
+  "curated": true,
+  "file": "Q206789__ghana-empire"
+ },
+ "Barghawata Conference": {
+  "qid": "Q7903",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Casablanca"
+ },
+ "Heian Japan": {
+  "qid": "Q193292",
+  "curated": true,
+  "file": "Q193292__heian-japan"
+ },
+ "Aghlabid Dynasty": {
+  "qid": "Q207600",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Aghlabids"
+ },
+ "Khmer Empire": {
+  "qid": "Q201705",
+  "curated": true
+ },
+ "Kingdom of the Iberians": {
+  "qid": "Q154816",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of the Iberians"
+ },
+ "Great Moravia": {
+  "qid": "Q193152",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Great Moravia"
+ },
+ "Principality of Nitra": {
+  "qid": "Q837326",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Nitra"
+ },
+ "Kingdom of Pamplona": {
+  "qid": "Q200262",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Navarre",
+  "file": "Q200262__kingdom-of-pamplona"
+ },
+ "Kingdom of Navarre": {
+  "qid": "Q200262",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Navarre",
+  "file": "Q200262__kingdom-of-navarre"
+ },
+ "Kingdom of Brittany": {
+  "qid": "Q771193",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Brittany"
+ },
+ "Shirvan": {
+  "qid": "Q638064",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Shirvan"
+ },
+ "Kingdom of Sobrarbe": {
+  "qid": "Q3572492",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Sobrarbe"
+ },
+ "Emirate of Crete": {
+  "qid": "Q603771",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Emirate of Crete"
+ },
+ "County of Aragon": {
+  "qid": "Q1235737",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "County of Aragon"
+ },
+ "Magyars": {
+  "qid": "Q133032",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Hungarians"
+ },
+ "Principality of Salerno": {
+  "qid": "Q1065299",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Salerno"
+ },
+ "Principality of Capua": {
+  "qid": "Q1280122",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Capua"
+ },
+ "Kara-Khanids": {
+  "qid": "Q494354",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kara-Khanid Khanate",
+  "file": "Q494354__kara-khanids"
+ },
+ "Eastern Kara-Khanids": {
+  "qid": "Q494354",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kara-Khanid Khanate",
+  "file": "Q494354__eastern-kara-khanids"
+ },
+ "Western Karakhanid Khanate": {
+  "qid": "Q494354",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kara-Khanid Khanate",
+  "file": "Q494354__western-karakhanid-khanate"
+ },
+ "Middle Franks": {
+  "qid": "Q6673921",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Lotharingia"
+ },
+ "Pagan Kingdom": {
+  "qid": "Q888574",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Pagan Kingdom"
+ },
+ "West Franks": {
+  "qid": "Q46370",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "West Francia"
+ },
+ "Chola Empire": {
+  "qid": "Q6806806",
+  "curated": true
+ },
+ "Puebloans - Chaco Regional System": {
+  "qid": "Q478805",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ancestral Puebloans",
+  "file": "Q478805__puebloans-chaco-regional-system"
+ },
+ "Puebloans - Aztec Regional System": {
+  "qid": "Q478805",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ancestral Puebloans",
+  "file": "Q478805__puebloans-aztec-regional-system"
+ },
+ "East Franks": {
+  "qid": "Q153080",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "East Francia"
+ },
+ "Tibetans": {
+  "qid": "Q187985",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Tibetan people"
+ },
+ "Emirate of Sicily": {
+  "qid": "Q118780154",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Emirate of Sicily"
+ },
+ "Lower Burgundy": {
+  "qid": "Q33242",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Lower Burgundy",
+  "file": "Q33242__lower-burgundy"
+ },
+ "Kingdom of Lower Burgundy": {
+  "qid": "Q33242",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Lower Burgundy",
+  "file": "Q33242__kingdom-of-lower-burgundy"
+ },
+ "Ganzhou Kingdom": {
+  "qid": "Q1000124",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ganzhou Uyghur Kingdom"
+ },
+ "Saffarid Dynasty": {
+  "qid": "Q45310",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Saffarid dynasty"
+ },
+ "Qocho Kingdom": {
+  "qid": "Q2662180",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Qocho"
+ },
+ "Sind-Habbari Dynasty": {
+  "qid": "Q5636647",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Habbari dynasty"
+ },
+ "Giudicato of Cagliari": {
+  "qid": "Q2297073",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Judicate of Cagliari"
+ },
+ "Ziyadid dynasty": {
+  "qid": "Q207017",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ziyadid dynasty"
+ },
+ "Giudicato of Gallura": {
+  "qid": "Q2723760",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Judicate of Gallura"
+ },
+ "Zaydi Alid dynasties": {
+  "qid": "Q1990528",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Alid dynasties of northern Iran"
+ },
+ "Giudicato of Logudoro": {
+  "qid": "Q1761381",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Judicate of Logudoro"
+ },
+ "Old Kingdom of Norway": {
+  "qid": "Q202266",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Norway"
+ },
+ "Giudicato of Arborea": {
+  "qid": "Q1241847",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Judicate of Arborea"
+ },
+ "County of Ribagorza": {
+  "qid": "Q1297894",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "County of Ribagorza"
+ },
+ "County of Urgell": {
+  "qid": "Q1514510",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "County of Urgell"
+ },
+ "Toltec": {
+  "qid": "Q187897",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Toltec"
+ },
+ "Tulunids": {
+  "qid": "Q726798",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Tulunids"
+ },
+ "County of Pallars": {
+  "qid": "Q1541787",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "County of Pallars"
+ },
+ "Danelaw": {
+  "qid": "Q339271",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Danelaw"
+ },
+ "Kingdom of Seisyllwg": {
+  "qid": "Q2456191",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Seisyllwg"
+ },
+ "Rus'": {
+  "qid": "Q1108445",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Rus",
+  "file": "Q1108445__rus"
+ },
+ "Kievan Rus'": {
+  "qid": "Q1108445",
+  "curated": true,
+  "file": "Q1108445__kievan-rus"
+ },
+ "Bagratid Armenia": {
+  "qid": "Q2622868",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Bagratid Armenia"
+ },
+ "Samanid Empire": {
+  "qid": "Q486181",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Samanid Empire"
+ },
+ "Upper Burgundy": {
+  "qid": "Q33235",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Upper Burgundy",
+  "file": "Q33235__upper-burgundy"
+ },
+ "Upper Burgundy and Italy": {
+  "qid": "Q33235",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Upper Burgundy",
+  "file": "Q33235__upper-burgundy-and-italy"
+ },
+ "Kingdom of Khotan": {
+  "qid": "Q914898",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Khotan"
+ },
+ "Hubaekje": {
+  "qid": "Q698239",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Later Baekje"
+ },
+ "Duchy of Bohemia": {
+  "qid": "Q2162698",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Bohemia"
+ },
+ "County of Rosellón": {
+  "qid": "Q13522657",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Roussillon"
+ },
+ "Sajid Dynasty": {
+  "qid": "Q3432153",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sajid dynasty"
+ },
+ "County of Besalú": {
+  "qid": "Q1541642",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "County of Besalú"
+ },
+ "County of Berga": {
+  "qid": "Q15487",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Berga"
+ },
+ "Nitra": {
+  "qid": "Q26397",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Nitra"
+ },
+ "County of Barcelona": {
+  "qid": "Q7038",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Girona"
+ },
+ "Qarmatians": {
+  "qid": "Q138803",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Qarmatians"
+ },
+ "Kingdom of Alba": {
+  "qid": "Q1991742",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Alba"
+ },
+ "Principality of Hungary": {
+  "qid": "Q2899771",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Hungary"
+ },
+ "Chandra Dynasty": {
+  "qid": "Q5032034",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Chandra dynasty"
+ },
+ "Yan Kingdom": {
+  "qid": "Q1291919",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Yan (Five Dynasties period)"
+ },
+ "Min": {
+  "qid": "Q224634",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Min"
+ },
+ "Later Jin": {
+  "qid": "Q1154540",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Later Jin (Five Dynasties)"
+ },
+ "Southern Han": {
+  "qid": "Q1198071",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Southern Han"
+ },
+ "Fatimid Caliphate": {
+  "qid": "Q160307",
+  "curated": true
+ },
+ "Five Dynasties and Ten Kingdoms": {
+  "qid": "Q242115",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Five Dynasties and Ten Kingdoms period"
+ },
+ "Kingdom of León": {
+  "qid": "Q175276",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of León"
+ },
+ "Liao Dynasty": {
+  "qid": "Q4958",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Liao dynasty"
+ },
+ "Kingdom of Galicia": {
+  "qid": "Q303421",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Galicia"
+ },
+ "Former Shu": {
+  "qid": "Q571453",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Former Shu"
+ },
+ "Kingdom of Germany": {
+  "qid": "Q175211",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Germany"
+ },
+ "Taebong": {
+  "qid": "Q699871",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Taebong"
+ },
+ "Wuyue": {
+  "qid": "Q1193822",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Wuyue"
+ },
+ "Kingdom of Vaspurakan": {
+  "qid": "Q5228183",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Vaspurakan"
+ },
+ "Chimor": {
+  "qid": "Q581741",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Chimor",
+  "file": "Q581741__chimor"
+ },
+ "Chimu Empire": {
+  "qid": "Q581741",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Chimor",
+  "file": "Q581741__chimu-empire"
+ },
+ "Southern Chu": {
+  "qid": "Q1192347",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ma Chu"
+ },
+ "Southern Wu": {
+  "qid": "Q107994370",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Southern Wu"
+ },
+ "Qi Kingdom": {
+  "qid": "Q1319681",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Qi (Li Maozhen's state)"
+ },
+ "Early Balinese Kingdoms": {
+  "qid": "Q12491027",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Bali Kingdom",
+  "file": "Q12491027__early-balinese-kingdoms"
+ },
+ "Balinese Kingdom": {
+  "qid": "Q12491027",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Bali Kingdom",
+  "file": "Q12491027__balinese-kingdom"
+ },
+ "Duchy of Normandy": {
+  "qid": "Q842091",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Normandy"
+ },
+ "Holy Roman Empire": {
+  "qid": "Q12548",
+  "curated": true,
+  "file": "Q12548__holy-roman-empire"
+ },
+ "Holy Roman Empire Minor States": {
+  "qid": "Q12548",
+  "curated": true,
+  "file": "Q12548__holy-roman-empire-minor-states"
+ },
+ "Goryeo": {
+  "qid": "Q28208",
+  "curated": true
+ },
+ "Kingdom of Croatia": {
+  "qid": "Q858841",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Croatia (925–1102)"
+ },
+ "Jingnan": {
+  "qid": "Q1325075",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Jingnan"
+ },
+ "Later Tang": {
+  "qid": "Q1143126",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Later Tang"
+ },
+ "Caliphate of Córdoba": {
+  "qid": "Q171740",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Caliphate of Córdoba"
+ },
+ "Kingdom of England": {
+  "qid": "Q179876",
+  "curated": true,
+  "file": "Q179876__kingdom-of-england"
+ },
+ "Icelandic Commonwealth": {
+  "qid": "Q62389",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Icelandic Commonwealth"
+ },
+ "Kingdom of Arles": {
+  "qid": "Q3271735",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Arles"
+ },
+ "Kingdom of Denmark": {
+  "qid": "Q756617",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Danish Realm"
+ },
+ "Hamdanid Emirates": {
+  "qid": "Q837187",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Hamdanid dynasty"
+ },
+ "Ziyarid dynasty": {
+  "qid": "Q207044",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ziyarid dynasty"
+ },
+ "Later Shu": {
+  "qid": "Q526507",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Later Shu"
+ },
+ "Ngô Dynasty": {
+  "qid": "Q703919",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ngô dynasty"
+ },
+ "Zagwe dynasty": {
+  "qid": "Q140446",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Zagwe kingdom"
+ },
+ "Kingdom of Dali": {
+  "qid": "Q26472",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Dali Kingdom"
+ },
+ "Jaemtland": {
+  "qid": "Q211661",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Jämtland"
+ },
+ "Duchy of Brittany": {
+  "qid": "Q71747",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Brittany"
+ },
+ "Later Han": {
+  "qid": "Q957429",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Later Han"
+ },
+ "Chaulukya Dynasty": {
+  "qid": "Q18211496",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Chaulukya dynasty"
+ },
+ "Southern Tang": {
+  "qid": "Q1326742",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Southern Tang"
+ },
+ "Northern Han": {
+  "qid": "Q1141471",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Northern Han"
+ },
+ "Republic of Amalfi": {
+  "qid": "Q686312",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Amalfi"
+ },
+ "Chandela Kingdom": {
+  "qid": "Q2039087",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Chandelas of Jejakabhukti"
+ },
+ "Utpala Dynasty": {
+  "qid": "Q1617123",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Utpala dynasty"
+ },
+ "Kingdom of Castile": {
+  "qid": "Q179293",
+  "curated": true,
+  "file": "Q179293__kingdom-of-castile"
+ },
+ "Ghaznavid Empire": {
+  "qid": "Q12844800",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ghaznavids"
+ },
+ "Kingdom of Poland": {
+  "qid": "Q577867",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Poland"
+ },
+ "Western Chalukya Empire": {
+  "qid": "Q14624218",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Western Chalukya Empire"
+ },
+ "Paramara Dynasty": {
+  "qid": "Q7135130",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Paramara dynasty"
+ },
+ "Kingdom of Sweden": {
+  "qid": "Q34",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sweden"
+ },
+ "County of Toulouse": {
+  "qid": "Q1334322",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "County of Toulouse"
+ },
+ "County of Blôis": {
+  "qid": "Q19336869",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "County of Blois"
+ },
+ "County of Vexin": {
+  "qid": "Q1476089",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Vexin"
+ },
+ "County of Flanders": {
+  "qid": "Q157070",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "County of Flanders"
+ },
+ "Seljuk Dynasty": {
+  "qid": "Q3708094",
+  "curated": true,
+  "file": "Q3708094__seljuk-dynasty"
+ },
+ "County of Maine": {
+  "qid": "Q732738",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Maine (province)"
+ },
+ "County of Vermandois": {
+  "qid": "Q26385",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Vermandois"
+ },
+ "County of Rouergue": {
+  "qid": "Q590016",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Rouergue"
+ },
+ "Kingdom of France": {
+  "qid": "Q70972",
+  "curated": true
+ },
+ "Bourbon Kingdom of France": {
+  "qid": "Q207162",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of France"
+ },
+ "County of Champagne": {
+  "qid": "Q546266",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "County of Champagne"
+ },
+ "County of Anjou": {
+  "qid": "Q2991084",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "County of Anjou"
+ },
+ "Duchy of Aquitaine": {
+  "qid": "Q7703611",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Aquitaine"
+ },
+ "County of Osona": {
+  "qid": "Q1541779",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "County of Osona"
+ },
+ "County of Ampuria": {
+  "qid": "Q1541699",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "County of Empúries"
+ },
+ "Kingdom of Hungary": {
+  "qid": "Q171150",
+  "curated": true,
+  "file": "Q171150__kingdom-of-hungary"
+ },
+ "Hungarian Nationalists": {
+  "qid": "Q171150",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Hungary",
+  "file": "Q171150__hungarian-nationalists"
+ },
+ "Duchy of Burgundy": {
+  "qid": "Q4712",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Burgundy"
+ },
+ "Lohara Dynasty": {
+  "qid": "Q1315339",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Lohara dynasty"
+ },
+ "Taifa of Valencia": {
+  "qid": "Q676811",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Taifa of Valencia"
+ },
+ "Taifas of Iberia": {
+  "qid": "Q217177",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Taifa"
+ },
+ "Kingdom of Georgia": {
+  "qid": "Q154667",
+  "curated": true,
+  "file": "Q154667__kingdom-of-georgia"
+ },
+ "Taifa of Alpuente": {
+  "qid": "Q2670895",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Taifa of Alpuente"
+ },
+ "Taifa of Toledo": {
+  "qid": "Q13534654",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Taifa of Toledo"
+ },
+ "Republic of Pisa": {
+  "qid": "Q1365493",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Republic of Pisa"
+ },
+ "Taifa of Dénia": {
+  "qid": "Q252323",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Taifa of Dénia"
+ },
+ "Taifa of Badajoz": {
+  "qid": "Q276841",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Taifa of Badajoz"
+ },
+ "Taifa of Tortosa": {
+  "qid": "Q605930",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Taifa of Tortosa"
+ },
+ "County of Nevers": {
+  "qid": "Q2070440",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "County of Nevers"
+ },
+ "Republic of Genoa": {
+  "qid": "Q174306",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Republic of Genoa"
+ },
+ "Taifa of Arcos": {
+  "qid": "Q2390604",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Taifa of Arcos"
+ },
+ "Taifa of Albarracín": {
+  "qid": "Q2060937",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Taifa of Albarracín"
+ },
+ "Taifa of Almería": {
+  "qid": "Q2580032",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Taifa of Almería"
+ },
+ "Taifa of Zaragoza": {
+  "qid": "Q33061",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Taifa of Zaragoza"
+ },
+ "Taifa of Morón": {
+  "qid": "Q2666791",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Taifa of Morón"
+ },
+ "Taifa of Saltés and Huelva": {
+  "qid": "Q2081763",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Taifa of Saltés and Huelva"
+ },
+ "Taifa of Niebla": {
+  "qid": "Q2668600",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Taifa of Niebla"
+ },
+ "Taifa of Murcia": {
+  "qid": "Q921067",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Taifa of Murcia"
+ },
+ "Kingdom of Aragon": {
+  "qid": "Q199442",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Aragon"
+ },
+ "Taifa of Carmona": {
+  "qid": "Q2668584",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Taifa of Carmona"
+ },
+ "Taifa of Granada": {
+  "qid": "Q205708",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Taifa of Granada"
+ },
+ "Taifa of Santa Maria do Algarve": {
+  "qid": "Q2077765",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Taifa of Santa Maria do Algarve"
+ },
+ "North Sea Empire": {
+  "qid": "Q3281269",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "North Sea Empire"
+ },
+ "Hammadid Dynasty": {
+  "qid": "Q588672",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Hammadid dynasty"
+ },
+ "Taifa of Algeciras": {
+  "qid": "Q1183407",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Taifa of Algeciras"
+ },
+ "Taifa of Seville": {
+  "qid": "Q276951",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Taifa of Seville"
+ },
+ "Kahuripan": {
+  "qid": "Q12491034",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kahuripan"
+ },
+ "Norman Italy": {
+  "qid": "Q74011",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Norman conquest of southern Italy"
+ },
+ "Taifa of Silves": {
+  "qid": "Q1994569",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Taifa of Silves"
+ },
+ "County of Pallars Jussà": {
+  "qid": "Q12723",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Pallars Jussà"
+ },
+ "County of Pallars Sobirà": {
+  "qid": "Q12719",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Pallars Sobirà"
+ },
+ "Denmark-England": {
+  "qid": "Q179876",
+  "curated": true,
+  "file": "Q179876__denmark-england"
+ },
+ "Great Seljuk Empire": {
+  "qid": "Q3708094",
+  "curated": true,
+  "file": "Q3708094__great-seljuk-empire"
+ },
+ "Takrur": {
+  "qid": "Q2272880",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Takrur"
+ },
+ "Taifa of Ronda": {
+  "qid": "Q2524715",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Taifa of Ronda"
+ },
+ "Kingdom of Janggala": {
+  "qid": "Q13093931",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Janggala"
+ },
+ "Norway-Denmark": {
+  "qid": "Q62651",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Denmark-Norway",
+  "file": "Q62651__norway-denmark"
+ },
+ "Denmark-Norway": {
+  "qid": "Q62651",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Denmark-Norway",
+  "file": "Q62651__denmark-norway"
+ },
+ "Kediri Kingdom": {
+  "qid": "Q756895",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kediri Kingdom"
+ },
+ "Zirid dynasty": {
+  "qid": "Q205718",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Zirid dynasty"
+ },
+ "Sulayhid Dynasty": {
+  "qid": "Q2364248",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sulayhid dynasty"
+ },
+ "Halych-Volhynia occupation": {
+  "qid": "Q239502",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Galicia-Volhynia",
+  "file": "Q239502__halych-volhynia-occupation"
+ },
+ "Principality of Galicia-Volhynia": {
+  "qid": "Q239502",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Galicia-Volhynia",
+  "file": "Q239502__principality-of-galicia-volhynia"
+ },
+ "Galicia-Volhynia": {
+  "qid": "Q239502",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Galicia-Volhynia",
+  "file": "Q239502__galicia-volhynia"
+ },
+ "Principality of Volhynia": {
+  "qid": "Q680472",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Volhynia"
+ },
+ "Principality of Kiev": {
+  "qid": "Q1483430",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Kiev"
+ },
+ "Great Principality of Duklja": {
+  "qid": "Q1252942",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duklja",
+  "file": "Q1252942__great-principality-of-duklja"
+ },
+ "Kingdom of Duklja": {
+  "qid": "Q1252942",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duklja",
+  "file": "Q1252942__kingdom-of-duklja"
+ },
+ "Almoravid Dynasty": {
+  "qid": "Q199688",
+  "curated": true,
+  "file": "Q199688__almoravid-dynasty"
+ },
+ "Principality of Rostov-Suzdal": {
+  "qid": "Q83546",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Vladimir-Suzdal",
+  "file": "Q83546__principality-of-rostov-suzdal"
+ },
+ "Principality of Vladimir-Suzdal": {
+  "qid": "Q83546",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Vladimir-Suzdal",
+  "file": "Q83546__principality-of-vladimir-suzdal"
+ },
+ "Principality of Chernigov": {
+  "qid": "Q1322662",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Chernigov"
+ },
+ "Principality of Peremyshl": {
+  "qid": "Q4350658",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Peremyshl"
+ },
+ "Principality of Pereyaslavl": {
+  "qid": "Q1261908",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Pereyaslavl"
+ },
+ "Eastern Ganga Kingdom": {
+  "qid": "Q250515",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Eastern Ganga dynasty"
+ },
+ "Principality of Smolensk": {
+  "qid": "Q1483495",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Smolensk"
+ },
+ "Cuman-Kipchak Confederation": {
+  "qid": "Q1122052",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Cumania"
+ },
+ "Principality of Polotsky": {
+  "qid": "Q200797",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Polotsk"
+ },
+ "Novgorod Republic": {
+  "qid": "Q151536",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Novgorod Republic"
+ },
+ "Najahid Dynasty": {
+  "qid": "Q1411866",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Najahid dynasty"
+ },
+ "Taifa of Ceuta": {
+  "qid": "Q5947557",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Taifa of Ceuta"
+ },
+ "Sena Dynasty": {
+  "qid": "Q2428714",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sena Dynasty"
+ },
+ "Uyunid Emirate": {
+  "qid": "Q1448688",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Uyunid dynasty"
+ },
+ "Norman England": {
+  "qid": "Q179876",
+  "curated": true,
+  "file": "Q179876__norman-england"
+ },
+ "Kingdom of Polonnaruwa": {
+  "qid": "Q3167772",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Polonnaruwa"
+ },
+ "Empire of Kanem": {
+  "qid": "Q1139762",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kanem-Bornu Empire"
+ },
+ "Norse Greenland": {
+  "qid": "Q582948",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Norse colonization of North America"
+ },
+ "Gahadavala Dynasty": {
+  "qid": "Q1147823",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Gahadavala dynasty"
+ },
+ "Zurayid dynasty": {
+  "qid": "Q230385",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Zurayids"
+ },
+ "Kingdom of the Isles": {
+  "qid": "Q459188",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of the Isles",
+  "file": "Q459188__kingdom-of-the-isles"
+ },
+ "Kingdom of Mann": {
+  "qid": "Q459188",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of the Isles",
+  "file": "Q459188__kingdom-of-mann"
+ },
+ "Principality of Terebovlia": {
+  "qid": "Q680530",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Terebovlia"
+ },
+ "Sultanate of Rum": {
+  "qid": "Q975405",
+  "curated": true
+ },
+ "Danishmendids": {
+  "qid": "Q846670",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Danishmendids"
+ },
+ "Khwarezmid Dynasty": {
+  "qid": "Q486918",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Anushtegin dynasty"
+ },
+ "Northern Fujiwara": {
+  "qid": "Q1050942",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Northern Fujiwara"
+ },
+ "Principality of Ryazan": {
+  "qid": "Q269109",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Ryazan",
+  "file": "Q269109__principality-of-ryazan"
+ },
+ "Ryazan": {
+  "qid": "Q269109",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Ryazan",
+  "file": "Q269109__ryazan"
+ },
+ "County of Edessa": {
+  "qid": "Q232806",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "County of Edessa"
+ },
+ "Armenian Kingdom of Cilicia": {
+  "qid": "Q335088",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Armenian Kingdom of Cilicia"
+ },
+ "Kingdom of Jerusalem": {
+  "qid": "Q55502",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Jerusalem"
+ },
+ "Principality of Antioch": {
+  "qid": "Q235030",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Antioch"
+ },
+ "Principality of Koknese": {
+  "qid": "Q2502248",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Koknese"
+ },
+ "Principality of Drutsk": {
+  "qid": "Q2596884",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Drutsk"
+ },
+ "Hoysala Kingdom": {
+  "qid": "Q466581",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Hoysala Kingdom"
+ },
+ "County of Tripoli": {
+  "qid": "Q272033",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "County of Tripoli"
+ },
+ "Principality of Minsk": {
+  "qid": "Q2662372",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Minsk"
+ },
+ "Principality of Jersika": {
+  "qid": "Q1687929",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Jersika"
+ },
+ "Principality of Vitebsk": {
+  "qid": "Q2621010",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Vitebsk"
+ },
+ "Kara-Khitans": {
+  "qid": "Q862304",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Qara Khitai"
+ },
+ "Great Jin": {
+  "qid": "Q5066",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Jin dynasty (1115-1234)"
+ },
+ "Angevins": {
+  "qid": "Q81133615",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Angevin"
+ },
+ "Duchies of Poland": {
+  "qid": "Q2984183",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Testament of Bolesław III Wrymouth"
+ },
+ "Duchy of Silesia": {
+  "qid": "Q568638",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Silesia",
+  "file": "Q568638__duchy-of-silesia"
+ },
+ "Duchy of Wrocław": {
+  "qid": "Q568638",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Silesia",
+  "file": "Q568638__duchy-of-wroc-aw"
+ },
+ "County of Portugal": {
+  "qid": "Q1139807",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "County of Portugal"
+ },
+ "Zengid dynasty": {
+  "qid": "Q189545",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Zengid dynasty"
+ },
+ "Duchy of Łęczyca": {
+  "qid": "Q970940",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Łęczyca Voivodeship"
+ },
+ "Pomerania": {
+  "qid": "Q104520",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Pomerania"
+ },
+ "Kingdom of Sicily": {
+  "qid": "Q188586",
+  "curated": true,
+  "file": "Q188586__kingdom-of-sicily"
+ },
+ "Duchy of Greater Poland": {
+  "qid": "Q1515009",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Greater Poland"
+ },
+ "Duchy of Sandomierz": {
+  "qid": "Q16933165",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Sandomierz"
+ },
+ "Duchy of Masovia": {
+  "qid": "Q2361927",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Masovia"
+ },
+ "Sultanate of Kedah": {
+  "qid": "Q1317579",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kedah Sultanate"
+ },
+ "Almohad Caliphate": {
+  "qid": "Q199688",
+  "curated": true,
+  "file": "Q199688__almohad-caliphate"
+ },
+ "Angevin Empire": {
+  "qid": "Q538677",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Angevin Empire"
+ },
+ "Kingdom of Portugal": {
+  "qid": "Q45670",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Portugal"
+ },
+ "Taifa of Tejada": {
+  "qid": "Q2522604",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Taifa of Tejada"
+ },
+ "Taifa of Córdoba": {
+  "qid": "Q2285679",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Taifa of Córdoba"
+ },
+ "Principality of Halych": {
+  "qid": "Q3403551",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Halych"
+ },
+ "Kingdom of Africa": {
+  "qid": "Q3932090",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Africa"
+ },
+ "Ghurid Dynasty": {
+  "qid": "Q199443",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ghurid dynasty"
+ },
+ "Nabhani Dynasty": {
+  "qid": "Q11938308",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Nabhani dynasty"
+ },
+ "Mahdids": {
+  "qid": "Q1884830",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Mahdids"
+ },
+ "Kingdom of Powys Wenwynwyn": {
+  "qid": "Q2670639",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Powys Wenwynwyn"
+ },
+ "Kingdom of Powys Fadog": {
+  "qid": "Q2564694",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Powys Fadog"
+ },
+ "Crown of Aragon": {
+  "qid": "Q204920",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Crown of Aragon"
+ },
+ "Duchy of Opole": {
+  "qid": "Q661980",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Opole"
+ },
+ "Ayyubid Sultanate": {
+  "qid": "Q180114",
+  "curated": true
+ },
+ "Kakatiya Dynasty": {
+  "qid": "Q2086556",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kakatiya dynasty"
+ },
+ "Kingdom of Serbia": {
+  "qid": "Q241748",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Serbia",
+  "file": "Q241748__kingdom-of-serbia"
+ },
+ "Serbia": {
+  "qid": "Q241748",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Serbia",
+  "file": "Q241748__serbia"
+ },
+ "Second Bulgarian Empire": {
+  "qid": "Q420759",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Second Bulgarian Empire"
+ },
+ "Shunten Dynasty": {
+  "qid": "Q6151113",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Shunten dynasty"
+ },
+ "Banate of Bosnia": {
+  "qid": "Q3627069",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Banate of Bosnia"
+ },
+ "Principality of Turov and Pinsk": {
+  "qid": "Q671362",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Turov",
+  "file": "Q671362__principality-of-turov-and-pinsk"
+ },
+ "Principality of Pinsk": {
+  "qid": "Q671362",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Turov",
+  "file": "Q671362__principality-of-pinsk"
+ },
+ "Principality of Turov": {
+  "qid": "Q671362",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Turov",
+  "file": "Q671362__principality-of-turov"
+ },
+ "Kamakura Shogunate": {
+  "qid": "Q193292",
+  "curated": true,
+  "file": "Q193292__kamakura-shogunate"
+ },
+ "Yadava Dynasty": {
+  "qid": "Q5790",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Yadava Dynasty"
+ },
+ "Duchy of Kuyavia": {
+  "qid": "Q11750543",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Kuyavia"
+ },
+ "County of Boulogne": {
+  "qid": "Q1431527",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "County of Boulogne"
+ },
+ "Kingdom of Cyprus": {
+  "qid": "Q213638",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Cyprus"
+ },
+ "Kathmandu": {
+  "qid": "Q3037",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kathmandu"
+ },
+ "Texcoco": {
+  "qid": "Q1178043",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Texcoco"
+ },
+ "Kingdom of Bohemia": {
+  "qid": "Q42585",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Bohemia"
+ },
+ "Livonian Brothers of the Sword": {
+  "qid": "Q157605",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Livonian Brothers of the Sword"
+ },
+ "Sosso Empire": {
+  "qid": "Q13099593",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sosso Empire"
+ },
+ "Khwarezmid Empire": {
+  "qid": "Q63134381",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Khwarazmian Empire"
+ },
+ "Namayan": {
+  "qid": "Q4401026",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Namayan"
+ },
+ "Despotate of Epirus": {
+  "qid": "Q187684",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Despotate of Epirus"
+ },
+ "Latin Empire": {
+  "qid": "Q178897",
+  "curated": true
+ },
+ "Negroponte": {
+  "qid": "Q247067",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Negroponte"
+ },
+ "Mongol Empire": {
+  "qid": "Q12557",
+  "curated": true,
+  "file": "Q12557__mongol-empire"
+ },
+ "County of Armagnac": {
+  "qid": "Q676745",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "County of Armagnac"
+ },
+ "County of Périgord": {
+  "qid": "Q1947408",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "County of Périgord"
+ },
+ "County of Poitou": {
+  "qid": "Q2991374",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "County of Poitou"
+ },
+ "Principality of Achaea": {
+  "qid": "Q332005",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Achaea"
+ },
+ "County of Auvergne": {
+  "qid": "Q1152",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Auvergne"
+ },
+ "Duchy of Athens": {
+  "qid": "Q334714",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Athens"
+ },
+ "Empire of Trebizond": {
+  "qid": "Q178913",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Empire of Trebizond"
+ },
+ "Nicaean Empire": {
+  "qid": "Q12544",
+  "curated": true,
+  "file": "Q12544__nicaean-empire"
+ },
+ "Kingdom of Thessalonica": {
+  "qid": "Q325461",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Thessalonica"
+ },
+ "County of Touraine": {
+  "qid": "Q605051",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Touraine"
+ },
+ "Delhi Sultanate": {
+  "qid": "Q229411",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Delhi Sultanate"
+ },
+ "Duchy of the Archipelago": {
+  "qid": "Q777981",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of the Archipelago"
+ },
+ "Duchy of Kalisz": {
+  "qid": "Q16570037",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Kalisz"
+ },
+ "Mamluk Dynasty": {
+  "qid": "Q847420",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Mamluk dynasty (Delhi)"
+ },
+ "Grand Duchy of Lithuania": {
+  "qid": "Q49683",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Grand Duchy of Lithuania"
+ },
+ "Singhasari": {
+  "qid": "Q2060657",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Singhasari"
+ },
+ "Teutonic Order": {
+  "qid": "Q48189",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Teutonic Order"
+ },
+ "Rasulid Dynasty": {
+  "qid": "Q2132267",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Rasulid dynasty"
+ },
+ "County of Foix": {
+  "qid": "Q1481436",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "County of Foix"
+ },
+ "Mali Empire": {
+  "qid": "Q206789",
+  "curated": true,
+  "file": "Q206789__mali-empire"
+ },
+ "Tran dynasty": {
+  "qid": "Q3111454",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ngô dynasty"
+ },
+ "Empire of Thessalonica": {
+  "qid": "Q623151",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Empire of Thessalonica"
+ },
+ "Hafsid Dynasty": {
+  "qid": "Q752662",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Hafsid dynasty"
+ },
+ "Zayyanid dynasty": {
+  "qid": "Q307697",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Zayyanid dynasty"
+ },
+ "Ceylon": {
+  "qid": "Q3136869",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sri Lanka",
+  "file": "Q3136869__ceylon"
+ },
+ "Kingdom of Dambadeniya": {
+  "qid": "Q3136869",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sri Lanka",
+  "file": "Q3136869__kingdom-of-dambadeniya"
+ },
+ "Crown of Castile": {
+  "qid": "Q179293",
+  "curated": true,
+  "file": "Q179293__crown-of-castile"
+ },
+ "Mamluk Sultanate": {
+  "qid": "Q282428",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Mamluk Sultanate"
+ },
+ "County of Artois": {
+  "qid": "Q778266",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "County of Artois"
+ },
+ "Sukhothai Kingdom": {
+  "qid": "Q863279",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sukhothai Kingdom"
+ },
+ "Emirate of Granada": {
+  "qid": "Q238445",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Emirate of Granada"
+ },
+ "Capetian House of Anjou": {
+  "qid": "Q939200",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Capetian House of Anjou"
+ },
+ "House of Anjou-Sicily": {
+  "qid": "Q188586",
+  "curated": true,
+  "file": "Q188586__house-of-anjou-sicily"
+ },
+ "Duchy of Głogów": {
+  "qid": "Q684501",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Głogów"
+ },
+ "Marinid Sultanate": {
+  "qid": "Q582861",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Marinid Sultanate"
+ },
+ "County of Holland": {
+  "qid": "Q762943",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "County of Holland"
+ },
+ "Republic of Florence": {
+  "qid": "Q148540",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Republic of Florence"
+ },
+ "House of Luxembourg": {
+  "qid": "Q122293",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "House of Luxembourg"
+ },
+ "Margraviate of Brandenburg": {
+  "qid": "Q148499",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Margraviate of Brandenburg",
+  "file": "Q148499__margraviate-of-brandenburg"
+ },
+ "Electorate of Brandenburg": {
+  "qid": "Q148499",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Margraviate of Brandenburg",
+  "file": "Q148499__electorate-of-brandenburg"
+ },
+ "Duchy of Styria": {
+  "qid": "Q580447",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Styria"
+ },
+ "County of Savoy": {
+  "qid": "Q1232887",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "County of Savoy"
+ },
+ "House of Hohenstaufen": {
+  "qid": "Q130875",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Hohenstaufen"
+ },
+ "Dauphiné": {
+  "qid": "Q151999",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Dauphiné"
+ },
+ "House of Wittelsbach": {
+  "qid": "Q131621",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "House of Wittelsbach"
+ },
+ "Duchy of Brabant": {
+  "qid": "Q159856",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Landgraviate of Brabant"
+ },
+ "House of Habsburg": {
+  "qid": "Q65968",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "House of Habsburg"
+ },
+ "Bahrani Dynasty": {
+  "qid": "Q311341",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Al-Ahsa Oasis"
+ },
+ "Principality of Orange": {
+  "qid": "Q2281221",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Orange"
+ },
+ "Duchy of Bavaria": {
+  "qid": "Q47261",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Bavaria"
+ },
+ "House of Ascania": {
+  "qid": "Q168352",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "House of Ascania"
+ },
+ "Patriarchate of Aquileia": {
+  "qid": "Q836894",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Patriarchate of Aquileia"
+ },
+ "Thessaly": {
+  "qid": "Q166919",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Thessaly"
+ },
+ "Samudera Pasai Sultanate": {
+  "qid": "Q3284315",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Samudera Pasai Sultanate"
+ },
+ "Ethiopian Empire": {
+  "qid": "Q207521",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ethiopian Empire"
+ },
+ "Comtat Venaissin": {
+  "qid": "Q1122980",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Comtat Venaissin"
+ },
+ "Kingdom of Majorca": {
+  "qid": "Q836676",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Majorca"
+ },
+ "Duchy of Jawor": {
+  "qid": "Q561204",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Jawor"
+ },
+ "Duchy of Legnica": {
+  "qid": "Q570740",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Legnica"
+ },
+ "Grand Duchy of Kraków": {
+  "qid": "Q688918",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Grand Duchy of Kraków"
+ },
+ "Kampili Kingdom": {
+  "qid": "Q1446192",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kampili Kingdom"
+ },
+ "Pskov Republic": {
+  "qid": "Q317078",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Pskov Republic"
+ },
+ "Kingdom of Syrmia": {
+  "qid": "Q1309492",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Syrmia"
+ },
+ "Ifat Sultanate": {
+  "qid": "Q157727",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sultanate of Ifat"
+ },
+ "Duchy of Racibórz": {
+  "qid": "Q700117",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Racibórz"
+ },
+ "Kingdom of Naples": {
+  "qid": "Q173065",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Naples"
+ },
+ "Duchy of Bytom": {
+  "qid": "Q682001",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Bytom"
+ },
+ "Cuzco": {
+  "qid": "Q5582862",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Cusco"
+ },
+ "Malaya": {
+  "qid": "Q1479726",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Malaya",
+  "file": "Q1479726__malaya"
+ },
+ "Federation of Malaya": {
+  "qid": "Q1479726",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Malaya",
+  "file": "Q1479726__federation-of-malaya"
+ },
+ "Nizhny Novgorod": {
+  "qid": "Q891",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Nizhny Novgorod"
+ },
+ "Khalji Dynasty": {
+  "qid": "Q919071",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Khalji dynasty"
+ },
+ "Grand Principality of Moscow": {
+  "qid": "Q170770",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Moscow"
+ },
+ "Kingdom of Scotland": {
+  "qid": "Q230791",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Scotland"
+ },
+ "Majapahit": {
+  "qid": "Q49326",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Majapahit"
+ },
+ "Shan States": {
+  "qid": "Q4765854",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Shan States"
+ },
+ "Ilkhanate": {
+  "qid": "Q178084",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ilkhanate"
+ },
+ "Hanthawaddy Kingdom": {
+  "qid": "Q1572529",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Hanthawaddy Kingdom"
+ },
+ "Swiss Confederation": {
+  "qid": "Q39",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Switzerland"
+ },
+ "Phayao Kingdom": {
+  "qid": "Q4202088",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Phayao Kingdom"
+ },
+ "Myinsaing Kingdom": {
+  "qid": "Q3446205",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Myinsaing Kingdom"
+ },
+ "Lan Na Kingdom": {
+  "qid": "Q1059707",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Lan Na",
+  "file": "Q1059707__lan-na-kingdom"
+ },
+ "Lan Na": {
+  "qid": "Q1059707",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Lan Na",
+  "file": "Q1059707__lan-na"
+ },
+ "Principality of Beloozero": {
+  "qid": "Q1967380",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Beloozero"
+ },
+ "Chagatai Khanate": {
+  "qid": "Q487829",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Chagatai Khanate"
+ },
+ "Golden Horde": {
+  "qid": "Q12557",
+  "curated": true,
+  "file": "Q12557__golden-horde"
+ },
+ "Tver": {
+  "qid": "Q2288",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Tver"
+ },
+ "Beylik of Aydin": {
+  "qid": "Q717112",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Aydinids"
+ },
+ "Beylik of Karasi": {
+  "qid": "Q941887",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Karasids"
+ },
+ "Beylik of Hamid": {
+  "qid": "Q2410637",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Hamidids"
+ },
+ "Beylik of Sinop": {
+  "qid": "Q2096678",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Candar dynasty",
+  "file": "Q2096678__beylik-of-sinop"
+ },
+ "Beylik of Isfendiyar": {
+  "qid": "Q2096678",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Candar dynasty",
+  "file": "Q2096678__beylik-of-isfendiyar"
+ },
+ "Eshrefids": {
+  "qid": "Q1386189",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Eshrefids"
+ },
+ "Germiyanids": {
+  "qid": "Q1324889",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Germiyanids"
+ },
+ "Kingdom of Singapura": {
+  "qid": "Q27842",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Singapura"
+ },
+ "Michoacán": {
+  "qid": "Q79861",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Michoacán"
+ },
+ "Kastamonu": {
+  "qid": "Q155915",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kastamonu"
+ },
+ "Beylik of Menteshe": {
+  "qid": "Q1400572",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Menteshe"
+ },
+ "Ahi Republic": {
+  "qid": "Q400290",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ahis"
+ },
+ "Ottoman Empire": {
+  "qid": "Q12560",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ottoman Empire"
+ },
+ "Beylik of Karaman": {
+  "qid": "Q1469100",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Karamanids"
+ },
+ "Principality of Wallachia": {
+  "qid": "Q171393",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Wallachia"
+ },
+ "Nanzan": {
+  "qid": "Q55522",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Nanzan"
+ },
+ "Chüzan": {
+  "qid": "Q55521",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Chūzan"
+ },
+ "Hokuzan": {
+  "qid": "Q55523",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Hokuzan"
+ },
+ "Catalan Company": {
+  "qid": "Q1501196",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Catalan Company"
+ },
+ "Jaffna kingdom": {
+  "qid": "Q1311219",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Jaffna kingdom"
+ },
+ "Kingdom of Pinya": {
+  "qid": "Q3446213",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Pinya Kingdom"
+ },
+ "Tenochtitlan": {
+  "qid": "Q13695",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Tenochtitlan"
+ },
+ "Sagaing Kingdom": {
+  "qid": "Q3446223",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sagaing Kingdom"
+ },
+ "Tughlaq Dynasty": {
+  "qid": "Q1124402",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Tughlaq dynasty"
+ },
+ "Beylik of Teke": {
+  "qid": "Q373988",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Beylik of Teke"
+ },
+ "Earldom of Ulster": {
+  "qid": "Q19872858",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Earldom of Ulster"
+ },
+ "Earldom of Desmond": {
+  "qid": "Q2991012",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Earl of Desmond"
+ },
+ "Kenmu Restoration": {
+  "qid": "Q826021",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kenmu Restoration"
+ },
+ "Principality of Theodoro": {
+  "qid": "Q874954",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Theodoro"
+ },
+ "Free County of Burgundy": {
+  "qid": "Q642314",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "County of Burgundy"
+ },
+ "Danish Magnates": {
+  "qid": "Q350186",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Christopher II of Denmark",
+  "file": "Q350186__danish-magnates"
+ },
+ "Denmark": {
+  "qid": "Q350186",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Christopher II of Denmark",
+  "file": "Q350186__denmark"
+ },
+ "House of Bourbon": {
+  "qid": "Q58389",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "House of Bourbon"
+ },
+ "Electorate of Trier": {
+  "qid": "Q1794352",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Electorate of Trier"
+ },
+ "Principality of Valona": {
+  "qid": "Q7245121",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Valona",
+  "file": "Q7245121__principality-of-valona"
+ },
+ "Principality of Valona and Kanina": {
+  "qid": "Q7245121",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Valona",
+  "file": "Q7245121__principality-of-valona-and-kanina"
+ },
+ "Kartids": {
+  "qid": "Q1734616",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kart dynasty"
+ },
+ "Sarbadars": {
+  "qid": "Q1931074",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sarbadars"
+ },
+ "Kashmiri Sultanate": {
+  "qid": "Q123027565",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kashmir Sultanate"
+ },
+ "Isle of Man": {
+  "qid": "Q9676",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Isle of Man"
+ },
+ "Injuids": {
+  "qid": "Q1067513",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Injuids"
+ },
+ "Chobanids": {
+  "qid": "Q1089675",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Chobanids"
+ },
+ "Sultanate of Bengal": {
+  "qid": "Q4083686",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Bengal Sultanate"
+ },
+ "Sind-Samma Dynasty": {
+  "qid": "Q27260",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Samma dynasty"
+ },
+ "Ashikaga Shogunate": {
+  "qid": "Q1154406",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ashikaga shogunate"
+ },
+ "Commune of the Zealots": {
+  "qid": "Q17151",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Thessaloniki"
+ },
+ "Vijayanagara Empire": {
+  "qid": "Q167639",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Vijayanagara Empire"
+ },
+ "Jalayirid Sultanate": {
+  "qid": "Q866716",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Jalayirid Sultanate"
+ },
+ "Beylik of Dulkadir": {
+  "qid": "Q1264808",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Beylik of Dulkadir"
+ },
+ "Muzaffarids": {
+  "qid": "Q6944360",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Muzaffarids"
+ },
+ "Serbian Empire": {
+  "qid": "Q1406298",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Serbian Empire"
+ },
+ "Ayutthaya Kingdom": {
+  "qid": "Q841364",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ayutthaya Kingdom"
+ },
+ "Bahmani Sultanate": {
+  "qid": "Q374521",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Bahmani Sultanate"
+ },
+ "Principality of Moldavia": {
+  "qid": "Q10957559",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Moldavia"
+ },
+ "Sultanate of Brunei": {
+  "qid": "Q887803",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Bruneian Sultanate (1368-1888)"
+ },
+ "Electorate of Saxony": {
+  "qid": "Q156199",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Electorate of Saxony"
+ },
+ "House of Tocco": {
+  "qid": "Q149846",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "County Palatine of Cephalonia and Zakynthos"
+ },
+ "House of Valois-Anjou": {
+  "qid": "Q1716871",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "House of Valois-Anjou"
+ },
+ "Tibet": {
+  "qid": "Q521263",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "History of Tibet"
+ },
+ "Despotate of Vidin": {
+  "qid": "Q927154",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Tsardom of Vidin"
+ },
+ "White Horde": {
+  "qid": "Q2553863",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "White Horde"
+ },
+ "Blue Horde": {
+  "qid": "Q644979",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Blue Horde"
+ },
+ "Despotate of Dobruja": {
+  "qid": "Q542165",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Despotate of Dobruja"
+ },
+ "Lan Xang": {
+  "qid": "Q853477",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Lan Xang"
+ },
+ "Tondo": {
+  "qid": "Q1642472",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Tondo (historical polity)"
+ },
+ "Ava Kingdom": {
+  "qid": "Q2500952",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Ava"
+ },
+ "Ming Dynasty": {
+  "qid": "Q9903",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ming dynasty"
+ },
+ "Northern Yuan": {
+  "qid": "Q8959",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Northern Yuan"
+ },
+ "Serbian Despots": {
+  "qid": "Q878319",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Serbian Despotate"
+ },
+ "Timurid Empire": {
+  "qid": "Q484195",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Timurid Empire"
+ },
+ "Qara Qoyunlu": {
+  "qid": "Q324470",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Qara Qoyunlu"
+ },
+ "Despotate of Arta": {
+  "qid": "Q2331954",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Despotate of Arta"
+ },
+ "Albanian Principalities": {
+  "qid": "Q2658979",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Albanian principalities"
+ },
+ "County of Béarn": {
+  "qid": "Q213763",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Béarn"
+ },
+ "Margraviate of Moravia": {
+  "qid": "Q2670751",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Margraviate of Moravia"
+ },
+ "Kingdom of Bosnia": {
+  "qid": "Q2980623",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Bosnia"
+ },
+ "Republic of Ragusa": {
+  "qid": "Q208169",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Republic of Ragusa"
+ },
+ "Ramadanid Emirate": {
+  "qid": "Q2261321",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ramadanid Emirate"
+ },
+ "Jaunpur Sultanate": {
+  "qid": "Q167134",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Jaunpur Sultanate"
+ },
+ "Polish-Lithuania Kingdom": {
+  "qid": "Q194355",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Jagiellonian dynasty",
+  "file": "Q194355__polish-lithuania-kingdom"
+ },
+ "House of Jagiellon": {
+  "qid": "Q194355",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Jagiellonian dynasty",
+  "file": "Q194355__house-of-jagiellon"
+ },
+ "Kalmar Union": {
+  "qid": "Q62623",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kalmar Union"
+ },
+ "Four Oirats": {
+  "qid": "Q4332415",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Oirat Confederation",
+  "file": "Q4332415__four-oirats"
+ },
+ "Oirat Confederation": {
+  "qid": "Q4332415",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Oirat Confederation",
+  "file": "Q4332415__oirat-confederation"
+ },
+ "Duchy of Milan": {
+  "qid": "Q153529",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Milan"
+ },
+ "Sayyid Dynasty": {
+  "qid": "Q1331421",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sayyid dynasty"
+ },
+ "Hashemite Arab Federation": {
+  "qid": "Q6000379",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Arab Iraq"
+ },
+ "Adal Sultanate": {
+  "qid": "Q2365048",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Adal Sultanate",
+  "file": "Q2365048__adal-sultanate"
+ },
+ "Sultanate of Harar": {
+  "qid": "Q2365048",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Adal Sultanate",
+  "file": "Q2365048__sultanate-of-harar"
+ },
+ "Livonian Conference": {
+  "qid": "Q33698",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Livonian language"
+ },
+ "Lê Dynasty": {
+  "qid": "Q10800789",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Lê dynasty"
+ },
+ "Kingdom of Mrauk U": {
+  "qid": "Q10791211",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Mrauk U"
+ },
+ "Ryukyu Kingdom": {
+  "qid": "Q28025",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ryukyu Kingdom"
+ },
+ "Khanate of Sibir": {
+  "qid": "Q190513",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Khanate of Sibir"
+ },
+ "Duchy of Luxembourg": {
+  "qid": "Q2719360",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Luxembourg",
+  "file": "Q2719360__duchy-of-luxembourg"
+ },
+ "Luxembourg": {
+  "qid": "Q2719360",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Luxembourg",
+  "file": "Q2719360__luxembourg"
+ },
+ "Aztec Triple Alliance": {
+  "qid": "Q2608489",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Aztec Empire"
+ },
+ "Duchy of Lorraine": {
+  "qid": "Q155019",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Lorraine"
+ },
+ "Inca Empire": {
+  "qid": "Q28573",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Inca Empire"
+ },
+ "Kingdom of Kongo": {
+  "qid": "Q796583",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Kongo"
+ },
+ "Khanate of Kazan": {
+  "qid": "Q186537",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Khanate of Kazan"
+ },
+ "Crimean Khanate": {
+  "qid": "Q160440",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Crimean Khanate"
+ },
+ "Ambrosian Republic": {
+  "qid": "Q746443",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Golden Ambrosian Republic"
+ },
+ "House of Oldenburg": {
+  "qid": "Q155594",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "House of Oldenburg"
+ },
+ "Haudenosaunee": {
+  "qid": "Q68518",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Iroquois"
+ },
+ "Qasim Khanate": {
+  "qid": "Q836169",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Qasim Khanate"
+ },
+ "Lodi Dynasty": {
+  "qid": "Q11709",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Lodi dynasty"
+ },
+ "Duchy of Saint Sava": {
+  "qid": "Q106311455",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Saint Sava"
+ },
+ "Habsburg Monarchy": {
+  "qid": "Q66504140",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Habsburg Austria"
+ },
+ "Sultanate of Sulu": {
+  "qid": "Q422065",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sultanate of Sulu"
+ },
+ "Tahirid Sultanate": {
+  "qid": "Q373981",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Tahirid dynasty"
+ },
+ "Sultanate of Palembang": {
+  "qid": "Q3503555",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Palembang Sultanate"
+ },
+ "Sultanate of Malacca": {
+  "qid": "Q46652",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Malacca Sultanate"
+ },
+ "Moghulistan": {
+  "qid": "Q1191125",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Moghulistan",
+  "file": "Q1191125__moghulistan"
+ },
+ "Eastern Chagatai Khanate": {
+  "qid": "Q1191125",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Moghulistan",
+  "file": "Q1191125__eastern-chagatai-khanate"
+ },
+ "Eastern Moghulistan": {
+  "qid": "Q1191125",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Moghulistan",
+  "file": "Q1191125__eastern-moghulistan"
+ },
+ "Western Moghulistan": {
+  "qid": "Q1191125",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Moghulistan",
+  "file": "Q1191125__western-moghulistan"
+ },
+ "Songhai Empire": {
+  "qid": "Q202687",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Songhai Empire"
+ },
+ "Kingdom of Kartli": {
+  "qid": "Q195972",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Kartli"
+ },
+ "East Turkestan": {
+  "qid": "Q840601",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "East Turkestan"
+ },
+ "Kingdom of Imereti": {
+  "qid": "Q1069959",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Imereti"
+ },
+ "Principality of Abkhazia": {
+  "qid": "Q1760473",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Abkhazia"
+ },
+ "Samtskhe-Saatabago": {
+  "qid": "Q2029317",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Samtskhe-Saatabago"
+ },
+ "Astrakhan Khanate": {
+  "qid": "Q210163",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Astrakhan Khanate"
+ },
+ "Kazakh Khanate": {
+  "qid": "Q1433867",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kazakh Khanate"
+ },
+ "Warring States Japan": {
+  "qid": "Q204023",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sengoku period"
+ },
+ "Principality of Mingrelia": {
+  "qid": "Q2907860",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Mingrelia"
+ },
+ "Mongol Khanate": {
+  "qid": "Q19927420",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Mongol khanate"
+ },
+ "Kingdom of Kakheti": {
+  "qid": "Q1209822",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Kakheti"
+ },
+ "Wattasid dynasty": {
+  "qid": "Q970799",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Wattasid dynasty"
+ },
+ "Principality of Guria": {
+  "qid": "Q2195101",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Guria"
+ },
+ "Demak Sultanate": {
+  "qid": "Q49322",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Demak Sultanate"
+ },
+ "Kapisa": {
+  "qid": "Q28336424",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kapisa"
+ },
+ "Prome Kingdom": {
+  "qid": "Q13576027",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Prome Kingdom"
+ },
+ "Sultanate of Cirebon": {
+  "qid": "Q2077648",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sultanate of Cirebon"
+ },
+ "Ahmadnagar Sultanate": {
+  "qid": "Q400998",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ahmadnagar Sultanate"
+ },
+ "Berar Sultanate": {
+  "qid": "Q818666",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Berar Sultanate"
+ },
+ "Bijapur Sultanate": {
+  "qid": "Q83821",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Adil Shahi dynasty"
+ },
+ "Bidar Sultanate": {
+  "qid": "Q669317",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Bidar Sultanate"
+ },
+ "Shaybanids": {
+  "qid": "Q856361",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Shaybanids"
+ },
+ "Rajahnate of Cebu": {
+  "qid": "Q4401071",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Cebu (historical polity)"
+ },
+ "Portuguese Empire": {
+  "qid": "Q200464",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Portuguese Empire",
+  "file": "Q200464__portuguese-empire"
+ },
+ "Portuguese Colonies": {
+  "qid": "Q200464",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Portuguese Empire",
+  "file": "Q200464__portuguese-colonies"
+ },
+ "Safavid Dynasty": {
+  "qid": "Q161205",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Safavid dynasty"
+ },
+ "First Toungoo Empire": {
+  "qid": "Q23039102",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "First Toungoo Empire"
+ },
+ "Portuguese Ceylon": {
+  "qid": "Q1709007",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Portuguese Ceylon"
+ },
+ "Funj Sultanate": {
+  "qid": "Q1475713",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Funj Sultanate"
+ },
+ "Portuguese Africa": {
+  "qid": "Q16879646",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Portuguese Africa"
+ },
+ "Sultanate of Gowa": {
+  "qid": "Q1408641",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sultanate of Gowa"
+ },
+ "Khanate of Khiva": {
+  "qid": "Q491106",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Khanate of Khiva"
+ },
+ "Sultanate of Bone": {
+  "qid": "Q43292",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sultan"
+ },
+ "Spanish Empire": {
+  "qid": "Q80702",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Spanish Empire"
+ },
+ "Sultanate of Aceh": {
+  "qid": "Q1061057",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Aceh Sultanate"
+ },
+ "Kingdom of Spain": {
+  "qid": "Q29",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Spain"
+ },
+ "Khanate of Bukhara": {
+  "qid": "Q577668",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Khanate of Bukhara"
+ },
+ "Blambangan Kingdom": {
+  "qid": "Q287996",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Blambangan Kingdom"
+ },
+ "Golconda Sultanate": {
+  "qid": "Q1148042",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Qutb Shahi dynasty"
+ },
+ "Sultanate of Maguindanao": {
+  "qid": "Q248572",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sultanate of Maguindanao"
+ },
+ "Maynila": {
+  "qid": "Q4401247",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Maynila (historical polity)"
+ },
+ "Sultanate of Banjar": {
+  "qid": "Q1660566",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sultanate of Banjar"
+ },
+ "Duchy of Prussia": {
+  "qid": "Q153091",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Prussia"
+ },
+ "Nayaks of Madurai": {
+  "qid": "Q1530838",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Madurai Nayak dynasty"
+ },
+ "Sultanate of Banten": {
+  "qid": "Q734867",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Banten Sultanate"
+ },
+ "Mughal Empire": {
+  "qid": "Q33296",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Mughal Empire"
+ },
+ "Đại Việt": {
+  "qid": "Q1317991",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Mạc dynasty"
+ },
+ "Sultanate of Perak": {
+  "qid": "Q2649311",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sultan of Perak"
+ },
+ "Sultanate of Johor": {
+  "qid": "Q1150344",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Johor Sultanate"
+ },
+ "Eastern Hungarian Kingdom": {
+  "qid": "Q625380",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Eastern Hungarian Kingdom"
+ },
+ "Nayaks of Thanjavur": {
+  "qid": "Q1588434",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Thanjavur Nayak kingdom"
+ },
+ "Hussain Shahi Dynasty": {
+  "qid": "Q5949588",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Hussain Shahi dynasty"
+ },
+ "Sur Empire": {
+  "qid": "Q373650",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sur Empire"
+ },
+ "Tümed": {
+  "qid": "Q3402317",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Tumed"
+ },
+ "Itza Mayans": {
+  "qid": "Q606377",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Itza people"
+ },
+ "Tsardom of Russia": {
+  "qid": "Q186096",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Tsardom of Russia"
+ },
+ "Duchy of Florence": {
+  "qid": "Q2252973",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Republic of Florence"
+ },
+ "Don Cossacks": {
+  "qid": "Q1057292",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Don Cossacks"
+ },
+ "France Antarctique": {
+  "qid": "Q1353951",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "France Antarctique"
+ },
+ "Saadi Sultanate": {
+  "qid": "Q1136188",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Saadi Sultanate"
+ },
+ "House of Savoy": {
+  "qid": "Q200229",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "House of Savoy"
+ },
+ "Kingdom of Mysore": {
+  "qid": "Q266923",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Mysore"
+ },
+ "Trịnh lords": {
+  "qid": "Q2267508",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Trịnh lords"
+ },
+ "Kingdom of Pajana": {
+  "qid": "Q1074947",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Lontara script"
+ },
+ "Nguyễn lords": {
+  "qid": "Q2301908",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Nguyễn lords"
+ },
+ "Principality of Transylvania": {
+  "qid": "Q655621",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Transylvania (1570-1711)"
+ },
+ "Polish-Lithuanian Commonwealth": {
+  "qid": "Q172107",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Polish-Lithuanian Commonwealth"
+ },
+ "Patani Kingdom": {
+  "qid": "Q584435",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Patani Kingdom"
+ },
+ "Union of Utrecht": {
+  "qid": "Q216165",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Union of Utrecht"
+ },
+ "Iberian Union": {
+  "qid": "Q377350",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Iberian Union"
+ },
+ "Dutch Republic": {
+  "qid": "Q170072",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Dutch Republic"
+ },
+ "Khoshut Khanate": {
+  "qid": "Q10921634",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Khoshut Khanate"
+ },
+ "Mataram Sultanate": {
+  "qid": "Q402145",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Mataram Sultanate"
+ },
+ "Gorkha Kingdom": {
+  "qid": "Q3332217",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Gorkha Kingdom"
+ },
+ "Jesuit Reducciones": {
+  "qid": "Q465960",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Jesuit missions among the Guaraní"
+ },
+ "Nalyvaiko Uprising": {
+  "qid": "Q2560470",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Nalyvaiko Uprising"
+ },
+ "Tokugawa Shogunate": {
+  "qid": "Q205662",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Tokugawa shogunate"
+ },
+ "New France": {
+  "qid": "Q170604",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "New France"
+ },
+ "Oyo Empire": {
+  "qid": "Q849623",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Oyo Empire"
+ },
+ "Sultanate of Darfur": {
+  "qid": "Q1474791",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sultanate of Darfur"
+ },
+ "English Colonial Empire": {
+  "qid": "Q617219",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "English overseas possessions"
+ },
+ "Dzungar Khanate": {
+  "qid": "Q1923401",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Dzungar Khanate"
+ },
+ "Swedish Empire": {
+  "qid": "Q215443",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Swedish Empire"
+ },
+ "Brandenburg-Prussia": {
+  "qid": "Q157367",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Brandenburg-Prussia"
+ },
+ "Sultanate of Sukadana": {
+  "qid": "Q3446232",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Tanjungpura Kingdom"
+ },
+ "Sultanate of Sambas": {
+  "qid": "Q3109927",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sultanate of Sambas"
+ },
+ "Sultanate of Mempawah": {
+  "qid": "Q19746028",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Mempawah Kingdom"
+ },
+ "Later Jin Dynasty": {
+  "qid": "Q1062546",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Later Jin (1616-1636)"
+ },
+ "New Netherland": {
+  "qid": "Q382593",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "New Netherland"
+ },
+ "Huguenots": {
+  "qid": "Q101935",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Huguenots"
+ },
+ "Sultanate of Bima": {
+  "qid": "Q2817348",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Bima Sultanate"
+ },
+ "Yarubid dynasty": {
+  "qid": "Q1752110",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ya'rubids"
+ },
+ "Li Zicheng": {
+  "qid": "Q333567",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Li Zicheng"
+ },
+ "Kalmyk Khanate": {
+  "qid": "Q4210248",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kalmyk Khanate"
+ },
+ "Kingdom of Bhutan": {
+  "qid": "Q917",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Bhutan"
+ },
+ "Qasimids": {
+  "qid": "Q5261548",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Rassid dynasty"
+ },
+ "Wadai Empire": {
+  "qid": "Q1132786",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Wadai Empire"
+ },
+ "New Sweden": {
+  "qid": "Q322187",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "New Sweden"
+ },
+ "Catalonia": {
+  "qid": "Q5705",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Catalonia"
+ },
+ "Principality of Monaco": {
+  "qid": "Q235",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Monaco",
+  "file": "Q235__principality-of-monaco"
+ },
+ "Kingdom of Monaco": {
+  "qid": "Q235",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Monaco",
+  "file": "Q235__kingdom-of-monaco"
+ },
+ "Irish Catholic Confederation": {
+  "qid": "Q1407718",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Confederate Ireland"
+ },
+ "Southern Ming": {
+  "qid": "Q1198163",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Southern Ming"
+ },
+ "Commonwealth of England": {
+  "qid": "Q330362",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Commonwealth of England"
+ },
+ "Qing Dynasty": {
+  "qid": "Q8733",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Qing dynasty"
+ },
+ "Kutai Kingdom": {
+  "qid": "Q1794655",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kutai",
+  "file": "Q1794655__kutai-kingdom"
+ },
+ "Sultanate of Kutai Kartanegara": {
+  "qid": "Q1794655",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kutai",
+  "file": "Q1794655__sultanate-of-kutai-kartanegara"
+ },
+ "Dutch Cape Coast": {
+  "qid": "Q221283",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Cape Coast"
+ },
+ "Danish India": {
+  "qid": "Q912382",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Danish India"
+ },
+ "Zaporozhian Cossacks": {
+  "qid": "Q1076173",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Zaporozhian Cossacks"
+ },
+ "Morocco": {
+  "qid": "Q1028",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Morocco"
+ },
+ "Sultanate of Jambi": {
+  "qid": "Q1679856",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Jambi Sultanate"
+ },
+ "French India": {
+  "qid": "Q646374",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "French India"
+ },
+ "Maratha Empire": {
+  "qid": "Q83618",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Maratha Empire"
+ },
+ "Thanjavur Maratha Kingdom": {
+  "qid": "Q3530610",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Thanjavur Maratha Kingdom"
+ },
+ "Principality of Upper Hungary": {
+  "qid": "Q7245120",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Upper Hungary"
+ },
+ "Dutch Ceylon": {
+  "qid": "Q1841483",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Dutch Ceylon"
+ },
+ "Bali": {
+  "qid": "Q3125978",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Bali"
+ },
+ "Cambodia": {
+  "qid": "Q424",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Cambodia Middle Period",
+  "file": "Q424__cambodia"
+ },
+ "Kingdom of Cambodia": {
+  "qid": "Q424",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Cambodia Middle Period",
+  "file": "Q424__kingdom-of-cambodia"
+ },
+ "Kingdom of Prussia": {
+  "qid": "Q27306",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Prussia"
+ },
+ "Pro-Habsburg Spain": {
+  "qid": "Q600093",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Habsburg Spain"
+ },
+ "Ashanti Empire": {
+  "qid": "Q722071",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ashanti Empire"
+ },
+ "British Empire": {
+  "qid": "Q8680",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "British Empire",
+  "file": "Q8680__british-empire"
+ },
+ "British Colonial Empire": {
+  "qid": "Q8680",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "British Empire",
+  "file": "Q8680__british-colonial-empire"
+ },
+ "Regency of Algiers": {
+  "qid": "Q3045696",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Regency of Algiers"
+ },
+ "Pro-Swedish Poland": {
+  "qid": "Q10543737",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Swedish invasion of Poland (1701-1706)"
+ },
+ "Beylik of Tunis": {
+  "qid": "Q4899891",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Beylik of Tunis"
+ },
+ "Kingdom of Great Britain": {
+  "qid": "Q23666",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Great Britain"
+ },
+ "Vientiane": {
+  "qid": "Q9326",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Vientiane"
+ },
+ "Hotaki Dynasty": {
+  "qid": "Q627449",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Hotak dynasty"
+ },
+ "Sikhs": {
+  "qid": "Q582779",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sikhs"
+ },
+ "Kingdom of Champasak": {
+  "qid": "Q403369",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Champasak"
+ },
+ "Kingdom of Luang Phrabang": {
+  "qid": "Q190165",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Luang Prabang"
+ },
+ "Electorate of Hanover": {
+  "qid": "Q706018",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Electorate of Hanover"
+ },
+ "Khanate of Kokand": {
+  "qid": "Q696241",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Khanate of Kokand"
+ },
+ "Kingdom of Lunda": {
+  "qid": "Q1796223",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Lunda"
+ },
+ "Karamanli Dynasty": {
+  "qid": "Q1929987",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Karamanli dynasty"
+ },
+ "Carnatic Sultanate": {
+  "qid": "Q3277580",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Carnatic Sultanate"
+ },
+ "Bamana Empire": {
+  "qid": "Q762084",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Bamana Empire"
+ },
+ "Nawabs of Bengal": {
+  "qid": "Q2637089",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Nawabs of Bengal"
+ },
+ "Kingdom of Sardinia": {
+  "qid": "Q2577303",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Sardinia (1720-1861)"
+ },
+ "Principality of Svaneti": {
+  "qid": "Q2919545",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Svaneti"
+ },
+ "Russian Empire": {
+  "qid": "Q34266",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Russian Empire"
+ },
+ "Principality of Liechtenstein": {
+  "qid": "Q347",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Liechtenstein"
+ },
+ "Nawab of Awadh": {
+  "qid": "Q2614237",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Nawab of Awadh"
+ },
+ "Sultanate of Terengganu": {
+  "qid": "Q5769444",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sultan of Terengganu"
+ },
+ "Hyderabad State": {
+  "qid": "Q1240096",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Hyderabad State"
+ },
+ "Greenland": {
+  "qid": "Q223",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Greenland"
+ },
+ "Duchy of Courland": {
+  "qid": "Q156038",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Courland and Semigallia"
+ },
+ "Kingdom of Bulungan": {
+  "qid": "Q3503548",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sultanate of Bulungan"
+ },
+ "Afsharid Iran": {
+  "qid": "Q63149558",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Afsharid Iran"
+ },
+ "Konbaung Dynasty": {
+  "qid": "Q1062422",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Konbaung dynasty"
+ },
+ "Sultanate of Oman": {
+  "qid": "Q842",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Oman"
+ },
+ "Sultanate of Selangor": {
+  "qid": "Q7636765",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sultan of Selangor"
+ },
+ "Emirate of Diriyah": {
+  "qid": "Q146871",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Emirate of Diriyah"
+ },
+ "Sultan of Yogyakarta": {
+  "qid": "Q1050326",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Hamengkubuwono"
+ },
+ "Surakarta Sunanate": {
+  "qid": "Q2122499",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Surakarta Sunanate"
+ },
+ "Khanates of the Caucasus": {
+  "qid": "Q406684",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Khanates of the Caucasus"
+ },
+ "Durrani Empire": {
+  "qid": "Q467627",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Durrani Empire"
+ },
+ "Zand Dynasty": {
+  "qid": "Q97629053",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Zand dynasty"
+ },
+ "Corsican Republic": {
+  "qid": "Q71234",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Corsican Republic"
+ },
+ "Kuwait": {
+  "qid": "Q817",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kuwait",
+  "file": "Q817__kuwait"
+ },
+ "State of Kuwait": {
+  "qid": "Q817",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kuwait",
+  "file": "Q817__state-of-kuwait"
+ },
+ "Bahrain": {
+  "qid": "Q398",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Bahrain",
+  "file": "Q398__bahrain"
+ },
+ "Kingdom of Bahrain": {
+  "qid": "Q398",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Bahrain",
+  "file": "Q398__kingdom-of-bahrain"
+ },
+ "Kelantan": {
+  "qid": "Q185944",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kelantan"
+ },
+ "Kingdom of Naples (Napoleonic)": {
+  "qid": "Q48779892",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Naples (Napoleonic)"
+ },
+ "Sikh Confederacy": {
+  "qid": "Q2578028",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Misl"
+ },
+ "Thonburi Kingdom": {
+  "qid": "Q1115291",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Thonburi Kingdom"
+ },
+ "Pontianak Kadriyah Sultanate": {
+  "qid": "Q3048747",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Pontianak Sultanate"
+ },
+ "Tây Sơn dynasty": {
+  "qid": "Q1034173",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Tây Sơn dynasty"
+ },
+ "Negeri Sembilan": {
+  "qid": "Q213893",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Negeri Sembilan"
+ },
+ "Chiangmai": {
+  "qid": "Q52028",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Chiang Mai"
+ },
+ "Nepal": {
+  "qid": "Q837",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Nepal"
+ },
+ "United States of America": {
+  "qid": "Q30",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "United States"
+ },
+ "Vermont Republic": {
+  "qid": "Q1649602",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Vermont Republic"
+ },
+ "House of Khalifa": {
+  "qid": "Q1158126",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "House of Khalifa"
+ },
+ "Rattanakosin Kingdom": {
+  "qid": "Q1155700",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Rattanakosin Kingdom (1782–1932)"
+ },
+ "Emirate of Bukhara": {
+  "qid": "Q746558",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Emirate of Bukhara"
+ },
+ "Qajar Dynasty": {
+  "qid": "Q189326",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Qajar dynasty"
+ },
+ "Freetown Colony": {
+  "qid": "Q3780",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Freetown"
+ },
+ "French Colony of Guiana": {
+  "qid": "Q3769",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "French Guiana"
+ },
+ "Kingdom of Hawaï'i": {
+  "qid": "Q156418",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Hawaiian Kingdom"
+ },
+ "French First Republic": {
+  "qid": "Q58296",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "French First Republic"
+ },
+ "Nguyễn dynasty": {
+  "qid": "Q6500483",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Nguyen dynasty"
+ },
+ "Haiti": {
+  "qid": "Q2006756",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Haiti",
+  "file": "Q2006756__haiti"
+ },
+ "Empire of Haiti": {
+  "qid": "Q2006756",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Haiti",
+  "file": "Q2006756__empire-of-haiti"
+ },
+ "Merina Kingdom": {
+  "qid": "Q1071439",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Merina Kingdom"
+ },
+ "British Cape Colony": {
+  "qid": "Q370736",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Cape Colony"
+ },
+ "Batavian Republic": {
+  "qid": "Q188553",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Batavian Republic"
+ },
+ "French Directory": {
+  "qid": "Q219817",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "French Directory"
+ },
+ "British Ceylon": {
+  "qid": "Q918153",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "British Ceylon"
+ },
+ "Ligurian Republic": {
+  "qid": "Q659312",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ligurian Republic"
+ },
+ "Grand Duchy of Tuscany": {
+  "qid": "Q154849",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Grand Duchy of Tuscany"
+ },
+ "Cisalpine Republic": {
+  "qid": "Q213353",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Cisalpine Republic"
+ },
+ "Republic of San Marino": {
+  "qid": "Q238",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "San Marino"
+ },
+ "Helvetic Republic": {
+  "qid": "Q206696",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Helvetic Republic"
+ },
+ "Revolutionary Roman Republic": {
+  "qid": "Q175881",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Roman Republic (1798-1799)",
+  "file": "Q175881__revolutionary-roman-republic"
+ },
+ "Italian Republic": {
+  "qid": "Q175881",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Roman Republic (1798-1799)",
+  "file": "Q175881__italian-republic"
+ },
+ "Sikh Empire": {
+  "qid": "Q83572",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sikh Empire"
+ },
+ "Cispadane Republic": {
+  "qid": "Q463289",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Cispadane Republic"
+ },
+ "French Consulate": {
+  "qid": "Q877619",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "French Consulate"
+ },
+ "Septinsular Republic": {
+  "qid": "Q1077630",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Septinsular Republic"
+ },
+ "Dutch East Indies": {
+  "qid": "Q188161",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Dutch East Indies"
+ },
+ "French Louisiana": {
+  "qid": "Q5501836",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "French Louisiana"
+ },
+ "Napoleonic Batavia Republic": {
+  "qid": "Q4807130",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Dutch Cape Colony"
+ },
+ "Electorate of Württemberg": {
+  "qid": "Q2172530",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Electorate of Württemberg"
+ },
+ "Kingdom of Hanover": {
+  "qid": "Q164079",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Hanover"
+ },
+ "Electorate of Hesse": {
+  "qid": "Q529605",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Electorate of Hesse"
+ },
+ "Electorate of Salzburg": {
+  "qid": "Q646390",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Electorate of Salzburg"
+ },
+ "Kingdom of Etruria": {
+  "qid": "Q223793",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Etruria"
+ },
+ "Electorate of Baden": {
+  "qid": "Q637238",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Electorate of Baden"
+ },
+ "Muhammad Ali dynasty": {
+  "qid": "Q3057606",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "History of Egypt under the Muhammad Ali dynasty"
+ },
+ "First French colonial empire": {
+  "qid": "Q71084",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "French colonial empire ",
+  "file": "Q71084__first-french-colonial-empire"
+ },
+ "First French Empire": {
+  "qid": "Q71084",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "French colonial empire ",
+  "file": "Q71084__first-french-empire"
+ },
+ "Sokoto Caliphate": {
+  "qid": "Q600524",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sokoto Caliphate"
+ },
+ "Serbs": {
+  "qid": "Q127885",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Serbs"
+ },
+ "Duchy of Nassau": {
+  "qid": "Q836680",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Nassau"
+ },
+ "Saxe-Altenburg": {
+  "qid": "Q158151",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Saxe-Altenburg"
+ },
+ "Grand Duchy of Baden": {
+  "qid": "Q186320",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Grand Duchy of Baden"
+ },
+ "Austrian Empire": {
+  "qid": "Q131964",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Austrian Empire"
+ },
+ "Free City of Bremen": {
+  "qid": "Q474779",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "History of Bremen (city)"
+ },
+ "Duchy of Oldenburg": {
+  "qid": "Q697084",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Oldenburg"
+ },
+ "Free City of Lübeck": {
+  "qid": "Q950240",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Free City of Lübeck"
+ },
+ "Principality of Regensberg": {
+  "qid": "Q701969",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Regensburg"
+ },
+ "Principality of Waldeck and Pyrmont": {
+  "qid": "Q165763",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Waldeck and Pyrmont"
+ },
+ "Kingdom of Württemberg": {
+  "qid": "Q159631",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Württemberg"
+ },
+ "Kingdom of Holland": {
+  "qid": "Q212278",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Batavian Republic"
+ },
+ "Principality of Lippe": {
+  "qid": "Q14551680",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Lippe"
+ },
+ "Kingdom of Bavaria": {
+  "qid": "Q154195",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Bavaria"
+ },
+ "Grand Duchy of Würzburg": {
+  "qid": "Q698089",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Grand Duchy of Würzburg"
+ },
+ "Principality of Reuss-Gera": {
+  "qid": "Q639100",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Reuss-Gera"
+ },
+ "Duchy of Mecklenburg": {
+  "qid": "Q109252949",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Mecklenburg"
+ },
+ "Grand Duchy of Hesse": {
+  "qid": "Q20135",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Grand Duchy of Hesse"
+ },
+ "Grand Duchy of Saxe-Weimar-Eisenach": {
+  "qid": "Q155570",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Saxe-Weimar-Eisenach"
+ },
+ "Principality of Hohenzollern-Sigmaringen": {
+  "qid": "Q157013",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Hohenzollern-Sigmaringen"
+ },
+ "Duchy of Anhalt": {
+  "qid": "Q16550783",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Anhalt"
+ },
+ "Kingdom of Saxony": {
+  "qid": "Q153015",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Saxony"
+ },
+ "Grand Duchy of Berg": {
+  "qid": "Q249428",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Grand Duchy of Berg"
+ },
+ "Duchy of Warsaw": {
+  "qid": "Q152115",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Warsaw"
+ },
+ "Free City of Danzig": {
+  "qid": "Q216173",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Free City of Danzig"
+ },
+ "Kingdom of Westphalia": {
+  "qid": "Q153943",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Westphalia"
+ },
+ "Confederation of the Rhine": {
+  "qid": "Q154741",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Confederation of the Rhine"
+ },
+ "New Granada": {
+  "qid": "Q1863715",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "New Granada"
+ },
+ "Republic of Venezuela": {
+  "qid": "Q717",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Venezuela",
+  "file": "Q717__republic-of-venezuela"
+ },
+ "Venezuela": {
+  "qid": "Q717",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Venezuela",
+  "file": "Q717__venezuela"
+ },
+ "Mexicans": {
+  "qid": "Q1209676",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Mexicans"
+ },
+ "Netherlands": {
+  "qid": "Q55",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Netherlands"
+ },
+ "Paraguay": {
+  "qid": "Q733",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Paraguay"
+ },
+ "Río de la Plata": {
+  "qid": "Q35827",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Río de la Plata"
+ },
+ "Bessarabia": {
+  "qid": "Q174994",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Bessarabia"
+ },
+ "Guayaquil Junta": {
+  "qid": "Q5334383",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ecuadorian War of Independence"
+ },
+ "Republic of Chile": {
+  "qid": "Q298",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Chile"
+ },
+ "Omani Slave Coast": {
+  "qid": "Q4334533",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Omanis"
+ },
+ "Cundinamarca": {
+  "qid": "Q5194225",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Cundinamarca"
+ },
+ "Imamate of Yemen": {
+  "qid": "Q1042069",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Imams of Yemen"
+ },
+ "Federal League": {
+  "qid": "Q2625228",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Federal League (1815-1820)"
+ },
+ "Free City of Hamburg": {
+  "qid": "Q1055",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Hamburg"
+ },
+ "Sovereign Principality of the United Netherlands": {
+  "qid": "Q774783",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sovereign Principality of the United Netherlands"
+ },
+ "Duchy of Brunswick": {
+  "qid": "Q326029",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Brunswick"
+ },
+ "Kingdom of Norway": {
+  "qid": "Q20",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Norway"
+ },
+ "Free City of Krakow": {
+  "qid": "Q501303",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Free City of Cracow"
+ },
+ "Duchy of Parma and Piacenza": {
+  "qid": "Q165040",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Parma and Piacenza"
+ },
+ "Kingdom of the Two Sicilies": {
+  "qid": "Q180393",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of the Two Sicilies"
+ },
+ "United Kingdoms of Sweden and Norway": {
+  "qid": "Q62589",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Union between Sweden and Norway"
+ },
+ "Duchy of Modena and Reggio": {
+  "qid": "Q252580",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Modena and Reggio"
+ },
+ "German Confederation": {
+  "qid": "Q151624",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "German Confederation"
+ },
+ "Principality of Andorra": {
+  "qid": "Q228",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Andorra"
+ },
+ "Principality of Schwarzburg-Sonderhausen": {
+  "qid": "Q708821",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "House of Schwarzburg"
+ },
+ "Talpur Dynasty": {
+  "qid": "Q19569014",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Talpur dynasty"
+ },
+ "Saxe-Meiningen": {
+  "qid": "Q157710",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Saxe-Meiningen"
+ },
+ "Massina Empire": {
+  "qid": "Q635394",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Massina Empire"
+ },
+ "Zululand": {
+  "qid": "Q13558877",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Zululand"
+ },
+ "Burma": {
+  "qid": "Q836",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Myanmar",
+  "file": "Q836__burma"
+ },
+ "Union of Myanmar": {
+  "qid": "Q836",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Myanmar",
+  "file": "Q836__union-of-myanmar"
+ },
+ "Principality of Lichtenberg": {
+  "qid": "Q547629",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Lichtenberg"
+ },
+ "Trucial States": {
+  "qid": "Q1852345",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Trucial States"
+ },
+ "United Kingdom of Great Britain and Ireland": {
+  "qid": "Q174193",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Great Britain"
+ },
+ "Qatar Dynasty": {
+  "qid": "Q846",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Qatar",
+  "file": "Q846__qatar-dynasty"
+ },
+ "Qatar": {
+  "qid": "Q846",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Qatar",
+  "file": "Q846__qatar"
+ },
+ "State of Qatar": {
+  "qid": "Q846",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Qatar",
+  "file": "Q846__state-of-qatar"
+ },
+ "Free City of Frankfurt": {
+  "qid": "Q704300",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Free City of Frankfurt"
+ },
+ "Riau-Lingga Sultanate": {
+  "qid": "Q3503553",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Riau-Lingga Sultanate"
+ },
+ "Empire of Brazil": {
+  "qid": "Q217230",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Empire of Brazil"
+ },
+ "Gran Colombia": {
+  "qid": "Q199821",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Gran Colombia"
+ },
+ "First Mexican Empire": {
+  "qid": "Q285658",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "First Mexican Empire"
+ },
+ "First Hellenic Republic": {
+  "qid": "Q528546",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "First Hellenic Republic"
+ },
+ "Republic of Peru": {
+  "qid": "Q419",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Peru"
+ },
+ "United Provinces of Central America": {
+  "qid": "Q190025",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Federal Republic of Central America"
+ },
+ "Emirate of Nejd": {
+  "qid": "Q146862",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Emirate of Nejd"
+ },
+ "Federated Republic of Mexico": {
+  "qid": "Q1109279",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "First Mexican Republic"
+ },
+ "Bolivia": {
+  "qid": "Q750",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Bolivia"
+ },
+ "Emirate of Jabal Shammar": {
+  "qid": "Q5362837",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Emirate of Jabal Shammar"
+ },
+ "Emirate of Afghanistan": {
+  "qid": "Q1335260",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Emirate of Afghanistan"
+ },
+ "Caucasian Imamate": {
+  "qid": "Q2088141",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Caucasian Imamate"
+ },
+ "Oriental Republic of Uruguay": {
+  "qid": "Q77",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Uruguay"
+ },
+ "Poles": {
+  "qid": "Q1026",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Polish people"
+ },
+ "French Algiers": {
+  "qid": "Q3561",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Algiers"
+ },
+ "Sultanate of Sambaliung": {
+  "qid": "Q19727688",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "id.wikipedia.org/wiki/Kesultanan_Sambaliung"
+ },
+ "Kingdom of Belgium": {
+  "qid": "Q31",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Belgium"
+ },
+ "July Monarchy": {
+  "qid": "Q58202",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Bourbon Restoration in France"
+ },
+ "Republic of New Granada": {
+  "qid": "Q630882",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Republic of New Granada"
+ },
+ "Republic of Ecuador": {
+  "qid": "Q736",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ecuador"
+ },
+ "Argentine Confederation": {
+  "qid": "Q832554",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Argentine Confederation"
+ },
+ "Grand Duchy of Mecklenburg-Schwerin": {
+  "qid": "Q158445",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Mecklenburg"
+ },
+ "Peru-Bolivian Confederation": {
+  "qid": "Q899706",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Peru-Bolivian Confederation"
+ },
+ "Centralist Mexico": {
+  "qid": "Q5062192",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Centralist Republic of Mexico",
+  "file": "Q5062192__centralist-mexico"
+ },
+ "Mexico": {
+  "qid": "Q5062192",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Centralist Republic of Mexico",
+  "file": "Q5062192__mexico"
+ },
+ "Riograndense Republic": {
+  "qid": "Q162192",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Riograndense Republic"
+ },
+ "Republic of Texas": {
+  "qid": "Q170588",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Republic of Texas"
+ },
+ "Saxe-Coburg and Gotha": {
+  "qid": "Q3462133",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Saxe-Coburg and Gotha"
+ },
+ "Durrani Dynasty": {
+  "qid": "Q5316729",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Durrani dynasty"
+ },
+ "Honduras": {
+  "qid": "Q783",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Honduras"
+ },
+ "Republic of the Rio Grande": {
+  "qid": "Q2014442",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Republic of the Rio Grande"
+ },
+ "Republic of Costa Rica": {
+  "qid": "Q800",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Costa Rica"
+ },
+ "Guatemala": {
+  "qid": "Q774",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Guatemala"
+ },
+ "Natalia Republic": {
+  "qid": "Q1029847",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Natalia Republic"
+ },
+ "Ottoman Tripolitania": {
+  "qid": "Q1529261",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ottoman Tripolitania"
+ },
+ "Republic of Nicaragua": {
+  "qid": "Q811",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Nicaragua"
+ },
+ "Republic of El Salvador": {
+  "qid": "Q792",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "El Salvador"
+ },
+ "Los Altos": {
+  "qid": "Q738264",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Los Altos (state)"
+ },
+ "Kingdom of Sarawak": {
+  "qid": "Q1658411",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Raj of Sarawak"
+ },
+ "French Equatorial Africa": {
+  "qid": "Q271894",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "French Equatorial Africa"
+ },
+ "Kedah-Perlis District": {
+  "qid": "Q213467",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Perlis"
+ },
+ "Kashmir and Jammu": {
+  "qid": "Q2571484",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Jammu and Kashmir (princely state)"
+ },
+ "Dominican Republic": {
+  "qid": "Q786",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Dominican Republic"
+ },
+ "California Republic": {
+  "qid": "Q17557",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "California Republic"
+ },
+ "French Africa": {
+  "qid": "Q19951607",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "French Africa"
+ },
+ "Republic of Liberia": {
+  "qid": "Q1014",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Liberia"
+ },
+ "French Second Republic": {
+  "qid": "Q58326",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "French Second Republic"
+ },
+ "Italian Nationalists": {
+  "qid": "Q6093359",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Italian nationalism"
+ },
+ "Duchy of Holstein": {
+  "qid": "Q704288",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Duchy of Holstein"
+ },
+ "Republic of Baden": {
+  "qid": "Q690821",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Republic of Baden"
+ },
+ "Pahang Sultanate": {
+  "qid": "Q30592233",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Pahang Sultanate"
+ },
+ "Second French Empire": {
+  "qid": "Q71092",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Second French Empire"
+ },
+ "Republic of Baja California": {
+  "qid": "Q7314427",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Republic of Baja California"
+ },
+ "Montenegro": {
+  "qid": "Q236",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Montenegro"
+ },
+ "Taiping Heavenly Kingdom": {
+  "qid": "Q3486676",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Taiping Heavenly Kingdom"
+ },
+ "Mosquito Kingdom": {
+  "qid": "Q1165546",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Mosquito Coast"
+ },
+ "State of Buenos Aires": {
+  "qid": "Q6553448",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "State of Buenos Aires"
+ },
+ "Majeerteen Sultanate": {
+  "qid": "Q2257830",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Majeerteen Sultanate"
+ },
+ "Free Orange State": {
+  "qid": "Q218023",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Orange Free State"
+ },
+ "South African Republic": {
+  "qid": "Q550374",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "South African Republic"
+ },
+ "New Caledonia": {
+  "qid": "Q33788",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "New Caledonia"
+ },
+ "Sultanate of Zanzibar": {
+  "qid": "Q157904",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "People's Republic of Zanzibar"
+ },
+ "Panthay Rebellion": {
+  "qid": "Q1230569",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Panthay Rebellion"
+ },
+ "United Principalities of Moldavia and Wallachia": {
+  "qid": "Q958291",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "United Principalities of Moldavia and Wallachia"
+ },
+ "British Raj": {
+  "qid": "Q129286",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "British Raj"
+ },
+ "Granadine Confederation": {
+  "qid": "Q1141215",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Granadine Confederation"
+ },
+ "French Indochina": {
+  "qid": "Q185682",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "French Indochina"
+ },
+ "Confederate States of America": {
+  "qid": "Q81931",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Confederate States of America"
+ },
+ "United States of Colombia": {
+  "qid": "Q1061488",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "United States of Colombia"
+ },
+ "Mexican Monarchists": {
+  "qid": "Q15984928",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Conservative Party (Mexico)"
+ },
+ "Second Mexican Empire": {
+  "qid": "Q371334",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Second Mexican Empire"
+ },
+ "Argentine Republic": {
+  "qid": "Q414",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Argentine Confederation"
+ },
+ "Khedivate of Egypt": {
+  "qid": "Q127861",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Khedivate of Egypt"
+ },
+ "Republic of Colombia": {
+  "qid": "Q739",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Colombia"
+ },
+ "Austria-Hungary": {
+  "qid": "Q28513",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Austria-Hungary"
+ },
+ "Kamerun": {
+  "qid": "Q668294",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kamerun"
+ },
+ "Empire of Japan": {
+  "qid": "Q188712",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Empire of Japan"
+ },
+ "German Africa": {
+  "qid": "Q5551337",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "German colonization of Africa"
+ },
+ "French Third Republic": {
+  "qid": "Q70802",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "French Third Republic"
+ },
+ "German Empire": {
+  "qid": "Q43287",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "German Empire"
+ },
+ "Kingdom of Fiji": {
+  "qid": "Q17515160",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Fiji"
+ },
+ "First Spanish Republic": {
+  "qid": "Q497777",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "First Spanish Republic"
+ },
+ "Sultanate of Hobyo": {
+  "qid": "Q862404",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sultanate of Hobyo"
+ },
+ "Principality of Bulgaria": {
+  "qid": "Q815731",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Principality of Bulgaria"
+ },
+ "Nieuwe Republiek": {
+  "qid": "Q552157",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Nieuwe Republiek"
+ },
+ "Swaziland": {
+  "qid": "Q1050",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Eswatini",
+  "file": "Q1050__swaziland"
+ },
+ "Eswatini": {
+  "qid": "Q1050",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Eswatini",
+  "file": "Q1050__eswatini"
+ },
+ "British Africa": {
+  "qid": "Q179848",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Scramble for Africa"
+ },
+ "Italian Africa": {
+  "qid": "Q926295",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Italian Empire"
+ },
+ "New Hebrides": {
+  "qid": "Q752431",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "New Hebrides"
+ },
+ "Brazilian Republic": {
+  "qid": "Q155",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Brazil",
+  "file": "Q155__brazilian-republic"
+ },
+ "Unitary State of Brazil": {
+  "qid": "Q155",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Brazil",
+  "file": "Q155__unitary-state-of-brazil"
+ },
+ "Federated Republic of Brazil": {
+  "qid": "Q155",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Brazil",
+  "file": "Q155__federated-republic-of-brazil"
+ },
+ "Republic of Brazil": {
+  "qid": "Q155",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Brazil",
+  "file": "Q155__republic-of-brazil"
+ },
+ "Mahdist State": {
+  "qid": "Q3125368",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Mahdist State"
+ },
+ "Cuban Nationalists": {
+  "qid": "Q11256",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Fidel Castro"
+ },
+ "Republic of Hawai'i": {
+  "qid": "Q1057542",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Republic of Hawaii"
+ },
+ "Korean Empire": {
+  "qid": "Q28233",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Korean Empire"
+ },
+ "Cretan State": {
+  "qid": "Q72785",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Cretan State"
+ },
+ "Sultanate of Muscat and Oman": {
+  "qid": "Q157734",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Muscat and Oman"
+ },
+ "Belgian Congo": {
+  "qid": "Q213510",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Belgian Congo"
+ },
+ "Commonwealth of Australia": {
+  "qid": "Q408",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Australia"
+ },
+ "Republic of Cuba": {
+  "qid": "Q241",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Cuba",
+  "file": "Q241__republic-of-cuba"
+ },
+ "Communist Cuba": {
+  "qid": "Q241",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Cuba",
+  "file": "Q241__communist-cuba"
+ },
+ "Republic of Panama": {
+  "qid": "Q804",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Panama"
+ },
+ "Portuguese Republic": {
+  "qid": "Q45",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Portugal",
+  "file": "Q45__portuguese-republic"
+ },
+ "Portugal": {
+  "qid": "Q45",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Portugal",
+  "file": "Q45__portugal"
+ },
+ "Maderistas": {
+  "qid": "Q5428692",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "List of factions in the Mexican Revolution"
+ },
+ "Tangier International Zone": {
+  "qid": "Q3497642",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Tangier International Zone"
+ },
+ "Republic of Uryankhay": {
+  "qid": "Q56282578",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Uryankhay Republic"
+ },
+ "Republic of China": {
+  "qid": "Q13426199",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Republic of China (1912-1949)"
+ },
+ "Albania": {
+  "qid": "Q222",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Albania",
+  "file": "Q222__albania"
+ },
+ "Republic of Albania": {
+  "qid": "Q222",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Albania",
+  "file": "Q222__republic-of-albania"
+ },
+ "Imamate of Oman": {
+  "qid": "Q2342282",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Imamate of Oman"
+ },
+ "Kingdom of Hejaz": {
+  "qid": "Q956357",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Hejaz"
+ },
+ "Empire of China": {
+  "qid": "Q175379",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Empire of China (1915–1916)"
+ },
+ "Russian Republic": {
+  "qid": "Q139319",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Russian Republic"
+ },
+ "Kuomintang": {
+  "qid": "Q31113",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kuomintang"
+ },
+ "Asir": {
+  "qid": "Q15728206",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Asir Province"
+ },
+ "Armenia": {
+  "qid": "Q399",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Armenia",
+  "file": "Q399__armenia"
+ },
+ "Republic of Armenia": {
+  "qid": "Q399",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Armenia",
+  "file": "Q399__republic-of-armenia"
+ },
+ "Republic of Finland": {
+  "qid": "Q33",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Finland"
+ },
+ "Polish Armed Forces": {
+  "qid": "Q248989",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Polish Land Forces"
+ },
+ "Kingdom of Iceland": {
+  "qid": "Q62567",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Iceland"
+ },
+ "Czechoslovakia": {
+  "qid": "Q33946",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Czechoslovakia"
+ },
+ "Hungarian Republic": {
+  "qid": "Q28",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Hungary",
+  "file": "Q28__hungarian-republic"
+ },
+ "Hungary": {
+  "qid": "Q28",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Hungary",
+  "file": "Q28__hungary"
+ },
+ "Kingdom of Romania": {
+  "qid": "Q203493",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Romania",
+  "file": "Q203493__kingdom-of-romania"
+ },
+ "Romania": {
+  "qid": "Q203493",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Romania",
+  "file": "Q203493__romania"
+ },
+ "North Yemen": {
+  "qid": "Q1998401",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "North Yemen"
+ },
+ "Kingdom of Lithuania": {
+  "qid": "Q1656775",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Lithuania"
+ },
+ "Ukrainian People's Republic": {
+  "qid": "Q1508143",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ukrainian State"
+ },
+ "Yugoslavia": {
+  "qid": "Q83286",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Yugoslavia",
+  "file": "Q83286__yugoslavia"
+ },
+ "Socialist Federal Republic of Yugoslavia": {
+  "qid": "Q83286",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Yugoslavia",
+  "file": "Q83286__socialist-federal-republic-of-yugoslavia"
+ },
+ "Estonia": {
+  "qid": "Q191",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Estonia",
+  "file": "Q191__estonia"
+ },
+ "Republic of Estonia": {
+  "qid": "Q191",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Estonia",
+  "file": "Q191__republic-of-estonia"
+ },
+ "Second Polish Republic": {
+  "qid": "Q207272",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Second Polish Republic"
+ },
+ "Republic of Austria": {
+  "qid": "Q40",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Austria"
+ },
+ "Weimar Republic": {
+  "qid": "Q41304",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Weimar Republic"
+ },
+ "Republic of Latvia": {
+  "qid": "Q211",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Latvia"
+ },
+ "Republics of the Soviet Union": {
+  "qid": "Q236036",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Republics of the Soviet Union"
+ },
+ "Union of Soviet Socialist Republics": {
+  "qid": "Q15180",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Soviet Union"
+ },
+ "Kingdom of Egypt": {
+  "qid": "Q124943",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Egypt"
+ },
+ "United Kingdom": {
+  "qid": "Q145",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Great Britain"
+ },
+ "Republic of the Rif": {
+  "qid": "Q37102",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Republic of the Rif"
+ },
+ "Irish Free State": {
+  "qid": "Q31747",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Irish Free State"
+ },
+ "Provisional Priamurye Government": {
+  "qid": "Q1381504",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Provisional Priamurye Government"
+ },
+ "Republic of Turkey": {
+  "qid": "Q43",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Turkey"
+ },
+ "Pahlavi Dynasty": {
+  "qid": "Q207991",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Pahlavi dynasty"
+ },
+ "Second Hellenic Republic": {
+  "qid": "Q265824",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "First Hellenic Republic"
+ },
+ "Kingdom of Afghanistan": {
+  "qid": "Q1138904",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Afghanistan"
+ },
+ "Mongolian People's Republic": {
+  "qid": "Q212056",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Mongolian People's Republic"
+ },
+ "Kingdom of Hejaz and Nejd": {
+  "qid": "Q1756546",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Hejaz and Nejd"
+ },
+ "Estado Novo": {
+  "qid": "Q824489",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Estado Novo (Portugal)"
+ },
+ "Chinese Communists": {
+  "qid": "Q17427",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Chinese Communist Party",
+  "file": "Q17427__chinese-communists"
+ },
+ "Communist Party of China": {
+  "qid": "Q17427",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Chinese Communist Party",
+  "file": "Q17427__communist-party-of-china"
+ },
+ "Anti-Kuomintang Coalition": {
+  "qid": "Q717809",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Central Plains War"
+ },
+ "South Africa": {
+  "qid": "Q258",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "South Africa"
+ },
+ "Canada": {
+  "qid": "Q16",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Canada"
+ },
+ "Kingdom of Thailand": {
+  "qid": "Q869",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Thailand"
+ },
+ "Kingdom of Iraq": {
+  "qid": "Q149805",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Iraq"
+ },
+ "Second Spanish Republic": {
+  "qid": "Q178038",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Second Spanish Republic"
+ },
+ "Kingdom of Saudi Arabia": {
+  "qid": "Q851",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Saudi Arabia"
+ },
+ "Spanish Nationalists": {
+  "qid": "Q2742116",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Nationalist faction (Spanish Civil War)"
+ },
+ "Nazi Germany": {
+  "qid": "Q7318",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Nazi Germany"
+ },
+ "Republic of Haiti": {
+  "qid": "Q790",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Haiti"
+ },
+ "Éire": {
+  "qid": "Q5306909",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Éire"
+ },
+ "Francoist Spain": {
+  "qid": "Q13474305",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Francoist Spain"
+ },
+ "Free French": {
+  "qid": "Q152582",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Free France"
+ },
+ "Vichy France": {
+  "qid": "Q69808",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Vichy France"
+ },
+ "Independent State of Croatia": {
+  "qid": "Q153128",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Independent State of Croatia"
+ },
+ "Ethiopia": {
+  "qid": "Q115",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ethiopia"
+ },
+ "Yugoslav Partisans": {
+  "qid": "Q155198",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Yugoslav Partisans"
+ },
+ "Lebanon": {
+  "qid": "Q822",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Lebanon"
+ },
+ "Kingdom of Greece": {
+  "qid": "Q209065",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Greece"
+ },
+ "French Fourth Republic": {
+  "qid": "Q69829",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "French Fourth Republic"
+ },
+ "East Turkestan Republic": {
+  "qid": "Q10988528",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "East Turkestan"
+ },
+ "Republic of Italy": {
+  "qid": "Q38",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Italy"
+ },
+ "Republic of Indonesia": {
+  "qid": "Q252",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Indonesia"
+ },
+ "Papua New Guinea": {
+  "qid": "Q691",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Papua New Guinea"
+ },
+ "Republic of Iceland": {
+  "qid": "Q189",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Iceland"
+ },
+ "Second Republic of Austria": {
+  "qid": "Q187830",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "History of Austria"
+ },
+ "Second Syrian Republic": {
+  "qid": "Q146885",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Second Syrian Republic"
+ },
+ "Kingdom of Bulgaria": {
+  "qid": "Q147909",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Bulgaria"
+ },
+ "Republic of India": {
+  "qid": "Q668",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "India"
+ },
+ "Republic of the Philippines": {
+  "qid": "Q928",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Philippines"
+ },
+ "Islamic Republic of Pakistan": {
+  "qid": "Q843",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Pakistan"
+ },
+ "Qatar Protectorate": {
+  "qid": "Q944391",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "History of Qatar"
+ },
+ "Kingdom of Jordan": {
+  "qid": "Q810",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Jordan"
+ },
+ "New Zealand": {
+  "qid": "Q664",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "New Zealand"
+ },
+ "Democratic People's Republic of Korea": {
+  "qid": "Q884",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "North Korea"
+ },
+ "Republic of Korea": {
+  "qid": "Q423",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "South Korea"
+ },
+ "Sri Lanka": {
+  "qid": "Q854",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sri Lanka"
+ },
+ "Socialist Republic of Romania": {
+  "qid": "Q842794",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Socialist Republic of Romania"
+ },
+ "Palestinians": {
+  "qid": "Q201190",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Palestinians"
+ },
+ "State of Israel": {
+  "qid": "Q801",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Israel"
+ },
+ "German Democratic Republic": {
+  "qid": "Q16957",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "East Germany"
+ },
+ "People's Republic of China": {
+  "qid": "Q148",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "China"
+ },
+ "Federal Republic of Germany": {
+  "qid": "Q713750",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "West Germany"
+ },
+ "Hungarian People's Republic": {
+  "qid": "Q16410",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Hungarian People's Republic"
+ },
+ "Republic of Poland": {
+  "qid": "Q36",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Poland"
+ },
+ "Japan": {
+  "qid": "Q17",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Japan"
+ },
+ "Republic of Egypt": {
+  "qid": "Q79",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Egypt",
+  "file": "Q79__republic-of-egypt"
+ },
+ "Arab Republic of Egypt": {
+  "qid": "Q79",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Egypt",
+  "file": "Q79__arab-republic-of-egypt"
+ },
+ "Kingdom of Libya": {
+  "qid": "Q31454",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Libya"
+ },
+ "Kingdom of Laos": {
+  "qid": "Q870055",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kingdom of Laos"
+ },
+ "Republic of Tunisia": {
+  "qid": "Q948",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Tunisia"
+ },
+ "Democratic Republic of Vietnam": {
+  "qid": "Q172640",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "North Vietnam"
+ },
+ "Republic of Sudan": {
+  "qid": "Q1049",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sudan"
+ },
+ "Ghana": {
+  "qid": "Q117",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ghana"
+ },
+ "United Arab Republic": {
+  "qid": "Q170468",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "United Arab Republic"
+ },
+ "Cuban Communists": {
+  "qid": "Q371402",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Communist Party of Cuba"
+ },
+ "Arab Federation": {
+  "qid": "Q146713",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Arab Federation"
+ },
+ "French Fifth Republic": {
+  "qid": "Q200686",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "French Fifth Republic"
+ },
+ "Madagascar": {
+  "qid": "Q1019",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Madagascar"
+ },
+ "Mali Federation": {
+  "qid": "Q216632",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Mali Federation"
+ },
+ "Guinea": {
+  "qid": "Q1006",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Guinea"
+ },
+ "Togo": {
+  "qid": "Q945",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Togo"
+ },
+ "Federal Republic of Somalia": {
+  "qid": "Q1045",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Somalia"
+ },
+ "Democratic Republic of the Congo": {
+  "qid": "Q974",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Democratic Republic of the Congo",
+  "file": "Q974__democratic-republic-of-the-congo"
+ },
+ "Republic of the Congo": {
+  "qid": "Q974",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Democratic Republic of the Congo",
+  "file": "Q974__republic-of-the-congo"
+ },
+ "Iraqi Republic": {
+  "qid": "Q796",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Iraq",
+  "file": "Q796__iraqi-republic"
+ },
+ "Republic of Iraq": {
+  "qid": "Q796",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Iraq",
+  "file": "Q796__republic-of-iraq"
+ },
+ "Republic of Cameroon": {
+  "qid": "Q1009",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Cameroon"
+ },
+ "Gabon": {
+  "qid": "Q1000",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Gabon"
+ },
+ "Republic of Syria": {
+  "qid": "Q858",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Syria",
+  "file": "Q858__republic-of-syria"
+ },
+ "Ba'athist Syria": {
+  "qid": "Q858",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Syria",
+  "file": "Q858__ba-athist-syria"
+ },
+ "Syria": {
+  "qid": "Q858",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Syria",
+  "file": "Q858__syria"
+ },
+ "Tanganyika": {
+  "qid": "Q431731",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Tanzania"
+ },
+ "Sierra Leone": {
+  "qid": "Q1044",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Sierra Leone"
+ },
+ "British East Africa": {
+  "qid": "Q876185",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "East Africa Protectorate"
+ },
+ "Central African Republic": {
+  "qid": "Q929",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Central African Republic"
+ },
+ "Republic of Côte d'Ivoire": {
+  "qid": "Q1008",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ivory Coast"
+ },
+ "Republic of Senegal": {
+  "qid": "Q1041",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Senegal"
+ },
+ "Republic of Chad": {
+  "qid": "Q657",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Chad"
+ },
+ "Republic of Dahomey": {
+  "qid": "Q798431",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Benin"
+ },
+ "Federal Republic of Nigeria": {
+  "qid": "Q1033",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Nigeria"
+ },
+ "Mauritania": {
+  "qid": "Q1025",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Mauritania"
+ },
+ "Burkina Faso": {
+  "qid": "Q965",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Burkina Faso"
+ },
+ "Republic of the Niger": {
+  "qid": "Q1032",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Niger"
+ },
+ "Republic of Kenya": {
+  "qid": "Q114",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kenya"
+ },
+ "Republic of Rwanda": {
+  "qid": "Q1037",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Rwanda"
+ },
+ "Jamaica": {
+  "qid": "Q766",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Jamaica"
+ },
+ "Republic of Trinidad and Tobago": {
+  "qid": "Q754",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Trinidad and Tobago"
+ },
+ "People's Democratic Republic of Algeria": {
+  "qid": "Q262",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Algeria"
+ },
+ "Malaysia": {
+  "qid": "Q833",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Malaysia"
+ },
+ "Republic of Uganda": {
+  "qid": "Q1036",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Uganda"
+ },
+ "Tanzania": {
+  "qid": "Q924",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Tanzania"
+ },
+ "Republic of Burundi": {
+  "qid": "Q967",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Burundi"
+ },
+ "Malawi": {
+  "qid": "Q1020",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Malawi"
+ },
+ "Lesotho": {
+  "qid": "Q1013",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Lesotho"
+ },
+ "Guyana": {
+  "qid": "Q734",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Guyana"
+ },
+ "Arab Socialist Ba'ath Party": {
+  "qid": "Q16243030",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Arab Socialist Ba'ath Party - Syria Region"
+ },
+ "Zambia": {
+  "qid": "Q953",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Zambia"
+ },
+ "Republic of The Gambia": {
+  "qid": "Q1005",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "The Gambia"
+ },
+ "Barbados": {
+  "qid": "Q244",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Barbados"
+ },
+ "Rhodesia": {
+  "qid": "Q217169",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Rhodesia"
+ },
+ "Malta": {
+  "qid": "Q233",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Malta"
+ },
+ "Greek junta": {
+  "qid": "Q504081",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Greek junta"
+ },
+ "Republic of Singapore": {
+  "qid": "Q334",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Singapore"
+ },
+ "Saint Kitts": {
+  "qid": "Q204989",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Saint Kitts"
+ },
+ "Antigua and Barbuda": {
+  "qid": "Q781",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Antigua and Barbuda"
+ },
+ "Republic of Botswana": {
+  "qid": "Q963",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Botswana"
+ },
+ "Libyan Arab Republic": {
+  "qid": "Q17435890",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "History of Libya under Muammar Gaddafi"
+ },
+ "Mauritius": {
+  "qid": "Q1027",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Mauritius"
+ },
+ "People's Democratic Republic of Yemen": {
+  "qid": "Q199841",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "South Yemen"
+ },
+ "Republic of Benin": {
+  "qid": "Q962",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Benin"
+ },
+ "Saint Vincent": {
+  "qid": "Q757",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Saint Vincent and the Grenadines"
+ },
+ "Equatorial Guinea": {
+  "qid": "Q983",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Equatorial Guinea"
+ },
+ "Commonwealth of The Bahamas": {
+  "qid": "Q778",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "The Bahamas"
+ },
+ "Republic of Guinea-Bissau": {
+  "qid": "Q1007",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Guinea-Bissau"
+ },
+ "Republic of Fiji": {
+  "qid": "Q712",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Fiji"
+ },
+ "Republic of Afghanistan": {
+  "qid": "Q1415128",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Republic of Afghanistan (1973–1978)"
+ },
+ "People's Republic of Bangladesh": {
+  "qid": "Q902",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Bangladesh"
+ },
+ "Khmer Republic": {
+  "qid": "Q1054184",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Cambodia"
+ },
+ "United Arab Emirates": {
+  "qid": "Q878",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "United Arab Emirates"
+ },
+ "Zaire": {
+  "qid": "Q6500954",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Zaire"
+ },
+ "Seychelles": {
+  "qid": "Q1042",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Seychelles"
+ },
+ "Turkish Republic of Northern Cyprus": {
+  "qid": "Q23681",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Northern Cyprus"
+ },
+ "Socialist Republic of Vietnam": {
+  "qid": "Q881",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Vietnam"
+ },
+ "Third Hellenic Republic": {
+  "qid": "Q17765809",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Third Hellenic Republic"
+ },
+ "People's Republic of Angola": {
+  "qid": "Q916",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Angola"
+ },
+ "Mozambique": {
+  "qid": "Q1029",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Mozambique"
+ },
+ "Republic of Cabo Verde": {
+  "qid": "Q1011",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Cape Verde"
+ },
+ "Khmer Rouge": {
+  "qid": "Q191764",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Khmer Rouge"
+ },
+ "Grenada": {
+  "qid": "Q769",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Grenada"
+ },
+ "Republic of Suriname": {
+  "qid": "Q730",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Suriname"
+ },
+ "São Tomé and Príncipe": {
+  "qid": "Q1039",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "São Tomé and Príncipe"
+ },
+ "Communist Laos": {
+  "qid": "Q819",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Laos"
+ },
+ "People's Republic of Kampuchea": {
+  "qid": "Q867778",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "People's Republic of Kampuchea"
+ },
+ "Commonwealth of Dominica": {
+  "qid": "Q784",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Dominica"
+ },
+ "Zimbabwe Rhodesia": {
+  "qid": "Q890120",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Zimbabwe Rhodesia"
+ },
+ "Saint Lucia": {
+  "qid": "Q760",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Saint Lucia"
+ },
+ "Islamic Republic of Iran": {
+  "qid": "Q794",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Iran"
+ },
+ "Solomon Islands": {
+  "qid": "Q685",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Solomon Islands"
+ },
+ "Afghanistan": {
+  "qid": "Q889",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Afghanistan"
+ },
+ "Republic of Djibouti": {
+  "qid": "Q977",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Djibouti"
+ },
+ "Republic of Zimbabwe": {
+  "qid": "Q954",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Zimbabwe"
+ },
+ "Vanuatu": {
+  "qid": "Q686",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Vanuatu"
+ },
+ "Belize": {
+  "qid": "Q242",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Belize"
+ },
+ "Micronesia": {
+  "qid": "Q3359409",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Micronesia"
+ },
+ "Mujahideen": {
+  "qid": "Q42759",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Mujahideen"
+ },
+ "Republic of Yemen": {
+  "qid": "Q805",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Yemen"
+ },
+ "Republic of Lithuania": {
+  "qid": "Q37",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Lithuania"
+ },
+ "Namibia": {
+  "qid": "Q1030",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Namibia"
+ },
+ "Federated Republic of Germany": {
+  "qid": "Q183",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Germany"
+ },
+ "Republic of Bulgaria": {
+  "qid": "Q219",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Bulgaria"
+ },
+ "Republic of Tajikistan": {
+  "qid": "Q863",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Tajikistan"
+ },
+ "Kazakhstan": {
+  "qid": "Q232",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kazakhstan"
+ },
+ "Republic of Croatia": {
+  "qid": "Q224",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Croatia"
+ },
+ "Chechen Republic": {
+  "qid": "Q5187",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Chechnya"
+ },
+ "Serbia-Montenegro": {
+  "qid": "Q37024",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Serbia and Montenegro"
+ },
+ "Republic of Slovenia": {
+  "qid": "Q215",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Slovenia"
+ },
+ "Russian-occupied territories": {
+  "qid": "Q106809413",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Russian-occupied territories"
+ },
+ "Mongolia": {
+  "qid": "Q711",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Mongolia"
+ },
+ "Republic of Belarus": {
+  "qid": "Q184",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Belarus"
+ },
+ "Kyrgyzstan": {
+  "qid": "Q813",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kyrgyzstan"
+ },
+ "Slovakia": {
+  "qid": "Q214",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Slovakia"
+ },
+ "Republic of Azerbaijan": {
+  "qid": "Q227",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Azerbaijan"
+ },
+ "Bosnia and Herzegovina": {
+  "qid": "Q225",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Bosnia and Herzegovina"
+ },
+ "Czech Republic": {
+  "qid": "Q213",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Czech Republic"
+ },
+ "Former Yugoslav Republic of Macedonia": {
+  "qid": "Q221",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "North Macedonia",
+  "file": "Q221__former-yugoslav-republic-of-macedonia"
+ },
+ "North Macedonia": {
+  "qid": "Q221",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "North Macedonia",
+  "file": "Q221__north-macedonia"
+ },
+ "State of Eritrea": {
+  "qid": "Q986",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Eritrea"
+ },
+ "Republic of Uzbekistan": {
+  "qid": "Q265",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Uzbekistan"
+ },
+ "Russian Federation": {
+  "qid": "Q159",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Russia"
+ },
+ "Republic of Moldova": {
+  "qid": "Q217",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Moldova"
+ },
+ "Ukraine": {
+  "qid": "Q212",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Ukraine"
+ },
+ "Turkmenistan": {
+  "qid": "Q874",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Turkmenistan"
+ },
+ "Taliban": {
+  "qid": "Q42418",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Taliban"
+ },
+ "Palau": {
+  "qid": "Q695",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Palau"
+ },
+ "Kosovo": {
+  "qid": "Q1246",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Kosovo"
+ },
+ "Commonwealth of Nations": {
+  "qid": "Q7785",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Commonwealth of Nations"
+ },
+ "British Overseas Territories": {
+  "qid": "Q46395",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "British Overseas Territories"
+ },
+ "East Timor": {
+  "qid": "Q574",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "East Timor"
+ },
+ "State of Libya": {
+  "qid": "Q1016",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Libya"
+ },
+ "South Sudan": {
+  "qid": "Q958",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "South Sudan"
+ },
+ "Gaza/Hamas": {
+  "qid": "Q5588642",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Governance of the Gaza Strip"
+ },
+ "United Provinces of New Granada": {
+  "qid": "Q2249661",
+  "curated": false,
+  "auto": true,
+  "wikipedia": null
+ },
+ "Congo Free State": {
+  "qid": "Q76048",
+  "curated": false,
+  "auto": true,
+  "wikipedia": null
+ },
+ "Tuvan People's Republic": {
+  "qid": "Q816709",
+  "curated": false,
+  "auto": true,
+  "wikipedia": null
+ },
+ "Slovak Republic (1939-1945)": {
+  "qid": "Q154401",
+  "curated": false,
+  "auto": true,
+  "wikipedia": null
+ },
+ "Far Eastern Republic": {
+  "qid": "Q61292",
+  "curated": false,
+  "auto": true,
+  "wikipedia": null
+ },
+ "Republic of Upper Volta": {
+  "qid": "Q797422",
+  "curated": false,
+  "auto": true,
+  "wikipedia": null
+ },
+ "Ruanda-Urundi": {
+  "qid": "Q590743",
+  "curated": false,
+  "auto": true,
+  "wikipedia": null
+ },
+ "Federation of Rhodesia and Nyasaland": {
+  "qid": "Q654342",
+  "curated": false,
+  "auto": true,
+  "wikipedia": null
+ },
+ "Mountainous Republic of the Northern Caucasus": {
+  "qid": "Q1639475",
+  "curated": false,
+  "auto": true,
+  "wikipedia": null
+ },
+ "Alash Autonomy": {
+  "qid": "Q1779823",
+  "curated": false,
+  "auto": true,
+  "wikipedia": null
+ },
+ "Artuqids": {
+  "qid": "Q1133431",
+  "curated": false,
+  "auto": true,
+  "wikipedia": null
+ },
+ "Dominion of Newfoundland": {
+  "qid": "Q38610",
+  "curated": false,
+  "auto": true,
+  "wikipedia": null
+ },
+ "Kuban People's Republic": {
+  "qid": "Q1778994",
+  "curated": false,
+  "auto": true,
+  "wikipedia": null
+ },
+ "League of Lezhë": {
+  "qid": "Q669241",
+  "curated": false,
+  "auto": true,
+  "wikipedia": null
+ },
+ "Duchy of Livonia": {
+  "qid": "Q1352878",
+  "curated": false,
+  "auto": true,
+  "wikipedia": null
+ },
+ "Netherlands New Guinea": {
+  "qid": "Q941881",
+  "curated": false,
+  "auto": true,
+  "wikipedia": null
+ },
+ "Darawiish": {
+  "qid": "Q1106424",
+  "curated": false,
+  "auto": true,
+  "wikipedia": null
+ },
+ "Swedish Pomerania": {
+  "qid": "Q682318",
+  "curated": false,
+  "auto": true,
+  "wikipedia": null
+ },
+ "Duchy of Ferrara": {
+  "qid": "Q693570",
+  "curated": false,
+  "auto": true,
+  "wikipedia": null
+ },
+ "Gold Coast Colony": {
+  "qid": "Q503623",
+  "curated": false,
+  "auto": true,
+  "wikipedia": null
+ },
+ "Basutoland": {
+  "qid": "Q2340665",
+  "curated": false,
+  "auto": true,
+  "wikipedia": null
+ },
+ "Netherlands Antilles": {
+  "qid": "Q25227",
+  "curated": false,
+  "auto": true,
+  "wikipedia": null
+ },
+ "Central African Empire": {
+  "qid": "Q189988",
+  "curated": false,
+  "auto": true,
+  "wikipedia": "Central African Republic"
+ }
+}

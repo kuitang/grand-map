@@ -1,0 +1,63 @@
+{
+ "qid": "Q7245121",
+ "names": [
+  "Principality of Valona and Kanina"
+ ],
+ "title": "Principality of Valona and Kanina",
+ "variantOf": "Q7245121",
+ "endonym": {
+  "native": "Principata e Vlorës dhe Kaninës",
+  "roman": "Principata e Vlorës dhe Kaninës"
+ },
+ "capsule": "By this 1395–1422 phase the principality was held through the Balšić line — Balsha II had acquired Valona and Kanina in 1372 as the dowry of his Muzaka bride — passing to his daughter Ruđina Balšić and her husband Mrkša Žarković (r. 1396–1414). Widowed in 1414, Ruđina ruled alone, vainly offering to cede the territory to Venice for protection before the Ottomans conquered Valona and Kanina in 1417.",
+ "citations": [
+  {
+   "label": "Principality of Valona – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Principality_of_Valona"
+  },
+  {
+   "label": "Balsha II – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Balsha_II"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The principality's core territory—the hinterland of Vlorë, Fier, and Berat—is described in Venetian and Serbian sources, but precise borders fluctuated considerably as rival Albanian lords competed for control. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Principality of Valona",
+ "rulers": [
+  {
+   "name": "Komita (Comita), Lady of Valona and Kanina",
+   "native": "Комита",
+   "roman": "Komita",
+   "start": 1385,
+   "end": 1396,
+   "nativeName": "Комита"
+  },
+  {
+   "name": "Mrkša Žarković, Lord of Valona and Kanina",
+   "native": "Мркша Жарковић",
+   "roman": "Mrkša Žarković",
+   "start": 1396,
+   "end": 1414,
+   "nativeName": "Мркша Жарковић"
+  },
+  {
+   "name": "Ruđina Balšić, Lady of Valona and Kanina",
+   "native": "Руђина Балшић",
+   "roman": "Ruđina Balšić",
+   "start": 1414,
+   "end": 1417,
+   "nativeName": "Руђина Балшић"
+  }
+ ],
+ "blurbKey": "Q7245121__principality-of-valona-and-kanina"
+}

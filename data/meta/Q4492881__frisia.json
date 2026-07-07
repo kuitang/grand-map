@@ -1,0 +1,34 @@
+{
+ "qid": "Q4492881",
+ "names": [
+  "Frisia"
+ ],
+ "title": "Frisia",
+ "variantOf": "Q4492881",
+ "endonym": {
+  "native": "Frisia",
+  "roman": "Frisia",
+  "lang": "la"
+ },
+ "capsule": "The name 'Frisia' for 783-788 marks not a sovereign kingdom but a subject Frankish territory in open revolt: Frisians east of the Lauwers, who had lost independence in 772, rose again in 782 in concert with the Saxon leader Widukind, burning churches and reverting to paganism as Charlemagne campaigned to restore control. Charlemagne's 783 expedition and the ensuing years of warfare, through 785, gradually reimposed Frankish authority, the rebellion collapsing after Widukind's submission and baptism in 785, though sporadic unrest persisted into the following years. Unlike the earlier independent kingdom, this Frisia had no king of its own; local leaders rather than monarchs led the resistance, and by 802 its customary law was codified as a subject people's law, the Lex Frisionum, under Frankish sovereignty.",
+ "citations": [
+  {
+   "label": "Frisian-Frankish wars - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Frisian%E2%80%93Frankish_wars"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The Frisian kingdom's political core is attested in Frankish chronicles and hagiographic sources, but its territorial extent is poorly defined; archaeological evidence suggests the 'kingdom' comprised several loosely associated petty chieftaincies rather than a unified polity. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Frisia",
+ "blurbKey": "Q4492881__frisia"
+}

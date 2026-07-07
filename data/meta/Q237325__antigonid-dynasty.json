@@ -1,0 +1,61 @@
+{
+ "qid": "Q237325",
+ "names": [
+  "Antigonid Dynasty"
+ ],
+ "title": "Antigonid Dynasty",
+ "variantOf": "Q237325",
+ "endonym": {
+  "native": "Μακεδονία",
+  "roman": "Makedonía"
+ },
+ "capsule": "In this phase, the Antigonid house held Macedonia through Antigonus I's son Demetrius I Poliorcetes, who had won the Macedonian throne in 294 BC but was driven out by a coalition of Lysimachus and Pyrrhus of Epirus in 288/287 BC, later dying a captive of Seleucus in 283 BC. His son Antigonus II Gonatas then spent over a decade as a claimant holding only a handful of Greek coastal cities, contesting Macedonia through the chaotic reigns of Lysimachus and Ptolemy Keraunos and the Gallic invasion of 279 BC. Antigonid rule of Macedonia was not securely restored until Gonatas' victory over the Gauls at Lysimacheia in 277 BC, the point at which the stable dynasty of Antigonid Macedonia properly began.",
+ "citations": [
+  {
+   "label": "Antigonid dynasty - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Antigonid_dynasty"
+  },
+  {
+   "label": "Antigonus II Gonatas - Britannica",
+   "url": "https://www.britannica.com/biography/Antigonus-II-Gonatas"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Macedonia's core territory is well attested, but the Antigonids' fluctuating control over Thessaly, Corinth, and Aegean island dependencies is variable and debated; the dataset window (c. 291–277 BCE) captures the turbulent founding period. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Antigonid dynasty",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Demetrius I Poliorcetes",
+   "nativeName": "Δημήτριος Αʹ Πολιορκητής",
+   "roman": "Demetrios I Poliorketes",
+   "start": -294,
+   "end": -288,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Antigonus II Gonatas",
+   "nativeName": "Αντίγονος Βʹ Γονατάς",
+   "roman": "Antigonos II Gonatas",
+   "start": -277,
+   "end": -239,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q237325__antigonid-dynasty"
+}

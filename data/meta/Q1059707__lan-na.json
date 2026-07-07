@@ -1,0 +1,82 @@
+{
+ "qid": "Q1059707",
+ "names": [
+  "Lan Na"
+ ],
+ "title": "Lan Na",
+ "variantOf": "Q1059707",
+ "endonym": {
+  "native": "ล้านนา",
+  "roman": "Lan Na"
+ },
+ "capsule": "In this 1600–1762 window, Lan Na denotes Chiang Mai and the Ping-valley principalities under more than a century of Burmese suzerainty: Burmese-appointed vassal rulers governed after 1614, local autonomy returned after a 1727 revolt — most durably under Ong Kham (r. 1727–1759) — and Konbaung forces reimposed direct control after a seven-month siege in 1762–63.",
+ "citations": [
+  {
+   "label": "Kingdom of Chiang Mai – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kingdom_of_Chiang_Mai"
+  },
+  {
+   "label": "List of rulers of Lan Na – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/List_of_rulers_of_Lan_Na"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Core territorial boundaries around the northern Thai highlands are reasonably well attested via Mangrai chronicles and Burmese annals; peripheral frontier zones with Ayutthaya and Shan states are more ambiguous. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Lan Na",
+ "rulers": [
+  {
+   "name": "Sai Chaiyasongkhram (Phonsuek)",
+   "roman": "Sai Chaiyasongkhram",
+   "start": 1615,
+   "end": 1631,
+   "nativeName": null
+  },
+  {
+   "name": "Thipphanet",
+   "start": 1631,
+   "end": 1655,
+   "nativeName": null,
+   "roman": ""
+  },
+  {
+   "name": "Phra Saenmueang",
+   "start": 1655,
+   "end": 1659,
+   "nativeName": null,
+   "roman": ""
+  },
+  {
+   "name": "Che Putarai",
+   "start": 1675,
+   "end": 1707,
+   "nativeName": null,
+   "roman": ""
+  },
+  {
+   "name": "Mang Raenra",
+   "start": 1707,
+   "end": 1727,
+   "nativeName": null,
+   "roman": ""
+  },
+  {
+   "name": "Ong Kham",
+   "native": "เจ้าองค์คำ",
+   "roman": "Ong Kham",
+   "start": 1727,
+   "end": 1759,
+   "nativeName": "เจ้าองค์คำ"
+  }
+ ],
+ "blurbKey": "Q1059707__lan-na"
+}

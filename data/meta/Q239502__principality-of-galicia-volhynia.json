@@ -1,0 +1,83 @@
+{
+ "qid": "Q239502",
+ "names": [
+  "Principality of Galicia-Volhynia"
+ ],
+ "title": "Principality of Galicia-Volhynia",
+ "variantOf": "Q239502",
+ "endonym": {
+  "native": "Галицько-Волинське князівство",
+  "roman": "Halytsko-Volynske kniazivstvo"
+ },
+ "capsule": "Prince Roman Mstislavich united Halych and Volhynia into a single principality in 1199 and briefly held Kyiv itself before his death in battle in 1205, plunging the realm into decades of boyar rebellion and Hungarian-Polish intervention against his infant sons. His son Daniel Romanovich fought his way back to full power by 1238, restoring princely authority only shortly before the Mongol army under Batu Khan stormed Halych and Volhynia in 1241.",
+ "citations": [
+  {
+   "label": "Kingdom of Galicia–Volhynia - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kingdom_of_Galicia%E2%80%93Volhynia"
+  },
+  {
+   "label": "Daniel of Galicia - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Daniel_of_Galicia"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Core territorial extent is reasonably well-documented from charter evidence and chronicle sources for the thirteenth century; the dataset's start date of 1056 predates the formal union, likely reflecting earlier Volhynian principality geometry, which is less precisely defined. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Kingdom of Galicia-Volhynia",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Roman the Great",
+   "nativeName": "Роман Великий",
+   "roman": "Roman Velykyi",
+   "start": 1199,
+   "end": 1205,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Volodymyr Ihorevych",
+   "nativeName": "Володимир Ігоревич",
+   "roman": "Volodymyr Ihorevych",
+   "start": 1206,
+   "end": 1211,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Mstislav the Bold",
+   "nativeName": "Мстислав Удатний",
+   "roman": "Mstyslav Udatnyy",
+   "start": 1219,
+   "end": 1228,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Danylo Romanovych",
+   "nativeName": "Данило Романович",
+   "roman": "Danylo Romanovych",
+   "start": 1238,
+   "end": 1241,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q239502__principality-of-galicia-volhynia"
+}

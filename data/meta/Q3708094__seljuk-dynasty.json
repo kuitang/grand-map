@@ -1,0 +1,60 @@
+{
+ "qid": "Q3708094",
+ "names": [
+  "Seljuk Dynasty"
+ ],
+ "title": "Seljuk Dynasty",
+ "variantOf": "Q3708094",
+ "endonym": {
+  "native": "سلجوقیان",
+  "roman": "Saljuqian"
+ },
+ "capsule": "Before founding an empire, the Seljuks were an Oghuz Turkic clan led by the grandsons of the eponymous chieftain Seljuk, Tughril Beg and Chaghri Beg, who entered Ghaznavid-ruled Khorasan as mercenaries-turned-rebels and seized Merv and Nishapur between 1028 and 1038. Their decisive victory over the Ghaznavid sultan Mas'ud I at the Battle of Dandanaqan on 23 May 1040 broke Ghaznavid power in the region and transformed the clan from a tribal following into the founders of an imperial dynasty.",
+ "citations": [
+  {
+   "label": "Toghril Beg - Britannica",
+   "url": "https://www.britannica.com/biography/Toghril-Beg"
+  },
+  {
+   "label": "Tughril I - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tughril_I"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases (Times Atlas of World History; Kinder & Hilgemann; Shepherd 1926) at ~0.07° resolution. A steppe-origin empire of cities and roads; provincial limits are conventional. Confidence: moderate. Capsule researched for this polity/era specifically (confidence: high).",
+ "rulers": [
+  {
+   "name": "Seljuk Beg",
+   "native": "سلجوق بیگ",
+   "roman": "Seljuk Beg",
+   "start": 985,
+   "end": 1009,
+   "nativeName": "سلجوق بیگ"
+  },
+  {
+   "name": "Arslan Isra'il (Arslan Yabghu)",
+   "native": "ارسلان اسرائیل",
+   "roman": "Arslan Isra'il",
+   "start": 1009,
+   "end": 1025,
+   "nativeName": "ارسلان اسرائیل"
+  },
+  {
+   "name": "Tughril Beg",
+   "native": "طغرل بیگ",
+   "roman": "Tughril Beg",
+   "start": 1037,
+   "end": 1063,
+   "nativeName": "طغرل بیگ"
+  },
+  {
+   "name": "Chaghri Beg",
+   "native": "چغری بیگ",
+   "roman": "Chaghri Beg",
+   "start": 1037,
+   "end": 1060,
+   "nativeName": "چغری بیگ"
+  }
+ ],
+ "blurbKey": "Q3708094__seljuk-dynasty"
+}

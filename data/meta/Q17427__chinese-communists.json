@@ -1,0 +1,72 @@
+{
+ "qid": "Q17427",
+ "names": [
+  "Chinese Communists"
+ ],
+ "title": "Chinese Communists",
+ "variantOf": "Q17427",
+ "endonym": {
+  "native": "中国共产党",
+  "roman": "Zhōngguó Gòngchǎndǎng"
+ },
+ "capsule": "After the 1927 Kuomintang purge shattered the First United Front, the Chinese Communist Party regrouped as an armed insurgency, establishing scattered rural 'soviet' base areas in Jiangxi, Fujian, and elsewhere under commanders including Mao Zedong and Zhu De. The movement survived Nationalist encirclement campaigns and, in November 1931, proclaimed the Jiangxi-based Chinese Soviet Republic with Mao as chairman, coordinating land redistribution and guerrilla warfare against Chiang Kai-shek's forces.",
+ "citations": [
+  {
+   "label": "Britannica: Chinese Communist Party",
+   "url": "https://www.britannica.com/topic/Chinese-Communist-Party"
+  },
+  {
+   "label": "Wikipedia: Chinese Soviet Republic",
+   "url": "https://en.wikipedia.org/wiki/Chinese_Soviet_Republic"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The CCP's controlled territory during 1932–1949 is incompletely mapped; borders of the Jiangxi Soviet and Yan'an base area are approximated from historical accounts rather than administrative surveys, and front lines shifted rapidly throughout the Civil War period. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Chinese Communist Party",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Chen Duxiu (General Secretary)",
+   "nativeName": "陳獨秀（總書記）",
+   "roman": "Chén Dúxiù",
+   "start": 1928,
+   "end": 1928,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Xiang Zhongfa (General Secretary)",
+   "nativeName": "向忠發（總書記）",
+   "roman": "Xiàng Zhōngfā",
+   "start": 1928,
+   "end": 1931,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Bo Gu (de facto leader)",
+   "nativeName": "博古",
+   "roman": "Bó Gǔ",
+   "start": 1931,
+   "end": 1932,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q17427__chinese-communists"
+}

@@ -1,0 +1,54 @@
+{
+ "qid": "Q43048",
+ "names": [
+  "Domain of Rhodes"
+ ],
+ "title": "Domain of Rhodes",
+ "variantOf": "Q43048",
+ "endonym": {
+  "native": "Ῥόδος",
+  "roman": "Rhodos"
+ },
+ "capsule": "The Domain of Rhodes was a semi-independent Byzantine Greek lordship carved out of the wreckage of the Fourth Crusade, ruled from the island of Rhodes and nearby islands by the aristocrat Leo Gabalas, who styled himself 'Caesar' and 'Lord of Rhodes and the Cyclades' while paying nominal fealty to the Nicaean emperors. Leo's brother and successor John Gabalas held a weaker position, styled merely 'Master of Rhodes,' as the domain's autonomy eroded under Nicaean pressure and reliance on treaties with Venice for protection. Rhodes' brief seizure by a Genoese raiding force in 1248 and its recovery by a Nicaean expedition under John Kantakouzenos by 1250 ended Gabalas family rule and folded the island fully into the Empire of Nicaea.",
+ "citations": [
+  {
+   "label": "Leo Gabalas - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Leo_Gabalas"
+  },
+  {
+   "label": "Genoese occupation of Rhodes - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Genoese_occupation_of_Rhodes"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The island's boundaries are geographically fixed; its continental possessions in Lycia and Caria after 188 BCE are documented in ancient sources but their precise limits fluctuated with political circumstances. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Rhodes",
+ "rulers": [
+  {
+   "name": "Leo Gabalas",
+   "native": "Λέων Γαβαλάς",
+   "roman": "Leo Gabalas",
+   "start": 1203,
+   "end": 1240,
+   "nativeName": "Λέων Γαβαλάς"
+  },
+  {
+   "name": "John Gabalas",
+   "roman": "John Gabalas",
+   "start": 1240,
+   "end": 1250,
+   "nativeName": null
+  }
+ ],
+ "blurbKey": "Q43048__domain-of-rhodes"
+}

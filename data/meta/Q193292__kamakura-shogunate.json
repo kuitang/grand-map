@@ -1,0 +1,284 @@
+{
+ "qid": "Q193292",
+ "names": [
+  "Kamakura Shogunate"
+ ],
+ "title": "Kamakura Shogunate",
+ "variantOf": "Q193292",
+ "endonym": {
+  "native": "鎌倉幕府",
+  "roman": "Kamakura bakufu"
+ },
+ "capsule": "Minamoto no Yoritomo established Japan's first warrior government at Kamakura after crushing the Taira clan at the Battle of Dan-no-ura in 1185, receiving the title of shogun from the emperor in 1192 while the imperial court remained a ceremonial fixture in Kyoto. After Yoritomo's death in 1199 real power passed to his widow's family, the Hojo, who ruled as hereditary regents (shikken) over a succession of largely powerless Minamoto, Fujiwara, and princely shoguns. The shogunate survived the Jokyu War of 1221 and repelled two Mongol invasion fleets in 1274 and 1281, but the fiscal strain of those campaigns fed the unrest that let Emperor Go-Daigo topple the Hojo regency in the Kenmu Restoration of 1333.",
+ "citations": [
+  {
+   "label": "Kamakura shogunate | Britannica",
+   "url": "https://www.britannica.com/topic/Kamakura-shogunate"
+  },
+  {
+   "label": "Minamoto Yoritomo | Britannica",
+   "url": "https://www.britannica.com/biography/Minamoto-Yoritomo"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases (Times Atlas of World History; Kinder & Hilgemann; Shepherd 1926) at ~0.07° resolution. The archipelago bounds the state; the effective northern frontier against the Emishi/Ezo lands is approximate. Confidence: high. Capsule researched for this polity/era specifically (confidence: high).",
+ "rulers": [
+  {
+   "qid": "Q440149",
+   "name": "Nijō",
+   "start": 1158,
+   "end": 1165,
+   "ordinal": null,
+   "image": "Emperor Nijō.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Nij%C5%8D.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Fujiwara no Tamenobu",
+    "attributionRequired": false
+   },
+   "nativeName": "二条天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q357046",
+   "name": "Rokujō",
+   "start": 1165,
+   "end": 1168,
+   "ordinal": null,
+   "image": "Emperor Rokujō by Kōtarō Miyake.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Rokuj%C5%8D%20by%20K%C5%8Dtar%C5%8D%20Miyake.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "三宅幸太郎",
+    "attributionRequired": false
+   },
+   "nativeName": "六条天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q357261",
+   "name": "Takakura",
+   "start": 1168,
+   "end": 1180,
+   "ordinal": null,
+   "image": "Emperor Takakura.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Takakura.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Fujiwara no Tamenobu",
+    "attributionRequired": false
+   },
+   "nativeName": "高倉天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q316651",
+   "name": "Antoku",
+   "start": 1180,
+   "end": 1185,
+   "ordinal": null,
+   "image": "Emperor Antoku.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Antoku.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown",
+    "attributionRequired": false
+   },
+   "nativeName": "安徳天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q316658",
+   "name": "Go-Toba",
+   "start": 1183,
+   "end": 1198,
+   "ordinal": null,
+   "image": "Emperor Go-Toba.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Go-Toba.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Fujiwara no Nobuzane",
+    "attributionRequired": false
+   },
+   "nativeName": "後鳥羽天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q357269",
+   "name": "Tsuchimikado",
+   "start": 1198,
+   "end": 1210,
+   "ordinal": null,
+   "image": "Emperor Tsuchimikado.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Tsuchimikado.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Fujiwara no Tamenobu",
+    "attributionRequired": false
+   },
+   "nativeName": "土御門天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q357249",
+   "name": "Juntoku",
+   "start": 1210,
+   "end": 1221,
+   "ordinal": null,
+   "image": "Emperor Juntoku large.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Juntoku%20large.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Fujiwara no Tamenobu",
+    "attributionRequired": false
+   },
+   "nativeName": "順徳天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q357253",
+   "name": "Emperor Chūkyō",
+   "start": 1221,
+   "end": 1221,
+   "ordinal": null,
+   "image": "Emperor Chūkyō by Kōtarō Miyake.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Ch%C5%ABky%C5%8D%20by%20K%C5%8Dtar%C5%8D%20Miyake.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "三宅幸太郎",
+    "attributionRequired": false
+   },
+   "nativeName": "仲恭天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q357221",
+   "name": "Go-Horikawa",
+   "start": 1221,
+   "end": 1232,
+   "ordinal": null,
+   "image": "Emperor Go-Horikawa.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Go-Horikawa.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Fujiwara no Tamenobu",
+    "attributionRequired": false
+   },
+   "nativeName": "後堀河天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q374020",
+   "name": "Emperor Shijō",
+   "start": 1232,
+   "end": 1242,
+   "ordinal": null,
+   "image": "Emperor Shijō.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Shij%C5%8D.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Fujiwara no Tamenobu",
+    "attributionRequired": false
+   },
+   "nativeName": "四条天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q349259",
+   "name": "Emperor Go-Saga",
+   "start": 1242,
+   "end": 1246,
+   "ordinal": null,
+   "image": "Emperor Go-Saga.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Go-Saga.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Fujiwara no Tamenobu",
+    "attributionRequired": false
+   },
+   "nativeName": "後嵯峨天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q349246",
+   "name": "Emperor Go-Fukakusa",
+   "start": 1246,
+   "end": 1260,
+   "ordinal": null,
+   "image": "Emperor Go-Fukakusa.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Go-Fukakusa.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Fujiwara no Tamenobu",
+    "attributionRequired": false
+   },
+   "nativeName": "後深草天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q360972",
+   "name": "Emperor Kameyama",
+   "start": 1260,
+   "end": 1274,
+   "ordinal": null,
+   "image": "Emperor Kameyama.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Kameyama.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Fujiwara no Tamenobu",
+    "attributionRequired": false
+   },
+   "nativeName": "亀山天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q440538",
+   "name": "Go-Uda",
+   "start": 1274,
+   "end": 1287,
+   "ordinal": null,
+   "image": "Emperor Go-Uda.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Go-Uda.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Fujiwara no Tamenobu",
+    "attributionRequired": false
+   },
+   "nativeName": "後宇多天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q373949",
+   "name": "Fushimi",
+   "start": 1287,
+   "end": 1298,
+   "ordinal": null,
+   "image": "Emperor Fushimi.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Fushimi.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Fujiwara no Tamenobu",
+    "attributionRequired": false
+   },
+   "nativeName": "伏見天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q440454",
+   "name": "Go-Fushimi",
+   "start": 1298,
+   "end": 1301,
+   "ordinal": null,
+   "image": "Emperor Go-Fushimi.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Go-Fushimi.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Fujiwara no Tamenobu",
+    "attributionRequired": false
+   },
+   "nativeName": "後伏見天皇",
+   "nativeLang": "ja"
+  }
+ ],
+ "blurbKey": "Q193292__kamakura-shogunate"
+}

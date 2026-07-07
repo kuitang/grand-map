@@ -1,0 +1,65 @@
+{
+ "qid": "Q846",
+ "names": [
+  "Qatar Dynasty"
+ ],
+ "title": "Qatar Dynasty",
+ "variantOf": "Q846",
+ "endonym": {
+  "native": "آل ثاني",
+  "roman": "Āl Thānī"
+ },
+ "capsule": "Qatar Dynasty here denotes the founding phase of Al Thani rule over the Qatari peninsula: Sheikh Mohammed bin Thani's recognition as its ruler from the 1850s–60s, formalized by Britain's 1868 treaty distinguishing Qatar from Bahrain, and the long ascendancy of his son Jassim bin Mohammed Al Thani, who repelled an Ottoman assault at the 1893 Battle of Al Wajbah and built effective, Ottoman-suzerain Al Thani authority over the peninsula. This early dynastic-formation phase is distinct from the 20th-century British-protected 'Qatar' and the post-1971 sovereign 'State of Qatar' that share this Wikidata identifier.",
+ "citations": [
+  {
+   "label": "Al Thani — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Al_Thani"
+  },
+  {
+   "label": "Jassim bin Mohammed Al Thani — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jassim_bin_Mohammed_Al_Thani"
+  },
+  {
+   "label": "Battle of Al Wajbah — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Battle_of_Al_Wajbah"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Qatar's political boundaries in the 19th century were poorly defined; the peninsula's outer coastline is clear but internal tribal divisions and the border with Saudi Arabia were not formally demarcated until the 20th century. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Qatar",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Mohammed bin Thani Al Thani",
+   "nativeName": "محمد بن ثاني آل ثاني",
+   "roman": "Mohammed bin Thani",
+   "start": 1850,
+   "end": 1878,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Jassim bin Mohammed Al Thani",
+   "nativeName": "جاسم بن محمد آل ثاني",
+   "roman": "Jassim bin Mohammed",
+   "start": 1878,
+   "end": 1905,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q846__qatar-dynasty"
+}

@@ -1,0 +1,67 @@
+{
+ "qid": "Q846",
+ "names": [
+  "State of Qatar"
+ ],
+ "title": "State of Qatar",
+ "variantOf": "Q846",
+ "endonym": {
+  "native": "دولة قطر",
+  "roman": "Dawlat Qatar"
+ },
+ "capsule": "The State of Qatar (Dawlat Qatar) is the fully sovereign nation proclaimed on independence from Britain on 3 September 1971, governed by the Al Thani dynasty as an absolute and increasingly institutionalized monarchy. Vast North Field gas reserves, developed from the 1990s, made it one of the world's wealthiest states per capita, funding the 1996-founded Al Jazeera network and the hosting of the 2022 FIFA World Cup. It is distinct from the 19th-century dynastic-formation phase and the mid-20th-century British protectorate that share this Wikidata identifier.",
+ "citations": [
+  {
+   "label": "Emir of Qatar — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Emir_of_Qatar"
+  },
+  {
+   "label": "HH The Amir — Amiri Diwan",
+   "url": "https://www.diwan.gov.qa/hh-the-amir?sc_lang=en"
+  },
+  {
+   "label": "Qatar — Britannica",
+   "url": "https://www.britannica.com/place/Qatar"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Qatar's political boundaries in the 19th century were poorly defined; the peninsula's outer coastline is clear but internal tribal divisions and the border with Saudi Arabia were not formally demarcated until the 20th century. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Qatar",
+ "rulers": [
+  {
+   "name": "Khalifa bin Hamad Al Thani",
+   "native": "خليفة بن حمد آل ثاني",
+   "roman": "Khalifa bin Hamad Al Thani",
+   "start": 1972,
+   "end": 1995,
+   "nativeName": "خليفة بن حمد آل ثاني"
+  },
+  {
+   "name": "Hamad bin Khalifa Al Thani",
+   "native": "حمد بن خليفة آل ثاني",
+   "roman": "Hamad bin Khalifa Al Thani",
+   "start": 1995,
+   "end": 2013,
+   "nativeName": "حمد بن خليفة آل ثاني"
+  },
+  {
+   "name": "Tamim bin Hamad Al Thani",
+   "native": "تميم بن حمد آل ثاني",
+   "roman": "Tamim bin Hamad Al Thani",
+   "start": 2013,
+   "end": 2025,
+   "nativeName": "تميم بن حمد آل ثاني"
+  }
+ ],
+ "blurbKey": "Q846__state-of-qatar"
+}

@@ -1,0 +1,176 @@
+{
+ "qid": "Q199688",
+ "names": [
+  "Almohad Caliphate"
+ ],
+ "title": "Almohad Caliphate",
+ "variantOf": "Q199688",
+ "endonym": {
+  "native": "الموحدون",
+  "roman": "al-Muwahhidun"
+ },
+ "capsule": "The Almohad Caliphate arose from Ibn Tumart's Berber reform movement among the Masmuda of the High Atlas and became an empire when his successor Abd al-Mu'min overthrew the Almoravids and captured Marrakesh in 1147, ruling Morocco, the western Maghreb and Muslim Iberia as caliphs claiming sole religious authority in the Islamic West. Under Ya'qub al-Mansur the Almohads crushed Castile at Alarcos in 1195, but defeat at Las Navas de Tolosa in 1212 triggered a long collapse; the last Almohad, Idris al-Wathiq, was murdered at Marrakesh in 1269 as the Marinids seized the city.",
+ "citations": [
+  {
+   "label": "Britannica: Almohads",
+   "url": "https://www.britannica.com/topic/Almohads"
+  },
+  {
+   "label": "Wikipedia: Almohad Caliphate",
+   "url": "https://en.wikipedia.org/wiki/Almohad_Caliphate"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases (Times Atlas of World History; Kinder & Hilgemann; Shepherd 1926) at ~0.07° resolution. Coastal Maghreb and Andalusi cores are well attested; Saharan limits are conventional lines through thinly governed territory — shown with low confidence. (Almoravid-era shapes share this entry before c. 1150.) Capsule researched for this polity/era specifically (confidence: high).",
+ "rulers": [
+  {
+   "qid": "Q307312",
+   "name": "Abd al-Mu'min",
+   "start": 1130,
+   "end": 1163,
+   "ordinal": null,
+   "image": "Abdalmumin ben ali nedroma statue.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Abdalmumin%20ben%20ali%20nedroma%20statue.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Askelaadden",
+    "attributionRequired": true
+   },
+   "nativeName": "عبد المؤمن بن علي الكومي التلمساني",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q335489",
+   "name": "Abu Yaqub Yusuf I",
+   "start": 1163,
+   "end": 1184,
+   "ordinal": null,
+   "image": null,
+   "nativeName": "أبو يعقوب يوسف بن عبد المؤمن",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q455739",
+   "name": "Abu Yusuf Yaqub al-Mansur",
+   "start": 1184,
+   "end": 1199,
+   "ordinal": null,
+   "image": null,
+   "nativeName": "أبو يوسف يعقوب بن يوسف بن عبد المؤمن الكومي التلمساني المنصور",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q715749",
+   "name": "Muhammad al-Nasir",
+   "start": 1199,
+   "end": 1213,
+   "ordinal": null,
+   "image": "محمد الناصر.png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1.png?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Ali ahmed andalousi",
+    "attributionRequired": true
+   },
+   "nativeName": "أبو عبد الله محمد بن يعقوب بن يوسف بن عبد المؤمن الكومي التلمساني المنصور الناصر لدين الله",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q2142023",
+   "name": "Yusuf II al-Mustansir",
+   "start": 1213,
+   "end": 1224,
+   "ordinal": null,
+   "image": null,
+   "nativeName": "يوسف المستنصر",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q307610",
+   "name": "Abdallah al-Adil",
+   "start": 1224,
+   "end": 1227,
+   "ordinal": null,
+   "image": null,
+   "nativeName": "أبو محمد عبد الله بن يعقوب بن يوسف بن عبد المؤمن الكومي التلمساني المنصور العادل",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q2627497",
+   "name": "Abdul-Wahid I, Almohad Caliph",
+   "start": 1224,
+   "end": 1224,
+   "ordinal": null,
+   "image": null,
+   "nativeName": "أبو محمد عبد الواحد بن يوسف بن عبد المؤمن الكومي التلمساني المخلوع",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q3083966",
+   "name": "Yahya, Almohad Caliph",
+   "start": 1227,
+   "end": 1229,
+   "ordinal": null,
+   "image": null,
+   "nativeName": "أبو زكريا يحيى المعتصم بن محمد الناصر لدين الله",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q1361969",
+   "name": "Idris al-Ma'mun",
+   "start": 1229,
+   "end": 1232,
+   "ordinal": null,
+   "image": null,
+   "nativeName": "إدريس المأمون",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q307360",
+   "name": "Abd al-Wahid II",
+   "start": 1232,
+   "end": 1242,
+   "ordinal": null,
+   "image": null,
+   "nativeName": "عبد الواحد الرشيد",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q1361266",
+   "name": "Abu al-Hasan as-Said al-Mutadid",
+   "start": 1242,
+   "end": 1248,
+   "ordinal": null,
+   "image": null,
+   "nativeName": "أبو الحسن السعيد",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q2822085",
+   "name": "Abu Hafs Umar al-Murtada",
+   "start": 1248,
+   "end": 1266,
+   "ordinal": null,
+   "image": "Castillia.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Castillia.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "أبو حفص عمر المرتضى",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q2822103",
+   "name": "Idris II",
+   "start": 1266,
+   "end": 1269,
+   "ordinal": null,
+   "image": null,
+   "nativeName": "أبو العلاء إدريس الواثق بالله",
+   "nativeLang": "ar"
+  }
+ ],
+ "blurbKey": "Q199688__almohad-caliphate"
+}

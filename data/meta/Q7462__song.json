@@ -1,0 +1,209 @@
+{
+ "qid": "Q7462",
+ "names": [
+  "Song"
+ ],
+ "title": "Song",
+ "variantOf": "Q7462",
+ "endonym": {
+  "native": "宋",
+  "roman": "Sòng"
+ },
+ "capsule": "The state of Song (宋) was created after the Zhou conquest of Shang (c. 1046 BCE) as an enclave at Shangqiu granted to the defeated Shang royal house, first under Weizi, so that Shang ancestral rites could continue. Nominally honored for its royal pedigree, Song nonetheless fought as an ordinary Zhou-era power through the Spring and Autumn and Warring States periods, and tradition traces Confucius's ancestry to its ducal line. Song was destroyed in 286 BCE when Qi, aided by Chu and Wei, partitioned its territory following the excesses of its last ruler, King Kang.",
+ "citations": [
+  {
+   "label": "Song (state) – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Song_(state)"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases (Times Atlas of World History; Kinder & Hilgemann; Shepherd 1926) at ~0.07° resolution. Chinese dynastic boundaries are among the best-attested premodern borders (cross-checked against the Tan Qixiang atlas tradition underlying CHGIS). Confidence: high. Capsule researched for this polity/era specifically (confidence: high).",
+ "wikipedia": "Song (state)",
+ "rulers": [
+  {
+   "name": "Duke Wu",
+   "native": "宋武公",
+   "roman": "Sòng Wǔgōng",
+   "start": -765,
+   "end": -748,
+   "nativeName": "宋武公"
+  },
+  {
+   "name": "Duke Xuan",
+   "native": "宋宣公",
+   "roman": "Sòng Xuāngōng",
+   "start": -747,
+   "end": -729,
+   "nativeName": "宋宣公"
+  },
+  {
+   "name": "Duke Mu",
+   "native": "宋穆公",
+   "roman": "Sòng Mùgōng",
+   "start": -728,
+   "end": -720,
+   "nativeName": "宋穆公"
+  },
+  {
+   "name": "Duke Shang",
+   "native": "宋殤公",
+   "roman": "Sòng Shānggōng",
+   "start": -719,
+   "end": -711,
+   "nativeName": "宋殤公"
+  },
+  {
+   "name": "Duke Zhuang",
+   "native": "宋莊公",
+   "roman": "Sòng Zhuānggōng",
+   "start": -710,
+   "end": -692,
+   "nativeName": "宋莊公"
+  },
+  {
+   "name": "Duke Min II",
+   "native": "宋閔公",
+   "roman": "Sòng Míngōng",
+   "start": -691,
+   "end": -682,
+   "nativeName": "宋閔公"
+  },
+  {
+   "name": "Ziyou (You)",
+   "native": "子游",
+   "roman": "Yóu",
+   "start": -682,
+   "end": -682,
+   "nativeName": "子游"
+  },
+  {
+   "name": "Duke Huan I",
+   "native": "宋桓公",
+   "roman": "Sòng Huángōng",
+   "start": -681,
+   "end": -651,
+   "nativeName": "宋桓公"
+  },
+  {
+   "name": "Duke Xiang",
+   "native": "宋襄公",
+   "roman": "Sòng Xiānggōng",
+   "start": -650,
+   "end": -637,
+   "nativeName": "宋襄公"
+  },
+  {
+   "name": "Duke Cheng",
+   "native": "宋成公",
+   "roman": "Sòng Chénggōng",
+   "start": -636,
+   "end": -620,
+   "nativeName": "宋成公"
+  },
+  {
+   "name": "Yu, Duke of Song",
+   "native": "御",
+   "roman": "Yù",
+   "start": -620,
+   "end": -620,
+   "nativeName": "御"
+  },
+  {
+   "name": "Duke Zhao I",
+   "native": "宋昭公",
+   "roman": "Sòng Zhāogōng",
+   "start": -619,
+   "end": -611,
+   "nativeName": "宋昭公"
+  },
+  {
+   "name": "Duke Wen",
+   "native": "宋文公",
+   "roman": "Sòng Wéngōng",
+   "start": -610,
+   "end": -589,
+   "nativeName": "宋文公"
+  },
+  {
+   "name": "Duke Gong",
+   "native": "宋共公",
+   "roman": "Sòng Gònggōng",
+   "start": -588,
+   "end": -576,
+   "nativeName": "宋共公"
+  },
+  {
+   "name": "Duke Ping",
+   "native": "宋平公",
+   "roman": "Sòng Pínggōng",
+   "start": -575,
+   "end": -532,
+   "nativeName": "宋平公"
+  },
+  {
+   "name": "Duke Yuan",
+   "native": "宋元公",
+   "roman": "Sòng Yuángōng",
+   "start": -531,
+   "end": -517,
+   "nativeName": "宋元公"
+  },
+  {
+   "name": "Duke Jing",
+   "native": "宋景公",
+   "roman": "Sòng Jǐnggōng",
+   "start": -516,
+   "end": -451,
+   "nativeName": "宋景公"
+  },
+  {
+   "name": "Duke Zhao II",
+   "native": "宋昭公",
+   "roman": "Sòng Zhāogōng",
+   "start": -450,
+   "end": -404,
+   "nativeName": "宋昭公"
+  },
+  {
+   "name": "Duke Dao",
+   "native": "宋悼公",
+   "roman": "Sòng Dàogōng",
+   "start": -403,
+   "end": -396,
+   "nativeName": "宋悼公"
+  },
+  {
+   "name": "Duke Xiu",
+   "native": "宋休公",
+   "roman": "Sòng Xiūgōng",
+   "start": -395,
+   "end": -373,
+   "nativeName": "宋休公"
+  },
+  {
+   "name": "Duke Huan II",
+   "native": "宋桓公 (辟兵)",
+   "roman": "Sòng Huángōng",
+   "start": -372,
+   "end": -370,
+   "nativeName": "宋桓公 (辟兵)"
+  },
+  {
+   "name": "Lord Ticheng",
+   "native": "宋剔成君",
+   "roman": "Tīchéngjūn",
+   "start": -369,
+   "end": -329,
+   "nativeName": "宋剔成君"
+  },
+  {
+   "name": "King Kang",
+   "native": "宋康王 (偃)",
+   "roman": "Sòng Kāngwáng (Yǎn)",
+   "start": -328,
+   "end": -286,
+   "nativeName": "宋康王 (偃)"
+  }
+ ],
+ "blurbKey": "Q7462__song"
+}

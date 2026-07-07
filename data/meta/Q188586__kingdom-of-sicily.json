@@ -1,0 +1,76 @@
+{
+ "qid": "Q188586",
+ "names": [
+  "Kingdom of Sicily"
+ ],
+ "title": "Kingdom of Sicily",
+ "variantOf": "Q188586",
+ "endonym": {
+  "native": "Regnum Siciliae",
+  "roman": "Regnum Siciliae"
+ },
+ "capsule": "Forged from Norman conquests of Muslim Sicily and Byzantine southern Italy, the Kingdom of Sicily was proclaimed in 1130 when Roger II was crowned king at Palermo, uniting Sicily, Calabria and Apulia under a Norman crown renowned for its multicultural court blending Latin, Greek and Arabic administration. The Hauteville line passed by marriage to the Hohenstaufens, and under Frederick II (r. 1198-1250) the kingdom became a center of law, science and poetry, though his death began a succession crisis that saw Manfred crowned and then defeated by Charles of Anjou at Benevento in 1266. Charles's conquest brought the island under Angevin rule from a new capital at Naples, a unified 'Kingdom of Sicily' that lasted until the Sicilian Vespers uprising of 1282 split it permanently between Aragonese Sicily and the Angevin mainland kingdom.",
+ "citations": [
+  {
+   "label": "Wikipedia: Kingdom of Sicily",
+   "url": "https://en.wikipedia.org/wiki/Kingdom_of_Sicily"
+  },
+  {
+   "label": "Britannica: Charles I, king of Naples and Sicily",
+   "url": "https://www.britannica.com/biography/Charles-I-king-of-Naples-and-Sicily"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases (Times Atlas of World History; Kinder & Hilgemann; Shepherd 1926) at ~0.07° resolution. Insular and peninsular extents well attested. Confidence: high. Capsule researched for this polity/era specifically (confidence: high).",
+ "rulers": [
+  {
+   "qid": "Q130221",
+   "name": "Frederick II, Holy Roman Emperor",
+   "start": 1198,
+   "end": null,
+   "ordinal": null,
+   "image": "Frederick II and eagle.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Frederick%20II%20and%20eagle.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "Fridericus II",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q312311",
+   "name": "Peter III of Aragon",
+   "start": 1282,
+   "end": 1285,
+   "ordinal": null,
+   "image": "Pedro III de Aragón.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20III%20de%20Arag%C3%B3n.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Filippo Ariosto",
+    "attributionRequired": false
+   },
+   "nativeName": "Petrus III",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q367226",
+   "name": "Frederick III of Sicily",
+   "start": 1295,
+   "end": 1337,
+   "ordinal": null,
+   "image": "Federico III.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Federico%20III.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown Master",
+    "attributionRequired": false
+   },
+   "nativeName": "Fridericus III Siciliae",
+   "nativeLang": "la"
+  }
+ ],
+ "blurbKey": "Q188586__kingdom-of-sicily"
+}

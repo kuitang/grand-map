@@ -1,0 +1,47 @@
+{
+ "qid": "Q7313",
+ "names": [
+  "Great Mongol State"
+ ],
+ "title": "Great Mongol State",
+ "variantOf": "Q7313",
+ "endonym": {
+  "native": "Их Монгол Улс",
+  "roman": "Ikh Mongol Uls"
+ },
+ "capsule": "'Great Mongol State' (Их Монгол Улс) is the formal name of the Bogd Khanate, the theocratic Mongolian state proclaimed on 29 December 1911 as Outer Mongolia broke from the collapsing Qing dynasty during the Xinhai Revolution, installing the 8th Jebtsundamba Khutuktu as sovereign under the title Bogd Khan ('Holy Ruler'). Chinese forces reoccupied the country in 1919, but the Bogd Khan was restored to a limited constitutional throne after the 1921 revolution led by Damdin Sükhbaatar with Soviet backing. Following the Bogd Khan's death in May 1924, Mongolia's revolutionary government declined to name a successor and instead abolished the monarchy, proclaiming the Mongolian People's Republic — a state distinct from the medieval Yuan dynasty and ancient Dayuan kingdom that also share this Wikidata identifier.",
+ "citations": [
+  {
+   "label": "Bogd Khanate of Mongolia - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bogd_Khanate_of_Mongolia"
+  },
+  {
+   "label": "Bogd Khan - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bogd_Khan"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Yuan territorial extent over China proper is well-documented through official administrative records (hubu registers); control of the northern steppe marches and Yunnan is attested by provincial records, but exact outer frontier lines in Southeast Asia are conjectural, based on tributary relationships rather than administered boundaries. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Yuan dynasty",
+ "rulers": [
+  {
+   "name": "Bogd Khan (8th Jebtsundamba Khutuktu)",
+   "native": "Богд хаан",
+   "roman": "Bogd Khaan",
+   "start": 1911,
+   "end": 1924,
+   "nativeName": "Богд хаан"
+  }
+ ],
+ "blurbKey": "Q7313__great-mongol-state"
+}

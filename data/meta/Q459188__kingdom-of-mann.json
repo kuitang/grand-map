@@ -1,0 +1,87 @@
+{
+ "qid": "Q459188",
+ "names": [
+  "Kingdom of Mann"
+ ],
+ "title": "Kingdom of Mann",
+ "variantOf": "Q459188",
+ "endonym": {
+  "native": "Mǫn",
+  "roman": "Mön"
+ },
+ "capsule": "As the 'Kingdom of Mann,' the Crovan dynasty's realm centered on the Isle of Man while still holding the northern Hebrides of Skye and Lewis, continuing under kings such as Rognvald Godredsson (r. 1187-1226) and Olaf the Black (r. 1226-1237), whose three sons Harald, Ragnvald and Magnus succeeded one another on the island throne. The line ended with King Magnus Olafsson's death in 1265, whereupon the 1266 Treaty of Perth transferred Man and the Hebrides from Norwegian to Scottish overlordship for a payment of 4,000 marks; a final revolt by Magnus's illegitimate son Guðrøðr was crushed by Scottish forces at Ronaldsway in 1275, ending independent Manx kingship for good.",
+ "citations": [
+  {
+   "label": "Wikipedia: Kingdom of the Isles",
+   "url": "https://en.wikipedia.org/wiki/Kingdom_of_the_Isles"
+  },
+  {
+   "label": "Wikipedia: List of rulers of the Kingdom of the Isles",
+   "url": "https://en.wikipedia.org/wiki/List_of_rulers_of_the_Kingdom_of_the_Isles"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The island geography of the kingdom is fixed, but the extent of mainland territories under its control at different periods varied considerably and is imperfectly documented in Scottish and Norse sources. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Kingdom of the Isles",
+ "rulers": [
+  {
+   "name": "Guðrøðr Óláfsson (restored)",
+   "native": "Guðrøðr Óláfsson",
+   "roman": "Godred Olafsson",
+   "start": 1164,
+   "end": 1187,
+   "nativeName": "Guðrøðr Óláfsson"
+  },
+  {
+   "name": "Rögnvaldr Guðrøðarson",
+   "native": "Rögnvaldr Guðrøðarson",
+   "roman": "Reginald Godredsson",
+   "start": 1187,
+   "end": 1226,
+   "nativeName": "Rögnvaldr Guðrøðarson"
+  },
+  {
+   "name": "Óláfr Guðrøðarson (Olaf the Black)",
+   "native": "Óláfr Guðrøðarson",
+   "roman": "Olaf the Black",
+   "start": 1226,
+   "end": 1237,
+   "nativeName": "Óláfr Guðrøðarson"
+  },
+  {
+   "name": "Haraldr Óláfsson",
+   "native": "Haraldr Óláfsson",
+   "roman": "Harald Olafsson",
+   "start": 1237,
+   "end": 1248,
+   "nativeName": "Haraldr Óláfsson"
+  },
+  {
+   "name": "Rögnvaldr Óláfsson (Ragnald)",
+   "native": "Rögnvaldr Óláfsson",
+   "roman": "Ragnald Olafsson",
+   "start": 1249,
+   "end": 1249,
+   "nativeName": "Rögnvaldr Óláfsson"
+  },
+  {
+   "name": "Magnús Óláfsson",
+   "native": "Magnús Óláfsson",
+   "roman": "Magnus Olafsson",
+   "start": 1252,
+   "end": 1265,
+   "nativeName": "Magnús Óláfsson"
+  }
+ ],
+ "blurbKey": "Q459188__kingdom-of-mann"
+}

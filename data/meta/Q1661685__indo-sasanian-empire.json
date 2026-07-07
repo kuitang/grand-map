@@ -1,0 +1,171 @@
+{
+ "qid": "Q1661685",
+ "names": [
+  "Indo-Sasanian Empire"
+ ],
+ "title": "Indo-Sasanian Empire",
+ "variantOf": "Q1661685",
+ "endonym": {
+  "native": "ΚΟϷΑΝΟ ϷΑΟ",
+  "roman": "Košano Šao"
+ },
+ "capsule": "In the Sasanian-controlled Kushan territories of Bactria and Gandhara, a cadet line of Sasanian princes ruled with the title Kushanshah (\"king of the Kushans\"), issuing coinage that blended Sasanian and Kushan royal imagery. Under Peroz I and the rebellious Hormizd I Kushanshah (r. 277-286) this Kushano-Sasanian kingdom grew powerful enough to briefly challenge the main Sasanian court, before Shapur II reasserted direct control in campaigns of 350-358 described by Ammianus Marcellinus. Kidarite Hun invasions soon afterward ended Kushano-Sasanian rule in the region.",
+ "citations": [
+  {
+   "label": "Wikipedia, \"Kushano-Sasanian Kingdom\"",
+   "url": "https://en.wikipedia.org/wiki/Kushano-Sasanian_Kingdom"
+  },
+  {
+   "label": "Encyclopaedia Iranica, \"Kushanshahs i. History\"",
+   "url": "https://www.iranicaonline.org/articles/kushanshahs-01/"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Territorial extent is reconstructed primarily from numismatic evidence (coin hoards and mint distributions) and limited textual sources; the boundaries shown are approximate and scholarly opinion varies on the extent of direct Kushano-Sasanian control versus Kidarite encroachment. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Sasanian Empire",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Ardashir I",
+   "nativeName": "𐭠𐭥𐭲𐭧𐭱𐭲𐭥",
+   "roman": "Ardašīr I",
+   "start": 224,
+   "end": 242,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Shapur I",
+   "nativeName": "𐭱𐭧𐭯𐭥𐭧𐭥𐭩",
+   "roman": "Šābuhr I",
+   "start": 240,
+   "end": 270,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Hormizd I",
+   "nativeName": "𐭠𐭥𐭧𐭬𐭦𐭣",
+   "roman": "Ōhrmazd I",
+   "start": 270,
+   "end": 271,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Bahram I",
+   "nativeName": "𐭥𐭫𐭧𐭫𐭠𐭭",
+   "roman": "Wahrām I",
+   "start": 271,
+   "end": 274,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Bahram II",
+   "nativeName": "𐭥𐭫𐭧𐭫𐭠𐭭",
+   "roman": "Wahrām II",
+   "start": 274,
+   "end": 293,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Bahram III",
+   "nativeName": "𐭥𐭫𐭧𐭫𐭠𐭭",
+   "roman": "Wahrām III",
+   "start": 293,
+   "end": 293,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Narseh",
+   "nativeName": "𐭭𐭥𐭎𐭧𐭩",
+   "roman": "Narseh",
+   "start": 293,
+   "end": 302,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Hormizd II",
+   "nativeName": "𐭠𐭥𐭧𐭬𐭦𐭣",
+   "roman": "Ōhrmazd II",
+   "start": 302,
+   "end": 309,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Adur Narseh",
+   "nativeName": "𐭠𐭣𐭥𐭭𐭥𐭎𐭧𐭩",
+   "roman": "Ādur Narseh",
+   "start": 309,
+   "end": 309,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Shapur II",
+   "nativeName": "𐭱𐭧𐭯𐭥𐭧𐭥𐭩",
+   "roman": "Šābuhr II",
+   "start": 309,
+   "end": 379,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ardashir II",
+   "nativeName": "𐭠𐭥𐭲𐭧𐭱𐭲𐭥",
+   "roman": "Ardašīr II",
+   "start": 379,
+   "end": 383,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Shapur III",
+   "nativeName": "𐭱𐭧𐭯𐭥𐭧𐭥𐭩",
+   "roman": "Šābuhr III",
+   "start": 383,
+   "end": 388,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q1661685__indo-sasanian-empire"
+}

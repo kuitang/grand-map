@@ -1,0 +1,361 @@
+{
+ "qid": "Q155",
+ "names": [
+  "Unitary State of Brazil"
+ ],
+ "title": "Unitary State of Brazil",
+ "variantOf": "Q155",
+ "endonym": {
+  "native": "Estado Novo",
+  "roman": "Estado Novo"
+ },
+ "capsule": "The Unitary State of Brazil denotes the highly centralized phase of Getúlio Vargas's rule, beginning with the suppression of the 1932 Constitutionalist Revolution in São Paulo and hardening into the corporatist Estado Novo dictatorship proclaimed 10 November 1937, which dissolved Congress, suspended the 1934 constitution, and replaced elected state governors with Vargas-appointed 'interventors' answerable directly to Rio de Janeiro. This unitary, decree-ruled arrangement lasted until Vargas was forced from office in October 1945, with a new constitution restoring federal and democratic structures in 1946. It is distinct from the earlier oligarchic 'Brazilian Republic' and the later military-era 'Federated Republic of Brazil' sharing this Wikidata identifier.",
+ "citations": [
+  {
+   "label": "Estado Novo (Brazil) — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Estado_Novo_(Brazil)"
+  },
+  {
+   "label": "Estado Novo — Britannica",
+   "url": "https://www.britannica.com/topic/Estado-Novo-Brazilian-history"
+  },
+  {
+   "label": "Brazilian Constitution of 1937 — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Brazilian_Constitution_of_1937"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Brazil's national territory is precisely bounded by settled international agreements; the polity entry reflects a political-regime periodization of a continuous state, so territorial confidence is high, though the dataset geometry is essentially that of modern Brazil throughout this span. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Brazil",
+ "rulers": [
+  {
+   "qid": "Q311185",
+   "name": "Afonso Pena",
+   "nativeName": "Afonso Pena",
+   "roman": "Afonso Pena",
+   "start": 1906,
+   "end": 1909,
+   "image": "Afonso Pena.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Afonso%20Pena.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Governo do Brasil",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q314696",
+   "name": "Nilo Peçanha",
+   "nativeName": "Nilo Peçanha",
+   "roman": "Nilo Peçanha",
+   "start": 1909,
+   "end": 1910,
+   "image": "Nilo Peçanha 02.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nilo%20Pe%C3%A7anha%2002.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Governo do Brasil",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q312874",
+   "name": "Hermes da Fonseca",
+   "nativeName": "Hermes da Fonseca",
+   "roman": "Hermes da Fonseca",
+   "start": 1910,
+   "end": 1914,
+   "image": "Hermes da Fonseca (1910).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hermes%20da%20Fonseca%20(1910).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Governo do Brasil",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q314702",
+   "name": "Venceslau Brás",
+   "nativeName": "Venceslau Brás",
+   "roman": "Venceslau Brás",
+   "start": 1914,
+   "end": 1918,
+   "image": "Venceslau Brás (retrato oval).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Venceslau%20Br%C3%A1s%20(retrato%20oval).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Malta (...?)",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q382830",
+   "name": "Delfim Moreira",
+   "nativeName": "Delfim Moreira",
+   "roman": "Delfim Moreira",
+   "start": 1918,
+   "end": 1919,
+   "image": "Delfim Moreira, sem data.tif",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Delfim%20Moreira%2C%20sem%20data.tif?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "UnknownUnknown",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q311119",
+   "name": "Epitácio Pessoa",
+   "nativeName": "Epitácio Pessoa",
+   "roman": "Epitácio Pessoa",
+   "start": 1919,
+   "end": 1922,
+   "image": "Epitacio Pessoa.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Epitacio%20Pessoa.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Own work--Jebulon (talk) 09:40, 6 June 2014 (UTC)",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q311121",
+   "name": "Artur Bernardes",
+   "nativeName": "Artur Bernardes",
+   "roman": "Artur Bernardes",
+   "start": 1922,
+   "end": 1926,
+   "image": "Artur Bernardes.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Artur%20Bernardes.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q311225",
+   "name": "Washington Luís",
+   "nativeName": "Washington Luís",
+   "roman": "Washington Luís",
+   "start": 1926,
+   "end": 1930,
+   "image": "Washington Luís (foto).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Washington%20Lu%C3%ADs%20(foto).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Governo do Brasil",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q156844",
+   "name": "Getúlio Vargas",
+   "nativeName": "Getúlio Vargas",
+   "roman": "Getúlio Vargas",
+   "start": 1930,
+   "end": 1945,
+   "image": "Getulio Vargas (1930).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Getulio%20Vargas%20(1930).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Governo do Brasil",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q316200",
+   "name": "José Linhares",
+   "nativeName": "José Linhares",
+   "roman": "José Linhares",
+   "start": 1945,
+   "end": 1946,
+   "image": "José Linhares, Ministro do Supremo Tribunal Federal.tif",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Linhares%2C%20Ministro%20do%20Supremo%20Tribunal%20Federal.tif?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "UnknownUnknown",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q296679",
+   "name": "Eurico Gaspar Dutra",
+   "nativeName": "Eurico Gaspar Dutra",
+   "roman": "Eurico Gaspar Dutra",
+   "start": 1946,
+   "end": 1951,
+   "image": "GASPARDUTRA.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/GASPARDUTRA.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Governo do Brasil",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q156844",
+   "name": "Getúlio Vargas",
+   "nativeName": "Getúlio Vargas",
+   "roman": "Getúlio Vargas",
+   "start": 1951,
+   "end": 1954,
+   "image": "Getulio Vargas (1930).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Getulio%20Vargas%20(1930).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Governo do Brasil",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q310209",
+   "name": "Café Filho",
+   "nativeName": "Café Filho",
+   "roman": "Café Filho",
+   "start": 1954,
+   "end": 1955,
+   "image": "Café Filho.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Caf%C3%A9%20Filho.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Presidência da República",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q269572",
+   "name": "Carlos Luz",
+   "nativeName": "Carlos Luz",
+   "roman": "Carlos Luz",
+   "start": 1955,
+   "end": 1955,
+   "image": "CarlosLuz.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CarlosLuz.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Governo do Brasil",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q319427",
+   "name": "Nereu Ramos",
+   "nativeName": "Nereu Ramos",
+   "roman": "Nereu Ramos",
+   "start": 1955,
+   "end": 1956,
+   "image": "Presidente Nereu Ramos.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Presidente%20Nereu%20Ramos.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Governo do Brasil",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q155824",
+   "name": "Juscelino Kubitschek",
+   "nativeName": "Juscelino Kubitschek",
+   "roman": "Juscelino Kubitschek",
+   "start": 1956,
+   "end": 1961,
+   "image": "Juscelino Kubitschek in 1956.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Juscelino%20Kubitschek%20in%201956.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Governo do Brasil",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q310123",
+   "name": "Jânio Quadros",
+   "nativeName": "Jânio Quadros",
+   "roman": "Jânio Quadros",
+   "start": 1961,
+   "end": 1961,
+   "image": "Jânio Quadros, presidente do Brasil (1961).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/J%C3%A2nio%20Quadros%2C%20presidente%20do%20Brasil%20(1961).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Agência Brasil",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": null,
+   "name": "Ranieri Mazzilli",
+   "nativeName": "Ranieri Mazzilli",
+   "roman": "Ranieri Mazzilli",
+   "start": 1961,
+   "end": 1961,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": "Q34982",
+   "name": "João Goulart",
+   "nativeName": "João Goulart",
+   "roman": "João Goulart",
+   "start": 1961,
+   "end": 1964,
+   "image": "MO 63.2240.2 - Photograph of João Goulart President of the Republic of Brazil (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/MO%2063.2240.2%20-%20Photograph%20of%20Jo%C3%A3o%20Goulart%20President%20of%20the%20Republic%20of%20Brazil%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Brazilian Government. Donated to the United States Government.",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": null,
+   "name": "Ranieri Mazzilli",
+   "nativeName": "Ranieri Mazzilli",
+   "roman": "Ranieri Mazzilli",
+   "start": 1964,
+   "end": 1964,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Humberto de Alencar Castelo Branco",
+   "nativeName": "Humberto de Alencar Castelo Branco",
+   "roman": "Humberto de Alencar Castelo Branco",
+   "start": 1964,
+   "end": 1967,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": "Q312361",
+   "name": "Artur da Costa e Silva",
+   "nativeName": "Artur da Costa e Silva",
+   "roman": "Artur da Costa e Silva",
+   "start": 1967,
+   "end": 1969,
+   "image": "Costa e Silva.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Costa%20e%20Silva.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Governo do Brasil",
+    "attributionRequired": false
+   }
+  }
+ ],
+ "blurbKey": "Q155__unitary-state-of-brazil"
+}

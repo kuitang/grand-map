@@ -1,0 +1,88 @@
+{
+ "qid": "Q239502",
+ "names": [
+  "Halych-Volhynia occupation"
+ ],
+ "title": "Halych-Volhynia occupation",
+ "variantOf": "Q239502",
+ "endonym": {
+  "native": "Галицько-Волинське князівство",
+  "roman": "Галицько-Волинське князівство",
+  "lang": "uk"
+ },
+ "capsule": "From the mid-11th century until the Mongol invasion of 1240–1241, the principalities of Halych and Volhynia repeatedly fell under foreign tutelage amid chronic boyar factionalism, with Polish and Hungarian forces intervening again and again to impose client princes; after Roman Mstislavich's death in 1205, Hungarian King Andrew II even installed his son Coloman as a papally sanctioned \"King of Halych\" (1214–1221, with interruptions). This long stretch of external interference and weak native rule preceded Daniel Romanovich's consolidation of a unified Galician-Volhynian state on the eve of the Mongol destruction of Kyiv and Halych.",
+ "citations": [
+  {
+   "label": "Kingdom of Galicia–Volhynia - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kingdom_of_Galicia%E2%80%93Volhynia"
+  },
+  {
+   "label": "Coloman of Galicia - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Coloman_of_Galicia"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Core territorial extent is reasonably well-documented from charter evidence and chronicle sources for the thirteenth century; the dataset's start date of 1056 predates the formal union, likely reflecting earlier Volhynian principality geometry, which is less precisely defined. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Kingdom of Galicia-Volhynia",
+ "rulers": [
+  {
+   "name": "Roman the Great",
+   "native": "Роман Великий",
+   "roman": "Roman Velykyi",
+   "start": 1199,
+   "end": 1205,
+   "nativeName": "Роман Великий"
+  },
+  {
+   "name": "Volodymyr Ihorevych",
+   "native": "Володимир Ігоревич",
+   "roman": "Volodymyr Ihorevych",
+   "start": 1206,
+   "end": 1211,
+   "nativeName": "Володимир Ігоревич"
+  },
+  {
+   "name": "Coloman of Halych (Hungarian client king)",
+   "native": "Kálmán",
+   "roman": "Coloman",
+   "start": 1214,
+   "end": 1219,
+   "nativeName": "Kálmán"
+  },
+  {
+   "name": "Mstislav the Bold",
+   "native": "Мстислав Удатний",
+   "roman": "Mstyslav Udatnyy",
+   "start": 1219,
+   "end": 1228,
+   "nativeName": "Мстислав Удатний"
+  },
+  {
+   "name": "Andrew (Hungarian prince)",
+   "native": "András",
+   "roman": "Andrew",
+   "start": 1227,
+   "end": 1234,
+   "nativeName": "András"
+  },
+  {
+   "name": "Danylo Romanovych",
+   "native": "Данило Романович",
+   "roman": "Danylo Romanovych",
+   "start": 1238,
+   "end": 1241,
+   "nativeName": "Данило Романович"
+  }
+ ],
+ "blurbKey": "Q239502__halych-volhynia-occupation"
+}

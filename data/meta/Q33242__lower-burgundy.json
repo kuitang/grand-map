@@ -1,0 +1,84 @@
+{
+ "qid": "Q33242",
+ "names": [
+  "Lower Burgundy"
+ ],
+ "title": "Lower Burgundy",
+ "variantOf": "Q33242",
+ "endonym": {
+  "native": "Regnum Burgundiae Inferioris",
+  "roman": "Regnum Burgundiae Inferioris",
+  "lang": "la"
+ },
+ "capsule": "Lower Burgundy took shape in the Rhone valley and Provence as Carolingian central authority collapsed in the later 9th century, crystallizing when the regional magnate Boso of Provence - brother-in-law of Emperor Charles the Fat and widower of a Carolingian princess - was elected king at the Synod of Mantaille in October 879, the first non-Carolingian to claim a Frankish crown. Boso's kingship went largely unrecognized outside Provence and the lower Rhone, and after early losses to a Carolingian coalition he held only a shrunken realm until his death in 887. His son Louis the Blind, crowned in 890, inherited this Provencal-Burgundian kingdom, later adding the Italian crown before being blinded and deposed there in 905, after which his regent Hugh of Arles governed Lower Burgundy in his name.",
+ "citations": [
+  {
+   "label": "Boso of Provence - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Boso_of_Provence"
+  },
+  {
+   "label": "Lower Burgundy - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lower_Burgundy"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The polity's territory is reconstructed from Carolingian diplomas and episcopal lists; precise frontiers, especially toward northern Burgundy and Italy, are disputed in the scholarship. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Lower Burgundy",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Boso",
+   "nativeName": "Boso",
+   "roman": "Boso",
+   "start": 879,
+   "end": 887,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Louis the Blind",
+   "nativeName": "Ludovicus Caecus",
+   "roman": "Ludovicus Caecus",
+   "start": 887,
+   "end": 928,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Hugh of Arles",
+   "nativeName": "Hugo de Provencia",
+   "roman": "Hugo de Provencia",
+   "start": 924,
+   "end": 933,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Rudolf II of Burgundy",
+   "nativeName": "Rodulfus II",
+   "roman": "Rodulfus II",
+   "start": 933,
+   "end": 937,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q33242__lower-burgundy"
+}

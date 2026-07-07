@@ -1,0 +1,139 @@
+{
+ "qid": "Q12536",
+ "names": [
+  "Buyid Dynasty"
+ ],
+ "title": "Buyid Dynasty",
+ "variantOf": "Q12536",
+ "endonym": {
+  "native": "آل بویه",
+  "roman": "Al-e Buyeh"
+ },
+ "capsule": "The Buyid dynasty was a Shi'a Daylamite military confederation founded by three brothers, Ali, Hasan and Ahmad ibn Buya, who from bases in Fars, Jibal (Ray/Isfahan) and Khuzistan respectively built independent principalities from the 930s, culminating in Ahmad's occupation of Baghdad in 945 as amir al-umara, which reduced the Abbasid caliphs to figureheads. The dynasty reached its territorial and cultural peak under Adud al-Dawla (r. 949-983), who briefly reunited the separate Buyid amirates and patronized Arabic and Persian letters, science and architecture in what historians call Iran's 'Buyid intermezzo' between Abbasid and Seljuk hegemony. Chronic succession disputes among the Fars, Ray and Iraq amirates weakened Buyid power through the early eleventh century, and the last Buyid ruler in Iraq was deposed by the Seljuk sultan Tughril Beg in 1055.",
+ "citations": [
+  {
+   "label": "Buyid dynasty - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Buyid_dynasty"
+  },
+  {
+   "label": "BUYIDS - Encyclopaedia Iranica",
+   "url": "https://www.iranicaonline.org/articles/buyids"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases (Times Atlas of World History; Kinder & Hilgemann; Shepherd 1926) at ~0.07° resolution. The mapped polity is the caliphs' direct Iraqi domain, far smaller than their nominal suzerainty. Confidence: high for the domain; the wider claim is unmappable by design. Capsule researched for this polity/era specifically (confidence: high).",
+ "wikipedia": "Abbasid Caliphate",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "al-Muqtadir",
+   "nativeName": "اَلْمُقْتَدِر بِاللَّه",
+   "roman": "al-Muqtadir bi-llāh",
+   "start": 908,
+   "end": 932,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "al-Qahir",
+   "nativeName": "اَلْقَاهِر بِاللَّه",
+   "roman": "al-Qāhir bi-llāh",
+   "start": 932,
+   "end": 934,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "al-Radi",
+   "nativeName": "اَلرَّاضِي بِاللَّه",
+   "roman": "al-Rāḍī bi-llāh",
+   "start": 934,
+   "end": 940,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "al-Muttaqi",
+   "nativeName": "اَلْمُتَّقِي لِلَّه",
+   "roman": "al-Muttaqī li-llāh",
+   "start": 940,
+   "end": 944,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "al-Mustakfi",
+   "nativeName": "اَلْمُسْتَكْفِي بِاللَّه",
+   "roman": "al-Mustakfī bi-llāh",
+   "start": 944,
+   "end": 946,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "al-Muti'",
+   "nativeName": "اَلْمُطِيع لِلَّه",
+   "roman": "al-Muṭīʿ li-llāh",
+   "start": 946,
+   "end": 974,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "al-Ta'i'",
+   "nativeName": "اَلطَّائِع لِلَّه",
+   "roman": "al-Ṭāʾiʿ li-llāh",
+   "start": 974,
+   "end": 991,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": "Q284427",
+   "name": "al-Qadir",
+   "nativeName": "اَلْقَادِر بِاللَّه",
+   "roman": "al-Qādir bi-llāh",
+   "start": 991,
+   "end": 1031,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": "Q293626",
+   "name": "al-Qa'im",
+   "nativeName": "اَلْقَائِم بِأَمْر اللَّه",
+   "roman": "al-Qāʾim bi-amri llāh",
+   "start": 1031,
+   "end": 1075,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": "Q293683",
+   "name": "al-Muqtadi",
+   "nativeName": "اَلْمُقْتَدِي بِأَمْر اللَّه",
+   "roman": "al-Muqtadī bi-amri llāh",
+   "start": 1075,
+   "end": 1094,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q12536__buyid-dynasty"
+}

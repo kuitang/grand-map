@@ -1,0 +1,44 @@
+{
+ "qid": "Q829356",
+ "names": [
+  "Makuria Kingdom"
+ ],
+ "title": "Makuria Kingdom",
+ "variantOf": "Q829356",
+ "endonym": {
+  "native": "ⲇⲱⲧⲁⲩⲟ",
+  "roman": "Dotawo",
+  "lang": "niu"
+ },
+ "capsule": "By the 15th century, Makuria's Christian court at Dongola had contracted to a much-diminished domain, worn down by generations of Bedouin Arab incursion, dynastic feuding, and gradual Islamization of its Nubian nobility. Documentation for this final phase is sparse, but Nubian and Arabic sources indicate a residual Christian kingdom persisted around Dongola under local rulers into the early 16th century. It disappeared from the record amid the rise of the Funj Sultanate and expanding Ottoman control of the Nile Valley, with some accounts placing its final eclipse as late as the 1560s.",
+ "citations": [
+  {
+   "label": "Wikipedia, \"Makuria\"",
+   "url": "https://en.wikipedia.org/wiki/Makuria"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Makuria's core territory along the Nile from the Third Cataract to the confluence is well-established archaeologically, but lateral extent into the Bayuda Desert and eastern steppes is poorly documented and boundary reconstructions rely heavily on inference. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Makuria",
+ "rulers": [
+  {
+   "name": "Joel",
+   "native": "Joel",
+   "roman": "Joel",
+   "start": 1463,
+   "end": 1484,
+   "nativeName": "Joel"
+  }
+ ],
+ "blurbKey": "Q829356__makuria-kingdom"
+}

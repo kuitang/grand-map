@@ -1,0 +1,71 @@
+{
+ "qid": "Q846",
+ "names": [
+  "Qatar"
+ ],
+ "title": "Qatar",
+ "variantOf": "Q846",
+ "endonym": {
+  "native": "قطر",
+  "roman": "Qatar"
+ },
+ "capsule": "Qatar across this 1913–1972 span denotes the British-protected sheikhdom under continued Al Thani rule, formalized by the 1916 Anglo-Qatari treaty ceding control of foreign affairs to Britain in exchange for protection from Ottoman and Saudi pressure. Oil concessions from 1935 and production from 1949 transformed the peninsula's economy under successive Al Thani rulers, while Qatar remained a British protectorate until independence was declared on 3 September 1971. This protectorate-era polity is distinct from the earlier 19th-century dynastic-formation phase and the fully sovereign 'State of Qatar' after 1971 sharing this identifier.",
+ "citations": [
+  {
+   "label": "Qatar — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Qatar"
+  },
+  {
+   "label": "History of Qatar — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/History_of_Qatar"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Qatar's political boundaries in the 19th century were poorly defined; the peninsula's outer coastline is clear but internal tribal divisions and the border with Saudi Arabia were not formally demarcated until the 20th century. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Qatar",
+ "rulers": [
+  {
+   "name": "Abdullah bin Jassim Al Thani",
+   "native": "عبد الله بن جاسم آل ثاني",
+   "roman": "Abdullah bin Jassim Al Thani",
+   "start": 1913,
+   "end": 1949,
+   "nativeName": "عبد الله بن جاسم آل ثاني"
+  },
+  {
+   "name": "Ali bin Abdullah Al Thani",
+   "native": "علي بن عبد الله آل ثاني",
+   "roman": "Ali bin Abdullah Al Thani",
+   "start": 1949,
+   "end": 1960,
+   "nativeName": "علي بن عبد الله آل ثاني"
+  },
+  {
+   "name": "Ahmad bin Ali Al Thani",
+   "native": "أحمد بن علي آل ثاني",
+   "roman": "Ahmad bin Ali Al Thani",
+   "start": 1960,
+   "end": 1972,
+   "nativeName": "أحمد بن علي آل ثاني"
+  },
+  {
+   "name": "Khalifa bin Hamad Al Thani",
+   "native": "خليفة بن حمد آل ثاني",
+   "roman": "Khalifa bin Hamad Al Thani",
+   "start": 1972,
+   "end": 1995,
+   "nativeName": "خليفة بن حمد آل ثاني"
+  }
+ ],
+ "blurbKey": "Q846__qatar"
+}

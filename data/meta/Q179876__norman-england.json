@@ -1,0 +1,155 @@
+{
+ "qid": "Q179876",
+ "names": [
+  "Norman England"
+ ],
+ "title": "Norman England",
+ "variantOf": "Q179876",
+ "endonym": {
+  "native": "Reaume d'Engleterre",
+  "roman": "Reaume d'Engleterre",
+  "lang": "xno"
+ },
+ "capsule": "Consolidated after William the Conqueror's victory at Hastings in 1066, Norman England was reorganized around a transplanted continental feudal aristocracy, extensive castle-building, and the sweeping 1086 land survey recorded in Domesday Book. Succession disputes among William's descendants erupted into the civil war known as the Anarchy (1135–1154) between King Stephen and Empress Matilda, resolved by installing the Angevin Henry II, whose reign extended Anglo-Norman power into Ireland with the 1169 invasion.",
+ "citations": [
+  {
+   "label": "England - Britannica",
+   "url": "https://www.britannica.com/place/England"
+  },
+  {
+   "label": "Norman conquest of England - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Norman_conquest_of_England"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases (Times Atlas of World History; Kinder & Hilgemann; Shepherd 1926) at ~0.07° resolution. English borders (Welsh march, Scottish border) are comparatively well documented; continental holdings of English kings are drawn as separate polities. Confidence: high. Capsule researched for this polity/era specifically (confidence: high).",
+ "rulers": [
+  {
+   "qid": "Q130005",
+   "name": "Edward the Confessor",
+   "start": 1042,
+   "end": 1066,
+   "ordinal": null,
+   "image": "Bayeux Tapestry scene1 EDWARD REX.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bayeux%20Tapestry%20scene1%20EDWARD%20REX.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Myrabella",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q159597",
+   "name": "Harold Godwinson",
+   "start": 1066,
+   "end": 1066,
+   "ordinal": null,
+   "image": "Harold Godwinson 02 (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Harold%20Godwinson%2002%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Georgemiller381",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q37594",
+   "name": "William the Conqueror",
+   "start": 1066,
+   "end": 1087,
+   "ordinal": null,
+   "image": "Bayeux Tapestry William.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bayeux%20Tapestry%20William.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Myrabella",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q102005",
+   "name": "William II of England",
+   "start": 1087,
+   "end": 1100,
+   "ordinal": null,
+   "image": "William II of England.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/William%20II%20of%20England.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Matthew Paris",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q101384",
+   "name": "Henry I of England",
+   "start": 1100,
+   "end": 1135,
+   "ordinal": null,
+   "image": "Henry1.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Henry1.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Matthew Paris",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q60849",
+   "name": "Stephen, King of England",
+   "start": 1135,
+   "end": 1141,
+   "ordinal": null,
+   "image": "Stepan Blois.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Stepan%20Blois.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Matthew Paris",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q178525",
+   "name": "Eleanor of Aquitaine",
+   "start": 1154,
+   "end": 1189,
+   "ordinal": null,
+   "image": "Queen Eleanor (Frederick Sandys, 1858).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen%20Eleanor%20(Frederick%20Sandys%2C%201858).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Frederick Sandys",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q102140",
+   "name": "Henry II of England",
+   "start": 1154,
+   "end": 1189,
+   "ordinal": null,
+   "image": "Henry II of England.png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Henry%20II%20of%20England.png?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": null,
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q42305",
+   "name": "Richard I of England",
+   "start": 1189,
+   "end": 1199,
+   "ordinal": null,
+   "image": "Richard I of England in the Brief Abridgement of the Chronicles of England.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Richard%20I%20of%20England%20in%20the%20Brief%20Abridgement%20of%20the%20Chronicles%20of%20England.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Matthew Paris",
+    "attributionRequired": false
+   }
+  }
+ ],
+ "blurbKey": "Q179876__norman-england"
+}

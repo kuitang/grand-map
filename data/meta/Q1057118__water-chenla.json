@@ -1,0 +1,47 @@
+{
+ "qid": "Q1057118",
+ "names": [
+  "Water Chenla"
+ ],
+ "title": "Water Chenla",
+ "variantOf": "Q1057118",
+ "endonym": {
+  "native": "Water Chenla",
+  "roman": "Water Chenla",
+  "lang": "km"
+ },
+ "capsule": "Water Chenla (Lower/southern Zhenla in Tang Chinese sources) was the maritime, Mekong-delta-facing half of the Khmer realm after the early eighth-century split, with river and coastal trade access but greater exposure to raids. Lacking a strong central monarchy, it existed as a loose grouping of competing principalities rather than a unified kingdom, and by the late eighth century fell increasingly under the sway of the Java-based Shailendra dynasty and the Srivijaya trade network. Its last recognized ruler is said to have been killed and the territory absorbed into Javanese overlordship around 790, after which its petty polities remained under intermittent foreign dominance until Jayavarman II's proclamation of a unified Khmer state in 802.",
+ "citations": [
+  {
+   "label": "Chenla - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chenla"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Chenla's political history rests primarily on Chinese annals and a limited corpus of Old Khmer inscriptions; territorial boundaries are approximate reconstructions and debate continues over whether 'Chenla' denotes a unified polity or a loosely connected set of principalities. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Chenla",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Jayadevi",
+   "nativeName": "ជ័យទេវី",
+   "roman": "Jayadevi",
+   "start": 681,
+   "end": 713,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q1057118__water-chenla"
+}

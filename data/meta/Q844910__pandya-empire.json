@@ -1,0 +1,75 @@
+{
+ "qid": "Q844910",
+ "names": [
+  "Pandya Empire"
+ ],
+ "title": "Pandya Empire",
+ "variantOf": "Q844910",
+ "endonym": {
+  "native": "பாண்டியப் பேரரசு",
+  "roman": "Pandiya Perarasu"
+ },
+ "capsule": "The 'Pandya Empire' phase (1216-1326) covers the dynasty's second and greatest rise to imperial power under Maravarman Sundara Pandya I, who from 1216 defeated the Cholas and seized Uraiyur and Thanjavur, and above all under Jatavarman Sundara Pandya I (r. 1251-1268), whose armies campaigned into Sri Lanka, the Hoysala domains and the Kakatiya kingdom, making Madurai the paramount power of southern India. His successor Maravarman Kulasekara Pandya I (r. 1268-1308) held this ascendancy for four decades, but his death in 1308 touched off a fratricidal war between his sons Vira Pandya and Sundara Pandya that invited repeated Delhi Sultanate invasions, including Malik Kafur's sack of Madurai in 1311 and the 1323 conquest by Ulugh Khan, the future Muhammad bin Tughluq, which reduced the empire to a rump in its far-southern homeland around Tirunelveli and Tenkasi.",
+ "citations": [
+  {
+   "label": "Jatavarman Sundara Pandyan - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jatavarman_Sundara_Pandyan"
+  },
+  {
+   "label": "Civil war between Vira Pandya and Sundar Pandya (1308-1323 CE) - History Unravelled",
+   "url": "https://historyunravelled.com/battles/civil-war-between-vira-pandya-and-sundar-pandya"
+  },
+  {
+   "label": "Pandya dynasty - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pandya_dynasty"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The Pandya core territory around Madurai is well attested from inscriptions; the full extent of their dominion during the 13th-century expansion is less precisely mapped. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Pandya dynasty",
+ "rulers": [
+  {
+   "name": "Maravarman Sundara Pandya I",
+   "native": "மாறவர்மன் சுந்தர பாண்டியன் I",
+   "roman": "Maravarman Sundara Pandya I",
+   "start": 1216,
+   "end": 1238,
+   "nativeName": "மாறவர்மன் சுந்தர பாண்டியன் I"
+  },
+  {
+   "name": "Jatavarman Sundara Pandya I",
+   "native": "ஜடாவர்மன் சுந்தர பாண்டியன் I",
+   "roman": "Jatavarman Sundara Pandya I",
+   "start": 1251,
+   "end": 1268,
+   "nativeName": "ஜடாவர்மன் சுந்தர பாண்டியன் I"
+  },
+  {
+   "name": "Maravarman Kulasekara Pandya I",
+   "native": "மாறவர்மன் குலசேகர பாண்டியன் I",
+   "roman": "Maravarman Kulasekara Pandya I",
+   "start": 1268,
+   "end": 1308,
+   "nativeName": "மாறவர்மன் குலசேகர பாண்டியன் I"
+  },
+  {
+   "name": "Jatavarman Vira Pandya II",
+   "native": "ஜடாவர்மன் வீரபாண்டியன் II",
+   "roman": "Jatavarman Vira Pandya II",
+   "start": 1308,
+   "end": 1323,
+   "nativeName": "ஜடாவர்மன் வீரபாண்டியன் II"
+  }
+ ],
+ "blurbKey": "Q844910__pandya-empire"
+}

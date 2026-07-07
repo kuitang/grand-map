@@ -1,0 +1,342 @@
+{
+ "qid": "Q817",
+ "names": [
+  "Kuwait"
+ ],
+ "title": "Kuwait",
+ "variantOf": "Q817",
+ "endonym": {
+  "native": "الكويت",
+  "roman": "Al-Kuwayt"
+ },
+ "capsule": "Kuwait coalesced as a distinct polity in the first half of the eighteenth century when clans of the Bani Utbah confederation, migrating from the Najd and Al-Hasa, settled the fortified anchorage of Kuwait Bay and in 1752 recognized Sabah I bin Jaber as their sheikh, founding the Al Sabah dynasty that has ruled continuously since. Positioned between Ottoman Basra and the Arabian interior, the sheikhdom built its economy on pearling, shipbuilding, and Gulf trade while balancing Ottoman suzerainty against British protection, formalized by an 1899 Anglo-Kuwaiti treaty. Oil exports from 1946 transformed the small emirate into one of the wealthiest states per capita in the world, a status interrupted by the 1990 Iraqi invasion and restored after the 1991 Gulf War, with the Al Sabah family still ruling under a semi-constitutional emirate into the twenty-first century.",
+ "citations": [
+  {
+   "label": "Sabah Dynasty - Britannica",
+   "url": "https://www.britannica.com/topic/Sabah-dynasty"
+  },
+  {
+   "label": "History of Kuwait - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/History_of_Kuwait"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Post-1899 boundaries are well attested through British imperial treaties and modern international agreements; pre-protectorate limits of Al-Sabah authority are less precisely defined. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Kuwait",
+ "rulers": [
+  {
+   "qid": "Q26922",
+   "name": "Sabah I bin Jaber",
+   "start": 1752,
+   "end": 1776,
+   "image": null,
+   "nativeName": "صباح الأول بن جابر الصباح",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q3269513",
+   "name": "Abdullah I Al-Sabah",
+   "start": 1763,
+   "end": 1814,
+   "image": null,
+   "nativeName": "عبد الله بن صباح بن جابر الصباح",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q888268",
+   "name": "Jaber I Al-Sabah",
+   "start": 1814,
+   "end": 1859,
+   "image": null,
+   "nativeName": "جابر بن عبد الله الصباح",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q2490214",
+   "name": "Sabah II Al-Sabah",
+   "start": 1859,
+   "end": 1866,
+   "image": null,
+   "nativeName": "صباح بن جابر الصباح",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q3269504",
+   "name": "Abdullah II Al-Sabah",
+   "start": 1866,
+   "end": 1892,
+   "image": null,
+   "nativeName": "عبد الله الثاني الصباح",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q26926",
+   "name": "Muhammad bin Sabah Al-Sabah",
+   "start": 1892,
+   "end": 1896,
+   "image": "الشيخ محمد بن صباح الصباح.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A8%D9%86%20%D8%B5%D8%A8%D8%A7%D8%AD%20%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "سعاد المحمد الصباح",
+    "attributionRequired": true
+   },
+   "nativeName": "محمد بن صباح الصباح",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q388730",
+   "name": "Mubarak Al-Sabah",
+   "start": 1896,
+   "end": 1915,
+   "image": "Mubarak Al-Sabah of Kuwait.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mubarak%20Al-Sabah%20of%20Kuwait.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Hermann Burchardt",
+    "attributionRequired": false
+   },
+   "nativeName": "مبارك الصباح",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q26919",
+   "name": "Jaber II Al-Sabah",
+   "start": 1915,
+   "end": 1917,
+   "image": "Jabir II bin Mubarak as-Sabah (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jabir%20II%20bin%20Mubarak%20as-Sabah%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "جابر المبارك الصباح",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q2364766",
+   "name": "Salim I of Kuwait",
+   "start": 1917,
+   "end": 1921,
+   "image": "Salim bin Mubarak as-Sabah.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Salim%20bin%20Mubarak%20as-Sabah.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "سالم المبارك الصباح",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q400907",
+   "name": "Ahmad Al-Jaber Al-Sabah",
+   "start": 1921,
+   "end": 1950,
+   "image": "أحمد الجابر الصباح.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%D8%A3%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D8%AC%D8%A7%D8%A8%D8%B1%20%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "The original uploader was Σύμμαχος at Arabic Wikipedia.",
+    "attributionRequired": false
+   },
+   "nativeName": "أحمد الجابر الصباح",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q2183167",
+   "name": "Abdullah III Al-Salim Al-Sabah",
+   "start": 1950,
+   "end": 1965,
+   "image": "Shaikh Abdullah III Al-Salim Al-Sabah.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shaikh%20Abdullah%20III%20Al-Salim%20Al-Sabah.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Egyptian Photographer working for the Egyptian Government",
+    "attributionRequired": false
+   },
+   "nativeName": "عبد الله السالم الصباح",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q217194",
+   "name": "Jaber al-Ahmad al-Sabah",
+   "start": 1962,
+   "end": 1963,
+   "image": "حضرة صاحب السمو الشيخ جابر الأحمد الصباح أمير دولة الكويت.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%D8%AD%D8%B6%D8%B1%D8%A9%20%D8%B5%D8%A7%D8%AD%D8%A8%20%D8%A7%D9%84%D8%B3%D9%85%D9%88%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%AC%D8%A7%D8%A8%D8%B1%20%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD%20%D8%A3%D9%85%D9%8A%D8%B1%20%D8%AF%D9%88%D9%84%D8%A9%20%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "MFRK1",
+    "attributionRequired": true
+   },
+   "nativeName": "جابر الأحمد الصباح",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q2074907",
+   "name": "Sabah III Al-Salim Al-Sabah",
+   "start": 1965,
+   "end": 1977,
+   "image": null,
+   "nativeName": "صباح السالم الصباح",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q313661",
+   "name": "Saad Al-Abdullah Al-Salim Al-Sabah",
+   "start": 1978,
+   "end": 2003,
+   "image": "Saad Al-Salim Al-Sabah.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Saad%20Al-Salim%20Al-Sabah.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Md. Lutfar Rahman Binu",
+    "attributionRequired": true
+   },
+   "nativeName": "سعد العبد الله السالم الصباح",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q57555",
+   "name": "Sabah Al-Ahmad Al-Jaber Al-Sabah",
+   "start": 2003,
+   "end": 2006,
+   "image": "Sheikh Sabah IV (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheikh%20Sabah%20IV%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "The White House from Washington, DC",
+    "attributionRequired": false
+   },
+   "nativeName": "صباح الأحمد الجابر الصباح",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q334718",
+   "name": "Nasser Mohammed Al-Ahmed Al-Sabah",
+   "start": 2006,
+   "end": 2011,
+   "image": "Nasser Mohammed Al-Ahmed Al-Sabah.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nasser%20Mohammed%20Al-Ahmed%20Al-Sabah.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Official White House Photo by Lawrence Jackson",
+    "attributionRequired": false
+   },
+   "nativeName": "ناصر المحمد الأحمد الصباح",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q57894",
+   "name": "Jaber Al-Mubarak Al-Hamad Al-Sabah",
+   "start": 2011,
+   "end": 2019,
+   "image": "Sheikh Jaber Al-Mubarak Al-Hamad Al-Sabah (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheikh%20Jaber%20Al-Mubarak%20Al-Hamad%20Al-Sabah%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 2.0",
+    "artist": "Kuwait Ministry of Defence",
+    "attributionRequired": true
+   },
+   "nativeName": "جابر مبارك الحمد الصباح",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q12219691",
+   "name": "Sabah Al-Khalid Al-Sabah",
+   "start": 2019,
+   "end": 2022,
+   "image": "Evangelos Venizelos and Sabah Al-Khalid Al-Sabah 2014.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Evangelos%20Venizelos%20and%20Sabah%20Al-Khalid%20Al-Sabah%202014.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 2.0",
+    "artist": "Υπουργείο Εξωτερικών",
+    "attributionRequired": true
+   },
+   "nativeName": "صباح خالد الحمد الصباح",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q641805",
+   "name": "Nawaf Al-Ahmad Al-Jaber Al-Sabah",
+   "start": 2020,
+   "end": 2023,
+   "image": "Nawaf Al-Ahmad Al-Jaber Al-Sabah (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nawaf%20Al-Ahmad%20Al-Jaber%20Al-Sabah%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 2.0",
+    "artist": "Cancillería Argentina",
+    "attributionRequired": true
+   },
+   "nativeName": "نواف الأحمد الجابر الصباح",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q109259869",
+   "name": "Ahmed Nawaf Al-Ahmad Al-Sabah",
+   "start": 2022,
+   "end": 2023,
+   "image": null,
+   "nativeName": "أحمد النواف الأحمد الصباح",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q12243161",
+   "name": "Mishal Al-Ahmad Al-Jaber Al-Sabah",
+   "start": 2023,
+   "end": null,
+   "image": "Emir of Kuwait Sheikh Mishal Al-Ahmad Al-Jaber Al-Sabah in 2024.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emir%20of%20Kuwait%20Sheikh%20Mishal%20Al-Ahmad%20Al-Jaber%20Al-Sabah%20in%202024.jpg?width=320",
+   "imageLicense": {
+    "license": "GODL-India",
+    "artist": "Prime Minister's Office",
+    "attributionRequired": true
+   },
+   "nativeName": "مشعل الأحمد الجابر الصباح",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q3327520",
+   "name": "Mohammad Sabah Al-Salem Al-Sabah",
+   "start": 2024,
+   "end": 2024,
+   "image": "Mohammad Sabah Al-Salem Al-Sabah.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mohammad%20Sabah%20Al-Salem%20Al-Sabah.jpg?width=320",
+   "imageLicense": {
+    "license": "OGL v1.0",
+    "artist": "Foreign and Commonwealth Office",
+    "attributionRequired": true
+   },
+   "nativeName": "محمد صباح السالم الصباح",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q16151955",
+   "name": "Ahmad Al Abdullah Al Sabah",
+   "start": 2024,
+   "end": null,
+   "image": "Ahmad Al Abdullah Al Sabah.png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ahmad%20Al%20Abdullah%20Al%20Sabah.png?width=320",
+   "imageLicense": {
+    "license": "GODL-India",
+    "artist": "Ministry of Information and Broadcasting",
+    "attributionRequired": true
+   },
+   "nativeName": "أحمد عبد الله الأحمد الصباح",
+   "nativeLang": "ar"
+  }
+ ],
+ "blurbKey": "Q817__kuwait"
+}

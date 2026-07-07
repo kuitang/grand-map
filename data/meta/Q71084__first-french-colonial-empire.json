@@ -1,0 +1,72 @@
+{
+ "qid": "Q71084",
+ "names": [
+  "First French colonial empire"
+ ],
+ "title": "First French colonial empire",
+ "variantOf": "Q71084",
+ "endonym": {
+  "native": "Empire colonial français",
+  "roman": "Empire colonial français"
+ },
+ "capsule": "By 1805–1815 the First French colonial empire—the overseas remnant of pre-revolutionary French possessions—had already lost Saint-Domingue to the 1804 Haitian revolution and Louisiana, sold to the United States in 1803. Britain's Royal Navy stripped away most of what remained during the Napoleonic Wars, seizing Martinique, Guadeloupe, Réunion, Mauritius and French holdings in India, leaving Napoleon's empire with only token colonies by 1815. This overseas rump is distinct from the metropolitan First French Empire proper, the continental state Napoleon ruled as Emperor.",
+ "citations": [
+  {
+   "label": "French colonial empire — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/French_colonial_empire"
+  },
+  {
+   "label": "First French Empire — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/First_French_Empire"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The surviving colonial territories of 1805–1815 are historically documented, but reconstructing precise territorial polygons for this rump empire is problematic given dispersed island holdings and contested occupation during the Napoleonic Wars. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "French colonial empire ",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Napoleon I, Emperor of the French",
+   "nativeName": "Napoléon Ier, empereur des Français",
+   "roman": "",
+   "start": 1805,
+   "end": 1814,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Louis XVIII, King of France",
+   "nativeName": "Louis XVIII, roi de France",
+   "roman": "",
+   "start": 1814,
+   "end": 1815,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Napoleon I, Emperor of the French (Hundred Days)",
+   "nativeName": "Napoléon Ier, empereur des Français",
+   "roman": "",
+   "start": 1815,
+   "end": 1815,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q71084__first-french-colonial-empire"
+}

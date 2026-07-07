@@ -1,0 +1,60 @@
+{
+ "qid": "Q1479726",
+ "names": [
+  "Federation of Malaya"
+ ],
+ "title": "Federation of Malaya",
+ "variantOf": "Q1479726",
+ "endonym": {
+  "native": "Persekutuan Tanah Melayu",
+  "roman": "Persekutuan Tanah Melayu"
+ },
+ "capsule": "The Federation of Malaya (1948–1963) restored the nine Malay Sultans' constitutional standing under British protection, weathered the communist Malayan Emergency (1948–1960), and won independence within the Commonwealth on 31 August 1957 under Prime Minister Tunku Abdul Rahman, before its 1963 merger with Sabah, Sarawak and Singapore formed Malaysia.",
+ "citations": [
+  {
+   "label": "Federation of Malaya – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Federation_of_Malaya"
+  },
+  {
+   "label": "Federation of Malaya – Britannica",
+   "url": "https://www.britannica.com/place/Federation-of-Malaya"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. This polity is poorly attested; sources consist largely of Javanese court poetry (Nagarakretagama), Chinese tributary records, and limited archaeological finds from the Batanghari valley — territorial extent is speculative. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Malaya",
+ "rulers": [
+  {
+   "name": "Tuanku Abdul Rahman ibni Tuanku Muhammad",
+   "roman": "Tuanku Abdul Rahman",
+   "start": 1957,
+   "end": 1960,
+   "nativeName": null
+  },
+  {
+   "name": "Tuanku Hisamuddin Alam Shah",
+   "roman": "Hisamuddin Alam Shah",
+   "start": 1960,
+   "end": 1960,
+   "nativeName": null
+  },
+  {
+   "name": "Tuanku Syed Putra ibni Syed Hassan Jamalullail",
+   "roman": "Syed Putra",
+   "start": 1960,
+   "end": 1963,
+   "nativeName": null
+  }
+ ],
+ "blurbKey": "Q1479726__federation-of-malaya"
+}

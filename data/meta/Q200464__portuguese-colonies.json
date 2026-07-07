@@ -1,0 +1,182 @@
+{
+ "qid": "Q200464",
+ "names": [
+  "Portuguese Colonies"
+ ],
+ "title": "Portuguese Colonies",
+ "variantOf": "Q200464",
+ "endonym": {
+  "native": "Colónias Portuguesas",
+  "roman": "Colónias Portuguesas"
+ },
+ "capsule": "'Portuguese Colonies' here designates the empire's dependent overseas possessions as distinct from the Lisbon metropole, spanning from the consolidation of African and Asian outposts in the mid-sixteenth century, such as the Estado da India network anchored at Goa and early footholds in Angola, through the 1822 loss of Brazil, after which colonial policy refocused on Angola, Mozambique, Guinea, Cape Verde, São Tomé, Goa, Macau, and Timor. Administered through the century by governors reporting to Lisbon's overseas ministry, these territories expanded inland during the Scramble for Africa after the Berlin Conference (1884-85) obliged Portugal to prove effective occupation, though an 1890 British ultimatum curtailed ambitions to link Angola and Mozambique. The window closes as the new Portuguese Republic, proclaimed in October 1910, began overhauling colonial administration in 1911, reworking the legal and fiscal relationship between the colonies and the mainland.",
+ "citations": [
+  {
+   "label": "Portugal: Exploration, Colonization, Trade - Britannica",
+   "url": "https://www.britannica.com/place/Portugal/Overseas-empire"
+  },
+  {
+   "label": "Evolution of the Portuguese Empire - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Evolution_of_the_Portuguese_Empire"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Coastal trading-post territories are well documented through the Casa da India's administrative records and cartography; inland territorial claims in Africa and Brazil were largely notional before the 19th century; moderate confidence for Brazil's colonial interior, high confidence for coastal enclaves. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Portuguese Empire",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "John III",
+   "nativeName": "João III",
+   "roman": "João III",
+   "start": 1521,
+   "end": 1557,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Sebastian I",
+   "nativeName": "Sebastião I",
+   "roman": "Sebastião I",
+   "start": 1557,
+   "end": 1578,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Henry I",
+   "nativeName": "Henrique I",
+   "roman": "Henrique I",
+   "start": 1578,
+   "end": 1580,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Philip I (Philip II of Spain)",
+   "nativeName": "Filipe I",
+   "roman": "Filipe I",
+   "start": 1580,
+   "end": 1598,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Philip II (Philip III of Spain)",
+   "nativeName": "Filipe II",
+   "roman": "Filipe II",
+   "start": 1598,
+   "end": 1621,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Philip III (Philip IV of Spain)",
+   "nativeName": "Filipe III",
+   "roman": "Filipe III",
+   "start": 1621,
+   "end": 1640,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "John IV",
+   "nativeName": "João IV",
+   "roman": "João IV",
+   "start": 1640,
+   "end": 1656,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Afonso VI",
+   "nativeName": "Afonso VI",
+   "roman": "Afonso VI",
+   "start": 1656,
+   "end": 1683,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Peter II",
+   "nativeName": "Pedro II",
+   "roman": "Pedro II",
+   "start": 1683,
+   "end": 1706,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "John V",
+   "nativeName": "João V",
+   "roman": "João V",
+   "start": 1706,
+   "end": 1750,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Joseph I",
+   "nativeName": "José I",
+   "roman": "José I",
+   "start": 1750,
+   "end": 1777,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Maria I",
+   "nativeName": "Maria I",
+   "roman": "Maria I",
+   "start": 1777,
+   "end": 1816,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "John VI",
+   "nativeName": "João VI",
+   "roman": "João VI",
+   "start": 1816,
+   "end": 1826,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q200464__portuguese-colonies"
+}

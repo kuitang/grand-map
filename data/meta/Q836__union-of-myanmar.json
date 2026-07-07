@@ -1,0 +1,91 @@
+{
+ "qid": "Q836",
+ "names": [
+  "Union of Myanmar"
+ ],
+ "title": "Union of Myanmar",
+ "variantOf": "Q836",
+ "endonym": {
+  "native": "ပြည်ထောင်စု မြန်မာနိုင်ငံတော်",
+  "roman": "Pyidaunzu Myanma Naingngandaw"
+ },
+ "capsule": "The Union of Myanmar was the name adopted in 1989 by the ruling State Law and Order Restoration Council for the state formerly called Burma, its military-junta rule (SLORC, then SPDC) persisting until a nominally civilian government took office in 2011 under the 2008 constitution. A decade of partial democratization under Aung San Suu Kyi's National League for Democracy followed, ending abruptly when the military seized power again in the February 2021 coup. This post-1989 entity is distinct from the earlier Konbaung-through-socialist 'Burma' sharing this Wikidata identifier.",
+ "citations": [
+  {
+   "label": "List of heads of state of Myanmar since 1948 — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/List_of_heads_of_state_of_Myanmar_since_1948"
+  },
+  {
+   "label": "Min Aung Hlaing — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Min_Aung_Hlaing"
+  },
+  {
+   "label": "2021 Myanmar coup d'état — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/2021_Myanmar_coup_d%27%C3%A9tat"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Burma's colonial-era boundaries were defined by British administrative surveys and treaties with neighboring powers (China, Siam, France for Indochina); they are generally well-attested, though hill-tribe frontier zones were loosely administered. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Myanmar",
+ "rulers": [
+  {
+   "name": "Saw Maung (SLORC Chairman)",
+   "native": "စောမောင်",
+   "roman": "Saw Maung",
+   "start": 1988,
+   "end": 1992,
+   "nativeName": "စောမောင်"
+  },
+  {
+   "name": "Than Shwe (SLORC/SPDC Chairman)",
+   "native": "သန်းရွှေ",
+   "roman": "Than Shwe",
+   "start": 1992,
+   "end": 2011,
+   "nativeName": "သန်းရွှေ"
+  },
+  {
+   "name": "Thein Sein (President)",
+   "native": "သိန်းစိန်",
+   "roman": "Thein Sein",
+   "start": 2011,
+   "end": 2016,
+   "nativeName": "သိန်းစိန်"
+  },
+  {
+   "name": "Htin Kyaw (President)",
+   "native": "ထင်ကျော်",
+   "roman": "Htin Kyaw",
+   "start": 2016,
+   "end": 2018,
+   "nativeName": "ထင်ကျော်"
+  },
+  {
+   "name": "Win Myint (President)",
+   "native": "ဝင်းမြင့်",
+   "roman": "Win Myint",
+   "start": 2018,
+   "end": 2021,
+   "nativeName": "ဝင်းမြင့်"
+  },
+  {
+   "name": "Min Aung Hlaing (SAC Chairman / Acting President)",
+   "native": "မင်းအောင်လှိုင်",
+   "roman": "Min Aung Hlaing",
+   "start": 2021,
+   "end": 2025,
+   "nativeName": "မင်းအောင်လှိုင်"
+  }
+ ],
+ "blurbKey": "Q836__union-of-myanmar"
+}

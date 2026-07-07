@@ -1,0 +1,399 @@
+{
+ "qid": "Q858",
+ "names": [
+  "Syria"
+ ],
+ "title": "Syria",
+ "variantOf": "Q858",
+ "endonym": {
+  "native": "الجمهورية العربية السورية",
+  "roman": "al-Jumhūriyyah al-ʿArabiyyah as-Sūriyyah"
+ },
+ "capsule": "Syria's 1973 permanent constitution entrenched Ba'ath Party primacy and presidential authority under Hafez al-Assad, whose government fought the 1973 Yom Kippur War, crushed the 1982 Hama uprising, and passed power to his son Bashar al-Assad in 2000. Mass protests in 2011 escalated into a devastating civil war that fragmented the country for over a decade, ending in December 2024 when rebel forces ousted Bashar al-Assad, after which a transitional government under Ahmed al-Sharaa took charge into 2025.",
+ "citations": [
+  {
+   "label": "Britannica: Syria - Emergence and fracture of the Syrian Baath",
+   "url": "https://www.britannica.com/place/Syria/Emergence-and-fracture-of-the-Syrian-Baath"
+  },
+  {
+   "label": "Al Majalla: The Ba'ath Party comes to power in Syria",
+   "url": "https://en.majalla.com/node/287416/documents-memoirs/day-history-ba%E2%80%99ath-party-comes-power-syria"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Territorial extent is fully attested as the recognized international borders of Syria during 1961–1963; no boundary changes occurred in this period. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Syria",
+ "rulers": [
+  {
+   "qid": "Q307244",
+   "name": "Abdel Hamid al-Sarraj",
+   "start": 1960,
+   "end": 1961,
+   "image": "SarrajCairoConference.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SarrajCairoConference.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q169841",
+   "name": "Nazim al-Kudsi",
+   "start": 1961,
+   "end": 1963,
+   "image": "Nazim al-Kudsi.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nazim%20al-Kudsi.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q888030",
+   "name": "Maamun al-Kuzbari",
+   "start": 1961,
+   "end": 1961,
+   "image": "Maamun al-Kuzbari (1914-1998) portrait.png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Maamun%20al-Kuzbari%20(1914-1998)%20portrait.png?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q6406318",
+   "name": "Izzat al-Nuss",
+   "start": 1961,
+   "end": 1961,
+   "image": "Sy izzat al-nuss.png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sy%20izzat%20al-nuss.png?width=320",
+   "imageLicense": {
+    "license": "CC0",
+    "artist": "Public domain",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q1751018",
+   "name": "Bashir al-Azma",
+   "start": 1962,
+   "end": 1962,
+   "image": "Bashir al-Azma.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bashir%20al-Azma.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "The original uploader was Zozo2kx at English Wikipedia.",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q59434",
+   "name": "Luai al-Atassi",
+   "start": 1963,
+   "end": 1963,
+   "image": "Luai al-Atassi.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Luai%20al-Atassi.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q471449",
+   "name": "Amin al-Hafez",
+   "start": 1963,
+   "end": 1966,
+   "image": "Amin al-Hafez 1965.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Amin%20al-Hafez%201965.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q16013665",
+   "name": "Sami al-Jundi",
+   "start": 1963,
+   "end": 1963,
+   "image": "Zuayyin with Jundi and Makhous 1967 in Paris.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Zuayyin%20with%20Jundi%20and%20Makhous%201967%20in%20Paris.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q59691",
+   "name": "Nureddin al-Atassi",
+   "start": 1966,
+   "end": 1970,
+   "image": "Nureddin Atassi.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nureddin%20Atassi.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q500447",
+   "name": "Salah ad-Din al-Bitar",
+   "start": 1966,
+   "end": 1966,
+   "image": "Prime Minister Salah al-Bitar - March 1963.png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Prime%20Minister%20Salah%20al-Bitar%20-%20March%201963.png?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown, published by the Syrian History Archive",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q2602050",
+   "name": "Yusuf Zuayyin",
+   "start": 1966,
+   "end": 1968,
+   "image": "Yusuf Zuayyin.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Yusuf%20Zuayyin.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Not credited",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q169834",
+   "name": "Ahmad al-Khatib",
+   "start": 1970,
+   "end": 1971,
+   "image": "Ahmed al-Khatib.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ahmed%20al-Khatib.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q118725",
+   "name": "Hafez al-Assad",
+   "start": 1971,
+   "end": 2000,
+   "image": "Hafez al-Assad official portrait.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hafez%20al-Assad%20official%20portrait.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Government of Syria",
+    "attributionRequired": false
+   },
+   "nativeName": "Hafez Esed",
+   "nativeLang": "ku"
+  },
+  {
+   "qid": "Q6734435",
+   "name": "Mahmoud al-Ayyubi",
+   "start": 1972,
+   "end": 1976,
+   "image": null
+  },
+  {
+   "qid": "Q4498131",
+   "name": "Abdul Rahman Khleifawi",
+   "start": 1976,
+   "end": 1978,
+   "image": "Abdul Rahman Khleifawi, 1971 (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Abdul%20Rahman%20Khleifawi%2C%201971%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Not credited",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q1844252",
+   "name": "Muhammad Ali al-Halabi",
+   "start": 1978,
+   "end": 1980,
+   "image": "Mohammad Ali Halabi.png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mohammad%20Ali%20Halabi.png?width=320",
+   "imageLicense": {
+    "license": "CC0",
+    "artist": "Mithaq.g",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q317430",
+   "name": "Abdul Rauf al-Kasm",
+   "start": 1980,
+   "end": 1987,
+   "image": "Abdul Rauf al-Kasm 1981.png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Abdul%20Rauf%20al-Kasm%201981.png?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q1884964",
+   "name": "Mahmoud Zuabi",
+   "start": 1987,
+   "end": 2000,
+   "image": null
+  },
+  {
+   "qid": "Q44329",
+   "name": "Bashar al-Assad",
+   "start": 2000,
+   "end": 2024,
+   "image": "(cropped 2) دیدار بشار اسد و هیئت همراه با سید علی خامنه ای، ۱۰ خرداد ۱۴۰۳ (05).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/(cropped%202)%20%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1%20%D8%A8%D8%B4%D8%A7%D8%B1%20%D8%A7%D8%B3%D8%AF%20%D9%88%20%D9%87%DB%8C%D8%A6%D8%AA%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A8%D8%A7%20%D8%B3%DB%8C%D8%AF%20%D8%B9%D9%84%DB%8C%20%D8%AE%D8%A7%D9%85%D9%86%D9%87%20%D8%A7%DB%8C%D8%8C%20%DB%B1%DB%B0%20%D8%AE%D8%B1%D8%AF%D8%A7%D8%AF%20%DB%B1%DB%B4%DB%B0%DB%B3%20(05).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 4.0",
+    "artist": "khamenei.ir",
+    "attributionRequired": true
+   },
+   "nativeName": "Beşar Esed",
+   "nativeLang": "ku"
+  },
+  {
+   "qid": "Q307237",
+   "name": "Abd al-Halim Khaddam",
+   "start": 2000,
+   "end": 2000,
+   "image": "President Jimmy Carter and Abdul Halim Khaddam (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/President%20Jimmy%20Carter%20and%20Abdul%20Halim%20Khaddam%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Warren K. Leffler",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q403471",
+   "name": "Muhammad Mustafa Mero",
+   "start": 2000,
+   "end": 2003,
+   "image": null
+  },
+  {
+   "qid": "Q336406",
+   "name": "Muhammad Naji al-Otari",
+   "start": 2003,
+   "end": 2011,
+   "image": "Mohammad Naji Otri.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mohammad%20Naji%20Otri.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 2.5",
+    "artist": "Ricardo Stuckert",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q353713",
+   "name": "Adel Safar",
+   "start": 2011,
+   "end": 2012,
+   "image": null
+  },
+  {
+   "qid": "Q354642",
+   "name": "Riyad Farid Hijab",
+   "start": 2012,
+   "end": 2012,
+   "image": "Riyad Farid Hidschab während der Münchner Sicherheitskonferenz 2016 (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Riyad%20Farid%20Hidschab%20w%C3%A4hrend%20der%20M%C3%BCnchner%20Sicherheitskonferenz%202016%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 3.0 de",
+    "artist": "Kuhlmann / MSC",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q713915",
+   "name": "Wael al-Halqi",
+   "start": 2012,
+   "end": 2016,
+   "image": "Wael Nader al-Halqi in Tehran.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Wael%20Nader%20al-Halqi%20in%20Tehran.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 4.0",
+    "artist": "Mahmoud Hosseini",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q918978",
+   "name": "Omar Ibrahim Ghalawanji",
+   "start": 2012,
+   "end": 2012,
+   "image": null
+  },
+  {
+   "qid": "Q6001983",
+   "name": "Imad Khamis",
+   "start": 2016,
+   "end": 2020,
+   "image": "Imad Khamis in Iran (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Imad%20Khamis%20in%20Iran%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 4.0",
+    "artist": "Mahmoud Hosseini",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q60455401",
+   "name": "Hussein Arnous",
+   "start": 2020,
+   "end": 2024,
+   "image": "Hussein Arnous.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hussein%20Arnous.jpg?width=320",
+   "imageLicense": {
+    "license": "GODL-India",
+    "artist": "Ministry of Housing and Urban Poverty Alleviation",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q122759674",
+   "name": "Mohammad Ghazi al-Jalali",
+   "start": 2024,
+   "end": 2024,
+   "image": null
+  },
+  {
+   "qid": "Q131377413",
+   "name": "Muhammad al-Bashir",
+   "start": 2024,
+   "end": 2025,
+   "image": "Mohammed al-Bashir at Umayyad Mosque (cropped2).png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mohammed%20al-Bashir%20at%20Umayyad%20Mosque%20(cropped2).png?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Voice of America",
+    "attributionRequired": false
+   },
+   "nativeName": "Mihemed Beşîr",
+   "nativeLang": "ku"
+  }
+ ],
+ "blurbKey": "Q858__syria"
+}

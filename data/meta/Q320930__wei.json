@@ -1,0 +1,99 @@
+{
+ "qid": "Q320930",
+ "names": [
+  "Wei"
+ ],
+ "title": "Wei",
+ "variantOf": "Q320930",
+ "endonym": {
+  "native": "魏",
+  "roman": "Wèi"
+ },
+ "capsule": "Wei (魏) was one of the Three Jins, formed when Zhou's King Weilie formally recognized the partition of the old state of Jin among the Wei, Han, and Zhao ministerial clans in 403 BCE. Under Marquess Wen and King Hui, Wei was briefly the strongest Warring State, ruling first from Anyi and later from Daliang (modern Kaifeng), and its scholars helped seed the Legalist statecraft that Qin later adopted. Weakened by wars on multiple fronts, Wei fell in 225 BCE when the Qin general Wang Ben diverted the Yellow River to flood its capital.",
+ "citations": [
+  {
+   "label": "Wei (state) – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Wei_(state)"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Cao Wei's territory in northern China is well documented by the administrative geography of its commandery system, itself inherited from the Han census; the fluctuating southern frontiers contested with Shu Han and Eastern Wu are attested by campaign records but are imprecisely rendered as fixed lines. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Wei (state)",
+ "rulers": [
+  {
+   "name": "Marquess Wen",
+   "native": "魏文侯 (魏斯)",
+   "roman": "Wèi Sī",
+   "start": -445,
+   "end": -396,
+   "nativeName": "魏文侯 (魏斯)"
+  },
+  {
+   "name": "Marquess Wu",
+   "native": "魏武侯 (魏擊)",
+   "roman": "Wèi Jī",
+   "start": -396,
+   "end": -370,
+   "nativeName": "魏武侯 (魏擊)"
+  },
+  {
+   "name": "King Hui",
+   "native": "魏惠王 (魏罃)",
+   "roman": "Wèi Yīng",
+   "start": -370,
+   "end": -319,
+   "nativeName": "魏惠王 (魏罃)"
+  },
+  {
+   "name": "King Xiang",
+   "native": "魏襄王 (魏嗣)",
+   "roman": "Wèi Sì",
+   "start": -319,
+   "end": -296,
+   "nativeName": "魏襄王 (魏嗣)"
+  },
+  {
+   "name": "King Zhao",
+   "native": "魏昭王 (魏遫)",
+   "roman": "Wèi Chì",
+   "start": -296,
+   "end": -277,
+   "nativeName": "魏昭王 (魏遫)"
+  },
+  {
+   "name": "King Anxi",
+   "native": "魏安釐王 (魏圉)",
+   "roman": "Wèi Yǔ",
+   "start": -277,
+   "end": -243,
+   "nativeName": "魏安釐王 (魏圉)"
+  },
+  {
+   "name": "King Jingmin",
+   "native": "魏景湣王 (魏增)",
+   "roman": "Wèi Zēng",
+   "start": -243,
+   "end": -228,
+   "nativeName": "魏景湣王 (魏增)"
+  },
+  {
+   "name": "King Jia",
+   "native": "魏王假",
+   "roman": "Wèi Jiǎ",
+   "start": -228,
+   "end": -225,
+   "nativeName": "魏王假"
+  }
+ ],
+ "blurbKey": "Q320930__wei"
+}

@@ -1,0 +1,149 @@
+{
+ "qid": "Q148499",
+ "names": [
+  "Margraviate of Brandenburg"
+ ],
+ "title": "Margraviate of Brandenburg",
+ "variantOf": "Q148499",
+ "endonym": {
+  "native": "Markgrafschaft Brandenburg",
+  "roman": "Markgrafschaft Brandenburg"
+ },
+ "capsule": "In this 1260–1415 window the Margraviate of Brandenburg was the Ascanian-ruled March of the Holy Roman Empire, expanding to the Oder before the dynasty's extinction in 1320 plunged it into disputed Wittelsbach and Luxembourg overlordship. The 1356 Golden Bull made its ruler a permanent imperial Elector, and in 1415 Emperor Sigismund granted the march to Frederick VI of Nuremberg, founding five centuries of Hohenzollern rule.",
+ "citations": [
+  {
+   "label": "Margraviate of Brandenburg – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Margraviate_of_Brandenburg"
+  },
+  {
+   "label": "List of margraves and electors of Brandenburg – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/List_of_margraves_and_electors_of_Brandenburg"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Brandenburg's boundaries are well-documented in imperial records and diplomatic instruments from the thirteenth century onward; earlier Ascanian territorial claims eastward are less precisely delimited. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Margraviate of Brandenburg",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Otto IV 'with the Arrow'",
+   "nativeName": "Otto IV. mit dem Pfeil",
+   "roman": "Otto IV mit dem Pfeil",
+   "start": 1267,
+   "end": 1309,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Waldemar the Great",
+   "nativeName": "Waldemar der Große",
+   "roman": "Waldemar der Grosse",
+   "start": 1309,
+   "end": 1319,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Henry II 'the Child'",
+   "nativeName": "Heinrich II. das Kind",
+   "roman": "Heinrich II das Kind",
+   "start": 1319,
+   "end": 1320,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Louis I 'the Brandenburger'",
+   "nativeName": "Ludwig I. der Brandenburger",
+   "roman": "Ludwig I der Brandenburger",
+   "start": 1323,
+   "end": 1351,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Louis II 'the Roman'",
+   "nativeName": "Ludwig II. der Römer",
+   "roman": "Ludwig II der Römer",
+   "start": 1351,
+   "end": 1365,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Otto V 'the Lazy'",
+   "nativeName": "Otto V. der Faule",
+   "roman": "Otto V der Faule",
+   "start": 1365,
+   "end": 1373,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Charles IV",
+   "nativeName": "Karl IV.",
+   "roman": "Karl IV",
+   "start": 1373,
+   "end": 1378,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Sigismund of Luxembourg",
+   "nativeName": "Sigismund von Luxemburg",
+   "roman": "Sigismund von Luxemburg",
+   "start": 1378,
+   "end": 1388,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Jobst of Moravia",
+   "nativeName": "Jobst von Mähren",
+   "roman": "Jobst von Mähren",
+   "start": 1388,
+   "end": 1411,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Sigismund of Luxembourg (restored)",
+   "nativeName": "Sigismund von Luxemburg",
+   "roman": "Sigismund von Luxemburg",
+   "start": 1411,
+   "end": 1415,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q148499__margraviate-of-brandenburg"
+}

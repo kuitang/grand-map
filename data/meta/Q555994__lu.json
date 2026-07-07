@@ -1,0 +1,231 @@
+{
+ "qid": "Q555994",
+ "names": [
+  "Lu"
+ ],
+ "title": "Lu",
+ "variantOf": "Q555994",
+ "endonym": {
+  "native": "魯",
+  "roman": "Lǔ"
+ },
+ "capsule": "Lu (魯) was a Zhou dynasty vassal state in southwestern Shandong, founded around 1042 BCE for Boqin, son of the Duke of Zhou, with its capital at Qufu. Renowned above all as the home state of Confucius, Lu's ducal reign-years supplied the chronological spine of the Spring and Autumn Annals, the text that gave the era its name. Lu persisted as a minor power for roughly eight centuries before Chu conquered it in 256 BCE; its last duke, Duke Qing, died as a commoner around 249 BCE.",
+ "citations": [
+  {
+   "label": "Lu (state) – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lu_(state)"
+  },
+  {
+   "label": "Confucius – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Confucius"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Core territories in Azerbaijan and eastern Anatolia are documented through Ottoman and Venetian diplomatic records and Persian chronicles. Peripheral zones, particularly in Kurdistan and the Zagros, are reconstructed from tribal tribute patterns and are approximate. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Lu (state)",
+ "rulers": [
+  {
+   "name": "Duke Hui",
+   "native": "魯惠公",
+   "roman": "Fúhuáng/Fúshēng",
+   "start": -768,
+   "end": -723,
+   "nativeName": "魯惠公"
+  },
+  {
+   "name": "Duke Yin",
+   "native": "魯隱公 (息姑)",
+   "roman": "Xīgū",
+   "start": -722,
+   "end": -712,
+   "nativeName": "魯隱公 (息姑)"
+  },
+  {
+   "name": "Duke Huan",
+   "native": "魯桓公 (允/軌)",
+   "roman": "Yǔn",
+   "start": -711,
+   "end": -694,
+   "nativeName": "魯桓公 (允/軌)"
+  },
+  {
+   "name": "Duke Zhuang",
+   "native": "魯莊公 (同)",
+   "roman": "Tóng",
+   "start": -693,
+   "end": -662,
+   "nativeName": "魯莊公 (同)"
+  },
+  {
+   "name": "Ziban",
+   "native": "子般",
+   "roman": "Bān",
+   "start": -662,
+   "end": -662,
+   "nativeName": "子般"
+  },
+  {
+   "name": "Duke Min",
+   "native": "魯閔公 (啟)",
+   "roman": "Qǐ",
+   "start": -661,
+   "end": -660,
+   "nativeName": "魯閔公 (啟)"
+  },
+  {
+   "name": "Duke Xi",
+   "native": "魯僖公 (申)",
+   "roman": "Shēn",
+   "start": -659,
+   "end": -627,
+   "nativeName": "魯僖公 (申)"
+  },
+  {
+   "name": "Duke Wen I",
+   "native": "魯文公 (興)",
+   "roman": "Xìng",
+   "start": -626,
+   "end": -609,
+   "nativeName": "魯文公 (興)"
+  },
+  {
+   "name": "Duke Xuan",
+   "native": "魯宣公 (俀/倭)",
+   "roman": "Tuǐ",
+   "start": -608,
+   "end": -591,
+   "nativeName": "魯宣公 (俀/倭)"
+  },
+  {
+   "name": "Duke Cheng",
+   "native": "魯成公 (黑肱)",
+   "roman": "Hēigōng",
+   "start": -590,
+   "end": -573,
+   "nativeName": "魯成公 (黑肱)"
+  },
+  {
+   "name": "Duke Xiang",
+   "native": "魯襄公 (午)",
+   "roman": "Wǔ",
+   "start": -572,
+   "end": -542,
+   "nativeName": "魯襄公 (午)"
+  },
+  {
+   "name": "Ziye",
+   "native": "子野",
+   "roman": "Yě",
+   "start": -542,
+   "end": -542,
+   "nativeName": "子野"
+  },
+  {
+   "name": "Duke Zhao",
+   "native": "魯昭公 (稠)",
+   "roman": "Chóu",
+   "start": -541,
+   "end": -510,
+   "nativeName": "魯昭公 (稠)"
+  },
+  {
+   "name": "Duke Ding",
+   "native": "魯定公 (宋)",
+   "roman": "Sòng",
+   "start": -509,
+   "end": -495,
+   "nativeName": "魯定公 (宋)"
+  },
+  {
+   "name": "Duke Ai",
+   "native": "魯哀公 (蔣)",
+   "roman": "Jiǎng",
+   "start": -494,
+   "end": -467,
+   "nativeName": "魯哀公 (蔣)"
+  },
+  {
+   "name": "Duke Dao",
+   "native": "魯悼公 (寧)",
+   "roman": "Níng",
+   "start": -466,
+   "end": -429,
+   "nativeName": "魯悼公 (寧)"
+  },
+  {
+   "name": "Duke Yuan",
+   "native": "魯元公 (嘉)",
+   "roman": "Jiā",
+   "start": -428,
+   "end": -408,
+   "nativeName": "魯元公 (嘉)"
+  },
+  {
+   "name": "Duke Mu",
+   "native": "魯穆公 (顯)",
+   "roman": "Xiǎn",
+   "start": -407,
+   "end": -377,
+   "nativeName": "魯穆公 (顯)"
+  },
+  {
+   "name": "Duke Gong",
+   "native": "魯共公 (奮)",
+   "roman": "Fèn",
+   "start": -376,
+   "end": -353,
+   "nativeName": "魯共公 (奮)"
+  },
+  {
+   "name": "Duke Kang",
+   "native": "魯康公 (屯)",
+   "roman": "Tún",
+   "start": -352,
+   "end": -344,
+   "nativeName": "魯康公 (屯)"
+  },
+  {
+   "name": "Duke Jing",
+   "native": "魯景公 (偃)",
+   "roman": "Yǎn",
+   "start": -343,
+   "end": -323,
+   "nativeName": "魯景公 (偃)"
+  },
+  {
+   "name": "Duke Ping",
+   "native": "魯平公 (叔)",
+   "roman": "Shū",
+   "start": -322,
+   "end": -303,
+   "nativeName": "魯平公 (叔)"
+  },
+  {
+   "name": "Duke Wen II",
+   "native": "魯文公 (賈)",
+   "roman": "Jiǎ",
+   "start": -302,
+   "end": -278,
+   "nativeName": "魯文公 (賈)"
+  },
+  {
+   "name": "Duke Qing",
+   "native": "魯頃公 (讎)",
+   "roman": "Chóu",
+   "start": -277,
+   "end": -256,
+   "nativeName": "魯頃公 (讎)"
+  }
+ ],
+ "blurbKey": "Q555994__lu"
+}

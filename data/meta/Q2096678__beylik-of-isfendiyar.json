@@ -1,0 +1,120 @@
+{
+ "qid": "Q2096678",
+ "names": [
+  "Beylik of Isfendiyar"
+ ],
+ "title": "Beylik of Isfendiyar",
+ "variantOf": "Q2096678",
+ "endonym": {
+  "native": "جاندار اوغوللاری بیلیگی",
+  "roman": "Candaroğulları Beyligi",
+  "lang": "ota"
+ },
+ "capsule": "Named for its most celebrated ruler, Mubariz al-Din İsfendiyar Bey (r. 1385–1440), this longer Candarid phase (1305–1463 in this record) held Kastamonu and Sinop in north-central Anatolia, balancing Ottoman, Timurid and Karamanid pressures — regaining full territory under Timur's confirmation after 1402 — until Ottoman sultan Mehmed II annexed the beylik in 1461, ending Candarid rule.",
+ "citations": [
+  {
+   "label": "Candar dynasty – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Candar_dynasty"
+  },
+  {
+   "label": "Mubariz al-Din Isfendiyar – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/%C4%B0sfendiyar_Bey"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The beylik's territorial footprint is only approximately attested; boundaries are inferred from Ottoman administrative records and Byzantine sources, with no surviving contemporary maps. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Candar dynasty",
+ "rulers": [
+  {
+   "name": "Şemseddin Yaman Candar",
+   "native": "شمس‌الدین یمان جاندار",
+   "roman": "Şemseddin Yaman Candar",
+   "start": 1292,
+   "end": 1308,
+   "nativeName": "شمس‌الدین یمان جاندار"
+  },
+  {
+   "name": "Süleyman I Paşa",
+   "native": "سلیمان پاشا",
+   "roman": "Süleyman I Paşa",
+   "start": 1308,
+   "end": 1341,
+   "nativeName": "سلیمان پاشا"
+  },
+  {
+   "name": "İbrahim Paşa",
+   "native": "ابراهیم پاشا",
+   "roman": "İbrahim Paşa",
+   "start": 1341,
+   "end": 1345,
+   "nativeName": "ابراهیم پاشا"
+  },
+  {
+   "name": "Âdil Bey bin Ya'kûb",
+   "native": "عادل بگ بن یعقوب",
+   "roman": "Âdil Bey bin Ya'kûb",
+   "start": 1346,
+   "end": 1361,
+   "nativeName": "عادل بگ بن یعقوب"
+  },
+  {
+   "name": "Celaleddin Bayezid Bey",
+   "native": "جلال‌الدین بایزید بگ",
+   "roman": "Celaleddin Bayezid Bey",
+   "start": 1361,
+   "end": 1383,
+   "nativeName": "جلال‌الدین بایزید بگ"
+  },
+  {
+   "name": "Süleyman II Paşa",
+   "native": "سلیمان پاشا",
+   "roman": "Süleyman II Paşa",
+   "start": 1384,
+   "end": 1385,
+   "nativeName": "سلیمان پاشا"
+  },
+  {
+   "name": "İsfendiyar Bey",
+   "native": "اسفندیار بگ",
+   "roman": "İsfendiyar Bey",
+   "start": 1385,
+   "end": 1440,
+   "nativeName": "اسفندیار بگ"
+  },
+  {
+   "name": "Tâceddin İbrahim II Bey",
+   "native": "تاج‌الدین ابراهیم بگ",
+   "roman": "Tâceddin İbrahim II Bey",
+   "start": 1440,
+   "end": 1443,
+   "nativeName": "تاج‌الدین ابراهیم بگ"
+  },
+  {
+   "name": "Kemâleddin İsmail Bey",
+   "native": "کمال‌الدین اسماعیل بگ",
+   "roman": "Kemâleddin İsmail Bey",
+   "start": 1443,
+   "end": 1461,
+   "nativeName": "کمال‌الدین اسماعیل بگ"
+  },
+  {
+   "name": "Kızıl Ahmed Bey",
+   "native": "قزل احمد بگ",
+   "roman": "Kızıl Ahmed Bey",
+   "start": 1461,
+   "end": 1461,
+   "nativeName": "قزل احمد بگ"
+  }
+ ],
+ "blurbKey": "Q2096678__beylik-of-isfendiyar"
+}

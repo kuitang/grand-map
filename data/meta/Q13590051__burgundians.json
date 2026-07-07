@@ -1,0 +1,52 @@
+{
+ "qid": "Q13590051",
+ "names": [
+  "Burgundians"
+ ],
+ "title": "Burgundians",
+ "variantOf": "Q13590051",
+ "endonym": {
+  "native": "Burgundiones",
+  "roman": "Burgundiones",
+  "lang": "la"
+ },
+ "capsule": "The Burgundians were an East Germanic people whom Roman writers first placed near the Vistula and, by the 3rd century CE, associated with the region east of the Rhine, part of the broader Migration Period pressure on the imperial frontier. Ammianus Marcellinus and other late Roman sources describe them as a populous nation contesting territory with the Alamanni along the Main. By 410 the Burgundians had moved into formerly Roman border lands, setting the stage for their settlement as Roman foederati at Worms three years later.",
+ "citations": [
+  {
+   "label": "Wikipedia, \"Burgundians\"",
+   "url": "https://en.wikipedia.org/wiki/Burgundians"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Written sources attest the Burgundians' Rhine settlement and Sapaudian resettlement; their earlier territorial range before the 5th century is poorly defined. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Burgundians",
+ "rulers": [
+  {
+   "name": "Gebicca",
+   "native": "Gebicca",
+   "roman": "Gebicca",
+   "start": 380,
+   "end": 407,
+   "nativeName": "Gebicca"
+  },
+  {
+   "name": "Gundomar I",
+   "native": "Gundomarius",
+   "roman": "Gundomar I",
+   "start": 407,
+   "end": 411,
+   "nativeName": "Gundomarius"
+  }
+ ],
+ "blurbKey": "Q13590051__burgundians"
+}

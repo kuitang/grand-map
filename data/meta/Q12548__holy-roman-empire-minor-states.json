@@ -1,0 +1,196 @@
+{
+ "qid": "Q12548",
+ "names": [
+  "Holy Roman Empire Minor States"
+ ],
+ "title": "Holy Roman Empire Minor States",
+ "variantOf": "Q12548",
+ "endonym": {
+  "native": "Reichsstände",
+  "roman": "Reichsstände"
+ },
+ "capsule": "\"Holy Roman Empire Minor States\" denotes the empire's dense mosaic of small imperial estates — free imperial cities, prince-bishoprics, imperial abbeys, and petty counties — whose practical autonomy hardened after the Great Interregnum of 1250–1273 left the imperial crown weak relative to its territorial princes. Formally organized as Reichsstände with seats and votes in the Imperial Diet, these minor territories multiplied through partible inheritance and religious partition, and hundreds of them survived in diminished form until Napoleon's Reichsdeputationshauptschluss of 1803 and the empire's dissolution in 1806.",
+ "citations": [
+  {
+   "label": "Holy Roman Empire - Britannica",
+   "url": "https://www.britannica.com/place/Holy-Roman-Empire"
+  },
+  {
+   "label": "Kleinstaaterei - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kleinstaaterei"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases (Times Atlas of World History; Kinder & Hilgemann; Shepherd 1926) at ~0.07° resolution. The empire is drawn as an envelope plus major constituents; Cliopatria omits polities under ~5,000 km², so hundreds of small imperial estates, bishoprics, and free cities are subsumed into larger shapes. Confidence: moderate; internal boundaries indicative, not parcel-accurate. Capsule researched for this polity/era specifically (confidence: medium).",
+ "rulers": [
+  {
+   "qid": "Q130221",
+   "name": "Frederick II, Holy Roman Emperor",
+   "start": 1196,
+   "end": 1250,
+   "ordinal": null,
+   "image": "Frederick II and eagle.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Frederick%20II%20and%20eagle.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "Fridericus II",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q67176",
+   "name": "Henry I, Count of Anhalt",
+   "start": 1218,
+   "end": 1252,
+   "ordinal": null,
+   "image": "Codex Manesse (Herzog) von Anhalt.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Codex%20Manesse%20(Herzog)%20von%20Anhalt.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Master of the Codex Manesse",
+    "attributionRequired": false
+   },
+   "nativeName": "Heinrich I.",
+   "nativeLang": "de"
+  },
+  {
+   "qid": "Q84037300",
+   "name": "Johannes  gen. von Lübeck",
+   "start": 1231,
+   "end": 1247,
+   "ordinal": null,
+   "image": null,
+   "nativeName": "Johannes gen. von Lübeck",
+   "nativeLang": "de"
+  },
+  {
+   "qid": "Q695428",
+   "name": "Arnold II of Isenburg",
+   "start": 1245,
+   "end": null,
+   "ordinal": null,
+   "image": null,
+   "nativeName": "Arnold II. von Isenburg",
+   "nativeLang": "de"
+  },
+  {
+   "qid": "Q471363",
+   "name": "Albert Suerbeer",
+   "start": 1247,
+   "end": null,
+   "ordinal": null,
+   "image": "Archbishopric of Riga.svg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Archbishopric%20of%20Riga.svg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "SVG created by the uploader",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q77255",
+   "name": "William II of Holland",
+   "start": 1248,
+   "end": 1256,
+   "ordinal": null,
+   "image": "Guillaume II de Hollande.png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Guillaume%20II%20de%20Hollande.png?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Willem Thibaut",
+    "attributionRequired": false
+   },
+   "nativeName": "Guilielmus II",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q1537952",
+   "name": "Johannes von Diest",
+   "start": 1254,
+   "end": 1259,
+   "ordinal": null,
+   "image": null
+  },
+  {
+   "qid": "Q1666839",
+   "name": "Johannes von Tralau",
+   "start": 1260,
+   "end": null,
+   "ordinal": null,
+   "image": null
+  },
+  {
+   "qid": "Q1597768",
+   "name": "Hendrik II van Finstingen",
+   "start": 1260,
+   "end": null,
+   "ordinal": null,
+   "image": null,
+   "nativeName": "Heinrich II. von Finstingen",
+   "nativeLang": "de"
+  },
+  {
+   "qid": "Q76956",
+   "name": "Rudolph I of Germany",
+   "start": 1273,
+   "end": 1291,
+   "ordinal": null,
+   "image": "Rudolph I of Austria.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rudolph%20I%20of%20Austria.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Antoni Boys",
+    "attributionRequired": false
+   },
+   "nativeName": "Rudolphus I",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q1016524",
+   "name": "Burkhard von Serkem",
+   "start": 1276,
+   "end": null,
+   "ordinal": null,
+   "image": null
+  },
+  {
+   "qid": "Q879631",
+   "name": "Bohemond I",
+   "start": 1289,
+   "end": null,
+   "ordinal": null,
+   "image": null,
+   "nativeName": "Boemund I. von Warsberg",
+   "nativeLang": "de"
+  },
+  {
+   "qid": "Q153956",
+   "name": "Albert I of Germany",
+   "start": 1298,
+   "end": 1308,
+   "ordinal": null,
+   "image": "AlbrechtI.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/AlbrechtI.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Anton Boys",
+    "attributionRequired": false
+   },
+   "nativeName": "Albertus I",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q1223243",
+   "name": "Diether of Nassau",
+   "start": 1300,
+   "end": 1307,
+   "ordinal": null,
+   "image": null,
+   "nativeName": "Diether von Nassau",
+   "nativeLang": "de"
+  }
+ ],
+ "blurbKey": "Q12548__holy-roman-empire-minor-states"
+}

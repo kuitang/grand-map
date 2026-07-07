@@ -1,0 +1,75 @@
+{
+ "qid": "Q12491027",
+ "names": [
+  "Balinese Kingdom"
+ ],
+ "title": "Balinese Kingdom",
+ "variantOf": "Q12491027",
+ "endonym": {
+  "native": "Kerajaan Bali",
+  "roman": "Kerajaan Bali",
+  "lang": "ban"
+ },
+ "capsule": "Following the Majapahit conquest of 1343, the Kepakisan dynasty installed as vassal rulers gradually asserted independence as Majapahit itself faded, and from its palace at Gelgel in southeastern Bali the kingdom reached its apogee under Dalem Baturenggong, who extended Gelgel's suzerainty over Lombok, western Sumbawa, and Blambangan in eastern Java while resisting the Islamization spreading across the archipelago. His successors Dalem Bekung and Dalem Seganing weathered court rebellions and failed expeditions against Java, and the dynasty's authority collapsed after 1651 when the chief minister Gusti Agung Maruti usurped power at Gelgel. The old line's heir, Dewa Agung Jambe I, reestablished the court at Klungkung around 1686, though he could no longer command the whole island, which fractured into competing lordships.",
+ "citations": [
+  {
+   "label": "List of monarchs of Bali - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/List_of_monarchs_of_Bali"
+  },
+  {
+   "label": "Dalem Baturenggong - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dalem_Baturenggong"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Territorial extent is poorly attested; the polity is reconstructed primarily from epigraphic sources and Javanese chronicles, and the geographic scope of its control beyond the Balinese heartland is uncertain. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Bali Kingdom",
+ "rulers": [
+  {
+   "name": "Dalem Baturenggong",
+   "roman": "Dalem Baturenggong",
+   "start": 1519,
+   "end": 1550,
+   "nativeName": null
+  },
+  {
+   "name": "Dalem Bekung",
+   "roman": "Dalem Bekung",
+   "start": 1551,
+   "end": 1582,
+   "nativeName": null
+  },
+  {
+   "name": "Dalem Seganing",
+   "roman": "Dalem Seganing",
+   "start": 1582,
+   "end": 1623,
+   "nativeName": null
+  },
+  {
+   "name": "Dalem Di Made",
+   "roman": "Dalem Di Made",
+   "start": 1623,
+   "end": 1651,
+   "nativeName": null
+  },
+  {
+   "name": "Dewa Agung Jambe I",
+   "roman": "Dewa Agung Jambe I",
+   "start": 1686,
+   "nativeName": null,
+   "end": null
+  }
+ ],
+ "blurbKey": "Q12491027__balinese-kingdom"
+}

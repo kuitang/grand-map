@@ -1,0 +1,63 @@
+{
+ "qid": "Q1472004",
+ "names": [
+  "Former Yan"
+ ],
+ "title": "Former Yan",
+ "variantOf": "Q1472004",
+ "endonym": {
+  "native": "前燕",
+  "roman": "Qián Yān"
+ },
+ "capsule": "Former Yan (前燕) was a Xianbei state founded in 337 when Murong Huang, chieftain of the Murong clan in Liaoxi, took the title Prince of Yan, with his son Murong Jun formally declaring imperial rule in 352. From its successive capitals at Longcheng, Jicheng (Beijing), and finally Ye, Former Yan conquered Later Zhao's former territory and briefly dominated most of the North China Plain under the child emperor Murong Wei and his regent uncle Murong Ke. It fell in 370 when Former Qin under Fu Jian captured Ye and took Murong Wei prisoner — a state distinct from the ancient Warring-States-era kingdom of Yan that had vanished nearly six centuries earlier.",
+ "citations": [
+  {
+   "label": "Former Yan - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Former_Yan"
+  },
+  {
+   "label": "Former Yan empire 前燕 - Chinaknowledge",
+   "url": "http://www.chinaknowledge.de/History/Division/rulers-qianyan.html"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The core territory around Ji is well attested; outer boundaries fluctuated substantially across the Warring States period and are reconstructed from textual sources with only approximate cartographic precision. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Yan (state)",
+ "rulers": [
+  {
+   "name": "Murong Huang",
+   "native": "慕容皝",
+   "roman": "Mùróng Huàng",
+   "start": 337,
+   "end": 348,
+   "nativeName": "慕容皝"
+  },
+  {
+   "name": "Murong Jun",
+   "native": "慕容儁",
+   "roman": "Mùróng Jùn",
+   "start": 348,
+   "end": 360,
+   "nativeName": "慕容儁"
+  },
+  {
+   "name": "Murong Wei",
+   "native": "慕容暐",
+   "roman": "Mùróng Wěi",
+   "start": 360,
+   "end": 370,
+   "nativeName": "慕容暐"
+  }
+ ],
+ "blurbKey": "Q1472004__former-yan"
+}

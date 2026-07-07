@@ -1,0 +1,38 @@
+{
+ "qid": "Q849967",
+ "names": [
+  "Brythonic Kingdoms"
+ ],
+ "title": "Brythonic Kingdoms",
+ "variantOf": "Q849967",
+ "endonym": {
+  "native": "Brenhiniaetha Brython",
+  "roman": "Brenhiniaetha Brython",
+  "lang": "wlm"
+ },
+ "capsule": "\"Brythonic Kingdoms\" is a collective label for the patchwork of early medieval polities, among them Gwynedd, Powys, Dumnonia, Rheged, Elmet, and Alt Clut/Strathclyde, established by Brythonic (Common Brittonic)-speaking Celtic Britons across Britain after the end of direct Roman rule in the early 5th century. Each kingdom had its own dynasty and territory, and together they contracted over centuries under pressure from Anglo-Saxon expansion, eventually surviving mainly as Wales, Cornwall, and Cumbric-speaking Strathclyde. Because the label names a shifting constellation of separate courts rather than one continuous state, no single ruling dynasty can be attributed to it.",
+ "citations": [
+  {
+   "label": "Wikipedia, \"Sub-Roman Britain\"",
+   "url": "https://en.wikipedia.org/wiki/Sub-Roman_Britain"
+  },
+  {
+   "label": "Wikipedia, \"Celtic Britons\"",
+   "url": "https://en.wikipedia.org/wiki/Celtic_Britons"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The Brythons are not a single bounded polity; the dataset geometry likely represents their collective presence across Britain as reconstructed from archaeological and linguistic evidence. Pre-Roman extents are broadly estimated; Roman-period territories are better documented, and post-Roman Brythonic kingdoms are reconstructed from early medieval Welsh chronicles and genealogical texts with significant uncertainty about boundaries. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Celtic Britons",
+ "blurbKey": "Q849967__brythonic-kingdoms"
+}

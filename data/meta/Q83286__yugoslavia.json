@@ -1,0 +1,63 @@
+{
+ "qid": "Q83286",
+ "names": [
+  "Yugoslavia"
+ ],
+ "title": "Yugoslavia",
+ "variantOf": "Q83286",
+ "endonym": {
+  "native": "Краљевина Југославија",
+  "roman": "Kraljevina Jugoslavija"
+ },
+ "capsule": "Formed on 1 December 1918 as the Kingdom of Serbs, Croats and Slovenes and renamed Yugoslavia in 1929, the interwar kingdom was dominated by Serbian dynastic rule under King Alexander I, who imposed a royal dictatorship in 1929 to suppress ethnic and political conflict. Assassinated in Marseille in 1934, Alexander was succeeded by his young son Peter II under a regency led by Prince Paul, whose 1941 alignment with the Axis triggered a coup and the German-led invasion and dismemberment of the country; the occupied kingdom's government-in-exile lost ground to Josip Broz Tito's communist Partisans, and the monarchy was formally abolished on 29 November 1945.",
+ "citations": [
+  {
+   "label": "Britannica: Yugoslavia (historical federated nation, 1929-2003)",
+   "url": "https://www.britannica.com/place/Yugoslavia-former-federated-nation-1929-2003"
+  },
+  {
+   "label": "Wikipedia: Kingdom of Yugoslavia",
+   "url": "https://en.wikipedia.org/wiki/Kingdom_of_Yugoslavia"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The interwar Yugoslavia's territory is precisely defined by post-WWI treaties (Trianon, Rapallo, Saint-Germain); the dataset's to date of 1946 reflects the socialist reorganization rather than territorial dissolution. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Yugoslavia",
+ "rulers": [
+  {
+   "name": "Peter I, King of Serbs, Croats and Slovenes",
+   "native": "Петар I Карађорђевић",
+   "roman": "Petar I Karađorđević",
+   "start": 1918,
+   "end": 1921,
+   "nativeName": "Петар I Карађорђевић"
+  },
+  {
+   "name": "Alexander I, King of Yugoslavia",
+   "native": "Александар I Карађорђевић",
+   "roman": "Aleksandar I Karađorđević",
+   "start": 1921,
+   "end": 1934,
+   "nativeName": "Александар I Карађорђевић"
+  },
+  {
+   "name": "Peter II, King of Yugoslavia",
+   "native": "Петар II Карађорђевић",
+   "roman": "Petar II Karađorđević",
+   "start": 1934,
+   "end": 1945,
+   "nativeName": "Петар II Карађорђевић"
+  }
+ ],
+ "blurbKey": "Q83286__yugoslavia"
+}

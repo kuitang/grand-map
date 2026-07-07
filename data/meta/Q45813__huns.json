@@ -1,0 +1,89 @@
+{
+ "qid": "Q45813",
+ "names": [
+  "Huns"
+ ],
+ "title": "Huns",
+ "variantOf": "Q45813",
+ "endonym": {
+  "native": "Huns",
+  "roman": "Huns",
+  "lang": "und"
+ },
+ "capsule": "First noted in Chinese and classical sources as a nomadic steppe confederacy distinct from the Xiongnu, the Huns pressed westward across the Eurasian steppe, subjugating the Alans and Ostrogoths and driving the Visigoths into Roman territory by 376. Under early leaders such as Uldin and Charaton in the late 4th and early 5th centuries they raided and extracted subsidies from both Roman empires. This looser, earlier phase gave way by the mid-420s to more centralized rule under the brothers Octar and Rugila, the immediate prelude to the reign of Attila.",
+ "citations": [
+  {
+   "label": "Wikipedia, \"History of the Huns\"",
+   "url": "https://en.wikipedia.org/wiki/History_of_the_Huns"
+  },
+  {
+   "label": "Wikipedia, \"Huns\"",
+   "url": "https://en.wikipedia.org/wiki/Huns"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Hunnic territorial extent is highly conjectural; the western empire's core in Pannonia is well-supported by Roman sources, but steppe frontiers from the Caspian to the Danube reflect scholarly inference from narrative sources rather than administrative records. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Huns",
+ "rulers": [
+  {
+   "name": "Balamber",
+   "roman": "Balamber",
+   "start": 370,
+   "end": 380,
+   "nativeName": null
+  },
+  {
+   "name": "Kursich",
+   "roman": "Kursich",
+   "start": 395,
+   "end": 400,
+   "nativeName": null
+  },
+  {
+   "name": "Basich",
+   "roman": "Basich",
+   "start": 395,
+   "end": 400,
+   "nativeName": null
+  },
+  {
+   "name": "Uldin",
+   "roman": "Uldin",
+   "start": 400,
+   "end": 409,
+   "nativeName": null
+  },
+  {
+   "name": "Charaton",
+   "roman": "Charaton",
+   "start": 412,
+   "end": 418,
+   "nativeName": null
+  },
+  {
+   "name": "Octar",
+   "roman": "Octar",
+   "start": 420,
+   "end": 430,
+   "nativeName": null
+  },
+  {
+   "name": "Rugila",
+   "roman": "Rugila",
+   "start": 420,
+   "end": 434,
+   "nativeName": null
+  }
+ ],
+ "blurbKey": "Q45813__huns"
+}

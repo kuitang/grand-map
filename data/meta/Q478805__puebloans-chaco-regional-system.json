@@ -1,0 +1,38 @@
+{
+ "qid": "Q478805",
+ "names": [
+  "Puebloans - Chaco Regional System"
+ ],
+ "title": "Puebloans - Chaco Regional System",
+ "variantOf": "Q478805",
+ "endonym": {
+  "native": "Puebloans - Chaco Regional System",
+  "roman": "Puebloans - Chaco Regional System",
+  "lang": "en"
+ },
+ "capsule": "The Chaco Regional System was the Ancestral Puebloan network of monumental great houses, engineered roads, and ceremonial centers focused on Chaco Canyon in present-day northwestern New Mexico, flourishing especially between about 1020 and 1150 CE. Its multi-story great houses - Pueblo Bonito foremost among them - and an arrow-straight road network linking over 150 outlying communities mark it as a hub of ritual, trade, and political integration rather than a conventional kingdom with named rulers. Prolonged drought and the system's own logistical strain halted new construction in the canyon by around 1150, as ceremonial and political weight shifted outward to centers such as Aztec Ruins to the north.",
+ "citations": [
+  {
+   "label": "Chaco Culture | UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/353/"
+  },
+  {
+   "label": "Chaco Culture National Historical Park - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chaco_Culture_National_Historical_Park"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The core Chaco Canyon monuments are thoroughly documented archaeologically and Chaco is a UNESCO World Heritage Site; the precise extent of the regional system's political authority versus ritual influence over outlier communities is debated among archaeologists. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Ancestral Puebloans",
+ "blurbKey": "Q478805__puebloans-chaco-regional-system"
+}

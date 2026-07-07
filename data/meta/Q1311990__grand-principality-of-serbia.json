@@ -1,0 +1,87 @@
+{
+ "qid": "Q1311990",
+ "names": [
+  "Grand Principality of Serbia"
+ ],
+ "title": "Grand Principality of Serbia",
+ "variantOf": "Q1311990",
+ "endonym": {
+  "native": "Рашка",
+  "roman": "Raška"
+ },
+ "capsule": "The Grand Principality of Serbia, centered on Raška, emerged under the Vukanović branch of the Vojislavljević dynasty when Grand Župan Vukan, installed by Duklja's King Constantine Bodin around 1083, asserted increasing independence from Byzantium in the 1090s, raiding imperial territory in Kosovo and Macedonia before submitting hostages to Emperor Alexios I. His successors, including Uroš I and the rival brothers Uroš II and Desa, ruled through recurring Byzantine intervention and dynastic infighting across the early-to-mid twelfth century, at times marrying into the Hungarian royal house to counterbalance Constantinople. The fractious succession was finally resolved in 1166-1169 when Stefan Nemanja, backed by his brothers, overturned the brief rule of Tihomir to found the Nemanjić dynasty that would dominate later medieval Serbia.",
+ "citations": [
+  {
+   "label": "Grand Principality of Serbia - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Grand_Principality_of_Serbia"
+  },
+  {
+   "label": "Uroš I, Grand Prince of Serbia - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Uro%C5%A1_I,_Grand_Prince_of_Serbia"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Territorial extent is poorly attested; the principality's borders are reconstructed primarily from Byzantine De Administrando Imperio and archaeological inference, with considerable scholarly uncertainty. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Principality of Serbia",
+ "rulers": [
+  {
+   "name": "Vukan",
+   "native": "Вукан",
+   "roman": "Vukan",
+   "start": 1083,
+   "end": 1112,
+   "nativeName": "Вукан"
+  },
+  {
+   "name": "Uroš I",
+   "native": "Урош I",
+   "roman": "Uroš I",
+   "start": 1112,
+   "end": 1145,
+   "nativeName": "Урош I"
+  },
+  {
+   "name": "Uroš II Prvoslav",
+   "native": "Урош II Првослав",
+   "roman": "Uroš II Prvoslav",
+   "start": 1145,
+   "end": 1162,
+   "nativeName": "Урош II Првослав"
+  },
+  {
+   "name": "Desa",
+   "native": "Деса",
+   "roman": "Desa",
+   "start": 1153,
+   "end": 1166,
+   "nativeName": "Деса"
+  },
+  {
+   "name": "Tihomir",
+   "native": "Тихомир",
+   "roman": "Tihomir",
+   "start": 1166,
+   "end": 1168,
+   "nativeName": "Тихомир"
+  },
+  {
+   "name": "Stefan Nemanja",
+   "native": "Стефан Немања",
+   "roman": "Stefan Nemanja",
+   "start": 1166,
+   "end": 1196,
+   "nativeName": "Стефан Немања"
+  }
+ ],
+ "blurbKey": "Q1311990__grand-principality-of-serbia"
+}

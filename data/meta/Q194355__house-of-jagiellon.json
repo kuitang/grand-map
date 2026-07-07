@@ -1,0 +1,79 @@
+{
+ "qid": "Q194355",
+ "names": [
+  "House of Jagiellon"
+ ],
+ "title": "House of Jagiellon",
+ "variantOf": "Q194355",
+ "endonym": {
+  "native": "Jagiellonowie",
+  "roman": "Jagiellonowie"
+ },
+ "capsule": "As the ruling dynasty rather than the state, the House of Jagiellon in this 1450–1572 window held the thrones of Poland and Lithuania — and intermittently Bohemia and Hungary — from Casimir IV (r. 1447–1492) through his sons, down to Sigismund II Augustus, whose childless death in 1572 ended the dynasty and, with it, hereditary succession in the Polish-Lithuanian union.",
+ "citations": [
+  {
+   "label": "Jagiellonian dynasty – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jagiellonian_dynasty"
+  },
+  {
+   "label": "Jagiellon dynasty – Britannica",
+   "url": "https://www.britannica.com/topic/Jagiellon-dynasty"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Jagiellonian territorial extent is well attested from royal charters, diet records, and ecclesiastical sources for Poland and Lithuania; Bohemian and Hungarian holdings are documented but the dataset geometry for the composite state carries moderate spatial uncertainty at frontiers. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Jagiellonian dynasty",
+ "rulers": [
+  {
+   "name": "Casimir IV Jagiellon",
+   "native": "Kazimierz IV Jagiellończyk",
+   "roman": "Kazimierz IV Jagiellończyk",
+   "start": 1447,
+   "end": 1492,
+   "nativeName": "Kazimierz IV Jagiellończyk"
+  },
+  {
+   "name": "John I Albert",
+   "native": "Jan I Olbracht",
+   "roman": "Jan I Olbracht",
+   "start": 1492,
+   "end": 1501,
+   "nativeName": "Jan I Olbracht"
+  },
+  {
+   "name": "Alexander I Jagiellon",
+   "native": "Aleksander Jagiellończyk",
+   "roman": "Aleksander Jagiellończyk",
+   "start": 1501,
+   "end": 1506,
+   "nativeName": "Aleksander Jagiellończyk"
+  },
+  {
+   "name": "Sigismund I the Old",
+   "native": "Zygmunt I Stary",
+   "roman": "Zygmunt I Stary",
+   "start": 1506,
+   "end": 1548,
+   "nativeName": "Zygmunt I Stary"
+  },
+  {
+   "name": "Sigismund II Augustus",
+   "native": "Zygmunt II August",
+   "roman": "Zygmunt II August",
+   "start": 1548,
+   "end": 1572,
+   "nativeName": "Zygmunt II August"
+  }
+ ],
+ "blurbKey": "Q194355__house-of-jagiellon"
+}

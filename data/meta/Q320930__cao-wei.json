@@ -1,0 +1,76 @@
+{
+ "qid": "Q320930",
+ "names": [
+  "Cao Wei"
+ ],
+ "title": "Cao Wei",
+ "variantOf": "Q320930",
+ "endonym": {
+  "native": "曹魏",
+  "roman": "Cáo Wèi"
+ },
+ "capsule": "Cao Wei (曹魏) was the northern of China's Three Kingdoms, proclaimed in 220 CE when Cao Pi forced the abdication of the last Han emperor, Xian, and took the throne at Luoyang. Controlling the North China Plain, traditionally the demographic and agricultural heartland, Wei was the largest and most populous of the three rival states, though its Sima ministerial clan gradually eclipsed the imperial Cao line. In 265–266 the Wei throne itself was surrendered to Sima Yan, who founded the Jin dynasty.",
+ "citations": [
+  {
+   "label": "Cao Wei – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cao_Wei"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Cao Wei's territory in northern China is well documented by the administrative geography of its commandery system, itself inherited from the Han census; the fluctuating southern frontiers contested with Shu Han and Eastern Wu are attested by campaign records but are imprecisely rendered as fixed lines. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Wei (state)",
+ "rulers": [
+  {
+   "qid": "Q313333",
+   "name": "Cao Pi",
+   "start": 220,
+   "end": 220,
+   "image": "Cao Pi Tang.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cao%20Pi%20Tang.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Yan Li-pen",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q378470",
+   "name": "Cao Rui",
+   "start": 226,
+   "end": 239,
+   "image": null
+  },
+  {
+   "qid": "Q77822",
+   "name": "Cao Fang",
+   "start": 239,
+   "end": 254,
+   "image": null
+  },
+  {
+   "qid": "Q550290",
+   "name": "Cao Mao",
+   "start": 254,
+   "end": 260,
+   "image": null
+  },
+  {
+   "qid": "Q470091",
+   "name": "Cao Huan",
+   "start": 260,
+   "end": 266,
+   "image": null
+  }
+ ],
+ "blurbKey": "Q320930__cao-wei"
+}

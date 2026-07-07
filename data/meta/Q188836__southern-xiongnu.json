@@ -1,0 +1,200 @@
+{
+ "qid": "Q188836",
+ "names": [
+  "Southern Xiongnu"
+ ],
+ "title": "Southern Xiongnu",
+ "variantOf": "Q188836",
+ "endonym": {
+  "native": "南匈奴",
+  "roman": "Nán Xiōngnú"
+ },
+ "capsule": "The Southern Xiongnu were the faction of the Xiongnu confederation that submitted to Han China around 50–51 CE under Chanyu Bi (Huhanye II), after the Xiongnu split into northern and southern wings amid succession war and famine in 48 CE. Settled inside the Han frontier in the Ordos region as a client state under a Han-appointed Protectorate, the Southern Xiongnu supplied auxiliary cavalry for Han campaigns against their Northern Xiongnu kin. Their chanyus continued to rule from within Han territory until the office was progressively absorbed into Han frontier administration in the early 2nd century CE.",
+ "citations": [
+  {
+   "label": "Southern Xiongnu - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Southern_Xiongnu"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The Xiongnu's territorial extent is largely conjectural, reconstructed from Chinese annals (Shiji, Hanshu) describing tribute zones and campaign routes rather than surveyed boundaries; nomadic polities lacked fixed borders; low to moderate confidence for all frontier lines. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Xiongnu",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Huduershi Daogao Ruodi (Yu)",
+   "nativeName": "呼都而尸道皋若鞮",
+   "roman": "Hūdū'érshī Dàogāo Ruòdī",
+   "start": 18,
+   "end": 46,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Wudadihou",
+   "nativeName": "烏達鞮侯",
+   "roman": "Wūdádīhóu",
+   "start": 46,
+   "end": 46,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Punu (Northern Chanyu)",
+   "nativeName": "蒲奴",
+   "roman": "Púnú",
+   "start": 46,
+   "end": 83,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Bi / Huhanye II (Southern Chanyu)",
+   "nativeName": "比",
+   "roman": "Bǐ",
+   "start": 48,
+   "end": 56,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Mo / Qiufulu (Southern)",
+   "nativeName": "莫",
+   "roman": "Mò",
+   "start": 56,
+   "end": 56,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Han / Yifa Yulüdi (Southern)",
+   "nativeName": "汗",
+   "roman": "Hàn",
+   "start": 56,
+   "end": 59,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Shi / Xitong Shizhuhou Di (Southern)",
+   "nativeName": "適",
+   "roman": "Shì",
+   "start": 59,
+   "end": 63,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Changle / Qiuchu Julin Di (Southern)",
+   "nativeName": "長",
+   "roman": "Cháng",
+   "start": 63,
+   "end": 85,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Xuan / Yitu Yulüdi (Southern)",
+   "nativeName": "宣",
+   "roman": "Xuān",
+   "start": 85,
+   "end": 88,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Tuntuhe / Xiulan Shizhuhou Di (Southern)",
+   "nativeName": "屯屠何",
+   "roman": "Túntúhé",
+   "start": 88,
+   "end": 93,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Anguo (Southern)",
+   "nativeName": "安國",
+   "roman": "Ānguó",
+   "start": 93,
+   "end": 94,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Shizi / Tinglu Shizhuhou Di (Southern)",
+   "nativeName": "師子",
+   "roman": "Shīzǐ",
+   "start": 94,
+   "end": 98,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Tan / Wanshi Shizhuhou Di (Southern)",
+   "nativeName": "檀",
+   "roman": "Tán",
+   "start": 98,
+   "end": 124,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ba / Wuji Shizhuhou Di (Southern)",
+   "nativeName": "拔",
+   "roman": "Bá",
+   "start": 124,
+   "end": 128,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Xiuli / Quete Shizhuhou Di (Southern)",
+   "nativeName": "休利",
+   "roman": "Xiūlì",
+   "start": 128,
+   "end": 140,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q188836__southern-xiongnu"
+}

@@ -1,0 +1,167 @@
+{
+ "qid": "Q41642",
+ "names": [
+  "Phoenicia"
+ ],
+ "title": "Phoenicia",
+ "variantOf": "Q41642",
+ "endonym": {
+  "native": "𐤊𐤍𐤏𐤍",
+  "roman": "Kenaʿan"
+ },
+ "capsule": "Phoenicia was the cluster of independent, seafaring Canaanite city-states — chiefly Tyre, Sidon, Byblos, and Arwad — that lined the eastern Mediterranean coast in what is now Lebanon and coastal Syria, flourishing especially from the 12th to 6th centuries BCE. Each city retained its own king and dynasty, and the Phoenicians themselves used the Semitic name Canaan rather than any collective 'Phoenicia,' a Greek exonym meaning 'purple land' after their famed Tyrian dye. Phoenician city-states pioneered the alphabet's spread and vast Mediterranean trade networks while passing successively under Assyrian, Babylonian, and Persian overlordship.",
+ "citations": [
+  {
+   "label": "Phoenicia – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Phoenicia"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The core coastal city-states are well attested in Assyrian annals, Hebrew scriptures, and Greek sources, but mapping Phoenicia as a territorial unit is inherently problematic because it was never a unified polity; extent polygons are necessarily schematic. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Phoenicia",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Abibaal",
+   "nativeName": "",
+   "roman": "Abibaal",
+   "start": -993,
+   "end": -981,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Hiram I",
+   "nativeName": "",
+   "roman": "Hiram I",
+   "start": -980,
+   "end": -947,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Baal-Eser I",
+   "nativeName": "",
+   "roman": "Baal-Eser I",
+   "start": -947,
+   "end": -930,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Abdastratus",
+   "nativeName": "",
+   "roman": "Abdastratus",
+   "start": -930,
+   "end": -919,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ithobaal I",
+   "nativeName": "",
+   "roman": "Ithobaal I (Ethbaal)",
+   "start": -887,
+   "end": -856,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Mattan I",
+   "nativeName": "",
+   "roman": "Mattan I",
+   "start": -840,
+   "end": -832,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Pygmalion",
+   "nativeName": "",
+   "roman": "Pygmalion (Pumayyaton)",
+   "start": -831,
+   "end": -785,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Luli",
+   "nativeName": "",
+   "roman": "Luli (Elulaios)",
+   "start": -729,
+   "end": -694,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Baal I",
+   "nativeName": "",
+   "roman": "Baal I",
+   "start": -680,
+   "end": -660,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ithobaal III",
+   "nativeName": "",
+   "roman": "Ithobaal III",
+   "start": -591,
+   "end": -573,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Baal II",
+   "nativeName": "",
+   "roman": "Baal II",
+   "start": -573,
+   "end": -564,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Hiram III",
+   "nativeName": "",
+   "roman": "Hiram III",
+   "start": -551,
+   "end": -532,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q41642__phoenicia"
+}

@@ -1,0 +1,210 @@
+{
+ "qid": "Q7462",
+ "names": [
+  "Southern Song"
+ ],
+ "title": "Southern Song",
+ "variantOf": "Q7462",
+ "endonym": {
+  "native": "南宋",
+  "roman": "Nán Sòng"
+ },
+ "capsule": "The Southern Song (南宋, 1127–1279) was formed when the Song imperial clan fled south after Jurchen Jin forces captured the Northern Song capital Kaifeng and took Emperor Qinzong prisoner in the Jingkang Incident. Zhao Gou (Emperor Gaozong) reestablished the dynasty at Lin'an (modern Hangzhou), presiding over an era of commercial dynamism, maritime trade, and technological innovation even as the state paid tribute to the Jin. The Southern Song was the last major East Asian power to fall to the Mongols, surrendering after the naval defeat at Yamen in 1279.",
+ "citations": [
+  {
+   "label": "Song dynasty – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Song_dynasty"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases (Times Atlas of World History; Kinder & Hilgemann; Shepherd 1926) at ~0.07° resolution. Chinese dynastic boundaries are among the best-attested premodern borders (cross-checked against the Tan Qixiang atlas tradition underlying CHGIS). Confidence: high. Capsule researched for this polity/era specifically (confidence: high).",
+ "rulers": [
+  {
+   "qid": "Q7486",
+   "name": "Emperor Huizong of Song",
+   "start": 1100,
+   "end": 1126,
+   "ordinal": 8,
+   "image": "HuizongHui.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/HuizongHui.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "宋徽宗",
+   "nativeLang": "zh"
+  },
+  {
+   "qid": "Q7488",
+   "name": "Emperor Qinzong of Song",
+   "start": 1126,
+   "end": 1127,
+   "ordinal": 9,
+   "image": "SongEmperorAlbumQinzongPortrait.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SongEmperorAlbumQinzongPortrait.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "AnonymousUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "宋钦宗",
+   "nativeLang": "zh"
+  },
+  {
+   "qid": "Q7489",
+   "name": "Emperor Gaozong of Song",
+   "start": 1127,
+   "end": 1129,
+   "ordinal": 10,
+   "image": "SongEmperorAlbumGaozongPortrait.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SongEmperorAlbumGaozongPortrait.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "AnonymousUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "宋高宗",
+   "nativeLang": "zh"
+  },
+  {
+   "qid": "Q11636648",
+   "name": "Zhao Fu",
+   "start": 1129,
+   "end": 1129,
+   "ordinal": null,
+   "image": null,
+   "nativeName": "赵旉",
+   "nativeLang": "zh"
+  },
+  {
+   "qid": "Q7492",
+   "name": "Emperor Xiaozong of Song",
+   "start": 1162,
+   "end": 1189,
+   "ordinal": 11,
+   "image": "宋孝宗皇帝.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%E5%AE%8B%E5%AD%9D%E5%AE%97%E7%9A%87%E5%B8%9D.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "AnonymousUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "宋孝宗",
+   "nativeLang": "zh"
+  },
+  {
+   "qid": "Q7494",
+   "name": "Emperor Guangzong of Song",
+   "start": 1189,
+   "end": 1194,
+   "ordinal": 12,
+   "image": "SongEmperorAlbumGuangzongPortrait.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SongEmperorAlbumGuangzongPortrait.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "AnonymousUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "宋光宗",
+   "nativeLang": "zh"
+  },
+  {
+   "qid": "Q7496",
+   "name": "Emperor Ningzong of Song",
+   "start": 1194,
+   "end": 1224,
+   "ordinal": 13,
+   "image": "宋代帝半身像册.14.宋寧宗 (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%E5%AE%8B%E4%BB%A3%E5%B8%9D%E5%8D%8A%E8%BA%AB%E5%83%8F%E5%86%8C.14.%E5%AE%8B%E5%AF%A7%E5%AE%97%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "AnonymousUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "宋寧宗",
+   "nativeLang": "zh"
+  },
+  {
+   "qid": "Q7497",
+   "name": "Emperor Lizong of Song",
+   "start": 1224,
+   "end": 1264,
+   "ordinal": 14,
+   "image": "SongEmperorAlbumLizongPortrait.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SongEmperorAlbumLizongPortrait.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "AnonymousUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "宋理宗",
+   "nativeLang": "zh"
+  },
+  {
+   "qid": "Q7498",
+   "name": "Emperor Duzong of Song",
+   "start": 1264,
+   "end": 1274,
+   "ordinal": 15,
+   "image": "Duzong.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Duzong.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "宋度宗",
+   "nativeLang": "zh"
+  },
+  {
+   "qid": "Q7500",
+   "name": "Emperor Gong of Song",
+   "start": 1274,
+   "end": 1276,
+   "ordinal": 16,
+   "image": "Song Gongdi2.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Song%20Gongdi2.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "宋恭帝",
+   "nativeLang": "zh"
+  },
+  {
+   "qid": "Q7501",
+   "name": "Emperor Duanzong of Song",
+   "start": 1276,
+   "end": 1278,
+   "ordinal": 17,
+   "image": "ZhaoShiDuanzong.png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/ZhaoShiDuanzong.png?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "宋端宗",
+   "nativeLang": "zh"
+  },
+  {
+   "qid": "Q7503",
+   "name": "Emperor Bing of Song",
+   "start": 1278,
+   "end": 1279,
+   "ordinal": 18,
+   "image": "Song Modi.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Song%20Modi.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "赵昺",
+   "nativeLang": "zh"
+  }
+ ],
+ "blurbKey": "Q7462__southern-song"
+}

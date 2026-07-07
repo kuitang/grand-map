@@ -1,0 +1,144 @@
+{
+ "qid": "Q146246",
+ "names": [
+  "Merovingian Empire"
+ ],
+ "title": "Merovingian Empire",
+ "variantOf": "Q146246",
+ "endonym": {
+  "native": "regnum Francorum",
+  "roman": "regnum Francorum"
+ },
+ "capsule": "The final phase of Merovingian kingship in Francia, when the throne passed rapidly between the shadow-kings Dagobert III (711-715), Chilperic II (715-721) and the short-lived anti-king Chlothar IV (717-718), each a figurehead under whichever mayor of the palace held real power. This was an era of civil war among the Frankish nobility: after Pepin of Herstal's death in 714, the Neustrian mayor Ragenfrid, backed by Chilperic II and allied with the Frisians, contested control with the rising Austrasian strongman Charles Martel. Charles's victories over Ragenfrid's forces at Amblève (716) and Vincy (717) broke Neustrian resistance, even as a Merovingian king still nominally occupied the throne.",
+ "citations": [
+  {
+   "label": "Charles Martel - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Charles_Martel"
+  },
+  {
+   "label": "Carolingian dynasty - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Carolingian_dynasty"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Core Frankish territories in Gaul and the Rhineland are well attested by royal diplomas, capitularies, and ecclesiastical records from the sixth century onward; the extent of tributary or nominal Frankish authority over peripheral peoples such as Bretons and Basques is less precisely bounded. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Francia",
+ "rulers": [
+  {
+   "qid": "Q309934",
+   "name": "Clovis IV",
+   "start": 691,
+   "end": 695,
+   "image": "Georges Rouget (1783-1869) - Clovis III roi d'Austrasie en 691 (682-695).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Rouget%20(1783-1869)%20-%20Clovis%20III%20roi%20d'Austrasie%20en%20691%20(682-695).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Georges Rouget",
+    "attributionRequired": false
+   },
+   "nativeName": "Chlodovechus IV",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q109223",
+   "name": "Childebert III",
+   "start": 695,
+   "end": 711,
+   "image": "Childebert III 694 711.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Childebert%20III%20694%20711.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "PHGCOM",
+    "attributionRequired": false
+   },
+   "nativeName": "Childebertus III",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q109248",
+   "name": "Dagobert III",
+   "start": 711,
+   "end": 715,
+   "image": "Portrait Roi de france Dagobert II (i.e III).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20Roi%20de%20france%20Dagobert%20II%20(i.e%20III).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "The original uploader was Rinaldum at French Wikipedia.",
+    "attributionRequired": true
+   },
+   "nativeName": "Dagobertus III",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q316908",
+   "name": "Chlothar IV",
+   "start": 717,
+   "end": 719,
+   "image": "Portrait Roi de france Clovis IV.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20Roi%20de%20france%20Clovis%20IV.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "The original uploader was Rinaldum at French Wikipedia.",
+    "attributionRequired": true
+   },
+   "nativeName": "Chlotarius IV",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q109240",
+   "name": "Chilperic II",
+   "start": 719,
+   "end": 721,
+   "image": "Jean Dassier (1676-1763) - Chilpéric II roy de France (670-721).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Dassier%20(1676-1763)%20-%20Chilp%C3%A9ric%20II%20roy%20de%20France%20(670-721).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Jean Dassier / Bibliothèque nationale de France",
+    "attributionRequired": false
+   },
+   "nativeName": "Chilpericus II",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q108331",
+   "name": "Theuderic IV",
+   "start": 721,
+   "end": 737,
+   "image": "Theuderic IV.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Theuderic%20IV.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Published by Guillaume Rouille(1518?-1589)",
+    "attributionRequired": false
+   },
+   "nativeName": "Theudericus IV",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q295157",
+   "name": "Childeric III",
+   "start": 743,
+   "end": 751,
+   "image": "Signol - Childeric III.png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Signol%20-%20Childeric%20III.png?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Émile Signol",
+    "attributionRequired": false
+   },
+   "nativeName": "Childericus III",
+   "nativeLang": "la"
+  }
+ ],
+ "blurbKey": "Q146246__merovingian-empire"
+}

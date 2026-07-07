@@ -1,0 +1,84 @@
+{
+ "qid": "Q33242",
+ "names": [
+  "Kingdom of Lower Burgundy"
+ ],
+ "title": "Kingdom of Lower Burgundy",
+ "variantOf": "Q33242",
+ "endonym": {
+  "native": "Regnum Burgundiae Inferioris",
+  "roman": "Regnum Burgundiae Inferioris",
+  "lang": "la"
+ },
+ "capsule": "By 900 the Kingdom of Lower Burgundy - comprising the archbishoprics of Arles, Aix, Vienne, and Lyon along with adjoining Rhone-valley dioceses - was consolidated under Louis the Blind, son of the kingdom's founder Boso, who from 900 to 905 also held the Italian crown and imperial title before Italian rebels had him blinded and expelled. Reduced to his Provencal-Burgundian domains, Louis reigned only in name after 911, ceding effective power to his regent Hugh, count of Arles, who moved the royal seat to Arles and was elected king of Italy in his own right in 926. On Louis's death in 928 Hugh took control of Lower Burgundy without assuming its crown, and in 933 he ceded the kingdom to Rudolf II of Upper Burgundy, merging it into a reunited Kingdom of Burgundy.",
+ "citations": [
+  {
+   "label": "Louis the Blind - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Louis_the_Blind"
+  },
+  {
+   "label": "Kingdom of Burgundy - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kingdom_of_Burgundy"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The polity's territory is reconstructed from Carolingian diplomas and episcopal lists; precise frontiers, especially toward northern Burgundy and Italy, are disputed in the scholarship. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Lower Burgundy",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Boso",
+   "nativeName": "Boso",
+   "roman": "Boso",
+   "start": 879,
+   "end": 887,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Louis the Blind",
+   "nativeName": "Ludovicus Caecus",
+   "roman": "Ludovicus Caecus",
+   "start": 887,
+   "end": 928,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Hugh of Arles",
+   "nativeName": "Hugo de Provencia",
+   "roman": "Hugo de Provencia",
+   "start": 924,
+   "end": 933,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Rudolf II of Burgundy",
+   "nativeName": "Rodulfus II",
+   "roman": "Rodulfus II",
+   "start": 933,
+   "end": 937,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q33242__kingdom-of-lower-burgundy"
+}

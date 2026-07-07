@@ -1,0 +1,457 @@
+{
+ "qid": "Q188836",
+ "names": [
+  "Xiongnu"
+ ],
+ "title": "Xiongnu",
+ "variantOf": "Q188836",
+ "endonym": {
+  "native": "匈奴",
+  "roman": "Xiōngnú"
+ },
+ "capsule": "The Xiongnu were the great steppe confederation unified by Modu Chanyu around 209–208 BCE, whose cavalry armies dominated the Mongolian steppe and repeatedly forced the early Han emperors into tribute and marriage-alliance (heqin) treaties rather than open war. Under chanyus such as Laoshang and Junchen the confederation contested control of the Western Regions and Hexi Corridor with Han China through the 2nd and 1st centuries BCE, before internal succession disputes split the polity in 60–58 BCE and again fatally in 48 CE. This entry covers the main/Northern Xiongnu lineage's long rivalry with and periodic tributary status to Han China down to the mid-2nd century CE, distinct from the Han-vassal Southern Xiongnu state that broke away in 48 CE.",
+ "citations": [
+  {
+   "label": "Xiongnu - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Xiongnu"
+  },
+  {
+   "label": "Xiongnu - Britannica",
+   "url": "https://www.britannica.com/topic/Xiongnu"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The Xiongnu's territorial extent is largely conjectural, reconstructed from Chinese annals (Shiji, Hanshu) describing tribute zones and campaign routes rather than surveyed boundaries; nomadic polities lacked fixed borders; low to moderate confidence for all frontier lines. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Xiongnu",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Touman",
+   "nativeName": "頭曼",
+   "roman": "Tóumàn",
+   "start": -220,
+   "end": -209,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Modu (Modun)",
+   "nativeName": "冒頓",
+   "roman": "Mòdú",
+   "start": -209,
+   "end": -174,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Laoshang (Jiyu)",
+   "nativeName": "老上",
+   "roman": "Lǎoshàng",
+   "start": -174,
+   "end": -161,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Junchen",
+   "nativeName": "軍臣",
+   "roman": "Jūnchén",
+   "start": -161,
+   "end": -126,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Yizhixie",
+   "nativeName": "伊稚斜",
+   "roman": "Yīzhìxié",
+   "start": -126,
+   "end": -114,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Wuwei",
+   "nativeName": "烏維",
+   "roman": "Wūwéi",
+   "start": -114,
+   "end": -105,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Wushilu (Er Chanyu)",
+   "nativeName": "烏師廬",
+   "roman": "Wūshīlú",
+   "start": -105,
+   "end": -102,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Xulihu",
+   "nativeName": "呴犁湖",
+   "roman": "Xùlíhú",
+   "start": -102,
+   "end": -101,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Qiedihou",
+   "nativeName": "且鞮侯",
+   "roman": "Qiědīhóu",
+   "start": -101,
+   "end": -96,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Hulugu",
+   "nativeName": "狐鹿姑",
+   "roman": "Húlùgū",
+   "start": -96,
+   "end": -85,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Huyandi",
+   "nativeName": "壺衍鞮",
+   "roman": "Húyǎndī",
+   "start": -85,
+   "end": -68,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Xulüquanqu",
+   "nativeName": "虛閭權渠",
+   "roman": "Xūlǘquánqú",
+   "start": -68,
+   "end": -60,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Woyanqudi (Tuqitang)",
+   "nativeName": "握衍朐鞮",
+   "roman": "Wòyǎnqúdī",
+   "start": -60,
+   "end": -58,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Huhanye (Jihoushan)",
+   "nativeName": "呼韓邪",
+   "roman": "Hūhányé",
+   "start": -58,
+   "end": -31,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Tuqi (rival)",
+   "nativeName": "屠耆",
+   "roman": "Túqí",
+   "start": -58,
+   "end": -56,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Zhizhi (rival, western)",
+   "nativeName": "郅支",
+   "roman": "Zhìzhī",
+   "start": -56,
+   "end": -36,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Fuzhulei Ruodi",
+   "nativeName": "復株累若鞮",
+   "roman": "Fùzhūlěi Ruòdī",
+   "start": -31,
+   "end": -20,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Souxie Ruodi",
+   "nativeName": "搜諧若鞮",
+   "roman": "Sōuxié Ruòdī",
+   "start": -20,
+   "end": -12,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Juya Ruodi",
+   "nativeName": "車牙若鞮",
+   "roman": "Jūyá Ruòdī",
+   "start": -12,
+   "end": -8,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Wuzhuliu Ruodi (Nangzhiyasi)",
+   "nativeName": "烏珠留若鞮",
+   "roman": "Wūzhūliú Ruòdī",
+   "start": -8,
+   "end": 13,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Wulei Ruodi",
+   "nativeName": "烏累若鞮",
+   "roman": "Wūlěi Ruòdī",
+   "start": 13,
+   "end": 18,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Huduershi Daogao Ruodi (Yu)",
+   "nativeName": "呼都而尸道皋若鞮",
+   "roman": "Hūdū'érshī Dàogāo Ruòdī",
+   "start": 18,
+   "end": 46,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Wudadihou",
+   "nativeName": "烏達鞮侯",
+   "roman": "Wūdádīhóu",
+   "start": 46,
+   "end": 46,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Punu (Northern Chanyu)",
+   "nativeName": "蒲奴",
+   "roman": "Púnú",
+   "start": 46,
+   "end": 83,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Bi / Huhanye II (Southern Chanyu)",
+   "nativeName": "比",
+   "roman": "Bǐ",
+   "start": 48,
+   "end": 56,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Mo / Qiufulu (Southern)",
+   "nativeName": "莫",
+   "roman": "Mò",
+   "start": 56,
+   "end": 56,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Han / Yifa Yulüdi (Southern)",
+   "nativeName": "汗",
+   "roman": "Hàn",
+   "start": 56,
+   "end": 59,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Shi / Xitong Shizhuhou Di (Southern)",
+   "nativeName": "適",
+   "roman": "Shì",
+   "start": 59,
+   "end": 63,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Changle / Qiuchu Julin Di (Southern)",
+   "nativeName": "長",
+   "roman": "Cháng",
+   "start": 63,
+   "end": 85,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Xuan / Yitu Yulüdi (Southern)",
+   "nativeName": "宣",
+   "roman": "Xuān",
+   "start": 85,
+   "end": 88,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Tuntuhe / Xiulan Shizhuhou Di (Southern)",
+   "nativeName": "屯屠何",
+   "roman": "Túntúhé",
+   "start": 88,
+   "end": 93,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Anguo (Southern)",
+   "nativeName": "安國",
+   "roman": "Ānguó",
+   "start": 93,
+   "end": 94,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Shizi / Tinglu Shizhuhou Di (Southern)",
+   "nativeName": "師子",
+   "roman": "Shīzǐ",
+   "start": 94,
+   "end": 98,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Tan / Wanshi Shizhuhou Di (Southern)",
+   "nativeName": "檀",
+   "roman": "Tán",
+   "start": 98,
+   "end": 124,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ba / Wuji Shizhuhou Di (Southern)",
+   "nativeName": "拔",
+   "roman": "Bá",
+   "start": 124,
+   "end": 128,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Xiuli / Quete Shizhuhou Di (Southern)",
+   "nativeName": "休利",
+   "roman": "Xiūlì",
+   "start": 128,
+   "end": 140,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Doulouchu / Hulan Ruoshi Zhuhou Di (Southern)",
+   "nativeName": "兜樓儲",
+   "roman": "Dōulóuchǔ",
+   "start": 143,
+   "end": 147,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Juche'er / Yiling Shizhuhou Di (Southern)",
+   "nativeName": "居車兒",
+   "roman": "Jūchē'ér",
+   "start": 147,
+   "end": 172,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q188836__xiongnu"
+}

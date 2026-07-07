@@ -1,0 +1,215 @@
+{
+ "qid": "Q83546",
+ "names": [
+  "Principality of Vladimir-Suzdal"
+ ],
+ "title": "Principality of Vladimir-Suzdal",
+ "variantOf": "Q83546",
+ "endonym": {
+  "native": "Владимиро-Суздальское княжество",
+  "roman": "Vladimiro-Suzdal'skoye knyazhestvo"
+ },
+ "capsule": "In this later phase the name denotes the revived line of Suzdal princes, descended from Andrei Yaroslavich, Alexander Nevsky's brother, who held Suzdal apart from Vladimir town after the Mongol conquest. In 1341 the Golden Horde's Khan Uzbek granted Konstantin Vasilyevich of Suzdal the city of Nizhny Novgorod, and his son Dmitry Konstantinovich briefly held the grand-princely throne of Vladimir itself (1360-1363) in rivalry with Moscow. Khan Tokhtamysh sold the resulting Grand Duchy of Suzdal-Nizhny Novgorod to Vasily I of Moscow in 1392, and although descendants of its princes kept local standing under Muscovite overlordship, the line's remaining claims were extinguished by the later fifteenth century.",
+ "citations": [
+  {
+   "label": "Wikipedia: Principality of Nizhny Novgorod-Suzdal",
+   "url": "https://en.wikipedia.org/wiki/Principality_of_Nizhny_Novgorod-Suzdal"
+  },
+  {
+   "label": "Wikipedia: Vasily I of Moscow",
+   "url": "https://en.wikipedia.org/wiki/Vasily_I_of_Moscow"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The principality's core territorial extent is reasonably well documented in chronicle sources; the outer boundaries of its northeastern frontier zone are approximately known. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Vladimir-Suzdal",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Yaroslav III of Vladimir",
+   "nativeName": "Ярослав Ярославич",
+   "roman": "Yaroslav Yaroslavich",
+   "start": 1263,
+   "end": 1272,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Vasily of Kostroma",
+   "nativeName": "Василий Ярославич",
+   "roman": "Vasily Yaroslavich",
+   "start": 1272,
+   "end": 1276,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Dmitry of Pereslavl",
+   "nativeName": "Дмитрий Александрович",
+   "roman": "Dmitry Aleksandrovich",
+   "start": 1276,
+   "end": 1281,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Andrei of Gorodets",
+   "nativeName": "Андрей Александрович",
+   "roman": "Andrey Aleksandrovich",
+   "start": 1281,
+   "end": 1283,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Dmitry of Pereslavl (restored)",
+   "nativeName": "Дмитрий Александрович",
+   "roman": "Dmitry Aleksandrovich",
+   "start": 1283,
+   "end": 1293,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Andrei of Gorodets (restored)",
+   "nativeName": "Андрей Александрович",
+   "roman": "Andrey Aleksandrovich",
+   "start": 1293,
+   "end": 1304,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Mikhail of Tver",
+   "nativeName": "Михаил Ярославич Тверской",
+   "roman": "Mikhail Yaroslavich Tverskoy",
+   "start": 1304,
+   "end": 1318,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Yuri III of Moscow",
+   "nativeName": "Юрий Данилович",
+   "roman": "Yury Danilovich",
+   "start": 1318,
+   "end": 1322,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Dmitry of Tver",
+   "nativeName": "Дмитрий Михайлович Тверской",
+   "roman": "Dmitry Mikhailovich Tverskoy",
+   "start": 1322,
+   "end": 1326,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Alexander of Tver",
+   "nativeName": "Александр Михайлович Тверской",
+   "roman": "Aleksandr Mikhailovich Tverskoy",
+   "start": 1326,
+   "end": 1327,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Alexander of Suzdal",
+   "nativeName": "Александр Васильевич Суздальский",
+   "roman": "Aleksandr Vasilyevich Suzdalsky",
+   "start": 1328,
+   "end": 1331,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ivan I of Moscow",
+   "nativeName": "Иван Калита",
+   "roman": "Ivan Kalita",
+   "start": 1331,
+   "end": 1340,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Semyon the Proud",
+   "nativeName": "Семён Гордый",
+   "roman": "Semyon Gordy",
+   "start": 1340,
+   "end": 1353,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ivan II of Moscow",
+   "nativeName": "Иван Красный",
+   "roman": "Ivan Krasny",
+   "start": 1353,
+   "end": 1359,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Dmitry Konstantinovich of Suzdal",
+   "nativeName": "Дмитрий Константинович",
+   "roman": "Dmitry Konstantinovich",
+   "start": 1359,
+   "end": 1363,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Dmitry Donskoy",
+   "nativeName": "Дмитрий Донской",
+   "roman": "Dmitry Donskoy",
+   "start": 1363,
+   "end": 1389,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q83546__principality-of-vladimir-suzdal"
+}

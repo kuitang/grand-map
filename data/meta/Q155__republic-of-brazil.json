@@ -1,0 +1,111 @@
+{
+ "qid": "Q155",
+ "names": [
+  "Republic of Brazil"
+ ],
+ "title": "Republic of Brazil",
+ "variantOf": "Q155",
+ "endonym": {
+  "native": "República Federativa do Brasil",
+  "roman": "República Federativa do Brasil"
+ },
+ "capsule": "The Republic of Brazil denotes the democratic federal state founded on the 1988 Constitution—drafted by an elected Constituent Assembly and promulgated 5 October 1988—which restored direct presidential elections (first held in 1989), guaranteed civil liberties, and has governed Brazil through the Cardoso, Lula, Rousseff, Temer, Bolsonaro and second Lula administrations into the 2020s. It survived the 1992 impeachment of Fernando Collor and the 2016 impeachment of Dilma Rousseff without constitutional rupture, marking Latin America's longest continuous democratic period. This post-1988 constitutional order is distinct from the earlier oligarchic, centralized and military-authoritarian phases sharing this Wikidata identifier.",
+ "citations": [
+  {
+   "label": "Constitution of Brazil — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Constitution_of_Brazil"
+  },
+  {
+   "label": "Brazil since 1990 — Britannica",
+   "url": "https://www.britannica.com/place/Brazil/Brazil-since-1990"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Brazil's national territory is precisely bounded by settled international agreements; the polity entry reflects a political-regime periodization of a continuous state, so territorial confidence is high, though the dataset geometry is essentially that of modern Brazil throughout this span. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Brazil",
+ "rulers": [
+  {
+   "name": "José Sarney",
+   "native": "José Sarney",
+   "roman": "José Sarney",
+   "start": 1985,
+   "end": 1990,
+   "nativeName": "José Sarney"
+  },
+  {
+   "name": "Fernando Collor de Mello",
+   "native": "Fernando Collor de Mello",
+   "roman": "Fernando Collor de Mello",
+   "start": 1990,
+   "end": 1992,
+   "nativeName": "Fernando Collor de Mello"
+  },
+  {
+   "name": "Itamar Franco",
+   "native": "Itamar Franco",
+   "roman": "Itamar Franco",
+   "start": 1992,
+   "end": 1995,
+   "nativeName": "Itamar Franco"
+  },
+  {
+   "name": "Fernando Henrique Cardoso",
+   "native": "Fernando Henrique Cardoso",
+   "roman": "Fernando Henrique Cardoso",
+   "start": 1995,
+   "end": 2003,
+   "nativeName": "Fernando Henrique Cardoso"
+  },
+  {
+   "name": "Luiz Inácio Lula da Silva (1st–3rd terms)",
+   "native": "Luiz Inácio Lula da Silva",
+   "roman": "Luiz Inácio Lula da Silva",
+   "start": 2003,
+   "end": 2011,
+   "nativeName": "Luiz Inácio Lula da Silva"
+  },
+  {
+   "name": "Dilma Rousseff",
+   "native": "Dilma Rousseff",
+   "roman": "Dilma Rousseff",
+   "start": 2011,
+   "end": 2016,
+   "nativeName": "Dilma Rousseff"
+  },
+  {
+   "name": "Michel Temer",
+   "native": "Michel Temer",
+   "roman": "Michel Temer",
+   "start": 2016,
+   "end": 2019,
+   "nativeName": "Michel Temer"
+  },
+  {
+   "name": "Jair Bolsonaro",
+   "native": "Jair Bolsonaro",
+   "roman": "Jair Bolsonaro",
+   "start": 2019,
+   "end": 2023,
+   "nativeName": "Jair Bolsonaro"
+  },
+  {
+   "name": "Luiz Inácio Lula da Silva (4th term)",
+   "native": "Luiz Inácio Lula da Silva",
+   "roman": "Luiz Inácio Lula da Silva",
+   "start": 2023,
+   "end": 2025,
+   "nativeName": "Luiz Inácio Lula da Silva"
+  }
+ ],
+ "blurbKey": "Q155__republic-of-brazil"
+}

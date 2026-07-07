@@ -1,0 +1,38 @@
+{
+ "qid": "Q350186",
+ "names": [
+  "Danish Magnates"
+ ],
+ "title": "Danish Magnates",
+ "variantOf": "Q350186",
+ "endonym": {
+  "native": "Danmarks stormænd",
+  "roman": "Danmarks stormænd",
+  "lang": "da"
+ },
+ "capsule": "In this 1333–1352 window this entity denotes the Danish-held Duchy of Estonia (Harrien and Wierland, i.e. Harjumaa and Virumaa), governed not by a resident king but by the local Danish nobility and royal vassals, especially during the 1332–1340 Danish interregnum when the throne itself stood vacant. This arrangement ended when King Valdemar IV sold the duchy to the Teutonic Order in 1346, after the St. George's Night Uprising.",
+ "citations": [
+  {
+   "label": "Duchy of Estonia (1219–1346) – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Duchy_of_Estonia_(1219%E2%80%931346)"
+  },
+  {
+   "label": "History of Estonia – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/History_of_Estonia"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Post-1920 boundaries are based on treaty, plebiscite, and formal cartographic records and are well-attested; the 1945 start in this dataset represents the re-emergence of the unoccupied state's full sovereignty and is unambiguous. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Christopher II of Denmark",
+ "blurbKey": "Q350186__danish-magnates"
+}

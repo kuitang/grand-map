@@ -1,0 +1,4036 @@
+{
+ "qid": "Q28",
+ "names": [
+  "Hungary"
+ ],
+ "title": "Hungary",
+ "variantOf": "Q28",
+ "endonym": {
+  "native": "Magyarország",
+  "roman": "Magyarország"
+ },
+ "capsule": "After the 1946 abolition of the monarchy and proclamation of a short-lived Second Republic, Hungary's Communist Party under Mátyás Rákosi consolidated one-party rule by 1949, renaming the state the Hungarian People's Republic. The 1956 uprising against Soviet domination was crushed by Soviet tanks, ushering in János Kádár's more moderate 'goulash communism' before the 1989 round-table talks dismantled one-party rule and restored a democratic republic; Hungary joined NATO in 1999 and the EU in 2004, and since 2010 has been governed by Viktor Orbán's increasingly illiberal Fidesz government.",
+ "citations": [
+  {
+   "label": "Britannica: Hungary",
+   "url": "https://www.britannica.com/place/Hungary"
+  },
+  {
+   "label": "Wikipedia: Hungarian People's Republic",
+   "url": "https://en.wikipedia.org/wiki/Hungarian_People%27s_Republic"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The territory of interwar Hungary is precisely defined by the Treaty of Trianon and the Vienna Awards, with boundary lines documented in international treaty instruments; the dataset label 'Hungarian Republic' is a misnomer for the Kingdom of Hungary under regency. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Hungary",
+ "rulers": [
+  {
+   "qid": "Q12768717",
+   "name": "Július Cesnak",
+   "start": 1893,
+   "end": 1922,
+   "image": null,
+   "nativeName": "Csesznák Gyula",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q114979699",
+   "name": "Andor Nendtvich",
+   "start": 1906,
+   "end": 1936,
+   "image": null,
+   "nativeName": "Nendtvich Andor",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q20993632",
+   "name": "Szilveszter Somogyi",
+   "start": 1915,
+   "end": 1934,
+   "image": "SomogyiSzilveszter.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SomogyiSzilveszter.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "Somogyi Szilveszter",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1234085",
+   "name": "György Petrovics",
+   "start": 1917,
+   "end": 1922,
+   "image": "Petrovics György.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Petrovics%20Gy%C3%B6rgy.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown/Ismeretlen",
+    "attributionRequired": false
+   },
+   "nativeName": "Petrovics György",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q27996536",
+   "name": "István Berthóty",
+   "start": 1918,
+   "end": 1929,
+   "image": null,
+   "nativeName": "Berthóty István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q28358655",
+   "name": "Mátyás Czobor",
+   "start": 1918,
+   "end": 1936,
+   "image": null,
+   "nativeName": "Czobor Mátyás",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q61070511",
+   "name": "Kálmán Bencs",
+   "start": 1918,
+   "end": 1934,
+   "image": "Dr. Bencs Kálmán.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20Bencs%20K%C3%A1lm%C3%A1n.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Babosi",
+    "attributionRequired": true
+   },
+   "nativeName": "Bencs Kálmán",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1003980",
+   "name": "Ferenc Friedvalszky",
+   "start": 1918,
+   "end": 1940,
+   "image": null,
+   "nativeName": "Friedvalszky Ferenc",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q529130",
+   "name": "István Bethlen",
+   "start": 1921,
+   "end": 1931,
+   "image": "Count Bethlen LCCN2014714866.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Count%20Bethlen%20LCCN2014714866.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Bain News Service, publisher",
+    "attributionRequired": false
+   },
+   "nativeName": "Bethlen István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q834767",
+   "name": "Ferenc Borbíró",
+   "start": 1921,
+   "end": 1937,
+   "image": null,
+   "nativeName": "Borbíró Ferenc",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q24288298",
+   "name": "György Kaposváry",
+   "start": 1922,
+   "end": 1944,
+   "image": null,
+   "nativeName": "Kaposváry György",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q21529342",
+   "name": "Kázmér Dezső",
+   "start": 1924,
+   "end": 1944,
+   "image": null,
+   "nativeName": "Dezső Kázmér",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1468508",
+   "name": "Nándor Záborszky",
+   "start": 1926,
+   "end": 1939,
+   "image": null,
+   "nativeName": "Záborszky Nándor",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q575791",
+   "name": "Gáspár Alapy",
+   "start": 1928,
+   "end": 1944,
+   "image": "Dél-Komárom047.JPG",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/D%C3%A9l-Kom%C3%A1rom047.JPG?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Szeder László",
+    "attributionRequired": true
+   },
+   "nativeName": "Alapy Gáspár",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q123995283",
+   "name": "József Tóth",
+   "start": 1930,
+   "end": 1937,
+   "image": null,
+   "nativeName": "Tóth József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q686064",
+   "name": "Gyula Károlyi",
+   "start": 1931,
+   "end": 1932,
+   "image": "Karolyi Gyula.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Karolyi%20Gyula.jpg?width=320",
+   "imageLicense": {
+    "license": "FAL",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": true
+   },
+   "nativeName": "Károlyi Gyula",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q27832353",
+   "name": "Vilmos Hulita",
+   "start": 1931,
+   "end": null,
+   "image": null,
+   "nativeName": "Hulita Vilmos",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q131924313",
+   "name": "Emil Csitáry G.",
+   "start": 1931,
+   "end": 1941,
+   "image": null,
+   "nativeName": "Csitáry G. Emil",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q381868",
+   "name": "Gyula Gömbös",
+   "start": 1932,
+   "end": 1936,
+   "image": "Прем'єр-міністр Угорщини Гомбош Дюла (1933-1936).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D1%80%D0%B5%D0%BC'%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%20%D0%A3%D0%B3%D0%BE%D1%80%D1%89%D0%B8%D0%BD%D0%B8%20%D0%93%D0%BE%D0%BC%D0%B1%D0%BE%D1%88%20%D0%94%D1%8E%D0%BB%D0%B0%20(1933-1936).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Adolf Szenes",
+    "attributionRequired": false
+   },
+   "nativeName": "Gömbös Gyula",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q52149082",
+   "name": "János Piroska",
+   "start": 1933,
+   "end": 1941,
+   "image": "Piroska János (1894-1987) in military uniform.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Piroska%20J%C3%A1nos%20(1894-1987)%20in%20military%20uniform.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "AnonymousUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "Piroska János",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q124334423",
+   "name": "Endre Kiss",
+   "start": 1934,
+   "end": null,
+   "image": null,
+   "nativeName": "Kiss Endre",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q18414427",
+   "name": "Károly Szendy",
+   "start": 1934,
+   "end": 1944,
+   "image": "Szendy Károly.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Szendy%20K%C3%A1roly.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "Szendy Károly",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q902355",
+   "name": "Kálmán Darányi",
+   "start": 1936,
+   "end": 1938,
+   "image": "Bundesarchiv Bild 183-E05367A, Johann von Daranyi.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-E05367A%2C%20Johann%20von%20Daranyi.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0 de",
+    "artist": "o.Ang.",
+    "attributionRequired": true
+   },
+   "nativeName": "Darányi Kálmán",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q116894496",
+   "name": "Béla Endrey",
+   "start": 1936,
+   "end": 1944,
+   "image": "Endrey Béla, Vásárhelyi Népujság, 1944.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Endrey%20B%C3%A9la%2C%20V%C3%A1s%C3%A1rhelyi%20N%C3%A9pujs%C3%A1g%2C%201944.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown author. not named in the original source",
+    "attributionRequired": false
+   },
+   "nativeName": "Endrey Béla",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q110840948",
+   "name": "Sándor Bernhart",
+   "start": 1937,
+   "end": 1944,
+   "image": null,
+   "nativeName": "Bernhart Sándor",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q727006",
+   "name": "Béla Imrédy",
+   "start": 1938,
+   "end": 1939,
+   "image": "Bundesarchiv Bild 183-E05369A, Bela von Imredy.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-E05369A%2C%20Bela%20von%20Imredy.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0 de",
+    "artist": "o.Ang.",
+    "attributionRequired": true
+   },
+   "nativeName": "Imrédy Béla",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q177610",
+   "name": "Pál Teleki",
+   "start": 1939,
+   "end": 1941,
+   "image": "Pál Teleki (1879 – 1941).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/P%C3%A1l%20Teleki%20(1879%20%E2%80%93%201941).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Kraków-Warschau Press Publishing House",
+    "attributionRequired": false
+   },
+   "nativeName": "Teleki Pál",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q61070005",
+   "name": "János Sattler",
+   "start": 1939,
+   "end": 1944,
+   "image": null,
+   "nativeName": "Sattler János",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q47000676",
+   "name": "Lajos Esztergár",
+   "start": 1940,
+   "end": 1944,
+   "image": "EsztergálLajos.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eszterg%C3%A1lLajos.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "Esztergár Lajos",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q118558558",
+   "name": "Gerő Szász",
+   "start": 1940,
+   "end": 1944,
+   "image": null,
+   "nativeName": "Szász Gerő",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q853918",
+   "name": "Bertalan Bécsy",
+   "start": 1940,
+   "end": 1944,
+   "image": "Bécsy Bertalan.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/B%C3%A9csy%20Bertalan.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Ismeretlen / unknown",
+    "attributionRequired": false
+   },
+   "nativeName": "Bécsy Bertalan",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q529517",
+   "name": "László Bárdossy",
+   "start": 1941,
+   "end": 1942,
+   "image": "Bárdossy László miniszterelnök (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/B%C3%A1rdossy%20L%C3%A1szl%C3%B3%20minisztereln%C3%B6k%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Magyar Filmiroda Rt",
+    "attributionRequired": false
+   },
+   "nativeName": "Bárdossy László",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q20434891",
+   "name": "László Nagy",
+   "start": 1941,
+   "end": 1944,
+   "image": null,
+   "nativeName": "Nagy László",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q124399648",
+   "name": "Ottó Pecsornik",
+   "start": 1941,
+   "end": 1942,
+   "image": null,
+   "nativeName": "Pecsornik Ottó",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q444018",
+   "name": "Miklós Kállay",
+   "start": 1942,
+   "end": 1944,
+   "image": "Kallay Miklos 1942.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kallay%20Miklos%201942.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "Kállay Miklós",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q597676",
+   "name": "Ferenc Keresztes-Fischer",
+   "start": 1942,
+   "end": 1942,
+   "image": "Keresztes-FischerFerenc.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Keresztes-FischerFerenc.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown (scanned by User:Norden1990)",
+    "attributionRequired": false
+   },
+   "nativeName": "Keresztes-Fischer Ferenc",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q18798",
+   "name": "Géza Lakatos",
+   "start": 1944,
+   "end": 1944,
+   "image": "Géza Lakatos 1940.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/G%C3%A9za%20Lakatos%201940.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Jakab Sándor, fotóriporter (a Magyar Nemzeti Múzeum tulajdona)",
+    "attributionRequired": false
+   },
+   "nativeName": "Lakatos Géza",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q156473",
+   "name": "Ferenc Szálasi",
+   "start": 1944,
+   "end": 1945,
+   "image": "Ferenc Szálasi.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ferenc%20Sz%C3%A1lasi.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "AnonymousUnknown author / Zespół: Wydawnictwo Prasowe Kraków-Warszawa",
+    "attributionRequired": false
+   },
+   "nativeName": "Szálasi Ferenc",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q307479",
+   "name": "Döme Sztójay",
+   "start": 1944,
+   "end": 1944,
+   "image": "Sztójay 1940.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Szt%C3%B3jay%201940.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "ismeretlen fényképező",
+    "attributionRequired": false
+   },
+   "nativeName": "Sztójay Döme",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q555615",
+   "name": "Béla Miklós",
+   "start": 1944,
+   "end": 1945,
+   "image": "Béla Miklós Portrait.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/B%C3%A9la%20Mikl%C3%B3s%20Portrait.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Béla Brunhuber",
+    "attributionRequired": false
+   },
+   "nativeName": "Miklós Béla",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q996407",
+   "name": "Ákos Farkas",
+   "start": 1944,
+   "end": 1945,
+   "image": "Farkas Ákos.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Farkas%20%C3%81kos.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "Farkas Ákos",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q113169073",
+   "name": "József Takács",
+   "start": 1944,
+   "end": 1945,
+   "image": null,
+   "nativeName": "Takács József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1401197",
+   "name": "Ágoston Valentiny",
+   "start": 1944,
+   "end": 1945,
+   "image": null,
+   "nativeName": "Valentiny Ágoston",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q18278827",
+   "name": "László Tóth",
+   "start": 1944,
+   "end": 1948,
+   "image": "Tóth László, 1931.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/T%C3%B3th%20L%C3%A1szl%C3%B3%2C%201931.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "Tóth László",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q105975369",
+   "name": "Endre Takáts",
+   "start": 1944,
+   "end": 1945,
+   "image": "Takáts Endre az 1930-as években.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tak%C3%A1ts%20Endre%20az%201930-as%20%C3%A9vekben.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Ismeretlen - saját szkennelés User:Anamar123",
+    "attributionRequired": true
+   },
+   "nativeName": "Takáts Endre",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q219062",
+   "name": "Zoltán Tildy",
+   "start": 1945,
+   "end": 1946,
+   "image": "Tildy Zoltán-MTI 1946.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tildy%20Zolt%C3%A1n-MTI%201946.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown (MTI photo)",
+    "attributionRequired": false
+   },
+   "nativeName": "Tildy Zoltán",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1111746",
+   "name": "Imre Kiss",
+   "start": 1945,
+   "end": 1950,
+   "image": null,
+   "nativeName": "Kiss Imre",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q125861984",
+   "name": "Sándor Szalay",
+   "start": 1945,
+   "end": 1947,
+   "image": null,
+   "nativeName": "Szalay Sándor",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1126801",
+   "name": "József Kővágó",
+   "start": 1945,
+   "end": 1947,
+   "image": "Kővágó József.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/K%C5%91v%C3%A1g%C3%B3%20J%C3%B3zsef.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 4.0",
+    "artist": "Wim van Rossem for Anefo",
+    "attributionRequired": true
+   },
+   "nativeName": "Kővágó József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q131758218",
+   "name": "István Horváth",
+   "start": 1945,
+   "end": 1947,
+   "image": null,
+   "nativeName": "Horváth István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q131845160",
+   "name": "János Rujder",
+   "start": 1945,
+   "end": 1949,
+   "image": null,
+   "nativeName": "Rujder János",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q132145594",
+   "name": "József Szabó",
+   "start": 1945,
+   "end": 1948,
+   "image": null,
+   "nativeName": "Szabó József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q133803612",
+   "name": "István Dubay",
+   "start": 1945,
+   "end": 1945,
+   "image": null,
+   "nativeName": "Dubay István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q134431763",
+   "name": "József Tolnai",
+   "start": 1945,
+   "end": 1948,
+   "image": null,
+   "nativeName": "Tolnai József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q135000033",
+   "name": "István Udvaros",
+   "start": 1945,
+   "end": 1948,
+   "image": null,
+   "nativeName": "Udvaros István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q106702598",
+   "name": "Leó Dénes",
+   "start": 1945,
+   "end": 1950,
+   "image": null,
+   "nativeName": "Dénes Leó",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q791076",
+   "name": "Ferenc Baráth",
+   "start": 1945,
+   "end": 1947,
+   "image": null,
+   "nativeName": "Baráth Ferenc",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q874462",
+   "name": "János Csorba",
+   "start": 1945,
+   "end": 1945,
+   "image": "Csorba János polgármester.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Csorba%20J%C3%A1nos%20polg%C3%A1rmester.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "Csorba János",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1075466",
+   "name": "Ferenc Nagy",
+   "start": 1946,
+   "end": 1947,
+   "image": "Nagy Ferenc-MTI 1946.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nagy%20Ferenc-MTI%201946.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Arlen (MTI photo)",
+    "attributionRequired": false
+   },
+   "nativeName": "Nagy Ferenc",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q132801885",
+   "name": "István Németh",
+   "start": 1946,
+   "end": 1948,
+   "image": null,
+   "nativeName": "Németh István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q427738",
+   "name": "Lajos Dinnyés",
+   "start": 1947,
+   "end": 1948,
+   "image": "Lajos Dinnyés 1948-08 (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lajos%20Dinny%C3%A9s%201948-08%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "Rádió és Televízió Újság (RTV) (cropped by Sashi Suseshi)",
+    "attributionRequired": true
+   },
+   "nativeName": "Dinnyés Lajos",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q680175",
+   "name": "István Dobi",
+   "start": 1948,
+   "end": 1952,
+   "image": "Dobi István 1948-06.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dobi%20Istv%C3%A1n%201948-06.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "Rádió és Televízió Újság (RTV) (cropped by Norden1990)",
+    "attributionRequired": true
+   },
+   "nativeName": "Dobi István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q122310409",
+   "name": "Mihály Dumitrás",
+   "start": 1948,
+   "end": 1950,
+   "image": null,
+   "nativeName": "Dumitrás Mihály",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q124599032",
+   "name": "Károlyné Döbrentei",
+   "start": 1948,
+   "end": 1950,
+   "image": null,
+   "nativeName": "Döbrentei Károlyné",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q130324071",
+   "name": "Béla Bak",
+   "start": 1948,
+   "end": null,
+   "image": null,
+   "nativeName": "Bak Béla",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q131740189",
+   "name": "Mihály Oláh",
+   "start": 1948,
+   "end": 1950,
+   "image": null,
+   "nativeName": "Oláh Mihály",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q131758377",
+   "name": "Mihály Beszteri",
+   "start": 1948,
+   "end": 1950,
+   "image": null,
+   "nativeName": "Beszteri Mihály",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1238965",
+   "name": "Kálmán Pongrácz",
+   "start": 1949,
+   "end": 1950,
+   "image": "Pongrácz Kálmán 1979.JPG",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pongr%C3%A1cz%20K%C3%A1lm%C3%A1n%201979.JPG?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Csigó László",
+    "attributionRequired": true
+   },
+   "nativeName": "Pongrácz Kálmán",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q769128",
+   "name": "Ferenc Andó Gyurka",
+   "start": 1950,
+   "end": 1954,
+   "image": null,
+   "nativeName": "Andó Gyurka Ferenc",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q123109520",
+   "name": "Ferenc Mazár",
+   "start": 1950,
+   "end": 1951,
+   "image": null,
+   "nativeName": "Mazár Ferenc",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q126895798",
+   "name": "László Lenkei",
+   "start": 1950,
+   "end": 1954,
+   "image": null,
+   "nativeName": "Lenkei László",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q130313682",
+   "name": "Béláné Andics",
+   "start": 1950,
+   "end": 1953,
+   "image": null,
+   "nativeName": "Andics Béláné",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q131422687",
+   "name": "Bertalanné Barabás",
+   "start": 1950,
+   "end": 1957,
+   "image": null,
+   "nativeName": "Barabás Bertalanné",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q131574994",
+   "name": "János Blahut",
+   "start": 1950,
+   "end": 1954,
+   "image": null,
+   "nativeName": "Blahut János",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q131844507",
+   "name": "András Vári",
+   "start": 1950,
+   "end": 1954,
+   "image": null,
+   "nativeName": "Vári András",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q133187817",
+   "name": "István Varga",
+   "start": 1950,
+   "end": 1950,
+   "image": null,
+   "nativeName": "Varga István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q134520505",
+   "name": "Pál Krancz",
+   "start": 1950,
+   "end": 1952,
+   "image": null,
+   "nativeName": "Krancz Pál",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q134542818",
+   "name": "Gyula Leniczki",
+   "start": 1950,
+   "end": 1953,
+   "image": null,
+   "nativeName": "Leniczki Gyula",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q131699140",
+   "name": "Mihályné Berki",
+   "start": 1950,
+   "end": 1953,
+   "image": null,
+   "nativeName": "Berki Mihályné",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q138008206",
+   "name": "Antal Böjtös",
+   "start": 1950,
+   "end": 1952,
+   "image": null,
+   "nativeName": "Böjtös Antal",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q140170150",
+   "name": "Ferenc Czollner",
+   "start": 1950,
+   "end": 1953,
+   "image": null,
+   "nativeName": "Czollner Ferenc",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q131539755",
+   "name": "János Bartha",
+   "start": 1950,
+   "end": 1973,
+   "image": null,
+   "nativeName": "Bartha János",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q131694298",
+   "name": "Fülöp Berki",
+   "start": 1950,
+   "end": 1958,
+   "image": null,
+   "nativeName": "Berki Fülöp",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q134963717",
+   "name": "Mihály Urbancsok",
+   "start": 1950,
+   "end": 1954,
+   "image": null,
+   "nativeName": "Urbancsok Mihály",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q122966169",
+   "name": "Szilveszterné Tóth",
+   "start": 1951,
+   "end": 1975,
+   "image": null,
+   "nativeName": "Tóth Szilveszterné",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q131628323",
+   "name": "Bertalan Berecz",
+   "start": 1951,
+   "end": 1953,
+   "image": null,
+   "nativeName": "Berecz Bertalan",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q137153092",
+   "name": "Zsigmond Both",
+   "start": 1951,
+   "end": 1953,
+   "image": null,
+   "nativeName": "Both Zsigmond",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q207631",
+   "name": "Mátyás Rákosi",
+   "start": 1952,
+   "end": 1953,
+   "image": "Mátyás Rákosi General Secretary of the Hungarian Communist Party (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/M%C3%A1ty%C3%A1s%20R%C3%A1kosi%20General%20Secretary%20of%20the%20Hungarian%20Communist%20Party%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown photographer",
+    "attributionRequired": false
+   },
+   "nativeName": "Rákosi Mátyás",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q131424905",
+   "name": "Antalné Baracskai",
+   "start": 1952,
+   "end": 1954,
+   "image": null,
+   "nativeName": "Baracskai Antalné",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q131557585",
+   "name": "Imre Bujdosó",
+   "start": 1952,
+   "end": 1967,
+   "image": null,
+   "nativeName": "Bujdosó Imre",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q133807797",
+   "name": "József Ladányi",
+   "start": 1952,
+   "end": 1958,
+   "image": null,
+   "nativeName": "Ladányi József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q109648883",
+   "name": "József Kopácsi",
+   "start": 1953,
+   "end": 1957,
+   "image": null,
+   "nativeName": "Kopácsi József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q120836255",
+   "name": "János Fábik",
+   "start": 1953,
+   "end": 1956,
+   "image": null,
+   "nativeName": "Fábik János",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q132731907",
+   "name": "Károly Maróti",
+   "start": 1953,
+   "end": 1956,
+   "image": null,
+   "nativeName": "Maróti Károly",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q108151975",
+   "name": "József Kalamár",
+   "start": 1954,
+   "end": 1956,
+   "image": "Bust of Kalamar Jozsef at Memento Park (Gyenes Tamás, 1957).JPG",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bust%20of%20Kalamar%20Jozsef%20at%20Memento%20Park%20(Gyenes%20Tam%C3%A1s%2C%201957).JPG?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "Ferran Cornellà",
+    "attributionRequired": true
+   },
+   "nativeName": "Kalamár József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q124251766",
+   "name": "Lajos Farkasinszky",
+   "start": 1954,
+   "end": 1957,
+   "image": null,
+   "nativeName": "Farkasinszky Lajos",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q126043506",
+   "name": "Sándor Harmati",
+   "start": 1954,
+   "end": 1957,
+   "image": null,
+   "nativeName": "Harmati Sándor",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q131560555",
+   "name": "János Bugár",
+   "start": 1954,
+   "end": 1957,
+   "image": null,
+   "nativeName": "Bugár János",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q132498047",
+   "name": "Albert Bognár",
+   "start": 1954,
+   "end": 1958,
+   "image": null,
+   "nativeName": "Bognár Albert",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q139549582",
+   "name": "István Bartos",
+   "start": 1954,
+   "end": 1961,
+   "image": null,
+   "nativeName": "Bartos István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q140129423",
+   "name": "István Rostás",
+   "start": 1954,
+   "end": 1956,
+   "image": null,
+   "nativeName": "Rostás István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q516008",
+   "name": "András Hegedüs",
+   "start": 1955,
+   "end": 1956,
+   "image": "Hegedüs A.3-4.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Heged%C3%BCs%20A.3-4.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0 nl",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": true
+   },
+   "nativeName": "Hegedüs András",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q177917",
+   "name": "Imre Nagy",
+   "start": 1956,
+   "end": 1956,
+   "image": "Imre Nagy portrait.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Imre%20Nagy%20portrait.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "ismeretlen szerző(Nagy Imre Emlékház tulajdona)",
+    "attributionRequired": false
+   },
+   "nativeName": "Nagy Imre",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1006162",
+   "name": "Rudolf Földvári",
+   "start": 1956,
+   "end": 1957,
+   "image": null,
+   "nativeName": "Földvári Rudolf",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q24288185",
+   "name": "Gyula Andrásfi",
+   "start": 1956,
+   "end": 1961,
+   "image": null,
+   "nativeName": "Andrásfi Gyula",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q119222223",
+   "name": "Sándor Katona",
+   "start": 1956,
+   "end": null,
+   "image": null,
+   "nativeName": "Katona Sándor",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q123105176",
+   "name": "Mihály Fekete",
+   "start": 1956,
+   "end": 1956,
+   "image": null,
+   "nativeName": "Fekete Mihály",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q132893971",
+   "name": "László Czifra",
+   "start": 1956,
+   "end": 1957,
+   "image": null,
+   "nativeName": "Czifra László",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q135000029",
+   "name": "Imre Tombácz",
+   "start": 1956,
+   "end": 1957,
+   "image": null,
+   "nativeName": "Tombácz Imre",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q134691723",
+   "name": "János Jegyinák",
+   "start": 1956,
+   "end": 1956,
+   "image": null,
+   "nativeName": "Jegyinák János",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1228437",
+   "name": "Sándor Palkó",
+   "start": 1957,
+   "end": 1971,
+   "image": null,
+   "nativeName": "Palkó Sándor",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q118121681",
+   "name": "György Oláh",
+   "start": 1957,
+   "end": 1965,
+   "image": null,
+   "nativeName": "Oláh György",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q121141340",
+   "name": "István Bakos",
+   "start": 1957,
+   "end": 1961,
+   "image": null,
+   "nativeName": "Bakos István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q130318228",
+   "name": "Lajos Arany Tóth",
+   "start": 1957,
+   "end": 1963,
+   "image": null,
+   "nativeName": "Arany Tóth Lajos",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q130324006",
+   "name": "Károly Bajtai",
+   "start": 1957,
+   "end": 1957,
+   "image": null,
+   "nativeName": "Bajtai Károly",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q134693537",
+   "name": "József Suhajda",
+   "start": 1957,
+   "end": 1977,
+   "image": null,
+   "nativeName": "Suhajda József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q135551299",
+   "name": "Péter Dunai",
+   "start": 1957,
+   "end": 1969,
+   "image": null,
+   "nativeName": "Dunai Péter",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q957256",
+   "name": "Ferenc Münnich",
+   "start": 1958,
+   "end": 1961,
+   "image": "Münnich Ferenc 1921.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/M%C3%BCnnich%20Ferenc%201921.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown (part of the Történeti Fényképtár - Magyar Nemzeti Múzeum Collection)",
+    "attributionRequired": false
+   },
+   "nativeName": "Münnich Ferenc",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q131830158",
+   "name": "György Biczó",
+   "start": 1958,
+   "end": 1974,
+   "image": null,
+   "nativeName": "Biczó György",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q19628724",
+   "name": "József Veres",
+   "start": 1958,
+   "end": 1963,
+   "image": null,
+   "nativeName": "Veres József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q131422116",
+   "name": "János Tari",
+   "start": 1958,
+   "end": 1963,
+   "image": null,
+   "nativeName": "Tari János",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q131337641",
+   "name": "Ferenc Keleti",
+   "start": 1959,
+   "end": 1963,
+   "image": null,
+   "nativeName": "Keleti Ferenc",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q138497433",
+   "name": "János Bojti",
+   "start": 1959,
+   "end": 1969,
+   "image": null,
+   "nativeName": "Bojti János",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q126460466",
+   "name": "László Pesta",
+   "start": 1959,
+   "end": 1965,
+   "image": null,
+   "nativeName": "Pesta László",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q22696730",
+   "name": "Illés Ferenczi",
+   "start": 1960,
+   "end": 1970,
+   "image": null,
+   "nativeName": "Ferenczi Illés",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q84567362",
+   "name": "Mihály Keresztes",
+   "start": 1960,
+   "end": 1962,
+   "image": null,
+   "nativeName": "Keresztes Mihály",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q130289125",
+   "name": "István Ambrus",
+   "start": 1960,
+   "end": 1976,
+   "image": null,
+   "nativeName": "Ambrus István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q200850",
+   "name": "János Kádár",
+   "start": 1961,
+   "end": 1965,
+   "image": "János Kádár (fototeca.iiccr.ro).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/J%C3%A1nos%20K%C3%A1d%C3%A1r%20(fototeca.iiccr.ro).jpg?width=320",
+   "imageLicense": {
+    "license": "Attribution",
+    "artist": "Unknown Romanian photographer",
+    "attributionRequired": false
+   },
+   "nativeName": "Kádár János",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q130287387",
+   "name": "József Ádám",
+   "start": 1961,
+   "end": 1974,
+   "image": null,
+   "nativeName": "Ádám József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q132291448",
+   "name": "János Bodogán",
+   "start": 1961,
+   "end": 1971,
+   "image": null,
+   "nativeName": "Bodogán János",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q137691459",
+   "name": "József Bőhm",
+   "start": 1961,
+   "end": 1963,
+   "image": null,
+   "nativeName": "Bőhm József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q118113389",
+   "name": "József Rakonczai",
+   "start": 1962,
+   "end": 1970,
+   "image": null,
+   "nativeName": "Rakonczai József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q137655566",
+   "name": "Sándor Simaházi",
+   "start": 1962,
+   "end": 1971,
+   "image": null,
+   "nativeName": "Simaházi Sándor",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q119171337",
+   "name": "Péter Varga",
+   "start": 1963,
+   "end": 1967,
+   "image": null,
+   "nativeName": "Varga Péter",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1256771",
+   "name": "István Sarlós",
+   "start": 1963,
+   "end": 1970,
+   "image": "Bundesarchiv Bild 183-R0202-0026, Erfurt, Istvan Sarlos im Gespräch.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-R0202-0026%2C%20Erfurt%2C%20Istvan%20Sarlos%20im%20Gespr%C3%A4ch.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0 de",
+    "artist": "Dieter Demme",
+    "attributionRequired": true
+   },
+   "nativeName": "Sarlós István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q99752447",
+   "name": "Gábor Szilágyi",
+   "start": 1963,
+   "end": 1966,
+   "image": null,
+   "nativeName": "Szilágyi Gábor",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q137915282",
+   "name": "Lajos Czitron",
+   "start": 1963,
+   "end": 1972,
+   "image": null,
+   "nativeName": "Czitron Lajos",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1042495",
+   "name": "Gyula Kállai",
+   "start": 1965,
+   "end": 1967,
+   "image": "Kállai Gyula 1964.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/K%C3%A1llai%20Gyula%201964.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "Semmelweis University Archives (cropped by Norden1990)",
+    "attributionRequired": true
+   },
+   "nativeName": "Kállai Gyula",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q131843497",
+   "name": "József Bíró",
+   "start": 1965,
+   "end": 1969,
+   "image": null,
+   "nativeName": "Bíró József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q137844442",
+   "name": "Márton Lombos",
+   "start": 1965,
+   "end": 1977,
+   "image": null,
+   "nativeName": "Lombos Márton",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q137585366",
+   "name": "Józsefné Csikesz",
+   "start": 1965,
+   "end": 1975,
+   "image": null,
+   "nativeName": "Csikesz Józsefné",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1469203",
+   "name": "István Ács",
+   "start": 1966,
+   "end": 1989,
+   "image": "Dracs2.JPG",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dracs2.JPG?width=320",
+   "imageLicense": {
+    "license": "CC0",
+    "artist": "Tomiszafko",
+    "attributionRequired": false
+   },
+   "nativeName": "Ács István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q115571975",
+   "name": "Ferenc Lombos",
+   "start": 1966,
+   "end": 1980,
+   "image": null,
+   "nativeName": "Lombos Ferenc",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q130313237",
+   "name": "János Ambrus",
+   "start": 1966,
+   "end": 1978,
+   "image": null,
+   "nativeName": "Ambrus János",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q695700",
+   "name": "Jenő Fock",
+   "start": 1967,
+   "end": 1975,
+   "image": "Jenő Fock 1972.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jen%C5%91%20Fock%201972.jpg?width=320",
+   "imageLicense": {
+    "license": "Attribution",
+    "artist": null,
+    "attributionRequired": false
+   },
+   "nativeName": "Fock Jenő",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q47855437",
+   "name": "István Forgó",
+   "start": 1967,
+   "end": 1984,
+   "image": null,
+   "nativeName": "Forgó István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q60693956",
+   "name": "Lajos Kustos",
+   "start": 1967,
+   "end": 1990,
+   "image": null,
+   "nativeName": "Kustos Lajos",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q123614220",
+   "name": "Jenő Tapolczai",
+   "start": 1967,
+   "end": 1973,
+   "image": null,
+   "nativeName": "Tapolczai Jenő",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q131465056",
+   "name": "Gyula Barczi",
+   "start": 1967,
+   "end": 1976,
+   "image": null,
+   "nativeName": "Barczi Gyula",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q137573255",
+   "name": "József Bozsik",
+   "start": 1967,
+   "end": null,
+   "image": null,
+   "nativeName": "Bozsik József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q140001576",
+   "name": "Lajos Gonda",
+   "start": 1967,
+   "end": 1968,
+   "image": null,
+   "nativeName": "Gonda Lajos",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q48213181",
+   "name": "Endre Fekete-Győr",
+   "start": 1969,
+   "end": 1981,
+   "image": null,
+   "nativeName": "Fekete-Győr Endre",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q19628725",
+   "name": "Lajos Kelemen",
+   "start": 1970,
+   "end": 1971,
+   "image": null,
+   "nativeName": "Kelemen Lajos",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q126043491",
+   "name": "Gyuláné Szentistványi",
+   "start": 1971,
+   "end": 1972,
+   "image": null,
+   "nativeName": "Szentistványi Gyuláné",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q25466607",
+   "name": "József Szekeres",
+   "start": 1972,
+   "end": 1990,
+   "image": null,
+   "nativeName": "Szekeres József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q131620002",
+   "name": "Nándor Bennó",
+   "start": 1973,
+   "end": 1976,
+   "image": null,
+   "nativeName": "Bennó Nándor",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q133250596",
+   "name": "Mihályné Bóka",
+   "start": 1973,
+   "end": null,
+   "image": null,
+   "nativeName": "Bóka Mihályné",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q98276979",
+   "name": "László Barta",
+   "start": 1973,
+   "end": 1974,
+   "image": null,
+   "nativeName": "Barta László",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q598216",
+   "name": "György Lázár",
+   "start": 1975,
+   "end": 1987,
+   "image": "Lázár György & Nicolae Ceaușescu.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/L%C3%A1z%C3%A1r%20Gy%C3%B6rgy%20%26%20Nicolae%20Ceau%C8%99escu.jpg?width=320",
+   "imageLicense": {
+    "license": "Attribution",
+    "artist": null,
+    "attributionRequired": false
+   },
+   "nativeName": "Lázár György",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q131465521",
+   "name": "Movik, Lászlóné",
+   "start": 1975,
+   "end": 1990,
+   "image": null,
+   "nativeName": "Movik Lászlóné",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q131737588",
+   "name": "István Bernáth",
+   "start": 1975,
+   "end": 1985,
+   "image": null,
+   "nativeName": "Bernáth István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1506666",
+   "name": "József Csuha",
+   "start": 1976,
+   "end": 1990,
+   "image": null,
+   "nativeName": "Csuha József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q130512288",
+   "name": "Zoltán Bors",
+   "start": 1978,
+   "end": 1990,
+   "image": null,
+   "nativeName": "Bors Zoltán",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q113026398",
+   "name": "Sándor Buzás",
+   "start": 1979,
+   "end": 1990,
+   "image": null,
+   "nativeName": "Buzás Sándor",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q126043512",
+   "name": "László Gyuricza",
+   "start": 1979,
+   "end": 1985,
+   "image": null,
+   "nativeName": "Gyuricza László",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q137576397",
+   "name": "György Bölcsey",
+   "start": 1980,
+   "end": 1990,
+   "image": null,
+   "nativeName": "Bölcsey György",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q131539396",
+   "name": "András Barta",
+   "start": 1980,
+   "end": 1980,
+   "image": null,
+   "nativeName": "Barta András",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51881011",
+   "name": "József Szabados",
+   "start": 1983,
+   "end": 1990,
+   "image": null,
+   "nativeName": "Szabados József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q137656958",
+   "name": "István Papp",
+   "start": 1983,
+   "end": 1990,
+   "image": null,
+   "nativeName": "Papp István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q138411979",
+   "name": "Béla Bényei",
+   "start": 1984,
+   "end": 1990,
+   "image": null,
+   "nativeName": "Bényei Béla",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q131460620",
+   "name": "Sándor Borbély",
+   "start": 1985,
+   "end": 1990,
+   "image": null,
+   "nativeName": "Borbély Sándor",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q5444061",
+   "name": "Ferenc Wekler",
+   "start": 1985,
+   "end": 1990,
+   "image": null,
+   "nativeName": "Wekler Ferenc",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q109451199",
+   "name": "László Balogh",
+   "start": 1985,
+   "end": 1987,
+   "image": null,
+   "nativeName": "Balogh László",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q131389600",
+   "name": "Gyula Bánóczi",
+   "start": 1985,
+   "end": 1990,
+   "image": null,
+   "nativeName": "Bánóczi Gyula",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q130318427",
+   "name": "Mihály Bugán",
+   "start": 1985,
+   "end": 1990,
+   "image": null,
+   "nativeName": "Bugán Mihály",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1028400",
+   "name": "Károly Grósz",
+   "start": 1987,
+   "end": 1988,
+   "image": "Károly Grósz.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/K%C3%A1roly%20Gr%C3%B3sz.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "Vjacseszlav Runov, RIA Novosti",
+    "attributionRequired": true
+   },
+   "nativeName": "Grósz Károly",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q104185894",
+   "name": "Imre Angyal",
+   "start": 1987,
+   "end": 1990,
+   "image": null,
+   "nativeName": "Angyal Imre",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q788660",
+   "name": "Ferenc Baja",
+   "start": 1987,
+   "end": 1990,
+   "image": "Baja Ferenc 2013.JPG",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Baja%20Ferenc%202013.JPG?width=320",
+   "imageLicense": {
+    "license": "CC BY 3.0",
+    "artist": "Végh Tibor",
+    "attributionRequired": true
+   },
+   "nativeName": "Baja Ferenc",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q355812",
+   "name": "Miklós Németh",
+   "start": 1988,
+   "end": 1990,
+   "image": "Németh Miklós.JPG",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/N%C3%A9meth%20Mikl%C3%B3s.JPG?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Griechisch Tamás",
+    "attributionRequired": true
+   },
+   "nativeName": "Németh Miklós",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q137748100",
+   "name": "Árpád Czene",
+   "start": 1988,
+   "end": 2014,
+   "image": null,
+   "nativeName": "Czene Árpád",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51881187",
+   "name": "Miklós Veér",
+   "start": 1988,
+   "end": 1990,
+   "image": null,
+   "nativeName": "Veér Miklós",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q134711376",
+   "name": "Sándor Boros",
+   "start": 1988,
+   "end": 1990,
+   "image": null,
+   "nativeName": "Boros Sándor",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q16523645",
+   "name": "László Varga",
+   "start": 1989,
+   "end": null,
+   "image": null,
+   "nativeName": "Varga László",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q18214140",
+   "name": "József Bielek",
+   "start": 1989,
+   "end": 1990,
+   "image": null,
+   "nativeName": "Bielek József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q20477994",
+   "name": "György Szabó",
+   "start": 1989,
+   "end": null,
+   "image": null,
+   "nativeName": "Szabó György",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51880936",
+   "name": "Ildikó Gyárfás",
+   "start": 1989,
+   "end": 1990,
+   "image": null,
+   "nativeName": "Gyárfás Ildikó",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q461944",
+   "name": "Mátyás Szűrös",
+   "start": 1989,
+   "end": 1990,
+   "image": "Szűrös Mátyás (Heti Válasz).JPG",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sz%C5%B1r%C3%B6s%20M%C3%A1ty%C3%A1s%20(Heti%20V%C3%A1lasz).JPG?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Griechisch Tamás",
+    "attributionRequired": true
+   },
+   "nativeName": "Szűrös Mátyás",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q355907",
+   "name": "József Antall",
+   "start": 1990,
+   "end": 1993,
+   "image": "Portrait of József Antall, Jr.tif",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20J%C3%B3zsef%20Antall%2C%20Jr.tif?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "Péter Antall",
+    "attributionRequired": true
+   },
+   "nativeName": "Antall József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q110843792",
+   "name": "István Kuti",
+   "start": 1990,
+   "end": 1998,
+   "image": null,
+   "nativeName": "Kuti István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q110844486",
+   "name": "Zoltán Krippl",
+   "start": 1990,
+   "end": 1994,
+   "image": null,
+   "nativeName": "Krippl Zoltán",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q110845384",
+   "name": "Kovács, Sándorné",
+   "start": 1990,
+   "end": 2003,
+   "image": null,
+   "nativeName": "Kovács Sándorné",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q110847113",
+   "name": "Dezső Takács",
+   "start": 1990,
+   "end": 2006,
+   "image": null,
+   "nativeName": "Takács Dezső",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q110938882",
+   "name": "József Gulyás",
+   "start": 1990,
+   "end": 1994,
+   "image": null,
+   "nativeName": "Gulyás József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q110943414",
+   "name": "János Bökfi",
+   "start": 1990,
+   "end": 1994,
+   "image": null,
+   "nativeName": "Bökfi János",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q111108715",
+   "name": "Mihály Gulyás",
+   "start": 1990,
+   "end": 1994,
+   "image": null,
+   "nativeName": "Gulyás Mihály",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q111337038",
+   "name": "József Rébeli Szabó",
+   "start": 1990,
+   "end": 1994,
+   "image": null,
+   "nativeName": "Rébeli Szabó József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q111588454",
+   "name": "Sándor Szatmári",
+   "start": 1990,
+   "end": 2002,
+   "image": null,
+   "nativeName": "Szatmári Sándor",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q912616",
+   "name": "Anna Dávid",
+   "start": 1990,
+   "end": 1994,
+   "image": null,
+   "nativeName": "Dávid Anna",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q923540",
+   "name": "István Tarlós",
+   "start": 1990,
+   "end": 2006,
+   "image": "TarlósIstván.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tarl%C3%B3sIstv%C3%A1n.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "Owner of copyright: István Tarlós",
+    "attributionRequired": true
+   },
+   "nativeName": "Tarlós István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q977587",
+   "name": "András Rapcsák",
+   "start": 1990,
+   "end": 2002,
+   "image": "Rapcsák András politican.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rapcs%C3%A1k%20Andr%C3%A1s%20politican.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "Eifert János http://www.eifert.hu/blog/",
+    "attributionRequired": true
+   },
+   "nativeName": "Rapcsák András",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q91627532",
+   "name": "László Örményi",
+   "start": 1990,
+   "end": 1994,
+   "image": null,
+   "nativeName": "Örményi László",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q95975567",
+   "name": "István Bak",
+   "start": 1990,
+   "end": 2002,
+   "image": "István Bak politican.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Istv%C3%A1n%20Bak%20politican.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Mr Kht",
+    "attributionRequired": true
+   },
+   "nativeName": "Bak István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q98801413",
+   "name": "László Szíjj",
+   "start": 1990,
+   "end": 1992,
+   "image": null,
+   "nativeName": "Szíjj László",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q24398950",
+   "name": "András Wagner",
+   "start": 1990,
+   "end": 1998,
+   "image": null,
+   "nativeName": "Wagner András",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51880423",
+   "name": "Attila Zoltán Buza",
+   "start": 1990,
+   "end": 2000,
+   "image": null,
+   "nativeName": "Buza Attila Zoltán",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51880461",
+   "name": "György Baky",
+   "start": 1990,
+   "end": 1994,
+   "image": null,
+   "nativeName": "Baky György",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51880462",
+   "name": "István Balsay",
+   "start": 1990,
+   "end": 1994,
+   "image": null,
+   "nativeName": "Balsay István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51880474",
+   "name": "Sándor Birta",
+   "start": 1990,
+   "end": 1994,
+   "image": null,
+   "nativeName": "Birta Sándor",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51880565",
+   "name": "Tibor Gubicza",
+   "start": 1990,
+   "end": 1998,
+   "image": null,
+   "nativeName": "Gubicza Tibor",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51880566",
+   "name": "István Gyimesi",
+   "start": 1990,
+   "end": 2010,
+   "image": null,
+   "nativeName": "Gyimesi István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1214024",
+   "name": "András Nagy Bandó",
+   "start": 1990,
+   "end": 1991,
+   "image": "Nagy Bandó András (2013).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nagy%20Band%C3%B3%20Andr%C3%A1s%20(2013).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Nagy Bandó András",
+    "attributionRequired": true
+   },
+   "nativeName": "Nagy Bandó András",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q12794525",
+   "name": "Károly Bauer",
+   "start": 1990,
+   "end": 2002,
+   "image": null,
+   "nativeName": "Bauer Károly",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q12814307",
+   "name": "József Ficsór",
+   "start": 1990,
+   "end": 2010,
+   "image": null,
+   "nativeName": "Ficsór József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q123245261",
+   "name": "Zsuzsanna Kardos",
+   "start": 1990,
+   "end": 2008,
+   "image": null,
+   "nativeName": "Kardos Zsuzsanna",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q124596581",
+   "name": "Almási Zsolt",
+   "start": 1990,
+   "end": 1998,
+   "image": "Almasi Zsolt.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Almasi%20Zsolt.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Wiigwiig",
+    "attributionRequired": true
+   },
+   "nativeName": "Almási Zsolt",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q124617642",
+   "name": "Márton Ropos",
+   "start": 1990,
+   "end": 2006,
+   "image": "Felsőszölnök 04.JPG",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fels%C5%91sz%C3%B6ln%C3%B6k%2004.JPG?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "MZaplotnik",
+    "attributionRequired": true
+   },
+   "nativeName": "Ropos Márton",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q125565706",
+   "name": "János Dániel Pap",
+   "start": 1990,
+   "end": 2006,
+   "image": null,
+   "nativeName": "Pap János",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q125565851",
+   "name": "Levente Magyar",
+   "start": 1990,
+   "end": 2006,
+   "image": null,
+   "nativeName": "Magyar Levente",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q125814007",
+   "name": "Ferenc Benkő",
+   "start": 1990,
+   "end": 2010,
+   "image": null,
+   "nativeName": "Benkő Ferenc",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q125909567",
+   "name": "Kamill Selmeczi",
+   "start": 1990,
+   "end": 1996,
+   "image": null,
+   "nativeName": "Selmeczi Kamill",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1125426",
+   "name": "László Könözsy",
+   "start": 1990,
+   "end": 1999,
+   "image": null,
+   "nativeName": "Könözsy László",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q112177200",
+   "name": "László Ádám Béres",
+   "start": 1990,
+   "end": 2010,
+   "image": null,
+   "nativeName": "Béres László Ádám",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q112873581",
+   "name": "Tibor Bajor",
+   "start": 1990,
+   "end": 1994,
+   "image": null,
+   "nativeName": "Bajor Tibor",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q113085145",
+   "name": "József Elek",
+   "start": 1990,
+   "end": 2010,
+   "image": null,
+   "nativeName": "Elek József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q113107983",
+   "name": "Sándor Nagy",
+   "start": 1990,
+   "end": 2006,
+   "image": null,
+   "nativeName": "Nagy Sándor",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q113335787",
+   "name": "István Lassu",
+   "start": 1990,
+   "end": null,
+   "image": null,
+   "nativeName": "Lassu István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q113612305",
+   "name": "Imre Bogár",
+   "start": 1990,
+   "end": 1994,
+   "image": null,
+   "nativeName": "Bogár Imre",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51880781",
+   "name": "Tibor Leszkovszki",
+   "start": 1990,
+   "end": 2006,
+   "image": null,
+   "nativeName": "Leszkovszki Tibor",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51880782",
+   "name": "Lajos Lippai",
+   "start": 1990,
+   "end": 2006,
+   "image": null,
+   "nativeName": "Lippai Lajos",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51880819",
+   "name": "József Mózs",
+   "start": 1990,
+   "end": 1992,
+   "image": null,
+   "nativeName": "Mózs József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1314786",
+   "name": "Sándor Sánta",
+   "start": 1990,
+   "end": 1994,
+   "image": null,
+   "nativeName": "Sánta Sándor",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1315271",
+   "name": "István Síklaky",
+   "start": 1990,
+   "end": 1991,
+   "image": null,
+   "nativeName": "Síklaky István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q15711531",
+   "name": "István Borbély",
+   "start": 1990,
+   "end": 2010,
+   "image": "Borbély István.png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Borb%C3%A9ly%20Istv%C3%A1n.png?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "Borbély István",
+    "attributionRequired": true
+   },
+   "nativeName": "Borbély István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q16014105",
+   "name": "Gyula Krajczár",
+   "start": 1990,
+   "end": 1998,
+   "image": null,
+   "nativeName": "Krajczár Gyula",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q16104947",
+   "name": "Béla Pásztor",
+   "start": 1990,
+   "end": null,
+   "image": "Pásztor Béla (politician).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/P%C3%A1sztor%20B%C3%A9la%20(politician).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Eifert János",
+    "attributionRequired": true
+   },
+   "nativeName": "Pásztor Béla",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q16145644",
+   "name": "László Pintér",
+   "start": 1990,
+   "end": 1998,
+   "image": null,
+   "nativeName": "Pintér László",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q16186405",
+   "name": "Ferenc Ódor",
+   "start": 1990,
+   "end": 1999,
+   "image": null,
+   "nativeName": "Ódor Ferenc",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q131381955",
+   "name": "György Ringelhann",
+   "start": 1990,
+   "end": 1998,
+   "image": null,
+   "nativeName": "Ringelhann György",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q131550965",
+   "name": "Róbert Krenner",
+   "start": 1990,
+   "end": null,
+   "image": null,
+   "nativeName": "Krenner Róbert",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q134883889",
+   "name": "Bertalan Kun",
+   "start": 1990,
+   "end": 1996,
+   "image": null,
+   "nativeName": "Kun Bertalan",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q105812502",
+   "name": "elderly Rudolf Végh",
+   "start": 1990,
+   "end": 1998,
+   "image": null,
+   "nativeName": "Végh Rudolf",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q105825180",
+   "name": "István Schrick",
+   "start": 1990,
+   "end": null,
+   "image": null,
+   "nativeName": "Schrick István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q792654",
+   "name": "János Bencsik",
+   "start": 1990,
+   "end": 2010,
+   "image": null,
+   "nativeName": "Bencsik János",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q6710693",
+   "name": "László Karakó",
+   "start": 1990,
+   "end": 2010,
+   "image": null,
+   "nativeName": "Karakó László",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q8073680",
+   "name": "Zoltán Mádi",
+   "start": 1990,
+   "end": 1994,
+   "image": null,
+   "nativeName": "Mádi Zoltán",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51881096",
+   "name": "Imre Tóth",
+   "start": 1990,
+   "end": 2010,
+   "image": null,
+   "nativeName": "Tóth Imre",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51881158",
+   "name": "István Vécsi",
+   "start": 1990,
+   "end": null,
+   "image": null,
+   "nativeName": "Vécsi István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51881183",
+   "name": "József Varga",
+   "start": 1990,
+   "end": 1994,
+   "image": null,
+   "nativeName": "Varga József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q85966725",
+   "name": "Kónya József",
+   "start": 1990,
+   "end": 2006,
+   "image": null,
+   "nativeName": "Kónya József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q108742769",
+   "name": "Károly Bűdi",
+   "start": 1990,
+   "end": null,
+   "image": null,
+   "nativeName": "Bűdi Károly",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q109449253",
+   "name": "Károly Balogh",
+   "start": 1990,
+   "end": 1998,
+   "image": null,
+   "nativeName": "Balogh Károly",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q109568444",
+   "name": "Péter Szabados",
+   "start": 1990,
+   "end": 1994,
+   "image": null,
+   "nativeName": "Szabados Péter",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q109888232",
+   "name": "Jenő Székely",
+   "start": 1990,
+   "end": null,
+   "image": null,
+   "nativeName": "Székely Jenő",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q110416227",
+   "name": "János Gulyás",
+   "start": 1990,
+   "end": null,
+   "image": null,
+   "nativeName": "Gulyás János",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q11083963",
+   "name": "László Dióssy",
+   "start": 1990,
+   "end": 2006,
+   "image": "Dr. Dióssy László.png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20Di%C3%B3ssy%20L%C3%A1szl%C3%B3.png?width=320",
+   "imageLicense": {
+    "license": "CC0",
+    "artist": "Wéber László György",
+    "attributionRequired": false
+   },
+   "nativeName": "Dióssy László",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q110610851",
+   "name": "László Jamrik",
+   "start": 1990,
+   "end": 2006,
+   "image": null,
+   "nativeName": "Jamrik László",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q110714203",
+   "name": "László Baráth",
+   "start": 1990,
+   "end": null,
+   "image": null,
+   "nativeName": "Baráth László",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q110798482",
+   "name": "Zoltán Tóth",
+   "start": 1990,
+   "end": 2002,
+   "image": null,
+   "nativeName": "Tóth Zoltán",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q110805418",
+   "name": "József Németh",
+   "start": 1990,
+   "end": 2002,
+   "image": null,
+   "nativeName": "Németh József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q110812868",
+   "name": "László Berkecz",
+   "start": 1990,
+   "end": 2006,
+   "image": null,
+   "nativeName": "Berkecz László",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q110825990",
+   "name": "Veronika Lengyelné László",
+   "start": 1990,
+   "end": 2006,
+   "image": null,
+   "nativeName": "Lengyelné László Veronika",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q110837955",
+   "name": "József Hárs",
+   "start": 1990,
+   "end": null,
+   "image": null,
+   "nativeName": "Hárs József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1008844",
+   "name": "Ferenc Gegesy",
+   "start": 1990,
+   "end": 1994,
+   "image": "Gegesy Ferenc.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gegesy%20Ferenc.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 3.0",
+    "artist": "The original uploader was Danmay at Hungarian Wikipedia.",
+    "attributionRequired": true
+   },
+   "nativeName": "Gegesy Ferenc",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1031324",
+   "name": "György Gémesi",
+   "start": 1990,
+   "end": null,
+   "image": "Gémesi György portré.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/G%C3%A9mesi%20Gy%C3%B6rgy%20portr%C3%A9.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "Tatár Attila Own work",
+    "attributionRequired": true
+   },
+   "nativeName": "Gémesi György",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1034272",
+   "name": "Zoltán Kovács",
+   "start": 1990,
+   "end": 2011,
+   "image": "Dr. Kovács Zoltán cropped.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20Kov%C3%A1cs%20Zolt%C3%A1n%20cropped.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "original author: VEHIR.HU, a Veszprémi Hírportál (fotó: Cseh Zoltán); cropped and retouched by: Rlevente",
+    "attributionRequired": true
+   },
+   "nativeName": "Kovács Zoltán",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q104155896",
+   "name": "Gábor Fekete",
+   "start": 1990,
+   "end": 1994,
+   "image": null,
+   "nativeName": "Fekete Gábor",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q102200",
+   "name": "Árpád Göncz",
+   "start": 1990,
+   "end": 1990,
+   "image": "GönczÁrpád.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/G%C3%B6ncz%C3%81rp%C3%A1d.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "SZDSZ",
+    "attributionRequired": true
+   },
+   "nativeName": "Göncz Árpád",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q21065212",
+   "name": "Miklós Szabó",
+   "start": 1991,
+   "end": 1994,
+   "image": null,
+   "nativeName": "Szabó Miklós",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q111660104",
+   "name": "Tamás Wittinghoff",
+   "start": 1991,
+   "end": null,
+   "image": null,
+   "nativeName": "Wittinghoff Tamás",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q14917703",
+   "name": "József Balázs",
+   "start": 1991,
+   "end": 2014,
+   "image": null,
+   "nativeName": "Balázs József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51881145",
+   "name": "Attila Várhegyi",
+   "start": 1991,
+   "end": 1998,
+   "image": null,
+   "nativeName": "Várhegyi Attila",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51880987",
+   "name": "András Sibak",
+   "start": 1992,
+   "end": 1998,
+   "image": null,
+   "nativeName": "Sibak András",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q110825772",
+   "name": "Dezső Tóth",
+   "start": 1992,
+   "end": 1994,
+   "image": null,
+   "nativeName": "Tóth Dezső",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q706277",
+   "name": "Péter Boross",
+   "start": 1993,
+   "end": 1994,
+   "image": "Péter Boross 2014.JPG",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/P%C3%A9ter%20Boross%202014.JPG?width=320",
+   "imageLicense": {
+    "license": "CC BY 3.0",
+    "artist": "Tibor Végh",
+    "attributionRequired": true
+   },
+   "nativeName": "Boross Péter",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q875588",
+   "name": "Béla Csécsei",
+   "start": 1993,
+   "end": 2009,
+   "image": null,
+   "nativeName": "Csécsei Béla",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q155684",
+   "name": "Gyula Horn",
+   "start": 1994,
+   "end": 1998,
+   "image": "Gyula Horn (2007).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gyula%20Horn%20(2007).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 2.5",
+    "artist": "א (Aleph)",
+    "attributionRequired": true
+   },
+   "nativeName": "Horn Gyula",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1109121",
+   "name": "Bálint Király",
+   "start": 1994,
+   "end": 2006,
+   "image": null,
+   "nativeName": "Király Bálint",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q111310555",
+   "name": "Sándor Nagy",
+   "start": 1994,
+   "end": 1998,
+   "image": null,
+   "nativeName": "Nagy Sándor",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q97342911",
+   "name": "Villási László",
+   "start": 1994,
+   "end": 1996,
+   "image": null,
+   "nativeName": "Villási László",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q23655507",
+   "name": "Áron Gaál",
+   "start": 1994,
+   "end": null,
+   "image": null,
+   "nativeName": "Gaál Áron",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q23908399",
+   "name": "János Fetser",
+   "start": 1994,
+   "end": 2006,
+   "image": null,
+   "nativeName": "Fetser János",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q41665343",
+   "name": "István Szalay",
+   "start": 1994,
+   "end": 1998,
+   "image": null,
+   "nativeName": "Szalay István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51880429",
+   "name": "Gyula Balogh",
+   "start": 1994,
+   "end": 1998,
+   "image": null,
+   "nativeName": "Balogh Gyula",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51880494",
+   "name": "László Bognár",
+   "start": 1994,
+   "end": 1998,
+   "image": null,
+   "nativeName": "Bognár László",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51880508",
+   "name": "Ferenc Csernus",
+   "start": 1994,
+   "end": 1998,
+   "image": null,
+   "nativeName": "Csernus Ferenc",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q117046299",
+   "name": "István Nagy",
+   "start": 1994,
+   "end": 1998,
+   "image": null,
+   "nativeName": "Nagy István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q125913757",
+   "name": "Gyula Takáts",
+   "start": 1994,
+   "end": 1998,
+   "image": null,
+   "nativeName": "Takáts Gyula",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1129027",
+   "name": "Zoltán Lengyel",
+   "start": 1994,
+   "end": 2006,
+   "image": null,
+   "nativeName": "Lengyel Zoltán",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51880992",
+   "name": "Pál Stipkovits",
+   "start": 1994,
+   "end": 2006,
+   "image": null,
+   "nativeName": "Stipkovits Pál",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51880994",
+   "name": "Gyula Szabó",
+   "start": 1994,
+   "end": 2002,
+   "image": null,
+   "nativeName": "Szabó Gyula",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q129477",
+   "name": "Judit Csabai",
+   "start": 1994,
+   "end": 2010,
+   "image": null,
+   "nativeName": "Csabai Lászlóné",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1298952",
+   "name": "Imre Szirbik",
+   "start": 1994,
+   "end": 2019,
+   "image": "Szirbik Imre and Szűrös Mátyás.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Szirbik%20Imre%20and%20Sz%C5%B1r%C3%B6s%20M%C3%A1ty%C3%A1s.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Geréby József",
+    "attributionRequired": true
+   },
+   "nativeName": "Szirbik Imre",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1299030",
+   "name": "Károly Szita",
+   "start": 1994,
+   "end": null,
+   "image": "Szita Károly.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Szita%20K%C3%A1roly.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Károly Szita",
+    "attributionRequired": true
+   },
+   "nativeName": "Szita Károly",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1316455",
+   "name": "Barnabás Tamás",
+   "start": 1994,
+   "end": null,
+   "image": null,
+   "nativeName": "Tamás Barnabás",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1321771",
+   "name": "János Tittmann",
+   "start": 1994,
+   "end": null,
+   "image": null,
+   "nativeName": "Tittmann János",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1327282",
+   "name": "József Tóth",
+   "start": 1994,
+   "end": null,
+   "image": "Tóth József (politician).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/T%C3%B3th%20J%C3%B3zsef%20(politician).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Eifert János",
+    "attributionRequired": true
+   },
+   "nativeName": "Tóth József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q15126327",
+   "name": "László Tasó",
+   "start": 1994,
+   "end": 2014,
+   "image": "150921 Flirt projektzáró (26) Tasó László.JPG",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/150921%20Flirt%20projektz%C3%A1r%C3%B3%20(26)%20Tas%C3%B3%20L%C3%A1szl%C3%B3.JPG?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Solymári",
+    "attributionRequired": true
+   },
+   "nativeName": "Tasó László",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q15138072",
+   "name": "Árpád Vértes",
+   "start": 1994,
+   "end": 2010,
+   "image": null,
+   "nativeName": "Vértes Árpád",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q16185637",
+   "name": "József Tóth",
+   "start": 1994,
+   "end": null,
+   "image": null,
+   "nativeName": "Tóth József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q16194381",
+   "name": "László Vigh",
+   "start": 1994,
+   "end": 2010,
+   "image": null,
+   "nativeName": "Vigh László",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q16195427",
+   "name": "István Bóka",
+   "start": 1994,
+   "end": 2002,
+   "image": null,
+   "nativeName": "Bóka István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q16206358",
+   "name": "Zoltán Nógrádi",
+   "start": 1994,
+   "end": null,
+   "image": null,
+   "nativeName": "Nógrádi Zoltán",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q852451",
+   "name": "Péter Buzás",
+   "start": 1994,
+   "end": 2014,
+   "image": "Buzás Péter Makó.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Buz%C3%A1s%20P%C3%A9ter%20Mak%C3%B3.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "Burrows",
+    "attributionRequired": true
+   },
+   "nativeName": "Buzás Péter",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q6089175",
+   "name": "István Boldog",
+   "start": 1994,
+   "end": 2014,
+   "image": null,
+   "nativeName": "Boldog István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51881043",
+   "name": "László Sóvágó",
+   "start": 1994,
+   "end": 2019,
+   "image": null,
+   "nativeName": "Sóvágó László",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q108609108",
+   "name": "József Papp",
+   "start": 1994,
+   "end": 2006,
+   "image": null,
+   "nativeName": "Papp József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q109606176",
+   "name": "József Balogh",
+   "start": 1994,
+   "end": 2006,
+   "image": null,
+   "nativeName": "Balogh József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q109610918",
+   "name": "Kálmán Nagy",
+   "start": 1994,
+   "end": 2002,
+   "image": null,
+   "nativeName": "Nagy Kálmán",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q109882164",
+   "name": "Béla Paudits",
+   "start": 1994,
+   "end": 2002,
+   "image": null,
+   "nativeName": "Paudits Béla",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q110485796",
+   "name": "Imre Attila Lőrincz",
+   "start": 1994,
+   "end": null,
+   "image": null,
+   "nativeName": "Lőrincz Imre Attila",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q110510252",
+   "name": "László Lukács",
+   "start": 1994,
+   "end": null,
+   "image": null,
+   "nativeName": "Lukács László",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q110613640",
+   "name": "János Sándor Ivancsó",
+   "start": 1994,
+   "end": null,
+   "image": null,
+   "nativeName": "Ivancsó János Sándor",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q110711712",
+   "name": "Ágnes Oláhné Surányi",
+   "start": 1994,
+   "end": 2014,
+   "image": null,
+   "nativeName": "Oláhné Surányi Ágnes",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q804665",
+   "name": "Balázs Balázs",
+   "start": 1995,
+   "end": 1999,
+   "image": null
+  },
+  {
+   "qid": "Q27044032",
+   "name": "József Dankó",
+   "start": 1996,
+   "end": 2002,
+   "image": null,
+   "nativeName": "Dankó József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q105639885",
+   "name": "Péter István Ronyecz",
+   "start": 1997,
+   "end": null,
+   "image": null,
+   "nativeName": "Ronyecz Péter István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q110905254",
+   "name": "János Zsáli",
+   "start": 1998,
+   "end": 2007,
+   "image": null,
+   "nativeName": "Zsáli János",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q111315426",
+   "name": "László Ujvári",
+   "start": 1998,
+   "end": null,
+   "image": null,
+   "nativeName": "Ujvári László",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q44606334",
+   "name": "Katalin Molnár, Mrs. Devánszki",
+   "start": 1998,
+   "end": 2002,
+   "image": null,
+   "nativeName": "Devánszkiné Molnár Katalin",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51880415",
+   "name": "László Bartha",
+   "start": 1998,
+   "end": 2002,
+   "image": null,
+   "nativeName": "Bartha László",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51880496",
+   "name": "Mihály Czuczi",
+   "start": 1998,
+   "end": 2014,
+   "image": null,
+   "nativeName": "Czuczi Mihály",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1293218",
+   "name": "Ákos Szabados",
+   "start": 1998,
+   "end": null,
+   "image": null,
+   "nativeName": "Szabados Ákos",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q114877274",
+   "name": "Ákos Czeglédy",
+   "start": 1998,
+   "end": null,
+   "image": null,
+   "nativeName": "Czeglédy Ákos",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q125577393",
+   "name": "István Gál",
+   "start": 1998,
+   "end": 2006,
+   "image": null,
+   "nativeName": "Gál István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51880684",
+   "name": "Klára Horváth",
+   "start": 1998,
+   "end": null,
+   "image": null,
+   "nativeName": "Horváth Klára",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51880903",
+   "name": "Zoltán Páva",
+   "start": 1998,
+   "end": 2010,
+   "image": null,
+   "nativeName": "Páva Zoltán",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51880650",
+   "name": "Csaba Jüttner",
+   "start": 1998,
+   "end": 2010,
+   "image": null,
+   "nativeName": "Jüttner Csaba",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1301994",
+   "name": "Gábor Szécsi",
+   "start": 1998,
+   "end": 2006,
+   "image": null,
+   "nativeName": "Szécsi Gábor",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1322217",
+   "name": "László Toller",
+   "start": 1998,
+   "end": 2006,
+   "image": null,
+   "nativeName": "Toller László",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1327045",
+   "name": "András János Tóth",
+   "start": 1998,
+   "end": 2008,
+   "image": null,
+   "nativeName": "Tóth András János",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1463895",
+   "name": "Tihamér Warvasovszky",
+   "start": 1998,
+   "end": 2010,
+   "image": null,
+   "nativeName": "Warvasovszky Tihamér",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q15844840",
+   "name": "József Szekó",
+   "start": 1998,
+   "end": 2019,
+   "image": null,
+   "nativeName": "Szekó József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q16193201",
+   "name": "Ernő Kovács",
+   "start": 1998,
+   "end": 2014,
+   "image": null,
+   "nativeName": "Kovács Ernő",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q16201464",
+   "name": "Csaba Szabó",
+   "start": 1998,
+   "end": null,
+   "image": null,
+   "nativeName": "Szabó Csaba",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q106699691",
+   "name": "Imre Weisengruber",
+   "start": 1998,
+   "end": null,
+   "image": null,
+   "nativeName": "Weisengruber Imre",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q5435366",
+   "name": "Farkas Bethlen",
+   "start": 1998,
+   "end": 2014,
+   "image": "050827 Demokrata Gesztenyéskert 5 Bethlen Farkas.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/050827%20Demokrata%20Geszteny%C3%A9skert%205%20Bethlen%20Farkas.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 4.0",
+    "artist": "Solymári",
+    "attributionRequired": true
+   },
+   "nativeName": "Bethlen Farkas",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q6845359",
+   "name": "Mihály Babák",
+   "start": 1998,
+   "end": null,
+   "image": "Babák Mihály.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bab%C3%A1k%20Mih%C3%A1ly.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Elekes Andor",
+    "attributionRequired": true
+   },
+   "nativeName": "Babák Mihály",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q8073651",
+   "name": "Zoltán Demeter",
+   "start": 1998,
+   "end": 2014,
+   "image": "Demeter Zoltán.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Demeter%20Zolt%C3%A1n.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Elekes Andor",
+    "attributionRequired": true
+   },
+   "nativeName": "Demeter Zoltán",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51880999",
+   "name": "Imre János Sisák",
+   "start": 1998,
+   "end": 2014,
+   "image": null,
+   "nativeName": "Sisák Imre János",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51881053",
+   "name": "Lajos Mátyás Szabó",
+   "start": 1998,
+   "end": 2006,
+   "image": null,
+   "nativeName": "Szabó Lajos Mátyás",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51881603",
+   "name": "Imre Nagy",
+   "start": 1998,
+   "end": 2006,
+   "image": null,
+   "nativeName": "Nagy Imre",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q108256231",
+   "name": "Péter Szamosvölgyi",
+   "start": 1998,
+   "end": null,
+   "image": null,
+   "nativeName": "Szamosvölgyi Péter",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q108559922",
+   "name": "Zsolt Zinger",
+   "start": 1998,
+   "end": null,
+   "image": null,
+   "nativeName": "Zinger Zsolt",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q109888145",
+   "name": "Gábor József Hajdu",
+   "start": 1998,
+   "end": null,
+   "image": null,
+   "nativeName": "Hajdu Gábor József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q110415937",
+   "name": "Zoltán Orosz",
+   "start": 1998,
+   "end": null,
+   "image": null,
+   "nativeName": "Orosz Zoltán",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q110510340",
+   "name": "István Elek",
+   "start": 1998,
+   "end": null,
+   "image": null,
+   "nativeName": "Elek István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q5005010",
+   "name": "Béla Dankó",
+   "start": 1999,
+   "end": 2014,
+   "image": null,
+   "nativeName": "Dankó Béla",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51880659",
+   "name": "András Kálmán",
+   "start": 1999,
+   "end": 2010,
+   "image": null,
+   "nativeName": "Kálmán András",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q105815351",
+   "name": "János Krähling",
+   "start": 1999,
+   "end": null,
+   "image": null,
+   "nativeName": "Krähling János",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1175446",
+   "name": "Tamás Meggyes",
+   "start": 2000,
+   "end": 2010,
+   "image": "Esztergom Meggyes Tamas.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Esztergom%20Meggyes%20Tamas.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Mitter Balázs",
+    "attributionRequired": true
+   },
+   "nativeName": "Meggyes Tamás",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q16205903",
+   "name": "Sándor Lipők",
+   "start": 2000,
+   "end": null,
+   "image": "Lipők Sándor.png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lip%C5%91k%20S%C3%A1ndor.png?width=320",
+   "imageLicense": {
+    "license": "CC BY 3.0",
+    "artist": "Kölcsey Televízió",
+    "attributionRequired": true
+   },
+   "nativeName": "Lipők Sándor",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q205642",
+   "name": "Ferenc Mádl",
+   "start": 2000,
+   "end": 2005,
+   "image": "Ferenc Mádl.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ferenc%20M%C3%A1dl.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": true
+   },
+   "nativeName": "Mádl Ferenc",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q106009527",
+   "name": "Kovács, Sándorné",
+   "start": 2001,
+   "end": null,
+   "image": null,
+   "nativeName": "Kovács Sándorné",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q156487",
+   "name": "Péter Medgyessy",
+   "start": 2002,
+   "end": 2004,
+   "image": "Medgyessy in August 2014 (cropped).JPG",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Medgyessy%20in%20August%202014%20(cropped).JPG?width=320",
+   "imageLicense": {
+    "license": "CC BY 3.0",
+    "artist": "Tibor Végh",
+    "attributionRequired": true
+   },
+   "nativeName": "Medgyessy Péter",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q111265022",
+   "name": "József Macsári",
+   "start": 2002,
+   "end": null,
+   "image": null,
+   "nativeName": "Macsári József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q111336740",
+   "name": "Károly Zsótér",
+   "start": 2002,
+   "end": null,
+   "image": null,
+   "nativeName": "Zsótér Károly",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q111355574",
+   "name": "Tibor Horváth",
+   "start": 2002,
+   "end": null,
+   "image": null,
+   "nativeName": "Horváth Tibor",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q111588423",
+   "name": "Tiborné Kiss",
+   "start": 2002,
+   "end": 2006,
+   "image": null,
+   "nativeName": "Kiss Tiborné",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q9182907",
+   "name": "Béla Döcsakovszky",
+   "start": 2002,
+   "end": 2006,
+   "image": "Béla Döcsakovszky.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/B%C3%A9la%20D%C3%B6csakovszky.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Lubaczow1",
+    "attributionRequired": false
+   },
+   "nativeName": "Döcsakovszky Béla",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q20741993",
+   "name": "László Várnai",
+   "start": 2002,
+   "end": 2010,
+   "image": null,
+   "nativeName": "Várnai László",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51880438",
+   "name": "Lajosné Botka",
+   "start": 2002,
+   "end": 2006,
+   "image": null,
+   "nativeName": "Botka Lajosné",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1165380",
+   "name": "Ilona Marjánné Rinyu",
+   "start": 2002,
+   "end": 2008,
+   "image": "Marjánné dr. Rinyu Ilona 4.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Marj%C3%A1nn%C3%A9%20dr.%20Rinyu%20Ilona%204.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Lakatos István",
+    "attributionRequired": true
+   },
+   "nativeName": "Marjánné Rinyu Ilona",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1178612",
+   "name": "Gyula Molnár",
+   "start": 2002,
+   "end": 2010,
+   "image": "Molnár Gyula (MSZP.hu).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Moln%C3%A1r%20Gyula%20(MSZP.hu).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "MSZP",
+    "attributionRequired": true
+   },
+   "nativeName": "Molnár Gyula",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1232842",
+   "name": "Klára Perjési",
+   "start": 2002,
+   "end": 2010,
+   "image": null,
+   "nativeName": "Perjési Klára",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1252663",
+   "name": "Gábor Rátonyi",
+   "start": 2002,
+   "end": 2006,
+   "image": null,
+   "nativeName": "Rátonyi Gábor",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1289879",
+   "name": "Miklós Soltész",
+   "start": 2002,
+   "end": 2005,
+   "image": "Soltész Miklós 2006.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Solt%C3%A9sz%20Mikl%C3%B3s%202006.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Solymári",
+    "attributionRequired": true
+   },
+   "nativeName": "Soltész Miklós",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q116973749",
+   "name": "Péter Ferencz",
+   "start": 2002,
+   "end": null,
+   "image": null,
+   "nativeName": "Ferencz Péter",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q125565919",
+   "name": "Éva Venczel",
+   "start": 2002,
+   "end": 2005,
+   "image": null,
+   "nativeName": "Venczel Éva",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q125813964",
+   "name": "Ferenc Benkő",
+   "start": 2002,
+   "end": 2008,
+   "image": null,
+   "nativeName": "Benkő Ferenc",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q112109779",
+   "name": "Miklós Bíró",
+   "start": 2002,
+   "end": 2006,
+   "image": null,
+   "nativeName": "Bíró Miklós",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q113637612",
+   "name": "Istvánné Bollók",
+   "start": 2002,
+   "end": 2006,
+   "image": "BIT profile.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/BIT%20profile.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Gere Mátyás",
+    "attributionRequired": true
+   },
+   "nativeName": "Bollók Istvánné",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51880773",
+   "name": "Gábor Laboda",
+   "start": 2002,
+   "end": null,
+   "image": null,
+   "nativeName": "Laboda Gábor",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51880775",
+   "name": "István Lombos",
+   "start": 2002,
+   "end": 2006,
+   "image": null,
+   "nativeName": "Lombos István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51880805",
+   "name": "József Mohácsi",
+   "start": 2002,
+   "end": 2006,
+   "image": null,
+   "nativeName": "Mohácsi József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51880872",
+   "name": "József Paizs",
+   "start": 2002,
+   "end": 2010,
+   "image": null,
+   "nativeName": "Paizs József",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51880926",
+   "name": "Endréné Rónavölgyi",
+   "start": 2002,
+   "end": 2010,
+   "image": null,
+   "nativeName": "Rónavölgyi Endréné",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q1301379",
+   "name": "János Szántó",
+   "start": 2002,
+   "end": 2008,
+   "image": null,
+   "nativeName": "Szántó János",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q14918704",
+   "name": "Attila Szedlák",
+   "start": 2002,
+   "end": 2019,
+   "image": null,
+   "nativeName": "Szedlák Attila",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q16186297",
+   "name": "György Ipkovich",
+   "start": 2002,
+   "end": 2010,
+   "image": null,
+   "nativeName": "Ipkovich György",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q16201735",
+   "name": "Gábor Varga",
+   "start": 2002,
+   "end": 2014,
+   "image": null,
+   "nativeName": "Varga Gábor",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q106675218",
+   "name": "Péter Borján",
+   "start": 2002,
+   "end": null,
+   "image": null,
+   "nativeName": "Borján Péter",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q106962723",
+   "name": "Antal Huszárovics",
+   "start": 2002,
+   "end": 2010,
+   "image": null,
+   "nativeName": "Huszárovics Antal",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q535777",
+   "name": "Nándor Litter",
+   "start": 2002,
+   "end": 2006,
+   "image": null,
+   "nativeName": "Litter Nándor",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q750152",
+   "name": "Oszkár Molnár",
+   "start": 2002,
+   "end": null,
+   "image": null,
+   "nativeName": "Molnár Oszkár",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q750646",
+   "name": "János Lázár",
+   "start": 2002,
+   "end": 2012,
+   "image": "Lázár János 2 cropped.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/L%C3%A1z%C3%A1r%20J%C3%A1nos%202%20cropped.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "original author: VEHIR.HU, a Veszprémi Hírportál; cropped and retouched by: Rlevente",
+    "attributionRequired": true
+   },
+   "nativeName": "Lázár János",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q791845",
+   "name": "Tamás Bedő",
+   "start": 2002,
+   "end": 2010,
+   "image": null,
+   "nativeName": "Bedő Tamás",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q848456",
+   "name": "László Botka",
+   "start": 2002,
+   "end": null,
+   "image": "Horn Gyula temetése Botka László.JPG",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Horn%20Gyula%20temet%C3%A9se%20Botka%20L%C3%A1szl%C3%B3.JPG?width=320",
+   "imageLicense": {
+    "license": "CC BY 3.0",
+    "artist": "Tibor Végh",
+    "attributionRequired": true
+   },
+   "nativeName": "Botka László",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q6089157",
+   "name": "István Bebes",
+   "start": 2002,
+   "end": null,
+   "image": "Bebes István.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bebes%20Istv%C3%A1n.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "MTA BTK ITI",
+    "attributionRequired": true
+   },
+   "nativeName": "Bebes István",
+   "nativeLang": "hu"
+  },
+  {
+   "qid": "Q51881004",
+   "name": "István Sándor",
+   "start": 2002,
+   "end": 2006,
+   "image": null,
+   "nativeName": "Sándor István",
+   "nativeLang": "hu"
+  }
+ ],
+ "blurbKey": "Q28__hungary"
+}

@@ -1,0 +1,72 @@
+{
+ "qid": "Q568638",
+ "names": [
+  "Duchy of Wrocław"
+ ],
+ "title": "Duchy of Wrocław",
+ "variantOf": "Q568638",
+ "endonym": {
+  "native": "Księstwo wrocławskie",
+  "roman": "Księstwo wrocławskie"
+ },
+ "capsule": "This early Duchy of Wrocław was the senior share of Silesia awarded to Bolesław I the Tall when he and his brothers Mieszko I Tanglefoot and Konrad divided their father Władysław II's restored inheritance in 1172, after ruling jointly from Wrocław since 1163. Bolesław the Tall governed from Wrocław until his death in 1201, when his son Henry I the Bearded succeeded him and began a reign that would extend Piast Silesian influence across Kraków and Greater Poland. The duchy's early Piast line thus anchored Lower Silesia's senior branch before Henry I's later territorial expansions reshaped the region.",
+ "citations": [
+  {
+   "label": "Wikipedia: Duchy of Silesia",
+   "url": "https://en.wikipedia.org/wiki/Duchy_of_Silesia"
+  },
+  {
+   "label": "Wikipedia: Duchies of Silesia",
+   "url": "https://en.wikipedia.org/wiki/Duchies_of_Silesia"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The original unified Duchy of Silesia's extent (modern Silesia) is well-established, but because it fragmented into dozens of sub-duchies after c. 1200, mapping it as a single entity after that point is a simplification. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Duchy of Silesia",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Władysław II the Exile",
+   "nativeName": "Władysław II Wygnaniec",
+   "roman": "",
+   "start": 1139,
+   "end": 1146,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Bolesław I the Tall",
+   "nativeName": "Bolesław I Wysoki",
+   "roman": "",
+   "start": 1163,
+   "end": 1201,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Henry I the Bearded",
+   "nativeName": "Henryk I Brodaty",
+   "roman": "",
+   "start": 1201,
+   "end": 1238,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q568638__duchy-of-wroc-aw"
+}

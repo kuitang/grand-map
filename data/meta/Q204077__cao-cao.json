@@ -1,0 +1,59 @@
+{
+ "qid": "Q204077",
+ "names": [
+  "Cao Cao"
+ ],
+ "title": "Cao Cao",
+ "variantOf": "Q204077",
+ "endonym": {
+  "native": "曹操",
+  "roman": "Cáo Cāo"
+ },
+ "capsule": "Cao Cao (曹操, 155–220) was the Han-dynasty chancellor and northern-Chinese warlord who took Emperor Xian under his control at Xu (Xuchang) in 196 and, after capturing Ye in 204, made that city his fortified power base; enfeoffed Duke of Wei in 213 and King of Wei in 216, he built an autonomous vassal state within the nominally intact Eastern Han empire. This Wei polity is distinct from the tiny Zhou-era vassal state of Cao, centered near Dingtao in western Shandong, which had vanished nearly seven centuries earlier. Cao Cao never took the imperial title himself; when he died in 220 his son Cao Pi forced the abdication of Emperor Xian and founded the Cao Wei dynasty on the base his father had built.",
+ "citations": [
+  {
+   "label": "Cao Cao - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cao_Cao"
+  },
+  {
+   "label": "Cao Wei - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cao_Wei"
+  },
+  {
+   "label": "Cao Cao - World History Encyclopedia",
+   "url": "https://www.worldhistory.org/Cao_Cao/"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Cao's existence and general location in western Shandong are well-attested in classical Chinese sources; precise territorial boundaries within the North China Plain remain imprecisely defined. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Cao (state)",
+ "rulers": [
+  {
+   "name": "Cao Cao",
+   "native": "曹操",
+   "roman": "Cáo Cāo",
+   "start": 196,
+   "end": 220,
+   "nativeName": "曹操"
+  },
+  {
+   "name": "Cao Pi",
+   "native": "曹丕",
+   "roman": "Cáo Pī",
+   "start": 220,
+   "end": 226,
+   "nativeName": "曹丕"
+  }
+ ],
+ "blurbKey": "Q204077__cao-cao"
+}

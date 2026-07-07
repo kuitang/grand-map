@@ -1,0 +1,220 @@
+{
+ "qid": "Q12557",
+ "names": [
+  "Golden Horde"
+ ],
+ "title": "Golden Horde",
+ "variantOf": "Q12557",
+ "endonym": {
+  "native": "اولوغ اولوس",
+  "roman": "Ulug Ulus"
+ },
+ "capsule": "By 1294, the Golden Horde — the Ulus of Jochi, descended from Chinggis Khan's eldest son — had long functioned as a fully independent khanate ruling the Pontic-Caspian steppe, the Rus' principalities and Volga Bulgaria from its capital at Sarai on the lower Volga, no longer answering to the Great Khan enthroned in China. Its power peaked under Öz Beg Khan (1312-1341), who adopted Islam as the state religion and granted Ivan I of Moscow the title of grand prince in exchange for collecting Rus' tribute, but internal strife after 1359 and Timur's devastating raids of the 1390s broke its unity. A shrunken 'Great Horde' persisted as a rump state contested by Moscow, Crimea and Lithuania until Crimean forces sacked Sarai in 1502; its last khan, Sheikh Ahmed, spent most of his remaining years in Lithuanian captivity, and the Crimean Khanate inherited the Golden Horde's claim to primacy among the Genghisid successor states.",
+ "citations": [
+  {
+   "label": "Wikipedia: Golden Horde",
+   "url": "https://en.wikipedia.org/wiki/Golden_Horde"
+  },
+  {
+   "label": "Britannica: Golden Horde",
+   "url": "https://www.britannica.com/place/Golden-Horde"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases (Times Atlas of World History; Kinder & Hilgemann; Shepherd 1926) at ~0.07° resolution. Steppe empires governed peoples more than lines; outer limits are campaign reaches, not borders. Confidence: low at the margins, by the nature of the polity. Capsule researched for this polity/era specifically (confidence: high).",
+ "rulers": [
+  {
+   "name": "Toqta",
+   "native": "Toqta",
+   "roman": "Toqta",
+   "start": 1291,
+   "end": 1312,
+   "nativeName": "Toqta"
+  },
+  {
+   "name": "Muhammad Uzbeg Khan",
+   "native": "Özbeg Khan",
+   "roman": "Uzbeg Khan",
+   "start": 1313,
+   "end": 1341,
+   "nativeName": "Özbeg Khan"
+  },
+  {
+   "name": "Tini Beg",
+   "native": "Tini Beg",
+   "roman": "Tini Beg",
+   "start": 1341,
+   "end": 1342,
+   "nativeName": "Tini Beg"
+  },
+  {
+   "name": "Jani Beg",
+   "native": "Jani Beg",
+   "roman": "Jani Beg",
+   "start": 1342,
+   "end": 1357,
+   "nativeName": "Jani Beg"
+  },
+  {
+   "name": "Berdi Beg",
+   "native": "Berdi Beg",
+   "roman": "Berdi Beg",
+   "start": 1357,
+   "end": 1359,
+   "nativeName": "Berdi Beg"
+  },
+  {
+   "name": "Qulpa",
+   "native": "Qulpa",
+   "roman": "Qulpa",
+   "start": 1359,
+   "end": 1360,
+   "nativeName": "Qulpa"
+  },
+  {
+   "name": "Nawruz Beg",
+   "native": "Nawruz Beg",
+   "roman": "Nawruz Beg",
+   "start": 1360,
+   "end": 1360,
+   "nativeName": "Nawruz Beg"
+  },
+  {
+   "name": "Khidr Khan",
+   "native": "Khidr Khan",
+   "roman": "Khidr Khan",
+   "start": 1360,
+   "end": 1361,
+   "nativeName": "Khidr Khan"
+  },
+  {
+   "name": "Timur Khwaja",
+   "native": "Timur Khwaja",
+   "roman": "Timur Khwaja",
+   "start": 1361,
+   "end": 1361,
+   "nativeName": "Timur Khwaja"
+  },
+  {
+   "name": "Ordu Malik",
+   "native": "Ordu Malik",
+   "roman": "Ordu Malik",
+   "start": 1361,
+   "end": 1361,
+   "nativeName": "Ordu Malik"
+  },
+  {
+   "name": "Kildi Beg",
+   "native": "Kildi Beg",
+   "roman": "Kildi Beg",
+   "start": 1361,
+   "end": 1362,
+   "nativeName": "Kildi Beg"
+  },
+  {
+   "name": "Tokhtamysh",
+   "native": "Tokhtamysh",
+   "roman": "Tokhtamysh",
+   "start": 1380,
+   "end": 1395,
+   "nativeName": "Tokhtamysh"
+  },
+  {
+   "name": "Timur Qutluq",
+   "native": "Timur Qutluq",
+   "roman": "Timur Qutluq",
+   "start": 1397,
+   "end": 1399,
+   "nativeName": "Timur Qutluq"
+  },
+  {
+   "name": "Shadi Beg",
+   "native": "Shadi Beg",
+   "roman": "Shadi Beg",
+   "start": 1399,
+   "end": 1407,
+   "nativeName": "Shadi Beg"
+  },
+  {
+   "name": "Pulad Khan",
+   "native": "Pulad Khan",
+   "roman": "Pulad Khan",
+   "start": 1407,
+   "end": 1410,
+   "nativeName": "Pulad Khan"
+  },
+  {
+   "name": "Jalal ad-Din Khan",
+   "native": "Jalal ad-Din",
+   "roman": "Jalal ad-Din",
+   "start": 1411,
+   "end": 1412,
+   "nativeName": "Jalal ad-Din"
+  },
+  {
+   "name": "Karim Berdi",
+   "native": "Karim Berdi",
+   "roman": "Karim Berdi",
+   "start": 1412,
+   "end": 1414,
+   "nativeName": "Karim Berdi"
+  },
+  {
+   "name": "Jabbar Berdi",
+   "native": "Jabbar Berdi",
+   "roman": "Jabbar Berdi",
+   "start": 1414,
+   "end": 1417,
+   "nativeName": "Jabbar Berdi"
+  },
+  {
+   "name": "Darwish Khan",
+   "native": "Darwish Khan",
+   "roman": "Darwish Khan",
+   "start": 1417,
+   "end": 1419,
+   "nativeName": "Darwish Khan"
+  },
+  {
+   "name": "Ulugh Muhammad",
+   "native": "Ulugh Muhammad",
+   "roman": "Ulugh Muhammad",
+   "start": 1419,
+   "end": 1436,
+   "nativeName": "Ulugh Muhammad"
+  },
+  {
+   "name": "Kuchuk Muhammad",
+   "native": "Kuchuk Muhammad",
+   "roman": "Kuchuk Muhammad",
+   "start": 1433,
+   "end": 1459,
+   "nativeName": "Kuchuk Muhammad"
+  },
+  {
+   "name": "Mahmud Khan",
+   "native": "Mahmud Khan",
+   "roman": "Mahmud Khan",
+   "start": 1459,
+   "end": 1465,
+   "nativeName": "Mahmud Khan"
+  },
+  {
+   "name": "Ahmad Khan",
+   "native": "Ahmad Khan",
+   "roman": "Ahmad Khan",
+   "start": 1465,
+   "end": 1481,
+   "nativeName": "Ahmad Khan"
+  },
+  {
+   "name": "Shaykh Ahmad",
+   "native": "Shaykh Ahmad",
+   "roman": "Shaykh Ahmad",
+   "start": 1481,
+   "end": 1502,
+   "nativeName": "Shaykh Ahmad"
+  }
+ ],
+ "blurbKey": "Q12557__golden-horde"
+}

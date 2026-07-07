@@ -1,0 +1,28 @@
+{
+ "qid": "Q171150",
+ "names": [
+  "Hungarian Nationalists"
+ ],
+ "title": "Hungarian Nationalists",
+ "variantOf": "Q171150",
+ "endonym": {
+  "native": "Magyar Királyság",
+  "roman": "Magyar Királyság",
+  "lang": "hu"
+ },
+ "capsule": "\"Hungarian Nationalists\" is a composite label for currents of Hungarian national aspiration rather than a single government: it spans the 1848–49 Revolution, when Lajos Kossuth's Diet declared full independence from Habsburg rule before Russian intervention crushed the effort at Világos in August 1849, through the later drives for autonomy realized in the 1867 Compromise and interwar irredentism, and on to the 1956 Uprising against Soviet-backed rule, whose reprisals under the restored Kádár government continued into the late 1950s. It corresponds to no single dynasty or ruler line but to a recurring political movement across a century of Hungarian history.",
+ "citations": [
+  {
+   "label": "Hungarian Revolution of 1848 - Britannica",
+   "url": "https://www.britannica.com/event/Hungarian-Revolution-of-1848"
+  },
+  {
+   "label": "Hungarian Revolution of 1956 - Britannica",
+   "url": "https://www.britannica.com/event/Hungarian-Revolution-of-1956"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases (Times Atlas of World History; Kinder & Hilgemann; Shepherd 1926) at ~0.07° resolution. The Carpathian frame makes Hungary's extent unusually stable and well attested. Confidence: high. Capsule researched for this polity/era specifically (confidence: medium).",
+ "wikipedia": "Kingdom of Hungary",
+ "blurbKey": "Q171150__hungarian-nationalists"
+}

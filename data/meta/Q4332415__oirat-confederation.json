@@ -1,0 +1,67 @@
+{
+ "qid": "Q4332415",
+ "names": [
+  "Oirat Confederation"
+ ],
+ "title": "Oirat Confederation",
+ "variantOf": "Q4332415",
+ "endonym": {
+  "native": "Дөрвөн Ойрадын эвсэл",
+  "roman": "Dörvön Oiradyn evsel"
+ },
+ "capsule": "In this later 1619–1677 window, the confederation's center of gravity shifted to the Choros-led Dzungars: Khara Khula (d. 1634) united the Choros, Dörbet and Khoit against the Khalkha, his son Erdeni Batur founded the Dzungar Khanate around 1634, and after Sengge's 1670 assassination his brother Galdan defeated the rival Khoshut leader Ochirtu Khan in 1677 to establish Dzungar hegemony over the Oirats.",
+ "citations": [
+  {
+   "label": "Oirat Confederation – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Oirat_Confederation"
+  },
+  {
+   "label": "Dzungar Khanate – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dzungar_Khanate"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Four Oirat territorial extent is largely conjectural steppe geography, reconstructed from Ming shilu records and Mongol chronicle sources; boundaries with the Northern Yuan and Ming frontier zones are approximate. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Oirat Confederation",
+ "rulers": [
+  {
+   "name": "Khara Khula",
+   "roman": "Khara Khula",
+   "start": 1606,
+   "end": 1634,
+   "nativeName": null
+  },
+  {
+   "name": "Erdeni Batur (Erdeni Baatur Khung Tayiji)",
+   "roman": "Erdeni Batur",
+   "start": 1634,
+   "end": 1653,
+   "nativeName": null
+  },
+  {
+   "name": "Sengge",
+   "start": 1653,
+   "end": 1670,
+   "nativeName": null,
+   "roman": ""
+  },
+  {
+   "name": "Galdan Boshugtu Khan",
+   "roman": "Galdan Boshugtu Khan",
+   "start": 1670,
+   "end": 1697,
+   "nativeName": null
+  }
+ ],
+ "blurbKey": "Q4332415__oirat-confederation"
+}

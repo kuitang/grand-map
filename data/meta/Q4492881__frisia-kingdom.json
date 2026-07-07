@@ -1,0 +1,61 @@
+{
+ "qid": "Q4492881",
+ "names": [
+  "Frisia Kingdom"
+ ],
+ "title": "Frisia Kingdom",
+ "variantOf": "Q4492881",
+ "endonym": {
+  "native": "Frisia",
+  "roman": "Frisia"
+ },
+ "capsule": "The Frisian Kingdom, or Magna Frisia, was a pagan Germanic realm controlling the North Sea coast from roughly the Scheldt to the Weser during the seventh and early eighth centuries, its center of power at Utrecht and its trading emporium at Dorestad on the Rhine. Under kings Aldgisl (fl. 678) and his likely son Redbad (r. c. 680-719), the Frisians resisted Frankish expansion for decades; Redbad even raided Frankish territory as far as Cologne in 716 after allying with the Neustrian mayor Ragenfrid. The kingdom's independence effectively ended in 719, when Charles Martel, following Redbad's death, seized West Frisia with little resistance, though full conquest was completed only at the Battle of the Boarn in 734.",
+ "citations": [
+  {
+   "label": "Frisian Kingdom - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Frisian_Kingdom"
+  },
+  {
+   "label": "Redbad - World History Encyclopedia",
+   "url": "https://www.worldhistory.org/Redbad/"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The Frisian kingdom's political core is attested in Frankish chronicles and hagiographic sources, but its territorial extent is poorly defined; archaeological evidence suggests the 'kingdom' comprised several loosely associated petty chieftaincies rather than a unified polity. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Frisia",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Aldgisl",
+   "nativeName": "Aldgisl",
+   "roman": "Aldgisl",
+   "start": 670,
+   "end": 680,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Redbad (Radbod)",
+   "nativeName": "Redbad",
+   "roman": "Redbad",
+   "start": 680,
+   "end": 719,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q4492881__frisia-kingdom"
+}

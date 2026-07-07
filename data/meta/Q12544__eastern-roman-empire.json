@@ -1,0 +1,223 @@
+{
+ "qid": "Q12544",
+ "names": [
+  "Eastern Roman Empire"
+ ],
+ "title": "Eastern Roman Empire",
+ "variantOf": "Q12544",
+ "endonym": {
+  "native": "Βασιλεία Ῥωμαίων",
+  "roman": "Basileía Rhōmaíōn"
+ },
+ "capsule": "After Theodosius I's death in 395 formalized the division of the Roman Empire, its eastern half persisted as a distinct Greek-speaking state governed from Constantinople, retaining Roman law and administration and often taking the initiative against Sasanian Persia. Under Justinian I (527-565) it codified Roman law in the Corpus Juris Civilis and briefly reconquered North Africa, Italy, and part of Spain, while enduring plague, riots, and prolonged wars with Persia. By 633, on the eve of the Arab conquests, the empire had just emerged from Herakleios's exhausting victory over Sasanian Persia (628), its treasury and armies severely depleted.",
+ "citations": [
+  {
+   "label": "Britannica, \"Byzantine Empire\"",
+   "url": "https://www.britannica.com/place/Byzantine-Empire"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases (Times Atlas of World History; Kinder & Hilgemann; Shepherd 1926) at ~0.07° resolution. Core Anatolian/Balkan extents are well attested in Byzantine administrative sources (themes); frontier zones in eastern Anatolia and the Balkans fluctuated faster than the snapshot record. Confidence: high for cores, moderate for frontiers. Capsule researched for this polity/era specifically (confidence: high).",
+ "wikipedia": "Byzantine Empire",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Arcadius",
+   "nativeName": "Flavius Arcadius",
+   "roman": "Flavius Arcadius",
+   "start": 395,
+   "end": 408,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Theodosius II",
+   "nativeName": "Flavius Theodosius",
+   "roman": "Flavius Theodosius",
+   "start": 408,
+   "end": 450,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Marcian",
+   "nativeName": "Flavius Marcianus",
+   "roman": "Flavius Marcianus",
+   "start": 450,
+   "end": 457,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Leo I",
+   "nativeName": "Flavius Valerius Leo",
+   "roman": "Flavius Valerius Leo",
+   "start": 457,
+   "end": 474,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Leo II",
+   "nativeName": "Flavius Leo iunior",
+   "roman": "Flavius Leo iunior",
+   "start": 474,
+   "end": 474,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Zeno",
+   "nativeName": "Flavius Zeno",
+   "roman": "Flavius Zeno",
+   "start": 474,
+   "end": 491,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Basiliscus",
+   "nativeName": "Flavius Basiliscus",
+   "roman": "Flavius Basiliscus",
+   "start": 475,
+   "end": 476,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Anastasius I",
+   "nativeName": "Flavius Anastasius",
+   "roman": "Flavius Anastasius",
+   "start": 491,
+   "end": 518,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Justin I",
+   "nativeName": "Flavius Iustinus",
+   "roman": "Flavius Iustinus",
+   "start": 518,
+   "end": 527,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Justinian I",
+   "nativeName": "Flavius Petrus Sabbatius Iustinianus",
+   "roman": "Flavius Petrus Sabbatius Iustinianus",
+   "start": 527,
+   "end": 565,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Justin II",
+   "nativeName": "Flavius Iustinus iunior",
+   "roman": "Flavius Iustinus iunior",
+   "start": 565,
+   "end": 578,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Tiberius II Constantine",
+   "nativeName": "Flavius Tiberius Constantinus",
+   "roman": "Flavius Tiberius Constantinus",
+   "start": 578,
+   "end": 582,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Maurice",
+   "nativeName": "Flavius Mauricius Tiberius",
+   "roman": "Flavius Mauricius Tiberius",
+   "start": 582,
+   "end": 602,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Phocas",
+   "nativeName": "Flavius Phocas",
+   "roman": "Flavius Phocas",
+   "start": 602,
+   "end": 610,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Heraclius",
+   "nativeName": "Ἡράκλειος",
+   "roman": "Hērákleios",
+   "start": 610,
+   "end": 641,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Constantine III",
+   "nativeName": "Κωνσταντῖνος Γʹ",
+   "roman": "Kōnstantînos III",
+   "start": 641,
+   "end": 641,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Heraklonas",
+   "nativeName": "Ἡρακλωνᾶς",
+   "roman": "Hēraklōnâs",
+   "start": 641,
+   "end": 641,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Constans II",
+   "nativeName": "Κώνστας Βʹ",
+   "roman": "Kṓnstas II",
+   "start": 641,
+   "end": 668,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q12544__eastern-roman-empire"
+}

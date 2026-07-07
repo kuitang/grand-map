@@ -1,0 +1,50 @@
+{
+ "qid": "Q5349053",
+ "names": [
+  "Liaodong"
+ ],
+ "title": "Liaodong",
+ "variantOf": "Q5349053",
+ "endonym": {
+  "native": "遼東",
+  "roman": "Liáodōng"
+ },
+ "capsule": "Liaodong (遼東) was one of the Eighteen Kingdoms Xiang Yu created in 206 BCE from the former state of Yan, assigned to Han Guang — the deposed King of Yan — as a territory in southern Liaoning centred on the old commandery seat of Xiangping (modern Liaoyang). Han Guang, resentful of his demotion, refused to relocate and remained at Wuzhong, where his own former general Zang Tu — who had been made King of Yan proper — attacked and killed him within a year of the settlement (206–205 BCE), annexing Liaodong into a reunified Yan. Liaodong's independent existence therefore lasted only about a year.",
+ "citations": [
+  {
+   "label": "Eighteen Kingdoms - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Eighteen_Kingdoms"
+  },
+  {
+   "label": "Zang Tu - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Zang_Tu"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The political divisions are documented in Sima Qian's Shiji and Ban Gu's Hanshu, but the precise territories assigned to each king are reconstructed from textual sources alone; archaeological demarcation of boundaries is largely impossible. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Eighteen Kingdoms",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Xiang Yu, Hegemon-King (overlord of the Eighteen Kingdoms)",
+   "nativeName": "西楚霸王項羽",
+   "roman": "Xī Chǔ Bàwáng Xiàng Yǔ",
+   "start": -206,
+   "end": -203,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q5349053__liaodong"
+}

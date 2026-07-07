@@ -1,0 +1,435 @@
+{
+ "qid": "Q1661685",
+ "names": [
+  "Sasanian Empire"
+ ],
+ "title": "Sasanian Empire",
+ "variantOf": "Q1661685",
+ "endonym": {
+  "native": "𐭠𐭩𐭥𐭠𐭭𐭱𐭲𐭥𐭩",
+  "roman": "Ērānšahr"
+ },
+ "capsule": "Founded when Ardashir I overthrew the last Parthian king Artabanus IV and was crowned in 224 CE, the Sasanian Empire became Rome's great eastern rival, reaching its territorial and cultural height under Shapur I, Khosrow I, and Khosrow II. Zoroastrianism was elevated as state religion, and the empire's bureaucracy, law, and court culture profoundly shaped the later Islamic world. Exhausted by decades of war with Byzantium, it collapsed under the Arab Muslim conquests of the 630s-640s, with the last shah, Yazdegerd III, reduced to a fugitive after the decisive Battle of Nahavand (642).",
+ "citations": [
+  {
+   "label": "Wikipedia, \"Sasanian Empire\"",
+   "url": "https://en.wikipedia.org/wiki/Sasanian_Empire"
+  },
+  {
+   "label": "Britannica, \"Sasanian dynasty\"",
+   "url": "https://www.britannica.com/topic/Sasanian-dynasty"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Territorial extent is reconstructed primarily from numismatic evidence (coin hoards and mint distributions) and limited textual sources; the boundaries shown are approximate and scholarly opinion varies on the extent of direct Kushano-Sasanian control versus Kidarite encroachment. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Sasanian Empire",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Ardashir I",
+   "nativeName": "𐭠𐭥𐭲𐭧𐭱𐭲𐭥",
+   "roman": "Ardašīr I",
+   "start": 224,
+   "end": 242,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Shapur I",
+   "nativeName": "𐭱𐭧𐭯𐭥𐭧𐭥𐭩",
+   "roman": "Šābuhr I",
+   "start": 240,
+   "end": 270,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Hormizd I",
+   "nativeName": "𐭠𐭥𐭧𐭬𐭦𐭣",
+   "roman": "Ōhrmazd I",
+   "start": 270,
+   "end": 271,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Bahram I",
+   "nativeName": "𐭥𐭫𐭧𐭫𐭠𐭭",
+   "roman": "Wahrām I",
+   "start": 271,
+   "end": 274,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Bahram II",
+   "nativeName": "𐭥𐭫𐭧𐭫𐭠𐭭",
+   "roman": "Wahrām II",
+   "start": 274,
+   "end": 293,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Bahram III",
+   "nativeName": "𐭥𐭫𐭧𐭫𐭠𐭭",
+   "roman": "Wahrām III",
+   "start": 293,
+   "end": 293,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Narseh",
+   "nativeName": "𐭭𐭥𐭎𐭧𐭩",
+   "roman": "Narseh",
+   "start": 293,
+   "end": 302,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Hormizd II",
+   "nativeName": "𐭠𐭥𐭧𐭬𐭦𐭣",
+   "roman": "Ōhrmazd II",
+   "start": 302,
+   "end": 309,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Adur Narseh",
+   "nativeName": "𐭠𐭣𐭥𐭭𐭥𐭎𐭧𐭩",
+   "roman": "Ādur Narseh",
+   "start": 309,
+   "end": 309,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Shapur II",
+   "nativeName": "𐭱𐭧𐭯𐭥𐭧𐭥𐭩",
+   "roman": "Šābuhr II",
+   "start": 309,
+   "end": 379,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ardashir II",
+   "nativeName": "𐭠𐭥𐭲𐭧𐭱𐭲𐭥",
+   "roman": "Ardašīr II",
+   "start": 379,
+   "end": 383,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Shapur III",
+   "nativeName": "𐭱𐭧𐭯𐭥𐭧𐭥𐭩",
+   "roman": "Šābuhr III",
+   "start": 383,
+   "end": 388,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Bahram IV",
+   "nativeName": "𐭥𐭫𐭧𐭫𐭠𐭭",
+   "roman": "Wahrām IV",
+   "start": 388,
+   "end": 399,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Yazdegerd I",
+   "nativeName": "𐭩𐭦𐭣𐭪𐭥𐭲𐭩",
+   "roman": "Yazdegird I",
+   "start": 399,
+   "end": 420,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Bahram V",
+   "nativeName": "𐭥𐭫𐭧𐭫𐭠𐭭",
+   "roman": "Wahrām V (Gōr)",
+   "start": 420,
+   "end": 438,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Yazdegerd II",
+   "nativeName": "𐭩𐭦𐭣𐭪𐭥𐭲𐭩",
+   "roman": "Yazdegird II",
+   "start": 438,
+   "end": 457,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Hormizd III",
+   "nativeName": "𐭠𐭥𐭧𐭬𐭦𐭣",
+   "roman": "Ōhrmazd III",
+   "start": 457,
+   "end": 459,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Peroz I",
+   "nativeName": "𐭯𐭩𐭫𐭥𐭰",
+   "roman": "Pērōz I",
+   "start": 459,
+   "end": 484,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Balash",
+   "nativeName": "𐭥𐭫𐭢𐭱",
+   "roman": "Walāxš",
+   "start": 484,
+   "end": 488,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Kavad I",
+   "nativeName": "𐭪𐭥𐭠𐭲",
+   "roman": "Kawād I",
+   "start": 488,
+   "end": 496,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Jamasp",
+   "nativeName": "𐭦𐭠𐭬𐭠𐭎𐭯",
+   "roman": "Zāmāsp",
+   "start": 496,
+   "end": 498,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Kavad I (restored)",
+   "nativeName": "𐭪𐭥𐭠𐭲",
+   "roman": "Kawād I",
+   "start": 498,
+   "end": 531,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Khosrow I",
+   "nativeName": "𐭧𐭥𐭎𐭫𐭥𐭩",
+   "roman": "Husraw I (Anōšagruwān)",
+   "start": 531,
+   "end": 579,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Hormizd IV",
+   "nativeName": "𐭠𐭥𐭧𐭬𐭦𐭣",
+   "roman": "Ōhrmazd IV",
+   "start": 579,
+   "end": 590,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Bahram VI Chobin",
+   "nativeName": "𐭥𐭫𐭧𐭫𐭠𐭭",
+   "roman": "Wahrām VI Čōbīn",
+   "start": 590,
+   "end": 591,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Khosrow II",
+   "nativeName": "𐭧𐭥𐭎𐭫𐭥𐭩",
+   "roman": "Husraw II (Aparwēz)",
+   "start": 590,
+   "end": 628,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Kavad II",
+   "nativeName": "𐭪𐭥𐭠𐭲",
+   "roman": "Kawād II (Šērōy)",
+   "start": 628,
+   "end": 628,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ardashir III",
+   "nativeName": "𐭠𐭥𐭲𐭧𐭱𐭲𐭥",
+   "roman": "Ardašīr III",
+   "start": 628,
+   "end": 630,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Shahrbaraz",
+   "nativeName": "𐭱𐭧𐭫𐭥𐭫𐭠𐭰",
+   "roman": "Šahrwarāz",
+   "start": 630,
+   "end": 630,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Khosrow III",
+   "nativeName": "𐭧𐭥𐭎𐭫𐭥𐭩",
+   "roman": "Husraw III",
+   "start": 630,
+   "end": 630,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Boran",
+   "nativeName": "𐭡𐭥𐭫𐭠𐭭",
+   "roman": "Bōrān",
+   "start": 630,
+   "end": 631,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Shapur-i Shahrvaraz",
+   "nativeName": "𐭱𐭧𐭯𐭥𐭧𐭥𐭩",
+   "roman": "Šābuhr ī Šahrwarāz",
+   "start": 630,
+   "end": 630,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Azarmidokht",
+   "nativeName": "𐭠𐭰𐭫𐭬𐭩𐭣𐭥𐭧𐭲",
+   "roman": "Āzarmīgduxt",
+   "start": 631,
+   "end": 631,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Hormizd VI",
+   "nativeName": "𐭠𐭥𐭧𐭬𐭦𐭣",
+   "roman": "Ōhrmazd VI",
+   "start": 631,
+   "end": 632,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Khosrow IV",
+   "nativeName": "𐭧𐭥𐭎𐭫𐭥𐭩",
+   "roman": "Husraw IV",
+   "start": 631,
+   "end": 633,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Yazdegerd III",
+   "nativeName": "𐭩𐭦𐭣𐭪𐭥𐭲𐭩",
+   "roman": "Yazdegird III",
+   "start": 632,
+   "end": 651,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q1661685__sasanian-empire"
+}

@@ -1,0 +1,354 @@
+{
+ "qid": "Q6201794",
+ "names": [
+  "Jin"
+ ],
+ "title": "Jin",
+ "variantOf": "Q6201794",
+ "endonym": {
+  "native": "晉",
+  "roman": "Jìn"
+ },
+ "capsule": "The state of Jin (晉) was among the most powerful Zhou-era polities, holding the middle Yellow River basin in modern Shanxi and Henan from its traditional 11th-century BCE founding for the Zhou prince Tang Shuyu. Jin dominated Spring and Autumn diplomacy for two centuries, its dukes repeatedly serving as hegemon, until power drained away to the ministerial Han, Zhao, and Wei clans. Their formal partition of Jin's territory in 403 BCE created the Three Jins, marking the conventional start of the Warring States period.",
+ "citations": [
+  {
+   "label": "Jin (Chinese state) – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jin_(Chinese_state)"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Core territorial extent is reasonably attested through Zuozhuan and Shiji records, though exact border demarcations at any given year are scholarly reconstructions. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Jin (Chinese state)",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Wen Hou",
+   "nativeName": "文侯",
+   "roman": "Wén Hóu",
+   "start": -781,
+   "end": -746,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Zhao Hou",
+   "nativeName": "昭侯",
+   "roman": "Zhāo Hóu",
+   "start": -745,
+   "end": -740,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Xiao Hou",
+   "nativeName": "孝侯",
+   "roman": "Xiào Hóu",
+   "start": -739,
+   "end": -724,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "E Hou",
+   "nativeName": "鄂侯",
+   "roman": "È Hóu",
+   "start": -724,
+   "end": -718,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ai Hou",
+   "nativeName": "哀侯",
+   "roman": "Āi Hóu",
+   "start": -718,
+   "end": -709,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Xiao Zi",
+   "nativeName": "小子侯",
+   "roman": "Xiǎo Zǐ Hóu",
+   "start": -709,
+   "end": -706,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Min Hou (Wu)",
+   "nativeName": "晋侯缗",
+   "roman": "Mǐn Hóu",
+   "start": -705,
+   "end": -679,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Duke Wu of Jin",
+   "nativeName": "晋武公",
+   "roman": "Jìn Wǔ Gōng",
+   "start": -679,
+   "end": -677,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Duke Xian of Jin",
+   "nativeName": "晋献公",
+   "roman": "Jìn Xiàn Gōng",
+   "start": -677,
+   "end": -651,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Xiqi",
+   "nativeName": "奚齐",
+   "roman": "Xī Qí",
+   "start": -651,
+   "end": -650,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Zhuozi",
+   "nativeName": "卓子",
+   "roman": "Zhuō Zǐ",
+   "start": -650,
+   "end": -650,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Duke Hui of Jin",
+   "nativeName": "晋惠公",
+   "roman": "Jìn Huì Gōng",
+   "start": -650,
+   "end": -637,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Duke Huai of Jin",
+   "nativeName": "晋怀公",
+   "roman": "Jìn Huái Gōng",
+   "start": -637,
+   "end": -636,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Duke Wen of Jin",
+   "nativeName": "晋文公",
+   "roman": "Jìn Wén Gōng",
+   "start": -636,
+   "end": -628,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Duke Xiang of Jin",
+   "nativeName": "晋襄公",
+   "roman": "Jìn Xiāng Gōng",
+   "start": -628,
+   "end": -621,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Duke Ling of Jin",
+   "nativeName": "晋灵公",
+   "roman": "Jìn Líng Gōng",
+   "start": -621,
+   "end": -607,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Duke Cheng of Jin",
+   "nativeName": "晋成公",
+   "roman": "Jìn Chéng Gōng",
+   "start": -607,
+   "end": -600,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Duke Jing of Jin",
+   "nativeName": "晋景公",
+   "roman": "Jìn Jǐng Gōng",
+   "start": -600,
+   "end": -581,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Duke Li of Jin",
+   "nativeName": "晋厉公",
+   "roman": "Jìn Lì Gōng",
+   "start": -581,
+   "end": -573,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Duke Dao of Jin",
+   "nativeName": "晋悼公",
+   "roman": "Jìn Dào Gōng",
+   "start": -573,
+   "end": -558,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Duke Ping of Jin",
+   "nativeName": "晋平公",
+   "roman": "Jìn Píng Gōng",
+   "start": -558,
+   "end": -532,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Duke Zhao of Jin",
+   "nativeName": "晋昭公",
+   "roman": "Jìn Zhāo Gōng",
+   "start": -532,
+   "end": -526,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Duke Qing of Jin",
+   "nativeName": "晋顷公",
+   "roman": "Jìn Qǐng Gōng",
+   "start": -526,
+   "end": -512,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Duke Ding of Jin",
+   "nativeName": "晋定公",
+   "roman": "Jìn Dìng Gōng",
+   "start": -512,
+   "end": -476,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Duke Chu of Jin",
+   "nativeName": "晋出公",
+   "roman": "Jìn Chū Gōng",
+   "start": -475,
+   "end": -452,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Duke Ai of Jin",
+   "nativeName": "晋哀公",
+   "roman": "Jìn Āi Gōng",
+   "start": -452,
+   "end": -434,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Duke You of Jin",
+   "nativeName": "晋幽公",
+   "roman": "Jìn Yōu Gōng",
+   "start": -434,
+   "end": -416,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Duke Lie of Jin",
+   "nativeName": "晋烈公",
+   "roman": "Jìn Liè Gōng",
+   "start": -416,
+   "end": -389,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Duke Xiao of Jin",
+   "nativeName": "晋孝公",
+   "roman": "Jìn Xiào Gōng",
+   "start": -389,
+   "end": -369,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q6201794__jin"
+}

@@ -1,0 +1,68 @@
+{
+ "qid": "Q350186",
+ "names": [
+  "Denmark"
+ ],
+ "title": "Denmark",
+ "variantOf": "Q350186",
+ "endonym": {
+  "native": "Danmark",
+  "roman": "Danmark"
+ },
+ "capsule": "In this modern window the Kingdom of Denmark emerged from Nazi occupation in 1945 under Christian X, adopted the 1953 constitution enabling female succession, and has since been ruled by Frederik IX (1947–1972), Margrethe II (1972–2024) — who abdicated after 52 years, the first Danish sovereign to do so voluntarily in nearly 900 years — and Frederik X (since January 2024), while Denmark became a founding NATO member in 1949 and joined the European Communities (later the EU) in 1973.",
+ "citations": [
+  {
+   "label": "Monarchy of Denmark – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Monarchy_of_Denmark"
+  },
+  {
+   "label": "Frederik X – Britannica",
+   "url": "https://www.britannica.com/biography/Frederik-X"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Post-1920 boundaries are based on treaty, plebiscite, and formal cartographic records and are well-attested; the 1945 start in this dataset represents the re-emergence of the unoccupied state's full sovereignty and is unambiguous. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Christopher II of Denmark",
+ "rulers": [
+  {
+   "name": "Christian X",
+   "native": "Christian 10.",
+   "roman": "Christian X",
+   "start": 1912,
+   "end": 1947,
+   "nativeName": "Christian 10."
+  },
+  {
+   "name": "Frederik IX",
+   "start": 1947,
+   "end": 1972,
+   "nativeName": null,
+   "roman": ""
+  },
+  {
+   "name": "Margrethe II",
+   "start": 1972,
+   "end": 2024,
+   "nativeName": null,
+   "roman": ""
+  },
+  {
+   "name": "Frederik X",
+   "start": 2024,
+   "nativeName": null,
+   "roman": "",
+   "end": null
+  }
+ ],
+ "blurbKey": "Q350186__denmark"
+}

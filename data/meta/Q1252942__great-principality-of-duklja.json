@@ -1,0 +1,46 @@
+{
+ "qid": "Q1252942",
+ "names": [
+  "Great Principality of Duklja"
+ ],
+ "title": "Great Principality of Duklja",
+ "variantOf": "Q1252942",
+ "endonym": {
+  "native": "Дукља",
+  "roman": "Duklja"
+ },
+ "capsule": "Duklja (Latin: Dioclea), a South Slavic principality centered on the Montenegrin coast around Kotor and Bar, threw off Byzantine overlordship under Prince Stefan Vojislav, who destroyed a Byzantine punitive expedition in the mountain passes near Bar in 1042. His son Michael (Mihailo) Vojislavljević, sole ruler from about 1046, extended his authority over neighboring Travunia and parts of Zahumlje and Raška, and his growing regional stature was capped in 1077 by papal recognition of his royal title, elevating Duklja from a principality to a kingdom.",
+ "citations": [
+  {
+   "label": "Duklja - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Duklja"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The core coastal territory of Duklja is identified through Byzantine and papal sources, but the extent of its inland dominion over Rascia and Bosnia is only approximately attested and varied considerably over time. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Duklja",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Michael I of Duklja",
+   "nativeName": "Михаило Војислављевић",
+   "roman": "Mihailo Vojislavljević",
+   "start": 1046,
+   "end": 1081,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q1252942__great-principality-of-duklja"
+}

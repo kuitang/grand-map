@@ -1,0 +1,235 @@
+{
+ "qid": "Q222",
+ "names": [
+  "Republic of Albania"
+ ],
+ "title": "Republic of Albania",
+ "variantOf": "Q222",
+ "endonym": {
+  "native": "Republika e Shqipërisë",
+  "roman": "Republika e Shqipërisë"
+ },
+ "capsule": "After four decades of Hoxha-era communist rule, mass protests forced the ruling party to legalize opposition in December 1990, and the 1991 elections followed by the 1998 constitution established the pluralist Republic of Albania. The country weathered the 1997 collapse of pyramid investment schemes that brought it to the brink of civil war, joined NATO in 2009, and became a European Union candidate in 2014, opening formal accession negotiations in 2022.",
+ "citations": [
+  {
+   "label": "Britannica: Albania",
+   "url": "https://www.britannica.com/place/Albania"
+  },
+  {
+   "label": "Wikipedia: Albania",
+   "url": "https://en.wikipedia.org/wiki/Albania"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Albania's borders from 1912 onward are well attested through treaty records (London 1913, post-WWI settlements), though the precise delimitation shifted considerably in 1913–1921 and remains contested at the edges. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Albania",
+ "rulers": [
+  {
+   "qid": "Q212666",
+   "name": "Haxhi Lleshi",
+   "start": 1953,
+   "end": 1982,
+   "image": "Haxhi Lleshi 1943.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Haxhi%20Lleshi%201943.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q172213",
+   "name": "Mehmet Shehu",
+   "start": 1954,
+   "end": 1981,
+   "image": "Mehmet Shehu (ushtarak).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mehmet%20Shehu%20(ushtarak).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q357219",
+   "name": "Adil Çarçani",
+   "start": 1981,
+   "end": 1991,
+   "image": null
+  },
+  {
+   "qid": "Q779674",
+   "name": "Ylli Bufi",
+   "start": 1991,
+   "end": 1991,
+   "image": null
+  },
+  {
+   "qid": "Q156833",
+   "name": "Ramiz Alia",
+   "start": 1991,
+   "end": 1992,
+   "image": "Ramiz Alia (portret).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ramiz%20Alia%20(portret).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Albanian State",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q809978",
+   "name": "Bashkim Fino",
+   "start": 1997,
+   "end": 1997,
+   "image": "Bashkim Fino 2014.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bashkim%20Fino%202014.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "VOA",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q294250",
+   "name": "Rexhep Meidani",
+   "start": 1997,
+   "end": 2002,
+   "image": "Rexhep Meidani.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rexhep%20Meidani.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": null,
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q381214",
+   "name": "Pandeli Majko",
+   "start": 1998,
+   "end": 1999,
+   "image": "Albanian Minister of Defense Pandeli Majko meets with Secretary of Defense Donald H. Rumsfeld, 2005 050202-D-2987S-008.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Albanian%20Minister%20of%20Defense%20Pandeli%20Majko%20meets%20with%20Secretary%20of%20Defense%20Donald%20H.%20Rumsfeld%2C%202005%20050202-D-2987S-008.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Helene C. Stikkel",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q727132",
+   "name": "Ilir Meta",
+   "start": 1999,
+   "end": 2002,
+   "image": "President of Albania Ilir Meta.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/President%20of%20Albania%20Ilir%20Meta.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 4.0",
+    "artist": "Malton Dibra / European Commission",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q311596",
+   "name": "Fatos Nano",
+   "start": 2002,
+   "end": 2005,
+   "image": "Фатос Нано (20-01-2004).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A4%D0%B0%D1%82%D0%BE%D1%81%20%D0%9D%D0%B0%D0%BD%D0%BE%20(20-01-2004).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 4.0",
+    "artist": "Jock Fistick / European Communities",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q190889",
+   "name": "Alfred Moisiu",
+   "start": 2002,
+   "end": 2007,
+   "image": "AlfredMoisiu.png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/AlfredMoisiu.png?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "Borusiewicz_and_Moisiu.jpg: PolishSenate\nderivative work:   eagleal",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q57625",
+   "name": "Sali Berisha",
+   "start": 2005,
+   "end": 2013,
+   "image": "Sali Berisha 2025.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sali%20Berisha%202025.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 2.0",
+    "artist": "European People's Party",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q57300",
+   "name": "Bamir Topi",
+   "start": 2007,
+   "end": 2012,
+   "image": "Bamir Topi 2.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bamir%20Topi%202.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "Lorenza e Vincenzo Iaconianni",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q57526",
+   "name": "Bujar Nishani",
+   "start": 2012,
+   "end": 2017,
+   "image": "Bujar Nishani (03-10-2016).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bujar%20Nishani%20(03-10-2016).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Presidency of Kosovo",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q316901",
+   "name": "Edi Rama",
+   "start": 2013,
+   "end": null,
+   "image": "Edi Rama (2024-02-29).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edi%20Rama%20(2024-02-29).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 4.0",
+    "artist": "Eriona Çami - European Commission",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q107422711",
+   "name": "Bajram Begaj",
+   "start": 2022,
+   "end": null,
+   "image": "Prime Minister Keir Starmer meets Albania President Bajram Begaj (54521430145) (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Prime%20Minister%20Keir%20Starmer%20meets%20Albania%20President%20Bajram%20Begaj%20(54521430145)%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "OGL 3",
+    "artist": "Number 10",
+    "attributionRequired": true
+   }
+  }
+ ],
+ "blurbKey": "Q222__republic-of-albania"
+}

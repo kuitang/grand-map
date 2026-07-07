@@ -1,0 +1,75 @@
+{
+ "qid": "Q274488",
+ "names": [
+  "Eastern Wu"
+ ],
+ "title": "Eastern Wu",
+ "variantOf": "Q274488",
+ "endonym": {
+  "native": "東吳",
+  "roman": "Dōng Wú"
+ },
+ "capsule": "Eastern Wu (東吳) was the southeastern kingdom of China's Three Kingdoms period, built by the Sun family in the lower Yangtze around the capital Jianye (modern Nanjing). Sun Quan, who had governed the region as a warlord since 200 CE, formally proclaimed himself emperor in 229, having already secured the south through victories at Red Cliffs (208, against Cao Cao) and Yiling (222, against Liu Bei's Shu Han). Eastern Wu was the last of the Three Kingdoms to fall, surrendering to the Western Jin dynasty in 280.",
+ "citations": [
+  {
+   "label": "Eastern Wu – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Eastern_Wu"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Wu's core territory in the lower Yangtze is well attested in the Zuozhuan and Shiji; precise boundaries are reconstructed and subject to scholarly debate, particularly regarding northern expansion under Fuchai. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Wu (state)",
+ "rulers": [
+  {
+   "qid": "Q313327",
+   "name": "Sun Quan",
+   "start": 222,
+   "end": 229,
+   "image": "Sun Quan Tang.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sun%20Quan%20Tang.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Yan Liben",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q470034",
+   "name": "Sun Liang",
+   "start": 252,
+   "end": 258,
+   "image": null
+  },
+  {
+   "qid": "Q468767",
+   "name": "Sun Xiu",
+   "start": 257,
+   "end": 264,
+   "image": null
+  },
+  {
+   "qid": "Q470030",
+   "name": "Sun Hao",
+   "start": 264,
+   "end": 280,
+   "image": "Sun Hao Qing portrait.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sun%20Hao%20Qing%20portrait.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown author",
+    "attributionRequired": false
+   }
+  }
+ ],
+ "blurbKey": "Q274488__eastern-wu"
+}

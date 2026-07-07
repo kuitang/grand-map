@@ -1,0 +1,204 @@
+{
+ "qid": "Q12544",
+ "names": [
+  "Nicaean Empire"
+ ],
+ "title": "Nicaean Empire",
+ "variantOf": "Q12544",
+ "endonym": {
+  "native": "Βασιλεία Ῥωμαίων",
+  "roman": "Basileía Rhōmaíōn"
+ },
+ "capsule": "After crusaders sacked Constantinople in 1204, Theodore I Laskaris gathered Byzantine refugees in Bithynia and, from 1208, ruled as emperor from Nicaea, the strongest of the Greek successor states, which also included Epirus and Trebizond. Under Theodore I, John III Vatatzes, and Theodore II Laskaris, Nicaea rebuilt Byzantine institutions, defeated Latin and rival Greek forces, and steadily recovered territory in Anatolia and Europe. In 1261 the forces of Michael VIII Palaiologos, who had risen from regent for the young John IV Laskaris to co-emperor, recaptured Constantinople, ending Nicaea's exile status and restoring the Byzantine imperial seat under a new Palaiologan dynasty.",
+ "citations": [
+  {
+   "label": "Wikipedia, \"Empire of Nicaea\"",
+   "url": "https://en.wikipedia.org/wiki/Empire_of_Nicaea"
+  },
+  {
+   "label": "Britannica, \"Empire of Nicaea\"",
+   "url": "https://www.britannica.com/place/empire-of-Nicaea"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases (Times Atlas of World History; Kinder & Hilgemann; Shepherd 1926) at ~0.07° resolution. Core Anatolian/Balkan extents are well attested in Byzantine administrative sources (themes); frontier zones in eastern Anatolia and the Balkans fluctuated faster than the snapshot record. Confidence: high for cores, moderate for frontiers. Capsule researched for this polity/era specifically (confidence: high).",
+ "rulers": [
+  {
+   "qid": "Q41849",
+   "name": "Alexios II Komnenos",
+   "nativeName": "Ἀλέξιος Βʹ Κομνηνός",
+   "roman": "Aléxios II Komnēnós",
+   "start": 1180,
+   "end": 1183,
+   "image": "Alexios II - komnenos.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexios%20II%20-%20komnenos.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Published by Guillaume Rouille (1518?-1589)",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q41830",
+   "name": "Andronikos I Komnenos",
+   "nativeName": "Ἀνδρόνικος Αʹ Κομνηνός",
+   "roman": "Andrónikos I Komnēnós",
+   "start": 1183,
+   "end": 1185,
+   "image": "143 - Andronikos I Komnenos (Mutinensis - color).png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/143%20-%20Andronikos%20I%20Komnenos%20(Mutinensis%20-%20color).png?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown Byzantine scribes",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q37135",
+   "name": "Isaac II Angelos",
+   "nativeName": "Ἰσαάκιος Βʹ Ἄγγελος",
+   "roman": "Isaákios II Ángelos",
+   "start": 1185,
+   "end": 1195,
+   "image": "IsaacIIAnge.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/IsaacIIAnge.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "PHGCOM",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q37065",
+   "name": "Alexios III Angelos",
+   "nativeName": "Ἀλέξιος Γʹ Ἄγγελος",
+   "roman": "Aléxios III Ángelos",
+   "start": 1195,
+   "end": 1203,
+   "image": "Alexios III.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexios%20III.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "John Zonaras",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": null,
+   "name": "Isaac II Angelos and Alexios IV",
+   "nativeName": "Ἰσαάκιος Βʹ καὶ Ἀλέξιος Δʹ",
+   "roman": "Isaákios II kaì Aléxios IV",
+   "start": 1203,
+   "end": 1204,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": "Q37076",
+   "name": "Alexios V Doukas",
+   "nativeName": "Ἀλέξιος Εʹ Δούκας Μούρτζουφλος",
+   "roman": "Aléxios V Doúkas Moúrtzouphlos",
+   "start": 1204,
+   "end": 1204,
+   "image": "147 - Alexios V Doukas (Mutinensis - color).png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/147%20-%20Alexios%20V%20Doukas%20(Mutinensis%20-%20color).png?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown Byzantine scribes",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q37086",
+   "name": "Theodore I Laskaris",
+   "nativeName": "Θεόδωρος Αʹ Λάσκαρις",
+   "roman": "Theódōros I Láskaris",
+   "start": 1205,
+   "end": 1221,
+   "image": "Theodore I Laskaris miniature.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Theodore%20I%20Laskaris%20miniature.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown Byzantine artist",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q37072",
+   "name": "John III Doukas Vatatzes",
+   "nativeName": "Ἰωάννης Γʹ Δούκας Βατάτζης",
+   "roman": "Iōánnēs III Doúkas Vatátzēs",
+   "start": 1221,
+   "end": 1254,
+   "image": "John III Doukas Vatatzes.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20III%20Doukas%20Vatatzes.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown Byzantine artist",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q37082",
+   "name": "Theodore II Laskaris",
+   "nativeName": "Θεόδωρος Βʹ Λάσκαρις",
+   "roman": "Theódōros II Láskaris",
+   "start": 1254,
+   "end": 1258,
+   "image": "Theodoros II Laskaris.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Theodoros%20II%20Laskaris.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "George Pachymeres",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q37088",
+   "name": "John IV Laskaris",
+   "nativeName": "Ἰωάννης Δʹ Λάσκαρις",
+   "roman": "Iōánnēs IV Láskaris",
+   "start": 1258,
+   "end": 1261,
+   "image": "John IV Laskaris miniature.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20IV%20Laskaris%20miniature.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown Byzantine artist",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q200033",
+   "name": "Michael VIII Palaiologos",
+   "nativeName": "Μιχαὴλ Ηʹ Παλαιολόγος",
+   "roman": "Michaḕl VIII Palaiológos",
+   "start": 1259,
+   "end": 1282,
+   "image": "Michael VIII Palaiologos.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael%20VIII%20Palaiologos.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "unknown Byzantine illuminator.",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q37067",
+   "name": "Andronikos II Palaiologos",
+   "nativeName": "Ἀνδρόνικος Βʹ Παλαιολόγος",
+   "roman": "Andrónikos II Palaiológos",
+   "start": 1282,
+   "end": 1328,
+   "image": "Andronikos II Palaiologos (head).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Andronikos%20II%20Palaiologos%20(head).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "unknown, Byzantine period art.",
+    "attributionRequired": false
+   }
+  }
+ ],
+ "blurbKey": "Q12544__nicaean-empire"
+}

@@ -1,0 +1,484 @@
+{
+ "qid": "Q1108445",
+ "names": [
+  "Kievan Rus'"
+ ],
+ "title": "Kievan Rus'",
+ "variantOf": "Q1108445",
+ "endonym": {
+  "native": "Русь",
+  "roman": "Rus'"
+ },
+ "capsule": "From Oleg's capture of Kiev in 882 until the Mongol destruction of the city in 1240, Kievan Rus' bound the East Slavic lands into a federation of principalities under the Rurikid princes of Kiev, converted to Orthodox Christianity by Grand Prince Vladimir I around 988. It reached its height under Yaroslav the Wise (1019-1054), whose law code (Russkaya Pravda), dynastic marriages, and patronage of Kiev's Cathedral of St. Sophia marked a golden age of Rus' culture, before the Lyubech Congress of 1097 formalized a rotating princely succession that increasingly fragmented the realm into rival appanages. Weakened by that fragmentation, Kievan Rus' was overrun by the Mongols, with Kiev sacked by Batu Khan's forces in December 1240.",
+ "citations": [
+  {
+   "label": "Kyivan Rus | Britannica",
+   "url": "https://www.britannica.com/topic/Kyivan-Rus"
+  },
+  {
+   "label": "Kievan Rus' - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kievan_Rus%27"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases (Times Atlas of World History; Kinder & Hilgemann; Shepherd 1926) at ~0.07° resolution. \"Boundaries\" of Rus' were zones of tribute over forest peoples, not lines; northern and eastern extents are schematic. Confidence: low–moderate, core river towns excepted. Capsule researched for this polity/era specifically (confidence: high).",
+ "rulers": [
+  {
+   "name": "Oleg",
+   "native": "Олег",
+   "roman": "Oleg",
+   "start": 882,
+   "end": 912,
+   "nativeName": "Олег"
+  },
+  {
+   "name": "Igor",
+   "native": "Игорь",
+   "roman": "Igor",
+   "start": 912,
+   "end": 945,
+   "nativeName": "Игорь"
+  },
+  {
+   "name": "Olga (regent)",
+   "native": "Ольга",
+   "roman": "Olga",
+   "start": 945,
+   "end": 962,
+   "nativeName": "Ольга"
+  },
+  {
+   "name": "Sviatoslav I",
+   "native": "Святославъ",
+   "roman": "Sviatoslav I",
+   "start": 962,
+   "end": 972,
+   "nativeName": "Святославъ"
+  },
+  {
+   "name": "Yaropolk I",
+   "native": "Ярополкъ",
+   "roman": "Yaropolk I",
+   "start": 972,
+   "end": 980,
+   "nativeName": "Ярополкъ"
+  },
+  {
+   "name": "Volodimir I the Great",
+   "native": "Володимиръ",
+   "roman": "Volodimir I",
+   "start": 980,
+   "end": 1015,
+   "nativeName": "Володимиръ"
+  },
+  {
+   "name": "Sviatopolk I the Accursed",
+   "native": "Свѧтопълкъ",
+   "roman": "Sviatopolk I",
+   "start": 1015,
+   "end": 1019,
+   "nativeName": "Свѧтопълкъ"
+  },
+  {
+   "name": "Yaroslav the Wise",
+   "native": "Ярославъ Мудрый",
+   "roman": "Yaroslav Mudry",
+   "start": 1019,
+   "end": 1054,
+   "nativeName": "Ярославъ Мудрый"
+  },
+  {
+   "name": "Iziaslav I",
+   "native": "Изяславъ",
+   "roman": "Iziaslav I",
+   "start": 1054,
+   "end": 1073,
+   "nativeName": "Изяславъ"
+  },
+  {
+   "name": "Sviatoslav II",
+   "native": "Святославъ II",
+   "roman": "Sviatoslav II",
+   "start": 1073,
+   "end": 1076,
+   "nativeName": "Святославъ II"
+  },
+  {
+   "name": "Vsevolod I",
+   "native": "Всеволодъ",
+   "roman": "Vsevolod I",
+   "start": 1076,
+   "end": 1077,
+   "nativeName": "Всеволодъ"
+  },
+  {
+   "name": "Iziaslav I (restored)",
+   "native": "Изяславъ",
+   "roman": "Iziaslav I",
+   "start": 1077,
+   "end": 1078,
+   "nativeName": "Изяславъ"
+  },
+  {
+   "name": "Vsevolod I (restored)",
+   "native": "Всеволодъ",
+   "roman": "Vsevolod I",
+   "start": 1078,
+   "end": 1093,
+   "nativeName": "Всеволодъ"
+  },
+  {
+   "name": "Sviatopolk II",
+   "native": "Святополкъ II",
+   "roman": "Sviatopolk II",
+   "start": 1093,
+   "end": 1113,
+   "nativeName": "Святополкъ II"
+  },
+  {
+   "name": "Vladimir II Monomakh",
+   "native": "Владимиръ Мономахъ",
+   "roman": "Vladimir Monomakh",
+   "start": 1113,
+   "end": 1125,
+   "nativeName": "Владимиръ Мономахъ"
+  },
+  {
+   "name": "Mstislav I",
+   "native": "Мстиславъ",
+   "roman": "Mstislav I",
+   "start": 1125,
+   "end": 1132,
+   "nativeName": "Мстиславъ"
+  },
+  {
+   "name": "Yaropolk II",
+   "native": "Ярополкъ II",
+   "roman": "Yaropolk II",
+   "start": 1132,
+   "end": 1139,
+   "nativeName": "Ярополкъ II"
+  },
+  {
+   "name": "Viacheslav I",
+   "native": "Вячеславъ",
+   "roman": "Viacheslav I",
+   "start": 1139,
+   "end": 1139,
+   "nativeName": "Вячеславъ"
+  },
+  {
+   "name": "Vsevolod II",
+   "native": "Всеволодъ II",
+   "roman": "Vsevolod II",
+   "start": 1139,
+   "end": 1146,
+   "nativeName": "Всеволодъ II"
+  },
+  {
+   "name": "Igor II",
+   "native": "Игорь II",
+   "roman": "Igor II",
+   "start": 1146,
+   "end": 1146,
+   "nativeName": "Игорь II"
+  },
+  {
+   "name": "Iziaslav II",
+   "native": "Изяславъ II",
+   "roman": "Iziaslav II",
+   "start": 1146,
+   "end": 1149,
+   "nativeName": "Изяславъ II"
+  },
+  {
+   "name": "Yuri Dolgorukiy",
+   "native": "Юрий Долгорукий",
+   "roman": "Yuri Dolgoruky",
+   "start": 1149,
+   "end": 1151,
+   "nativeName": "Юрий Долгорукий"
+  },
+  {
+   "name": "Viacheslav I & Iziaslav II (joint)",
+   "native": "Вячеславъ и Изяславъ",
+   "roman": "Viacheslav and Iziaslav",
+   "start": 1151,
+   "end": 1154,
+   "nativeName": "Вячеславъ и Изяславъ"
+  },
+  {
+   "name": "Rostislav I",
+   "native": "Ростиславъ",
+   "roman": "Rostislav I",
+   "start": 1154,
+   "end": 1154,
+   "nativeName": "Ростиславъ"
+  },
+  {
+   "name": "Iziaslav III",
+   "native": "Изяславъ III",
+   "roman": "Iziaslav III",
+   "start": 1154,
+   "end": 1155,
+   "nativeName": "Изяславъ III"
+  },
+  {
+   "name": "Yuri Dolgorukiy (restored)",
+   "native": "Юрий Долгорукий",
+   "roman": "Yuri Dolgoruky",
+   "start": 1155,
+   "end": 1157,
+   "nativeName": "Юрий Долгорукий"
+  },
+  {
+   "name": "Iziaslav III (restored)",
+   "native": "Изяславъ III",
+   "roman": "Iziaslav III",
+   "start": 1157,
+   "end": 1158,
+   "nativeName": "Изяславъ III"
+  },
+  {
+   "name": "Rostislav I (restored)",
+   "native": "Ростиславъ",
+   "roman": "Rostislav I",
+   "start": 1158,
+   "end": 1167,
+   "nativeName": "Ростиславъ"
+  },
+  {
+   "name": "Mstislav II",
+   "native": "Мстиславъ II",
+   "roman": "Mstislav II",
+   "start": 1167,
+   "end": 1169,
+   "nativeName": "Мстиславъ II"
+  },
+  {
+   "name": "Gleb",
+   "native": "Глѣбъ",
+   "roman": "Gleb",
+   "start": 1169,
+   "end": 1169,
+   "nativeName": "Глѣбъ"
+  },
+  {
+   "name": "Mstislav II (restored)",
+   "native": "Мстиславъ II",
+   "roman": "Mstislav II",
+   "start": 1170,
+   "end": 1170,
+   "nativeName": "Мстиславъ II"
+  },
+  {
+   "name": "Gleb (restored)",
+   "native": "Глѣбъ",
+   "roman": "Gleb",
+   "start": 1170,
+   "end": 1171,
+   "nativeName": "Глѣбъ"
+  },
+  {
+   "name": "Vladimir III Mstislavich",
+   "native": "Владимиръ Мстиславичъ",
+   "roman": "Vladimir III",
+   "start": 1171,
+   "end": 1171,
+   "nativeName": "Владимиръ Мстиславичъ"
+  },
+  {
+   "name": "Michael I",
+   "native": "Михаилъ",
+   "roman": "Michael I",
+   "start": 1171,
+   "end": 1171,
+   "nativeName": "Михаилъ"
+  },
+  {
+   "name": "Roman I",
+   "native": "Романъ",
+   "roman": "Roman I",
+   "start": 1171,
+   "end": 1173,
+   "nativeName": "Романъ"
+  },
+  {
+   "name": "Vsevolod III the Big Nest",
+   "native": "Всеволодъ Большое Гнѣздо",
+   "roman": "Vsevolod Bolshoye Gnezdo",
+   "start": 1173,
+   "end": 1173,
+   "nativeName": "Всеволодъ Большое Гнѣздо"
+  },
+  {
+   "name": "Rurik Rostislavich",
+   "native": "Рюрикъ Ростиславичъ",
+   "roman": "Riurik Rostislavich",
+   "start": 1173,
+   "end": 1173,
+   "nativeName": "Рюрикъ Ростиславичъ"
+  },
+  {
+   "name": "Sviatoslav III",
+   "native": "Святославъ III",
+   "roman": "Sviatoslav III",
+   "start": 1174,
+   "end": 1174,
+   "nativeName": "Святославъ III"
+  },
+  {
+   "name": "Yaroslav II",
+   "native": "Ярославъ II",
+   "roman": "Yaroslav II",
+   "start": 1174,
+   "end": 1175,
+   "nativeName": "Ярославъ II"
+  },
+  {
+   "name": "Roman I (restored)",
+   "native": "Романъ",
+   "roman": "Roman I",
+   "start": 1175,
+   "end": 1177,
+   "nativeName": "Романъ"
+  },
+  {
+   "name": "Sviatoslav III (restored)",
+   "native": "Святославъ III",
+   "roman": "Sviatoslav III",
+   "start": 1177,
+   "end": 1180,
+   "nativeName": "Святославъ III"
+  },
+  {
+   "name": "Yaroslav II (restored)",
+   "native": "Ярославъ II",
+   "roman": "Yaroslav II",
+   "start": 1180,
+   "end": 1180,
+   "nativeName": "Ярославъ II"
+  },
+  {
+   "name": "Rurik Rostislavich (restored)",
+   "native": "Рюрикъ Ростиславичъ",
+   "roman": "Riurik Rostislavich",
+   "start": 1180,
+   "end": 1182,
+   "nativeName": "Рюрикъ Ростиславичъ"
+  },
+  {
+   "name": "Sviatoslav III (3rd)",
+   "native": "Святославъ III",
+   "roman": "Sviatoslav III",
+   "start": 1182,
+   "end": 1194,
+   "nativeName": "Святославъ III"
+  },
+  {
+   "name": "Rurik Rostislavich (3rd)",
+   "native": "Рюрикъ Ростиславичъ",
+   "roman": "Riurik Rostislavich",
+   "start": 1194,
+   "end": 1202,
+   "nativeName": "Рюрикъ Ростиславичъ"
+  },
+  {
+   "name": "Ingvar Yaroslavich",
+   "native": "Ингварь Ярославичъ",
+   "roman": "Ingvar Yaroslavich",
+   "start": 1202,
+   "end": 1202,
+   "nativeName": "Ингварь Ярославичъ"
+  },
+  {
+   "name": "Rurik, Roman II, Rostislav II (joint)",
+   "native": "Рюрикъ, Романъ, Ростиславъ",
+   "roman": "Riurik, Roman, Rostislav",
+   "start": 1203,
+   "end": 1206,
+   "nativeName": "Рюрикъ, Романъ, Ростиславъ"
+  },
+  {
+   "name": "Vsevolod IV the Red",
+   "native": "Всеволодъ Чермный",
+   "roman": "Vsevolod Chermny",
+   "start": 1206,
+   "end": 1207,
+   "nativeName": "Всеволодъ Чермный"
+  },
+  {
+   "name": "Rurik Rostislavich (5th)",
+   "native": "Рюрикъ Ростиславичъ",
+   "roman": "Riurik Rostislavich",
+   "start": 1207,
+   "end": 1210,
+   "nativeName": "Рюрикъ Ростиславичъ"
+  },
+  {
+   "name": "Vsevolod IV the Red (restored)",
+   "native": "Всеволодъ Чермный",
+   "roman": "Vsevolod Chermny",
+   "start": 1210,
+   "end": 1212,
+   "nativeName": "Всеволодъ Чермный"
+  },
+  {
+   "name": "Ingvar Yaroslavich (restored)",
+   "native": "Ингварь Ярославичъ",
+   "roman": "Ingvar Yaroslavich",
+   "start": 1212,
+   "end": 1214,
+   "nativeName": "Ингварь Ярославичъ"
+  },
+  {
+   "name": "Mstislav III",
+   "native": "Мстиславъ III",
+   "roman": "Mstislav III",
+   "start": 1214,
+   "end": 1223,
+   "nativeName": "Мстиславъ III"
+  },
+  {
+   "name": "Vladimir IV",
+   "native": "Владимиръ IV",
+   "roman": "Vladimir IV",
+   "start": 1223,
+   "end": 1235,
+   "nativeName": "Владимиръ IV"
+  },
+  {
+   "name": "Iziaslav IV",
+   "native": "Изяславъ IV",
+   "roman": "Iziaslav IV",
+   "start": 1235,
+   "end": 1236,
+   "nativeName": "Изяславъ IV"
+  },
+  {
+   "name": "Yaroslav III",
+   "native": "Ярославъ III",
+   "roman": "Yaroslav III",
+   "start": 1236,
+   "end": 1238,
+   "nativeName": "Ярославъ III"
+  },
+  {
+   "name": "Michael II",
+   "native": "Михаилъ II",
+   "roman": "Michael II",
+   "start": 1238,
+   "end": 1239,
+   "nativeName": "Михаилъ II"
+  },
+  {
+   "name": "Daniel of Galicia",
+   "native": "Данило Галицький",
+   "roman": "Danylo Halytsky",
+   "start": 1239,
+   "end": 1240,
+   "nativeName": "Данило Галицький"
+  }
+ ],
+ "blurbKey": "Q1108445__kievan-rus"
+}

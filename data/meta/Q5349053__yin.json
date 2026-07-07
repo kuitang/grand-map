@@ -1,0 +1,50 @@
+{
+ "qid": "Q5349053",
+ "names": [
+  "Yin"
+ ],
+ "title": "Yin",
+ "variantOf": "Q5349053",
+ "endonym": {
+  "native": "殷",
+  "roman": "Yīn"
+ },
+ "capsule": "Yin (殷) was one of the Eighteen Kingdoms Xiang Yu established north of the Yellow River in 206 BCE, granted to the Zhao general Sima Ang with its capital at Chaoge, in modern Qi County (Hebi) in northern Henan. Caught between the Han and Chu camps in the Chu–Han Contention, Sima Ang surrendered to Han Xin's advancing army in 205 BCE, and Yin's territory was absorbed into Han-controlled Henan. Its independent existence lasted only about a year.",
+ "citations": [
+  {
+   "label": "Eighteen Kingdoms - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Eighteen_Kingdoms"
+  },
+  {
+   "label": "Sima Ang - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sima_Ang"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The political divisions are documented in Sima Qian's Shiji and Ban Gu's Hanshu, but the precise territories assigned to each king are reconstructed from textual sources alone; archaeological demarcation of boundaries is largely impossible. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Eighteen Kingdoms",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Xiang Yu, Hegemon-King (overlord of the Eighteen Kingdoms)",
+   "nativeName": "西楚霸王項羽",
+   "roman": "Xī Chǔ Bàwáng Xiàng Yǔ",
+   "start": -206,
+   "end": -203,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q5349053__yin"
+}

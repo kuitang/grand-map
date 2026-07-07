@@ -1,0 +1,226 @@
+{
+ "qid": "Q1059707",
+ "names": [
+  "Lan Na Kingdom"
+ ],
+ "title": "Lan Na Kingdom",
+ "variantOf": "Q1059707",
+ "endonym": {
+  "native": "ล้านนา",
+  "roman": "Lan Na"
+ },
+ "capsule": "The Lan Na Kingdom, founded by King Mangrai with Chiang Mai as capital from 1296, unified the Tai Yuan principalities of the upper Ping and Kok valleys through the 14th–15th centuries, peaking under Tilokarat (r. 1441/42–1487), before Burmese conquest under Bayinnaung ended its independence in 1558, near this window's close.",
+ "citations": [
+  {
+   "label": "Lan Na – Britannica",
+   "url": "https://www.britannica.com/place/Lan-Na"
+  },
+  {
+   "label": "Kingdom of Chiang Mai – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kingdom_of_Chiang_Mai"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Core territorial boundaries around the northern Thai highlands are reasonably well attested via Mangrai chronicles and Burmese annals; peripheral frontier zones with Ayutthaya and Shan states are more ambiguous. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Lan Na",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Mangrai",
+   "nativeName": "พญามังราย",
+   "roman": "Phaya Mangrai",
+   "start": 1292,
+   "end": 1311,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Chai Songkhram",
+   "nativeName": "พญาไชยสงคราม",
+   "roman": "Phaya Chai Songkhram",
+   "start": 1311,
+   "end": 1325,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Saen Phu",
+   "nativeName": "พญาแสนภู",
+   "roman": "Phaya Saen Phu",
+   "start": 1325,
+   "end": 1334,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Kham Fu",
+   "nativeName": "พญาคำฟู",
+   "roman": "Phaya Kham Fu",
+   "start": 1334,
+   "end": 1336,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Pha Yu",
+   "nativeName": "พญาผายู",
+   "roman": "Phaya Pha Yu",
+   "start": 1336,
+   "end": 1355,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Kue Na",
+   "nativeName": "พญากือนา",
+   "roman": "Phaya Kue Na",
+   "start": 1355,
+   "end": 1385,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Saen Mueang Ma",
+   "nativeName": "พญาแสนเมืองมา",
+   "roman": "Phaya Saen Mueang Ma",
+   "start": 1385,
+   "end": 1401,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Sam Fang Kaen",
+   "nativeName": "พญาสามฝั่งแกน",
+   "roman": "Phaya Sam Fang Kaen",
+   "start": 1401,
+   "end": 1441,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Tilokaraj",
+   "nativeName": "พระเจ้าติโลกราช",
+   "roman": "Phra Chao Tilokarat",
+   "start": 1441,
+   "end": 1487,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Yot Chiang Rai",
+   "nativeName": "พญายอดเชียงราย",
+   "roman": "Phaya Yot Chiang Rai",
+   "start": 1487,
+   "end": 1495,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Mueang Kaeo",
+   "nativeName": "พญาแก้ว",
+   "roman": "Phaya Kaeo (Mueang Kaeo)",
+   "start": 1495,
+   "end": 1525,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ket Chettharat",
+   "nativeName": "พญาเกศเชษฐราช",
+   "roman": "Phaya Ket Chettharat",
+   "start": 1525,
+   "end": 1538,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Thau Sai Kham",
+   "nativeName": "ท้าวซายคำ",
+   "roman": "Thao Sai Kham",
+   "start": 1538,
+   "end": 1543,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ket Chettharat (restored)",
+   "nativeName": "พญาเกศเชษฐราช",
+   "roman": "Phaya Ket Chettharat",
+   "start": 1543,
+   "end": 1545,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Chiraprapha",
+   "nativeName": "พระนางจิรประภา",
+   "roman": "Maha Thewi Chiraprapha",
+   "start": 1545,
+   "end": 1546,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Setthathirath",
+   "nativeName": "พระเจ้าไชยเชษฐาธิราช",
+   "roman": "Phra Chao Chai Setthathirat",
+   "start": 1546,
+   "end": 1547,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Mekuti",
+   "nativeName": "ท้าวแม่กุ",
+   "roman": "Thao Mae Ku (Mekuti)",
+   "start": 1551,
+   "end": 1564,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q1059707__lan-na-kingdom"
+}

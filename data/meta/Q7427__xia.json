@@ -1,0 +1,72 @@
+{
+ "qid": "Q7427",
+ "names": [
+  "Xia"
+ ],
+ "title": "Xia",
+ "variantOf": "Q7427",
+ "endonym": {
+  "native": "大夏",
+  "roman": "Dà Xià"
+ },
+ "capsule": "By 410 the Hu Xia state founded by Helian Bobo in 407 controlled the Ordos region and Guanzhong from its capital at Tongwancheng, with Helian Bobo capturing Chang'an from Later Qin in 418 and briefly ruling both cities as \"Heavenly King of Great Xia.\" After his death in 425, his son Helian Chang lost Tongwancheng to the Northern Wei in 427 and was captured in 428; Helian Chang's brother Helian Ding fought on from Pingliang, even destroying Western Qin in 431, only to be captured himself by the Tuyuhun that same year and handed to Northern Wei, ending Hu Xia rule.",
+ "citations": [
+  {
+   "label": "Wikipedia, \"Xia (Sixteen Kingdoms)\"",
+   "url": "https://en.wikipedia.org/wiki/Xia_(Sixteen_Kingdoms)"
+  },
+  {
+   "label": "Wikipedia, \"Helian Ding\"",
+   "url": "https://en.wikipedia.org/wiki/Helian_Ding"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Core territory along the Hexi Corridor is well-defined by Chinese dynastic cartography and administrative records; nomadic steppe boundaries to the north and northwest are approximate and inferred from military campaign accounts. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Xia",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Helian Bobo",
+   "nativeName": "赫连勃勃",
+   "roman": "Hèlián Bóbó",
+   "start": 410,
+   "end": 425,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Helian Chang",
+   "nativeName": "赫连昌",
+   "roman": "Hèlián Chāng",
+   "start": 425,
+   "end": 428,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Helian Ding",
+   "nativeName": "赫连定",
+   "roman": "Hèlián Dìng",
+   "start": 428,
+   "end": 431,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q7427__xia"
+}

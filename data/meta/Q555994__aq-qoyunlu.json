@@ -1,0 +1,131 @@
+{
+ "qid": "Q555994",
+ "names": [
+  "Aq Qoyunlu"
+ ],
+ "title": "Aq Qoyunlu",
+ "variantOf": "Q555994",
+ "endonym": {
+  "native": "آق قویونلو",
+  "roman": "Aq Qoyunlu"
+ },
+ "capsule": "The Aq Qoyunlu ('White Sheep' Turkmen) were a Sunni Turkoman tribal confederation founded in 1378 by Qara Yuluk Uthman Beg in the Diyarbakır region of eastern Anatolia. Under Uzun Hasan (r. 1453–1478) they crushed the rival Kara Koyunlu and Timurid remnants to build an empire stretching across eastern Anatolia, Armenia, Azerbaijan, Iraq, and much of Iran, ruling from Tabriz. Succession wars fragmented the confederation after 1497, and the rising Safavid dynasty under Shah Ismail I extinguished the last Aq Qoyunlu claimants in the early 1500s.",
+ "citations": [
+  {
+   "label": "Aq Qoyunlu – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Aq_Qoyunlu"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Core territories in Azerbaijan and eastern Anatolia are documented through Ottoman and Venetian diplomatic records and Persian chronicles. Peripheral zones, particularly in Kurdistan and the Zagros, are reconstructed from tribal tribute patterns and are approximate. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Lu (state)",
+ "rulers": [
+  {
+   "name": "Qara Yuluk Uthman Beg",
+   "native": "قره یولوق عثمان بگ",
+   "roman": "Qara Yuluk Uthman Beg",
+   "start": 1378,
+   "end": 1435,
+   "nativeName": "قره یولوق عثمان بگ"
+  },
+  {
+   "name": "Ali Beg",
+   "native": "علی بگ",
+   "roman": "ʿAlī Beg",
+   "start": 1435,
+   "end": 1438,
+   "nativeName": "علی بگ"
+  },
+  {
+   "name": "Hamza Beg",
+   "native": "حمزه بگ",
+   "roman": "Hamza Beg",
+   "start": 1438,
+   "end": 1444,
+   "nativeName": "حمزه بگ"
+  },
+  {
+   "name": "Jahangir Mirza",
+   "native": "جهانگیر میرزا",
+   "roman": "Jahāngīr Mīrzā",
+   "start": 1444,
+   "end": 1453,
+   "nativeName": "جهانگیر میرزا"
+  },
+  {
+   "name": "Uzun Hasan",
+   "native": "اوزون حسن",
+   "roman": "Uzun Hasan",
+   "start": 1453,
+   "end": 1478,
+   "nativeName": "اوزون حسن"
+  },
+  {
+   "name": "Sultan Khalil",
+   "native": "سلطان خلیل",
+   "roman": "Sultan Khalil",
+   "start": 1478,
+   "end": 1478,
+   "nativeName": "سلطان خلیل"
+  },
+  {
+   "name": "Sultan Ya'qub",
+   "native": "سلطان یعقوب",
+   "roman": "Sultan Ya'qub",
+   "start": 1478,
+   "end": 1490,
+   "nativeName": "سلطان یعقوب"
+  },
+  {
+   "name": "Baysunghur",
+   "native": "بایسنغر",
+   "roman": "Baysunghur",
+   "start": 1490,
+   "end": 1493,
+   "nativeName": "بایسنغر"
+  },
+  {
+   "name": "Rustam",
+   "native": "رستم",
+   "roman": "Rustam",
+   "start": 1493,
+   "end": 1497,
+   "nativeName": "رستم"
+  },
+  {
+   "name": "Ahmad Gövde",
+   "native": "احمد گوده",
+   "roman": "Ahmad Gövde",
+   "start": 1497,
+   "end": 1497,
+   "nativeName": "احمد گوده"
+  },
+  {
+   "name": "Alvand Mirza (western branch)",
+   "native": "الوند میرزا",
+   "roman": "Alvand Mirza",
+   "start": 1497,
+   "end": 1504,
+   "nativeName": "الوند میرزا"
+  },
+  {
+   "name": "Murad (eastern branch, last ruler)",
+   "native": "مراد",
+   "roman": "Murad",
+   "start": 1497,
+   "end": 1508,
+   "nativeName": "مراد"
+  }
+ ],
+ "blurbKey": "Q555994__aq-qoyunlu"
+}

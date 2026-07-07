@@ -1,0 +1,85 @@
+{
+ "qid": "Q3136869",
+ "names": [
+  "Kingdom of Dambadeniya"
+ ],
+ "title": "Kingdom of Dambadeniya",
+ "variantOf": "Q3136869",
+ "endonym": {
+  "native": "දඹදෙණි රාජධානිය",
+  "roman": "Dambadeniya Rajadhaniya"
+ },
+ "capsule": "The Kingdom of Dambadeniya was the Sinhalese royal seat established by Vijayabahu III, who in 1232 made the rock fortress of Dambadeniya (near modern Kurunegala) his capital and recovered the sacred Tooth Relic hidden from the invader Kalinga Magha. His son Parakramabahu II (r. 1236-1270), a celebrated poet-king remembered for the epic Kausilumina, allied with the Pandyas to expel Magha's forces from Polonnaruwa by 1255 and twice repelled Malay invasions led by Chandrabhanu. Parakramabahu II's son Vijayabahu IV (r. 1270-1272) briefly succeeded him before being murdered in a conspiracy led by the general Mitta, after which his brother Bhuvanekabahu I moved the capital to the more defensible Yapahuwa in 1273, ending Dambadeniya's tenure as the seat of Sinhalese kingship.",
+ "citations": [
+  {
+   "label": "Wikipedia: Kingdom of Dambadeniya",
+   "url": "https://en.wikipedia.org/wiki/Kingdom_of_Dambadeniya"
+  },
+  {
+   "label": "Britannica: Parakramabahu II",
+   "url": "https://www.britannica.com/biography/Parakramabahu-II"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The core zone around Dambadeniya fortress is archaeologically confirmed; the kingdom's administrative extent in the surrounding districts is inferred from chronicle sources and is imprecisely mapped. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Sri Lanka",
+ "rulers": [
+  {
+   "qid": "Q7134840",
+   "name": "Parakramabahu II",
+   "start": 1236,
+   "end": 1270,
+   "image": "Parakramabahu II - Massa Photo 1.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Parakramabahu%20II%20-%20Massa%20Photo%201.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 2.0",
+    "artist": "Mr Jean-Michel Moullec",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q7929253",
+   "name": "Vijayabahu IV of Dambadeniya",
+   "start": 1270,
+   "end": 1272,
+   "image": "Vijayabahu IV - Massa.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vijayabahu%20IV%20-%20Massa.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 2.0",
+    "artist": "Mr Jean-Michel Moullec",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q16418737",
+   "name": "Bhuvanaikabahu I of Dambadeniya",
+   "start": 1272,
+   "end": 1284,
+   "image": "Buwanekabahu - Massa.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Buwanekabahu%20-%20Massa.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 2.0",
+    "artist": "Mr Jean-Michel Moullec",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q16418874",
+   "name": "Bhuvanaikabahu II of Dambadeniya",
+   "start": 1310,
+   "end": 1326,
+   "image": null
+  }
+ ],
+ "blurbKey": "Q3136869__kingdom-of-dambadeniya"
+}

@@ -1,0 +1,389 @@
+{
+ "qid": "Q235",
+ "names": [
+  "Principality of Monaco"
+ ],
+ "title": "Principality of Monaco",
+ "variantOf": "Q235",
+ "endonym": {
+  "native": "Principauté de Monaco",
+  "roman": "Principauté de Monaco"
+ },
+ "capsule": "The Principality of Monaco (Principauté de Monaco) in this long span traces from the 1641 Treaty of Péronne, which returned the Grimaldi-ruled principality, under Prince Honoré II, who had adopted the princely title in 1612, to French protection after two decades under Spanish tutelage. The Grimaldi dynasty, which had held Monaco since Francesco Grimaldi's 1297 seizure of its fortress, weathered a French Revolutionary occupation (1793-1814), a mid-nineteenth-century territorial loss of Menton and Roquebrune (about 95 percent of its land, ceded to France in 1861), and two world wars, while never abandoning the princely rather than royal title. Since Prince Rainier III's mid-twentieth-century modernization and Prince Albert II's accession in 2005, Monaco has remained a sovereign constitutional principality and UN member state built on tourism, finance, and the Monte Carlo casino economy.",
+ "citations": [
+  {
+   "label": "History of Monaco - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/History_of_Monaco"
+  },
+  {
+   "label": "House of Grimaldi - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/House_of_Grimaldi"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Monaco's tiny enclave territory is precisely documented; its boundaries were fixed by the 1861 Franco-Monégasque Treaty and subsequent agreements. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Monaco",
+ "rulers": [
+  {
+   "qid": "Q382433",
+   "name": "Charles III, Prince of Monaco",
+   "start": 1856,
+   "end": 1889,
+   "image": "Karl III (Monaco).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Karl%20III%20(Monaco).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "Charles III de Monaco",
+   "nativeLang": "fr"
+  },
+  {
+   "qid": "Q159646",
+   "name": "Albert I, Prince of Monaco",
+   "start": 1889,
+   "end": 1922,
+   "image": "Prince Albert I of Monaco - circa 1910.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Prince%20Albert%20I%20of%20Monaco%20-%20circa%201910.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "J. B. E. Detaille",
+    "attributionRequired": false
+   },
+   "nativeName": "Albert Ier",
+   "nativeLang": "fr"
+  },
+  {
+   "qid": "Q8078279",
+   "name": "Émile Flach",
+   "start": 1911,
+   "end": 1917,
+   "image": "Émile Flach by Georges Prade. 1911 (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89mile%20Flach%20by%20Georges%20Prade.%201911%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Agence Rol. Photographic agency (sponsor).",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q7298954",
+   "name": "Raymond Le Bourdon",
+   "start": 1919,
+   "end": 1923,
+   "image": null
+  },
+  {
+   "qid": "Q316543",
+   "name": "Louis II, Prince of Monaco",
+   "start": 1922,
+   "end": 1949,
+   "image": "Prince Louis II of Monaco 05670r.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Prince%20Louis%20II%20of%20Monaco%2005670r.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Georges Detaille",
+    "attributionRequired": false
+   },
+   "nativeName": "Louis II de Monaco",
+   "nativeLang": "fr"
+  },
+  {
+   "qid": "Q6793413",
+   "name": "Maurice Piette",
+   "start": 1923,
+   "end": 1932,
+   "image": null
+  },
+  {
+   "qid": "Q3300465",
+   "name": "Maurice Bouilloux-Lafont",
+   "start": 1932,
+   "end": 1937,
+   "image": "Maurice Bouilloux-Lafont (1875-1937).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Maurice%20Bouilloux-Lafont%20(1875-1937).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Agence Roll, 1927",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q8078312",
+   "name": "Émile Roblot",
+   "start": 1937,
+   "end": 1944,
+   "image": "Portrait d'Emile Roblot - Archives de Strasbourg.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20d'Emile%20Roblot%20-%20Archives%20de%20Strasbourg.jpg?width=320",
+   "imageLicense": {
+    "license": "CC0",
+    "artist": "Archives de Strasbourg",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q7192530",
+   "name": "Pierre de Witasse",
+   "start": 1944,
+   "end": 1948,
+   "image": null
+  },
+  {
+   "qid": "Q1398687",
+   "name": "Jacques Rueff",
+   "start": 1949,
+   "end": 1950,
+   "image": "Jacques Rueff 1938.png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacques%20Rueff%201938.png?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "AnonymousUnknown author, no author disclosure",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q185025",
+   "name": "Rainier III, Prince of Monaco",
+   "start": 1949,
+   "end": 2005,
+   "image": "Rainier III (JFKWHP-KN-C17888, cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rainier%20III%20(JFKWHP-KN-C17888%2C%20cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Robert LeRoy Knudsen",
+    "attributionRequired": false
+   },
+   "nativeName": "Rainier III de Monaco",
+   "nativeLang": "fr"
+  },
+  {
+   "qid": "Q961184",
+   "name": "Pierre Voizard",
+   "start": 1950,
+   "end": 1953,
+   "image": "Pierre Voizard 1953.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Voizard%201953.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "LOR377",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q5728515",
+   "name": "Henry Soum",
+   "start": 1953,
+   "end": 1959,
+   "image": null
+  },
+  {
+   "qid": "Q3588689",
+   "name": "Émile Pelletier",
+   "start": 1959,
+   "end": 1962,
+   "image": "Portrait ministre de l'Intérieur Pelletier - Archives nationales (France).png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20ministre%20de%20l'Int%C3%A9rieur%20Pelletier%20-%20Archives%20nationales%20(France).png?width=320",
+   "imageLicense": {
+    "license": "CC0",
+    "artist": "[Service de l'information et des relations publiques du ministère de l'Intérieur]",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q3384034",
+   "name": "Pierre Blanchy",
+   "start": 1962,
+   "end": 1963,
+   "image": null
+  },
+  {
+   "qid": "Q4392628",
+   "name": "Jean Émile Reymond",
+   "start": 1963,
+   "end": 1966,
+   "image": null,
+   "nativeName": "Jean-Émile Reymond",
+   "nativeLang": "fr"
+  },
+  {
+   "qid": "Q3371035",
+   "name": "Paul Demange",
+   "start": 1966,
+   "end": 1969,
+   "image": null
+  },
+  {
+   "qid": "Q4148820",
+   "name": "François-Didier Gregh",
+   "start": 1969,
+   "end": 1972,
+   "image": "Didier Gregh - DPLA - 948b56378e6af617a8f53982a574ce78.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Didier%20Gregh%20-%20DPLA%20-%20948b56378e6af617a8f53982a574ce78.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Department of State. Agency for International Development. 1961-10/1/1979",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q4416048",
+   "name": "André Saint-Mleux",
+   "start": 1972,
+   "end": 1981,
+   "image": null
+  },
+  {
+   "qid": "Q1685665",
+   "name": "Jean Herly",
+   "start": 1981,
+   "end": 1985,
+   "image": "Jean Herly, French Ambassador in Tel Aviv (FL45794918) (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Herly%2C%20French%20Ambassador%20in%20Tel%20Aviv%20(FL45794918)%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 4.0",
+    "artist": "Dan Hadani",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q931543",
+   "name": "Jean Ausseil",
+   "start": 1985,
+   "end": 1991,
+   "image": null
+  },
+  {
+   "qid": "Q1677870",
+   "name": "Jacques Dupont",
+   "start": 1991,
+   "end": 1994,
+   "image": "French Ambassador in Israel (FL63043000) (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/French%20Ambassador%20in%20Israel%20(FL63043000)%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 4.0",
+    "artist": "IPPA photographer",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q3371082",
+   "name": "Paul Dijoud",
+   "start": 1994,
+   "end": 1997,
+   "image": null
+  },
+  {
+   "qid": "Q3310255",
+   "name": "Michel Lévêque",
+   "start": 1997,
+   "end": 2000,
+   "image": null
+  },
+  {
+   "qid": "Q1395490",
+   "name": "Patrick Leclercq",
+   "start": 2000,
+   "end": 2005,
+   "image": null
+  },
+  {
+   "qid": "Q354691",
+   "name": "Jean-Paul Proust",
+   "start": 2005,
+   "end": 2010,
+   "image": "Jean-Paul PROUST deux.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Paul%20PROUST%20deux.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Mme Lorin soeur de J.P. Proust",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q3910",
+   "name": "Albert II, Prince of Monaco",
+   "start": 2005,
+   "end": null,
+   "image": "Prince Albert II 2016.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Prince%20Albert%20II%202016.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 2.0",
+    "artist": "https://www.flickr.com/photos/unfccc/ Unclimaitechange",
+    "attributionRequired": true
+   },
+   "nativeName": "Albert II de Monaco",
+   "nativeLang": "fr"
+  },
+  {
+   "qid": "Q57849",
+   "name": "Michel Roger",
+   "start": 2010,
+   "end": 2015,
+   "image": "Michel Roger (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Michel%20Roger%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "CentrepresseMonaco",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q19924352",
+   "name": "Gilles Tonelli",
+   "start": 2015,
+   "end": 2016,
+   "image": null
+  },
+  {
+   "qid": "Q3479546",
+   "name": "Serge Telle",
+   "start": 2016,
+   "end": 2020,
+   "image": "Serge Telle.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Serge%20Telle.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 2.0",
+    "artist": "Senado Federal",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q20556507",
+   "name": "Pierre Dartout",
+   "start": 2020,
+   "end": 2024,
+   "image": "Pierre Dartout 2017.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Dartout%202017.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 4.0",
+    "artist": "Nicolas Tucat / European Commission",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q3027038",
+   "name": "Didier Guillaume",
+   "start": 2024,
+   "end": 2025,
+   "image": "Didier Guillaume during the Paris Agricultural Show - 2019 (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Didier%20Guillaume%20during%20the%20Paris%20Agricultural%20Show%20-%202019%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 4.0",
+    "artist": "Thomas Padilla / European Union, 2019 / EC - Audiovisual Service",
+    "attributionRequired": true
+   }
+  }
+ ],
+ "blurbKey": "Q235__principality-of-monaco"
+}

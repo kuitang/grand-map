@@ -1,0 +1,38 @@
+{
+ "qid": "Q229",
+ "names": [
+  "Cyprus Condominium"
+ ],
+ "title": "Cyprus Condominium",
+ "variantOf": "Q229",
+ "endonym": {
+  "native": "Κυπριακή Δημοκρατία",
+  "roman": "Κυπριακή Δημοκρατία",
+  "lang": "el"
+ },
+ "capsule": "The Cyprus Condominium describes the unique arrangement, agreed in 688 between Byzantine emperor Justinian II and Umayyad caliph Abd al-Malik, under which Cyprus was demilitarized and jointly administered by the Byzantine Empire and the Arab Caliphate for roughly three centuries, its tax revenues split equally between Constantinople and Damascus (later Baghdad) rather than the island belonging to either power outright. Neither empire stationed permanent garrisons on the island, and the arrangement survived recurring mainland warfare between Byzantines and Arabs, with only a brief interruption when Byzantine emperor Basil I reasserted direct control for about seven years in the 870s-880s before the condominium resumed. This dual sovereignty ended in 965, just after the close of this window, when Nikephoros II Phokas's fleet under Niketas Chalkoutzes expelled Arab influence and restored Cyprus fully to Byzantine rule.",
+ "citations": [
+  {
+   "label": "Cyprus - Byzantine Empire - Britannica",
+   "url": "https://www.britannica.com/place/Cyprus/Byzantine-Empire"
+  },
+  {
+   "label": "Cyprus in the Middle Ages - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cyprus_in_the_Middle_Ages"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The existence and general terms of the Cyprus condominium are attested in Byzantine and Arab chronicles, but the island's precise administrative division and the degree of day-to-day joint governance are debated among historians of the early medieval Mediterranean. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Cyprus",
+ "blurbKey": "Q229__cyprus-condominium"
+}

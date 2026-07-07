@@ -1,0 +1,72 @@
+{
+ "qid": "Q7183",
+ "names": [
+  "Zhai"
+ ],
+ "title": "Zhai",
+ "variantOf": "Q7183",
+ "endonym": {
+  "native": "翟",
+  "roman": "Zhái (Dí)"
+ },
+ "capsule": "Zhai, also called the Kingdom of Di, was one of the Three Qins, the successor states Xiang Yu carved from the former Qin dynasty's Guanzhong heartland in 206 BC after the Qin collapse. Its king was the surrendered Qin general Dong Yi, enfeoffed as King of Di with a capital at Gaonu in the region's north, ruling alongside the neighboring kingdoms of Yong and Sai. Zhai's independence was short-lived: Liu Bang's forces stormed back into Guanzhong later in 206 BC and Dong Yi surrendered without a fight, after which Zhai's territory was absorbed into the emerging Han dynasty — a wholly different polity from the earlier Qin dynasty it splintered from.",
+ "citations": [
+  {
+   "label": "Three Qins - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Three_Qins"
+  },
+  {
+   "label": "Dong Yi (Qin dynasty) - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dong_Yi_(Qin_dynasty)"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The Qin realm's extent is well documented in Han-era sources and confirmed by archaeological finds including the First Emperor's mausoleum; provincial boundaries within the empire are subject to ongoing revision. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Qin dynasty",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Qin Shi Huang (First Emperor, Ying Zheng)",
+   "nativeName": "秦始皇",
+   "roman": "Qín Shǐhuáng",
+   "start": -221,
+   "end": -210,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Qin Er Shi (Second Emperor, Huhai)",
+   "nativeName": "秦二世",
+   "roman": "Qín Èrshì",
+   "start": -210,
+   "end": -207,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ziying, King of Qin",
+   "nativeName": "秦王子嬰",
+   "roman": "Qín Wáng Zǐyīng",
+   "start": -207,
+   "end": -206,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q7183__zhai"
+}

@@ -1,0 +1,111 @@
+{
+ "qid": "Q241748",
+ "names": [
+  "Serbia"
+ ],
+ "title": "Serbia",
+ "variantOf": "Q241748",
+ "endonym": {
+  "native": "Србија",
+  "roman": "Srbija"
+ },
+ "capsule": "From 1 December 1918 Serbia's Karađorđević crown merged into the new Kingdom of Serbs, Croats and Slovenes (renamed Yugoslavia in 1929), with Serbia continuing thereafter as the union's largest constituent territory rather than a separate sovereign state. Reconstituted as a republic within Tito's socialist federation after 1945 and then within the rump Federal Republic of Yugoslavia after 1992, Serbia endured the Yugoslav wars, NATO's 1999 bombing campaign over Kosovo, and Kosovo's 2008 declaration of independence, which Belgrade has never recognized. Since Montenegro's 2006 referendum dissolved their federal union, Serbia has existed as a fully independent republic, pursuing European Union membership under a semi-presidential system centered on Belgrade.",
+ "citations": [
+  {
+   "label": "Wikipedia: History of Serbia",
+   "url": "https://en.wikipedia.org/wiki/History_of_Serbia"
+  },
+  {
+   "label": "Britannica: Serbia",
+   "url": "https://www.britannica.com/place/Serbia"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The modern Kingdom of Serbia's borders (1878–1918) are well defined by international treaties; the dataset's 1188 start date reflects the medieval kingdom's attestation and the territorial extents for the medieval period are less precisely bounded. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Kingdom of Serbia",
+ "rulers": [
+  {
+   "name": "Peter I Karađorđević",
+   "native": "Петар I Карађорђевић",
+   "roman": "Peter I Karađorđević",
+   "start": 1918,
+   "end": 1921,
+   "nativeName": "Петар I Карађорђевић"
+  },
+  {
+   "name": "Alexander I Karađorđević",
+   "native": "Александар I Карађорђевић",
+   "roman": "Alexander I Karađorđević",
+   "start": 1921,
+   "end": 1934,
+   "nativeName": "Александар I Карађорђевић"
+  },
+  {
+   "name": "Peter II Karađorđević",
+   "native": "Петар II Карађорђевић",
+   "roman": "Peter II Karađorđević",
+   "start": 1934,
+   "end": 1945,
+   "nativeName": "Петар II Карађорђевић"
+  },
+  {
+   "name": "Josip Broz Tito",
+   "native": "Јосип Броз Тито",
+   "roman": "Josip Broz Tito",
+   "start": 1945,
+   "end": 1980,
+   "nativeName": "Јосип Броз Тито"
+  },
+  {
+   "name": "Slobodan Milošević",
+   "native": "Слободан Милошевић",
+   "roman": "Slobodan Milošević",
+   "start": 1989,
+   "end": 2000,
+   "nativeName": "Слободан Милошевић"
+  },
+  {
+   "name": "Vojislav Koštunica",
+   "native": "Војислав Коштуница",
+   "roman": "Vojislav Koštunica",
+   "start": 2000,
+   "end": 2004,
+   "nativeName": "Војислав Коштуница"
+  },
+  {
+   "name": "Boris Tadić",
+   "native": "Борис Тадић",
+   "roman": "Boris Tadić",
+   "start": 2004,
+   "end": 2012,
+   "nativeName": "Борис Тадић"
+  },
+  {
+   "name": "Tomislav Nikolić",
+   "native": "Томислав Николић",
+   "roman": "Tomislav Nikolić",
+   "start": 2012,
+   "end": 2017,
+   "nativeName": "Томислав Николић"
+  },
+  {
+   "name": "Aleksandar Vučić",
+   "native": "Александар Вучић",
+   "roman": "Aleksandar Vučić",
+   "start": 2017,
+   "end": 2026,
+   "nativeName": "Александар Вучић"
+  }
+ ],
+ "blurbKey": "Q241748__serbia"
+}

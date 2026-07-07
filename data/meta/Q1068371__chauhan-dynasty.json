@@ -1,0 +1,168 @@
+{
+ "qid": "Q1068371",
+ "names": [
+  "Chauhan Dynasty"
+ ],
+ "title": "Chauhan Dynasty",
+ "variantOf": "Q1068371",
+ "endonym": {
+  "native": "चाहमान",
+  "roman": "Cāhamāna (Chauhan)"
+ },
+ "capsule": "The Chauhans (Chahamanas) of Shakambhari and later Ajmer were a Rajput dynasty ruling parts of present-day Rajasthan, rising under Vigraharaja II (r. c. 971–998) and expanding through Prithviraja I and Ajayaraja II, who founded Ajmer as a new capital in the early 12th century. The dynasty peaked under Vigraharaja IV (r. c. 1150–1164), who briefly held Delhi, and produced its most famous ruler, Prithviraja III (Prithviraj Chauhan, r. c. 1178–1192), whose defeat and death at the Second Battle of Tarain against Muhammad of Ghor ended independent Chauhan power there. Remnant rule under Govindaraja IV and Hariraja persisted at Ajmer until Qutb ud-Din Aibak's conquest around 1192–1194 — a history entirely unrelated to the Han dynasty of China that shares this entry's Wikidata identifier.",
+ "citations": [
+  {
+   "label": "Chahamanas of Shakambhari - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chahamanas_of_Shakambhari"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Core commandery-level administrative boundaries are documented by Han census records and the Hanshu; Central Asian tributary regions and the Tarim Basin are documented by military campaign accounts and the Hou Hanshu; steppe frontiers with the Xiongnu are conjectural; overall moderate-to-high confidence. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Han dynasty",
+ "rulers": [
+  {
+   "name": "Vigraharaja II",
+   "roman": "Vigraharaja II",
+   "start": 971,
+   "end": 998,
+   "nativeName": null
+  },
+  {
+   "name": "Durlabharaja II",
+   "roman": "Durlabharaja II",
+   "start": 998,
+   "end": 1012,
+   "nativeName": null
+  },
+  {
+   "name": "Govindaraja III",
+   "roman": "Govindaraja III",
+   "start": 1012,
+   "end": 1026,
+   "nativeName": null
+  },
+  {
+   "name": "Vakpatiraja II",
+   "roman": "Vakpatiraja II",
+   "start": 1026,
+   "end": 1040,
+   "nativeName": null
+  },
+  {
+   "name": "Viryarama",
+   "roman": "Viryarama",
+   "start": 1040,
+   "end": 1040,
+   "nativeName": null
+  },
+  {
+   "name": "Chamundaraja",
+   "roman": "Chamundaraja",
+   "start": 1040,
+   "end": 1065,
+   "nativeName": null
+  },
+  {
+   "name": "Durlabharaja III (Dusala)",
+   "roman": "Durlabharaja III",
+   "start": 1065,
+   "end": 1070,
+   "nativeName": null
+  },
+  {
+   "name": "Vigraharaja III (Visala)",
+   "roman": "Vigraharaja III",
+   "start": 1070,
+   "end": 1090,
+   "nativeName": null
+  },
+  {
+   "name": "Prithviraja I",
+   "roman": "Prithviraja I",
+   "start": 1090,
+   "end": 1110,
+   "nativeName": null
+  },
+  {
+   "name": "Ajayaraja II",
+   "roman": "Ajayaraja II",
+   "start": 1110,
+   "end": 1135,
+   "nativeName": null
+  },
+  {
+   "name": "Arnoraja (Ana)",
+   "roman": "Arnoraja",
+   "start": 1135,
+   "end": 1150,
+   "nativeName": null
+  },
+  {
+   "name": "Jagaddeva",
+   "roman": "Jagaddeva",
+   "start": 1150,
+   "end": 1150,
+   "nativeName": null
+  },
+  {
+   "name": "Vigraharaja IV (Visaladeva)",
+   "roman": "Vigraharaja IV",
+   "start": 1150,
+   "end": 1164,
+   "nativeName": null
+  },
+  {
+   "name": "Aparagangeya",
+   "roman": "Aparagangeya",
+   "start": 1164,
+   "end": 1165,
+   "nativeName": null
+  },
+  {
+   "name": "Prithviraja II",
+   "roman": "Prithviraja II",
+   "start": 1165,
+   "end": 1169,
+   "nativeName": null
+  },
+  {
+   "name": "Someshvara",
+   "roman": "Someshvara",
+   "start": 1169,
+   "end": 1178,
+   "nativeName": null
+  },
+  {
+   "name": "Prithviraja III (Prithviraj Chauhan)",
+   "roman": "Prithviraja III",
+   "start": 1178,
+   "end": 1192,
+   "nativeName": null
+  },
+  {
+   "name": "Govindaraja IV",
+   "roman": "Govindaraja IV",
+   "start": 1192,
+   "end": 1192,
+   "nativeName": null
+  },
+  {
+   "name": "Hariraja",
+   "roman": "Hariraja",
+   "start": 1193,
+   "end": 1194,
+   "nativeName": null
+  }
+ ],
+ "blurbKey": "Q1068371__chauhan-dynasty"
+}

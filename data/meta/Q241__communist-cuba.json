@@ -1,0 +1,209 @@
+{
+ "qid": "Q241",
+ "names": [
+  "Communist Cuba"
+ ],
+ "title": "Communist Cuba",
+ "variantOf": "Q241",
+ "endonym": {
+  "native": "República de Cuba",
+  "roman": "República de Cuba"
+ },
+ "capsule": "Communist Cuba denotes the one-party socialist state consolidated by Fidel Castro after the 1959 revolution, formally declared Marxist-Leninist in 1961 and organized under the Communist Party of Cuba from 1965, surviving the 1961 Bay of Pigs invasion, the 1962 missile crisis, decades of U.S. embargo, and the economic 'Special Period' after the 1991 Soviet collapse. Fidel Castro ceded power to his brother Raúl in 2006 (formalized 2008), with Miguel Díaz-Canel becoming the first non-Castro president in 2018 and first party secretary in 2021. This revolutionary socialist state is distinct from the pre-1959 'Republic of Cuba' sharing this Wikidata identifier.",
+ "citations": [
+  {
+   "label": "Cuban Revolution — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cuban_Revolution"
+  },
+  {
+   "label": "Cuba: The Cuban Revolution — Britannica",
+   "url": "https://www.britannica.com/place/Cuba/The-Cuban-Revolution"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Cuban national territory is precisely defined as an island state; the dataset period 1905–1960 captures the pre-revolutionary republic with unambiguous boundaries. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Cuba",
+ "rulers": [
+  {
+   "qid": "Q5042604",
+   "name": "Carlos Saladrigas Zayas",
+   "start": 1940,
+   "end": 1942,
+   "image": "Carlos saladrigas.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20saladrigas.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q7290573",
+   "name": "Ramón Zaydín",
+   "start": 1942,
+   "end": 1944,
+   "image": "Ramon Zaydin.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ramon%20Zaydin.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q655779",
+   "name": "Carlos Prío Socarrás",
+   "start": 1945,
+   "end": 1947,
+   "image": "Carlos Prio Socarras of Cuba.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20Prio%20Socarras%20of%20Cuba.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Otero, Juan Joaquin",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q7299798",
+   "name": "Raúl López del Castillo",
+   "start": 1947,
+   "end": 1948,
+   "image": null
+  },
+  {
+   "qid": "Q15454483",
+   "name": "Manuel Antonio de Varona",
+   "start": 1948,
+   "end": 1950,
+   "image": "Manuel Antonio de Varona Loredo.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Manuel%20Antonio%20de%20Varona%20Loredo.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": null,
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q5511600",
+   "name": "Félix Lancís Sánchez",
+   "start": 1950,
+   "end": 1951,
+   "image": "Félix Lancís Sánchez.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/F%C3%A9lix%20Lanc%C3%ADs%20S%C3%A1nchez.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": null,
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q6278041",
+   "name": "Jorge García Montes",
+   "start": 1955,
+   "end": 1957,
+   "image": "Jorge García Montes.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jorge%20Garc%C3%ADa%20Montes.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": null,
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q507893",
+   "name": "Gonzalo Güell",
+   "start": 1958,
+   "end": 1959,
+   "image": null
+  },
+  {
+   "qid": "Q1990752",
+   "name": "Emilio Núñez Portuondo",
+   "start": 1958,
+   "end": 1958,
+   "image": "Emilio Núñez Portuondo.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emilio%20N%C3%BA%C3%B1ez%20Portuondo.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Courtvb",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q11256",
+   "name": "Fidel Castro",
+   "start": 1959,
+   "end": 2008,
+   "image": "Fidel Castro 1950s.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fidel%20Castro%201950s.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown (Mondadori Publishers)",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q569641",
+   "name": "Anselmo Alliegro y Milá",
+   "start": 1959,
+   "end": 1959,
+   "image": "Anselmo Alliegro y Milá.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Anselmo%20Alliegro%20y%20Mil%C3%A1.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": null,
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q46809",
+   "name": "Raúl Castro",
+   "start": 2008,
+   "end": 2018,
+   "image": "Raúl Castro Ruz en México, 2015 (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ra%C3%BAl%20Castro%20Ruz%20en%20M%C3%A9xico%2C%202015%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 2.0",
+    "artist": "[1]",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q1932603",
+   "name": "Miguel Díaz-Canel",
+   "start": 2018,
+   "end": 2019,
+   "image": "Miguel Diaz-Canel on July 7, 2025 (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Miguel%20Diaz-Canel%20on%20July%207%2C%202025%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "El divo de placetas",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q79358625",
+   "name": "Manuel Marrero Cruz",
+   "start": 2019,
+   "end": null,
+   "image": "Manuel Marrero Cruz before the funeral of Shinzo Abe.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Manuel%20Marrero%20Cruz%20before%20the%20funeral%20of%20Shinzo%20Abe.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 4.0",
+    "artist": "内閣官房内閣広報室",
+    "attributionRequired": true
+   }
+  }
+ ],
+ "blurbKey": "Q241__communist-cuba"
+}

@@ -1,0 +1,67 @@
+{
+ "qid": "Q175881",
+ "names": [
+  "Italian Republic"
+ ],
+ "title": "Italian Republic",
+ "variantOf": "Q175881",
+ "endonym": {
+  "native": "Repubblica Italiana",
+  "roman": "Repubblica Italiana"
+ },
+ "capsule": "The Italian Republic (Repubblica Italiana) was proclaimed in January 1802 with Milan as capital and Napoleon Bonaparte as president, its day-to-day government run by Vice-President Francesco Melzi d'Eril over Lombardy, Romagna and adjoining territories. On 17 March 1805 it was converted into the Napoleonic Kingdom of Italy, with Napoleon crowned king and his stepson Eugène de Beauharnais installed as viceroy in Milan until Austria overran the kingdom in 1814. This northern-Italian Napoleonic client state is unrelated to the earlier Rome-based Roman Republic that shares this identifier.",
+ "citations": [
+  {
+   "label": "Italian Republic (Napoleonic) — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Italian_Republic_(Napoleonic)"
+  },
+  {
+   "label": "Kingdom of Italy (Napoleonic) — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kingdom_of_Italy_(Napoleonic)"
+  },
+  {
+   "label": "Francesco Melzi d'Eril — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Francesco_Melzi_d%27Eril"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Republican-era Roman boundaries are reconstructed from literary sources (Livy, Polybius), inscriptions, and archaeological surveys; provincial boundaries after the mid-second century BC are relatively well attested, but earlier extent in Italy and during the conquest period involves scholarly inference. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Roman Republic (1798-1799)",
+ "rulers": [
+  {
+   "name": "Napoleon Bonaparte",
+   "native": "Napoleone Bonaparte",
+   "roman": "Napoleon Bonaparte",
+   "start": 1802,
+   "end": 1814,
+   "nativeName": "Napoleone Bonaparte"
+  },
+  {
+   "name": "Francesco Melzi d'Eril (Vice-President)",
+   "native": "Francesco Melzi d'Eril",
+   "roman": "Francesco Melzi d'Eril",
+   "start": 1802,
+   "end": 1805,
+   "nativeName": "Francesco Melzi d'Eril"
+  },
+  {
+   "name": "Eugène de Beauharnais (Viceroy)",
+   "native": "Eugène de Beauharnais",
+   "roman": "Eugène de Beauharnais",
+   "start": 1805,
+   "end": 1814,
+   "nativeName": "Eugène de Beauharnais"
+  }
+ ],
+ "blurbKey": "Q175881__italian-republic"
+}

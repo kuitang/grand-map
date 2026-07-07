@@ -1,0 +1,109 @@
+{
+ "qid": "Q62651",
+ "names": [
+  "Denmark-Norway"
+ ],
+ "title": "Denmark-Norway",
+ "variantOf": "Q62651",
+ "endonym": {
+  "native": "Danmark-Norge",
+  "roman": "Danmark-Norge"
+ },
+ "capsule": "The lasting union of Denmark-Norway (Danmark-Norge) began under Christian III, who suppressed a Norwegian rebellion in the Count's Feud and, by the 1536/1537 Herredag decree, reduced Norway from a separate kingdom to a hereditary Danish crown possession governed from Copenhagen. Ruled for nearly three centuries by the House of Oldenburg through a sequence of absolutist monarchs, the composite state was dissolved when Frederick VI was forced to cede Norway to Sweden by the Treaty of Kiel in January 1814, ending the union while Denmark retained Iceland, the Faroes, and Greenland.",
+ "citations": [
+  {
+   "label": "Denmark–Norway - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Denmark%E2%80%93Norway"
+  },
+  {
+   "label": "Denmark - Britannica",
+   "url": "https://www.britannica.com/place/Denmark"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Core territorial extents in Scandinavia are well-documented through administrative records and the chain of peace treaties. Overseas territories (Iceland, Faroe Islands, Greenland, and colonial possessions in the Caribbean) are tracked in Danish crown records; boundaries on the Scandinavian Peninsula reflect treaty lines whose surveying precision varies by period. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Denmark-Norway",
+ "rulers": [
+  {
+   "name": "Christian III",
+   "start": 1537,
+   "end": 1559,
+   "nativeName": null,
+   "roman": ""
+  },
+  {
+   "name": "Frederick II",
+   "start": 1559,
+   "end": 1588,
+   "nativeName": null,
+   "roman": ""
+  },
+  {
+   "name": "Christian IV",
+   "start": 1588,
+   "end": 1648,
+   "nativeName": null,
+   "roman": ""
+  },
+  {
+   "name": "Frederick III",
+   "start": 1648,
+   "end": 1670,
+   "nativeName": null,
+   "roman": ""
+  },
+  {
+   "name": "Christian V",
+   "start": 1670,
+   "end": 1699,
+   "nativeName": null,
+   "roman": ""
+  },
+  {
+   "name": "Frederick IV",
+   "start": 1699,
+   "end": 1730,
+   "nativeName": null,
+   "roman": ""
+  },
+  {
+   "name": "Christian VI",
+   "start": 1730,
+   "end": 1746,
+   "nativeName": null,
+   "roman": ""
+  },
+  {
+   "name": "Frederick V",
+   "start": 1746,
+   "end": 1766,
+   "nativeName": null,
+   "roman": ""
+  },
+  {
+   "name": "Christian VII",
+   "start": 1766,
+   "end": 1808,
+   "nativeName": null,
+   "roman": ""
+  },
+  {
+   "name": "Frederick VI",
+   "start": 1808,
+   "end": 1814,
+   "nativeName": null,
+   "roman": ""
+  }
+ ],
+ "blurbKey": "Q62651__denmark-norway"
+}

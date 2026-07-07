@@ -1,0 +1,105 @@
+{
+ "qid": "Q269109",
+ "names": [
+  "Principality of Ryazan"
+ ],
+ "title": "Principality of Ryazan",
+ "variantOf": "Q269109",
+ "endonym": {
+  "native": "Рязанское княжество",
+  "roman": "Ryazanskoye knyazhestvo"
+ },
+ "capsule": "The Principality of Ryazan split off from the Chernigov lands in the late 11th century under a cadet branch of the Rurikids, with its capital at Old Ryazan on the Oka River guarding the southeastern steppe frontier of Rus'. Chronically at war with the Cumans and its rival princes of Vladimir-Suzdal, Ryazan nonetheless prospered as a river-trade center until December 1237, when it became the first Rus' principality struck by Batu Khan's Mongol invasion; after a five-day siege its capital was burned and its population massacred. Prince Ingvar Ingorevich salvaged what remained of the principality in the invasion's aftermath, ruling from a new seat as Ryazan began its long existence as a Mongol tributary.",
+ "citations": [
+  {
+   "label": "Wikipedia: Principality of Ryazan",
+   "url": "https://en.wikipedia.org/wiki/Principality_of_Ryazan"
+  },
+  {
+   "label": "Wikipedia: Mongol invasion of Kievan Rus'",
+   "url": "https://en.wikipedia.org/wiki/Mongol_invasion_of_Kievan_Rus%27"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The principality's core territory on the Oka is reasonably attested; its shifting eastern and southern boundaries against steppe peoples are incompletely documented. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Principality of Ryazan",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Yaroslav Svyatoslavich",
+   "nativeName": "Ярослав Святославич",
+   "roman": "Yaroslav Svyatoslavich",
+   "start": 1127,
+   "end": 1129,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Rostislav Yaroslavich",
+   "nativeName": "Ростислав Ярославич",
+   "roman": "Rostislav Yaroslavich",
+   "start": 1145,
+   "end": 1153,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Gleb Rostislavich",
+   "nativeName": "Глеб Ростиславич",
+   "roman": "Gleb Rostislavich",
+   "start": 1155,
+   "end": 1178,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Roman Glebovich",
+   "nativeName": "Роман Глебович",
+   "roman": "Roman Glebovich",
+   "start": 1178,
+   "end": 1207,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ingvar Igorevich",
+   "nativeName": "Ингварь Игоревич",
+   "roman": "Ingvar Igorevich",
+   "start": 1212,
+   "end": 1235,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Yuri Igorevich",
+   "nativeName": "Юрий Игоревич",
+   "roman": "Yuri Igorevich",
+   "start": 1235,
+   "end": 1237,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q269109__principality-of-ryazan"
+}

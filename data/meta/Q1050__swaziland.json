@@ -1,0 +1,63 @@
+{
+ "qid": "Q1050",
+ "names": [
+  "Swaziland"
+ ],
+ "title": "Swaziland",
+ "variantOf": "Q1050",
+ "endonym": {
+  "native": "eSwatini",
+  "roman": "eSwatini"
+ },
+ "capsule": "Swaziland in this 1885–1908 span denotes the Swazi kingdom under King Mbandzeni (r. 1875–1889), whose sweeping concessions to European prospectors and settlers—covering mining, farming and grazing rights across nearly the whole country—defined the era, followed by the reign of his son Ngwane V (Bhunu) and, from 1899, Queen Regent Labotsibeni's long regency for the infant Sobhuza II. Amid rival British and South African Republic claims to administer the territory, Swaziland came under direct British control after the 1899–1902 Anglo-Boer War and was constituted a British protectorate (High Commission Territory) from 1903. This concession-era, pre-consolidation kingdom is distinct from the fully independent modern 'Eswatini' sharing this Wikidata identifier.",
+ "citations": [
+  {
+   "label": "Mbandzeni — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mbandzeni"
+  },
+  {
+   "label": "Eswatini: History — Britannica",
+   "url": "https://www.britannica.com/place/Eswatini/History"
+  },
+  {
+   "label": "History of Eswatini — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/History_of_Eswatini"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Colonial-era boundaries were formally surveyed and delimited; the protectorate's extent is well documented and essentially identical to the present state, though pre-colonial Swazi territorial claims before 1881 are less precisely defined. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Eswatini",
+ "rulers": [
+  {
+   "qid": "Q512692",
+   "name": "Ngwane V",
+   "start": 1895,
+   "end": 1899,
+   "image": null
+  },
+  {
+   "qid": "Q379576",
+   "name": "Sobhuza II",
+   "start": 1899,
+   "end": 1982,
+   "image": "King Sobhuza II, 1945 (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/King%20Sobhuza%20II%2C%201945%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "OGL v1.0",
+    "artist": "The National Archives UK - Flickr account",
+    "attributionRequired": true
+   }
+  }
+ ],
+ "blurbKey": "Q1050__swaziland"
+}

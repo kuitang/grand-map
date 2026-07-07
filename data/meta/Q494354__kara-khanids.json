@@ -1,0 +1,176 @@
+{
+ "qid": "Q494354",
+ "names": [
+  "Kara-Khanids"
+ ],
+ "title": "Kara-Khanids",
+ "variantOf": "Q494354",
+ "endonym": {
+  "native": "قاراخانیان",
+  "roman": "Qarākhāniyān",
+  "lang": "fa"
+ },
+ "capsule": "The Qarakhanid (Kara-Khanid) confederation arose among Turkic tribes - chiefly Qarluq, Chigil, and Yaghma - across Semirech'ye and Kashgaria, becoming, after the conversion attributed to Satuq Bughra Khan around 934, the first Turkic dynasty to rule as a Muslim house over settled Central Asian lands. Governed by a dual system in which a senior Arslan Khan shared authority with a junior Bughra Khan, the Qarakhanids conquered Samanid Transoxiana by 999, taking Bukhara and ending Iranian Samanid rule, and made Kashgar and Bukhara centers of Perso-Turkic Islamic scholarship. Succession disputes within the ruling lineage fractured the unified khanate, which split permanently into eastern and western branches around 1042.",
+ "citations": [
+  {
+   "label": "The Karakhanids | UNESCO History of Civilizations of Central Asia",
+   "url": "https://en.unesco.org/silkroad/sites/default/files/knowledge-bank-article/vol_IVa%20silk%20road_the%20karakhanids.pdf"
+  },
+  {
+   "label": "Kara-Khanid Khanate - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kara-Khanid_Khanate"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Core Transoxianan territory (Fergana, Bukhara, Samarkand) is attested from administrative and numismatic records; the Tarim Basin and eastern extent depend more heavily on narrative sources and are geometrically approximate, particularly for the earlier period before the khanate's formal division. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Kara-Khanid Khanate",
+ "rulers": [
+  {
+   "qid": "Q6673079",
+   "name": "Bilge Kül Qadir Khan",
+   "nativeName": "بیلگه کول قادرخان",
+   "roman": "Bilge Kül Qadir Khan",
+   "start": 840,
+   "end": 893,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Bazir Arslan Khan",
+   "nativeName": "بازیر ارسلان خان",
+   "roman": "Bazir Arslan Khan",
+   "start": 893,
+   "end": 920,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Oghulchak Qadir Khan",
+   "nativeName": "اوغولچاق قادرخان",
+   "roman": "Oghulchak Qadir Khan",
+   "start": 893,
+   "end": 924,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": "Q3239600",
+   "name": "Satuq Bughra Khan",
+   "nativeName": "ساتوق بغراخان",
+   "roman": "Satuq Bughra Khan",
+   "start": 920,
+   "end": 955,
+   "image": "Mausoleum of Satuq Bughra Khan (detail, B&W), Artush (Hercule Louis Catenacci, 1816-1884).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mausoleum%20of%20Satuq%20Bughra%20Khan%20(detail%2C%20B%26W)%2C%20Artush%20(Hercule%20Louis%20Catenacci%2C%201816-1884).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Hercule Louis Catenacci (1816-1884), signed lithography",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": null,
+   "name": "Musa Bughra Khan",
+   "nativeName": "موسی بغراخان",
+   "roman": "Musa Bughra Khan",
+   "start": 955,
+   "end": 958,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Sulayman Arslan Khan",
+   "nativeName": "سلیمان ارسلان خان",
+   "roman": "Sulayman Arslan Khan",
+   "start": 958,
+   "end": 970,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ali Arslan Khan",
+   "nativeName": "علی ارسلان خان",
+   "roman": "Ali Arslan Khan",
+   "start": 970,
+   "end": 998,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ahmad Arslan Qara Khan",
+   "nativeName": "احمد ارسلان قراخان",
+   "roman": "Ahmad Arslan Qara Khan",
+   "start": 998,
+   "end": 1017,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Mansur Arslan Khan",
+   "nativeName": "منصور ارسلان خان",
+   "roman": "Mansur Arslan Khan",
+   "start": 1017,
+   "end": 1024,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Muhammad Toghan Khan",
+   "nativeName": "محمد طغان خان",
+   "roman": "Muhammad Toghan Khan",
+   "start": 1024,
+   "end": 1026,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Yusuf Qadir Khan",
+   "nativeName": "یوسف قادرخان",
+   "roman": "Yusuf Qadir Khan",
+   "start": 1026,
+   "end": 1032,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Sulayman Arslan Qara Khan",
+   "nativeName": "سلیمان ارسلان قراخان",
+   "roman": "Sulayman Arslan Qara Khan",
+   "start": 1032,
+   "end": 1056,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q494354__kara-khanids"
+}

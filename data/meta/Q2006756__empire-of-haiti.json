@@ -1,0 +1,47 @@
+{
+ "qid": "Q2006756",
+ "names": [
+  "Empire of Haiti"
+ ],
+ "title": "Empire of Haiti",
+ "variantOf": "Q2006756",
+ "endonym": {
+  "native": "Empire d'Haïti",
+  "roman": "Empire d'Haïti"
+ },
+ "capsule": "'Empire of Haiti' designates two non-contiguous imperial regimes bracketed here between 1805 and 1916: the first proclaimed in 1804 by Jean-Jacques Dessalines, who ruled as Emperor Jacques I until his assassination in 1806, and the second founded in 1849 when General Faustin Soulouque had himself crowned Emperor Faustin I, reigning until his 1859 overthrow. Between and after these two empires Haiti was governed as a republic, so the imperial title did not describe a continuous state across this whole span; the outer bound of 1916 instead reflects the U.S. Marine occupation begun in 1915, after which Haitian sovereignty was effectively suspended under American military government until 1934.",
+ "citations": [
+  {
+   "label": "Empire of Haiti - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Empire_of_Haiti"
+  },
+  {
+   "label": "Haitian Revolution - Britannica",
+   "url": "https://www.britannica.com/topic/Haitian-Revolution"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The geographic extent of the revolutionary state covered the French colony of Saint-Domingue (western Hispaniola), which is well-defined cartographically; zones of effective control shifted continuously during the military campaigns and are only approximately mapped. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Haiti",
+ "rulers": [
+  {
+   "name": "Jean-Jacques Dessalines (Emperor Jacques I)",
+   "native": "Jacques Ier",
+   "roman": "Jacques I",
+   "start": 1804,
+   "end": 1806,
+   "nativeName": "Jacques Ier"
+  }
+ ],
+ "blurbKey": "Q2006756__empire-of-haiti"
+}

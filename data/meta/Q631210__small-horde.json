@@ -1,0 +1,135 @@
+{
+ "qid": "Q631210",
+ "names": [
+  "Small Horde"
+ ],
+ "title": "Small Horde",
+ "variantOf": "Q631210",
+ "endonym": {
+  "native": "كشى جوز",
+  "roman": "Kishi Zhuz",
+  "lang": "kk"
+ },
+ "capsule": "The Small (Lesser) Nogai Horde split off from the main Nogai Horde around 1557–1564, when the mirza Kazy broke with the Volga-based leadership and led his followers to the Kuban steppe east of the Sea of Azov. Settling as a nominal vassal of the Crimean Khanate, the Lesser Horde fractured further, and it and related Nogai groups such as the Budjak, Yedisan, and Kuban hordes raided and traded along the corridor linking the lower Volga to the Black Sea. Weakened by Kalmyk invasions in the 17th century and growing Russian power, the horde was progressively absorbed into the Russian and Crimean spheres through the early 18th century.",
+ "citations": [
+  {
+   "label": "Lesser Nogai Horde – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lesser_Nogai_Horde"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Nogai territorial extents are derived from Russian and Ottoman diplomatic records and traveler accounts describing general zones of migration and tribute; as a nomadic confederation, precise boundaries cannot be established, and the mapped extent is a best estimate of seasonal range rather than a controlled territory. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Nogai Horde",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Shayikh Mamay",
+   "nativeName": "Шейх Мамай",
+   "roman": "Shayikh Mamay",
+   "start": 1537,
+   "end": 1549,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ismail Bey",
+   "nativeName": "Исмаил бий",
+   "roman": "Ismail Bey",
+   "start": 1549,
+   "end": 1563,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Din Ahmad (Tinakhmad)",
+   "nativeName": "Дін Ахмад",
+   "roman": "Din Ahmad",
+   "start": 1563,
+   "end": 1578,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Urus Bey",
+   "nativeName": "Орус бий",
+   "roman": "Urus Bey",
+   "start": 1578,
+   "end": 1578,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Arab Bey",
+   "nativeName": "Арап бий",
+   "roman": "Arab Bey",
+   "start": 1578,
+   "end": 1590,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Urus Bey II",
+   "nativeName": "Орус бий II",
+   "roman": "Urus Bey II",
+   "start": 1590,
+   "end": 1600,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Istek Bey",
+   "nativeName": "Іштек бий",
+   "roman": "Istek Bey",
+   "start": 1600,
+   "end": 1618,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Kansauv Bey",
+   "nativeName": "Қансауыт бий",
+   "roman": "Kansauv Bey",
+   "start": 1618,
+   "end": 1630,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Devlet Gazi",
+   "nativeName": "Дәулет Ғазы",
+   "roman": "Devlet Gazi",
+   "start": 1630,
+   "end": 1637,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q631210__small-horde"
+}

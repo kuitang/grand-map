@@ -1,0 +1,79 @@
+{
+ "qid": "Q1252942",
+ "names": [
+  "Kingdom of Duklja"
+ ],
+ "title": "Kingdom of Duklja",
+ "variantOf": "Q1252942",
+ "endonym": {
+  "native": "Краљевина Дукља",
+  "roman": "Kraljevina Duklja"
+ },
+ "capsule": "Recognized as king by Pope Gregory VII in 1077, Michael (Mihailo) of Duklja became the first ruler in the medieval South Slavic lands to bear a royal title, and his son Constantine Bodin (r. c. 1081–1101) extended Dukljan power into Bosnia and Raška as a Byzantine ally-turned-rival. After Bodin's death, dynastic strife among his heirs and the rising power of the Serbian Grand Župans of Raška steadily eclipsed the kingdom, whose royal line fades from the sources by the mid-12th century.",
+ "citations": [
+  {
+   "label": "Duklja - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Duklja"
+  },
+  {
+   "label": "Constantine Bodin - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Constantine_Bodin"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The core coastal territory of Duklja is identified through Byzantine and papal sources, but the extent of its inland dominion over Rascia and Bosnia is only approximately attested and varied considerably over time. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Duklja",
+ "rulers": [
+  {
+   "name": "Mihailo I",
+   "native": "Михаило I Војислављевић",
+   "roman": "Mihailo I",
+   "start": 1046,
+   "end": 1081,
+   "nativeName": "Михаило I Војислављевић"
+  },
+  {
+   "name": "Constantine Bodin",
+   "native": "Константин Бодин",
+   "roman": "Constantine Bodin",
+   "start": 1081,
+   "end": 1101,
+   "nativeName": "Константин Бодин"
+  },
+  {
+   "name": "Mihailo II",
+   "native": "Михаило II",
+   "roman": "Mihailo II",
+   "start": 1101,
+   "end": 1102,
+   "nativeName": "Михаило II"
+  },
+  {
+   "name": "Kočapar",
+   "native": "Кочапар",
+   "roman": "Kočapar",
+   "start": 1102,
+   "end": 1103,
+   "nativeName": "Кочапар"
+  },
+  {
+   "name": "Đorđe Bodinović",
+   "native": "Ђорђе Бодиновић",
+   "roman": "Đorđe Bodinović",
+   "start": 1113,
+   "end": 1131,
+   "nativeName": "Ђорђе Бодиновић"
+  }
+ ],
+ "blurbKey": "Q1252942__kingdom-of-duklja"
+}

@@ -1,0 +1,91 @@
+{
+ "qid": "Q274488",
+ "names": [
+  "Wu"
+ ],
+ "title": "Wu",
+ "variantOf": "Q274488",
+ "endonym": {
+  "native": "吳",
+  "roman": "Wú"
+ },
+ "capsule": "The state of Wu (吳) was a polity in the lower Yangtze delta traditionally founded when Taibo, elder son of the Zhou ancestor Danfu, migrated south and settled near modern Wuxi. Long regarded as a peripheral 'barbarian' power by the northern Chinese states, Wu rose to sudden prominence in the 6th century BCE under kings such as Helü and Fuchai, repeatedly clashing with its southern neighbor Yue. Wu was destroyed and absorbed by Yue in 473 BCE after King Goujian of Yue's decisive campaign of revenge.",
+ "citations": [
+  {
+   "label": "Wu (state) – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Wu_(state)"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Wu's core territory in the lower Yangtze is well attested in the Zuozhuan and Shiji; precise boundaries are reconstructed and subject to scholarly debate, particularly regarding northern expansion under Fuchai. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Wu (state)",
+ "rulers": [
+  {
+   "name": "Shoumeng",
+   "native": "壽夢",
+   "roman": "Shòumèng",
+   "start": -585,
+   "end": -561,
+   "nativeName": "壽夢"
+  },
+  {
+   "name": "Zhufan",
+   "native": "諸樊",
+   "roman": "Zhūfán",
+   "start": -561,
+   "end": -548,
+   "nativeName": "諸樊"
+  },
+  {
+   "name": "Yuji",
+   "native": "餘祭",
+   "roman": "Yújì",
+   "start": -548,
+   "end": -531,
+   "nativeName": "餘祭"
+  },
+  {
+   "name": "Yumei",
+   "native": "餘昧",
+   "roman": "Yúmèi",
+   "start": -531,
+   "end": -527,
+   "nativeName": "餘昧"
+  },
+  {
+   "name": "Liao",
+   "native": "僚",
+   "roman": "Liáo",
+   "start": -527,
+   "end": -515,
+   "nativeName": "僚"
+  },
+  {
+   "name": "Helü",
+   "native": "闔閭",
+   "roman": "Hélǘ",
+   "start": -515,
+   "end": -496,
+   "nativeName": "闔閭"
+  },
+  {
+   "name": "Fuchai",
+   "native": "夫差",
+   "roman": "Fūchāi",
+   "start": -496,
+   "end": -473,
+   "nativeName": "夫差"
+  }
+ ],
+ "blurbKey": "Q274488__wu"
+}

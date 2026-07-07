@@ -1,0 +1,153 @@
+{
+ "qid": "Q817",
+ "names": [
+  "State of Kuwait"
+ ],
+ "title": "State of Kuwait",
+ "variantOf": "Q817",
+ "endonym": {
+  "native": "دولة الكويت",
+  "roman": "Dawlat al-Kuwayt"
+ },
+ "capsule": "The 'State of Kuwait' here denotes the fully sovereign nation-state that emerged on 19 June 1961, when Kuwait's 1899 protectorate treaty with Britain was annulled by mutual agreement and Sheikh Abdullah Al-Salim Al-Sabah proclaimed independence, prompting a brief Iraqi territorial claim deterred by British and later Arab League troop deployments. Flush with oil revenue, Kuwait built an extensive welfare state, founded Kuwait University (1966), channeled budget surpluses through the world's first sovereign wealth fund (originating in the 1953 Kuwait Investment Board and reorganized as the Kuwait Investment Authority in 1982), and held its first National Assembly elections in 1963 under a 1962 constitution. This 'golden era' of independent statehood ended abruptly on 2 August 1990, when Iraqi forces under Saddam Hussein invaded and briefly annexed the country, an occupation reversed only by the U.S.-led coalition in the 1991 Gulf War.",
+ "citations": [
+  {
+   "label": "State of Kuwait - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/State_of_Kuwait"
+  },
+  {
+   "label": "Sabah Dynasty - Britannica",
+   "url": "https://www.britannica.com/topic/Sabah-dynasty"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Post-1899 boundaries are well attested through British imperial treaties and modern international agreements; pre-protectorate limits of Al-Sabah authority are less precisely defined. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Kuwait",
+ "rulers": [
+  {
+   "qid": "Q400907",
+   "name": "Ahmad Al-Jaber Al-Sabah",
+   "start": 1921,
+   "end": 1950,
+   "image": "أحمد الجابر الصباح.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%D8%A3%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D8%AC%D8%A7%D8%A8%D8%B1%20%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "The original uploader was Σύμμαχος at Arabic Wikipedia.",
+    "attributionRequired": false
+   },
+   "nativeName": "أحمد الجابر الصباح",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q2183167",
+   "name": "Abdullah III Al-Salim Al-Sabah",
+   "start": 1950,
+   "end": 1965,
+   "image": "Shaikh Abdullah III Al-Salim Al-Sabah.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shaikh%20Abdullah%20III%20Al-Salim%20Al-Sabah.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Egyptian Photographer working for the Egyptian Government",
+    "attributionRequired": false
+   },
+   "nativeName": "عبد الله السالم الصباح",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q217194",
+   "name": "Jaber al-Ahmad al-Sabah",
+   "start": 1962,
+   "end": 1963,
+   "image": "حضرة صاحب السمو الشيخ جابر الأحمد الصباح أمير دولة الكويت.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%D8%AD%D8%B6%D8%B1%D8%A9%20%D8%B5%D8%A7%D8%AD%D8%A8%20%D8%A7%D9%84%D8%B3%D9%85%D9%88%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%AC%D8%A7%D8%A8%D8%B1%20%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD%20%D8%A3%D9%85%D9%8A%D8%B1%20%D8%AF%D9%88%D9%84%D8%A9%20%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "MFRK1",
+    "attributionRequired": true
+   },
+   "nativeName": "جابر الأحمد الصباح",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q2074907",
+   "name": "Sabah III Al-Salim Al-Sabah",
+   "start": 1965,
+   "end": 1977,
+   "image": null,
+   "nativeName": "صباح السالم الصباح",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q313661",
+   "name": "Saad Al-Abdullah Al-Salim Al-Sabah",
+   "start": 1978,
+   "end": 2003,
+   "image": "Saad Al-Salim Al-Sabah.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Saad%20Al-Salim%20Al-Sabah.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Md. Lutfar Rahman Binu",
+    "attributionRequired": true
+   },
+   "nativeName": "سعد العبد الله السالم الصباح",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q57555",
+   "name": "Sabah Al-Ahmad Al-Jaber Al-Sabah",
+   "start": 2003,
+   "end": 2006,
+   "image": "Sheikh Sabah IV (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheikh%20Sabah%20IV%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "The White House from Washington, DC",
+    "attributionRequired": false
+   },
+   "nativeName": "صباح الأحمد الجابر الصباح",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q334718",
+   "name": "Nasser Mohammed Al-Ahmed Al-Sabah",
+   "start": 2006,
+   "end": 2011,
+   "image": "Nasser Mohammed Al-Ahmed Al-Sabah.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nasser%20Mohammed%20Al-Ahmed%20Al-Sabah.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Official White House Photo by Lawrence Jackson",
+    "attributionRequired": false
+   },
+   "nativeName": "ناصر المحمد الأحمد الصباح",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q57894",
+   "name": "Jaber Al-Mubarak Al-Hamad Al-Sabah",
+   "start": 2011,
+   "end": 2019,
+   "image": "Sheikh Jaber Al-Mubarak Al-Hamad Al-Sabah (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheikh%20Jaber%20Al-Mubarak%20Al-Hamad%20Al-Sabah%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 2.0",
+    "artist": "Kuwait Ministry of Defence",
+    "attributionRequired": true
+   },
+   "nativeName": "جابر مبارك الحمد الصباح",
+   "nativeLang": "ar"
+  }
+ ],
+ "blurbKey": "Q817__state-of-kuwait"
+}

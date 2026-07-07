@@ -1,0 +1,162 @@
+{
+ "qid": "Q7462",
+ "names": [
+  "Northern Song"
+ ],
+ "title": "Northern Song",
+ "variantOf": "Q7462",
+ "endonym": {
+  "native": "北宋",
+  "roman": "Běi Sòng"
+ },
+ "capsule": "The Northern Song (北宋, 960–1127) was founded by the general Zhao Kuangyin (Emperor Taizu), who seized power in a coup and reunified China after the chaos of the Five Dynasties, ruling from the capital Kaifeng. It presided over an era of economic growth, gunpowder and printing innovation, and a civil-service examination system that entrenched scholar-officials over the old aristocracy, though it never fully controlled the northern frontier lost to the Khitan Liao. The dynasty collapsed when the Jurchen Jin sacked Kaifeng in 1127, capturing Emperors Huizong and Qinzong in the Jingkang Incident and driving the Song court south.",
+ "citations": [
+  {
+   "label": "Song dynasty – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Song_dynasty"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases (Times Atlas of World History; Kinder & Hilgemann; Shepherd 1926) at ~0.07° resolution. Chinese dynastic boundaries are among the best-attested premodern borders (cross-checked against the Tan Qixiang atlas tradition underlying CHGIS). Confidence: high. Capsule researched for this polity/era specifically (confidence: high).",
+ "rulers": [
+  {
+   "qid": "Q7475",
+   "name": "Emperor Zhenzong of Song",
+   "start": 997,
+   "end": 1022,
+   "ordinal": 3,
+   "image": "Portrait assis de l'empereur Song Zhenzong.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20assis%20de%20l'empereur%20Song%20Zhenzong.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown artistUnknown artist",
+    "attributionRequired": false
+   },
+   "nativeName": "宋真宗",
+   "nativeLang": "zh"
+  },
+  {
+   "qid": "Q7477",
+   "name": "Emperor Renzong of Song",
+   "start": 1022,
+   "end": 1063,
+   "ordinal": 4,
+   "image": "Song Renzong.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Song%20Renzong.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown artistUnknown artist",
+    "attributionRequired": false
+   },
+   "nativeName": "宋仁宗",
+   "nativeLang": "zh"
+  },
+  {
+   "qid": "Q7479",
+   "name": "Emperor Yingzong of Song",
+   "start": 1063,
+   "end": 1067,
+   "ordinal": 5,
+   "image": "宋代帝半身像册.06.宋英宗 (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%E5%AE%8B%E4%BB%A3%E5%B8%9D%E5%8D%8A%E8%BA%AB%E5%83%8F%E5%86%8C.06.%E5%AE%8B%E8%8B%B1%E5%AE%97%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "AnonymousUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "宋英宗",
+   "nativeLang": "zh"
+  },
+  {
+   "qid": "Q7483",
+   "name": "Emperor Shenzong of Song",
+   "start": 1067,
+   "end": 1085,
+   "ordinal": 6,
+   "image": "Shenzong.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shenzong.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "宋神宗",
+   "nativeLang": "zh"
+  },
+  {
+   "qid": "Q7484",
+   "name": "Emperor Zhezong of Song",
+   "start": 1085,
+   "end": 1100,
+   "ordinal": 7,
+   "image": "Zhezong.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Zhezong.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "宋哲宗",
+   "nativeLang": "zh"
+  },
+  {
+   "qid": "Q7486",
+   "name": "Emperor Huizong of Song",
+   "start": 1100,
+   "end": 1126,
+   "ordinal": 8,
+   "image": "HuizongHui.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/HuizongHui.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "宋徽宗",
+   "nativeLang": "zh"
+  },
+  {
+   "qid": "Q7488",
+   "name": "Emperor Qinzong of Song",
+   "start": 1126,
+   "end": 1127,
+   "ordinal": 9,
+   "image": "SongEmperorAlbumQinzongPortrait.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SongEmperorAlbumQinzongPortrait.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "AnonymousUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "宋钦宗",
+   "nativeLang": "zh"
+  },
+  {
+   "qid": "Q7489",
+   "name": "Emperor Gaozong of Song",
+   "start": 1127,
+   "end": 1129,
+   "ordinal": 10,
+   "image": "SongEmperorAlbumGaozongPortrait.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SongEmperorAlbumGaozongPortrait.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "AnonymousUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "宋高宗",
+   "nativeLang": "zh"
+  },
+  {
+   "qid": "Q11636648",
+   "name": "Zhao Fu",
+   "start": 1129,
+   "end": 1129,
+   "ordinal": null,
+   "image": null,
+   "nativeName": "赵旉",
+   "nativeLang": "zh"
+  }
+ ],
+ "blurbKey": "Q7462__northern-song"
+}

@@ -1,0 +1,190 @@
+{
+ "qid": "Q631210",
+ "names": [
+  "Nogai Horde"
+ ],
+ "title": "Nogai Horde",
+ "variantOf": "Q631210",
+ "endonym": {
+  "native": "Nogai Horde",
+  "roman": "Nogai Horde",
+  "lang": "nog"
+ },
+ "capsule": "The Nogai Horde was a nomadic Turkic-Mongol confederation that emerged in the mid-15th century from the western wing of the dissolving Golden Horde, dominated by the descendants of the emir Edigu and centered on the steppe between the Volga and Ural rivers with its base at Saray-Jük. At its height it could field tens of thousands of horsemen and profited from trade routes linking Muscovy, the Crimean Khanate, and Central Asia. Devastated by famine, plague, and mounting Russian and Kazakh pressure in the 1550s, the horde split around 1557–1564 into the Great Nogai Horde and the Lesser (Small) Nogai Horde.",
+ "citations": [
+  {
+   "label": "Nogai Horde – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nogai_Horde"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Nogai territorial extents are derived from Russian and Ottoman diplomatic records and traveler accounts describing general zones of migration and tribute; as a nomadic confederation, precise boundaries cannot be established, and the mapped extent is a best estimate of seasonal range rather than a controlled territory. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Nogai Horde",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Nur al-Din",
+   "nativeName": "Нурэддин",
+   "roman": "Nur al-Din",
+   "start": 1419,
+   "end": 1426,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Gazi (Ghazi)",
+   "nativeName": "Ғазы",
+   "roman": "Ghazi",
+   "start": 1426,
+   "end": 1440,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Wakkas",
+   "nativeName": "Уаккас",
+   "roman": "Wakkas",
+   "start": 1440,
+   "end": 1447,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Yamgurchi",
+   "nativeName": "Ямгурчи",
+   "roman": "Yamgurchi",
+   "start": 1447,
+   "end": 1455,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Musa",
+   "nativeName": "Муса",
+   "roman": "Musa",
+   "start": 1455,
+   "end": 1459,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ahmad",
+   "nativeName": "Ахмад",
+   "roman": "Ahmad",
+   "start": 1459,
+   "end": 1470,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ibraim (Ibrahim)",
+   "nativeName": "Ибраим",
+   "roman": "Ibraim",
+   "start": 1470,
+   "end": 1476,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Musa Bey II",
+   "nativeName": "Муса бий",
+   "roman": "Musa Bey",
+   "start": 1500,
+   "end": 1522,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Saidak",
+   "nativeName": "Сайдак",
+   "roman": "Saidak",
+   "start": 1522,
+   "end": 1537,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Shayikh Mamay",
+   "nativeName": "Шейх Мамай",
+   "roman": "Shayikh Mamay",
+   "start": 1537,
+   "end": 1549,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ismail Bey",
+   "nativeName": "Исмаил бий",
+   "roman": "Ismail Bey",
+   "start": 1549,
+   "end": 1563,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Din Ahmad (Tinakhmad)",
+   "nativeName": "Дін Ахмад",
+   "roman": "Din Ahmad",
+   "start": 1563,
+   "end": 1578,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Urus Bey",
+   "nativeName": "Орус бий",
+   "roman": "Urus Bey",
+   "start": 1578,
+   "end": 1578,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Arab Bey",
+   "nativeName": "Арап бий",
+   "roman": "Arab Bey",
+   "start": 1578,
+   "end": 1590,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q631210__nogai-horde"
+}

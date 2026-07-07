@@ -1,0 +1,138 @@
+{
+ "qid": "Q424",
+ "names": [
+  "Cambodia"
+ ],
+ "title": "Cambodia",
+ "variantOf": "Q424",
+ "endonym": {
+  "native": "កម្ពុជា",
+  "roman": "Kâmpŭchéa"
+ },
+ "capsule": "Between 1700 and 1803, the post-Angkorian Khmer kingdom ruled from the Oudong capital was caught in an escalating contest between Siam and the Nguyen lords of Vietnam for control of the Mekong basin. Cambodian kings such as Ang Tong and Ang Non were repeatedly installed and deposed through Siamese or Vietnamese intervention, and in 1794 the Siamese extracted the provinces of Battambang and Siem Reap, home to the ruins of Angkor, as the price of restoring a Siamese-backed prince to the throne. The era closed as Ang Chan II acceded around 1802-1806 and accepted simultaneous tributary status to both the newly unified Nguyen Vietnam of Emperor Gia Long and to Siam, cementing Cambodia's dual-vassal position for the following decades.",
+ "citations": [
+  {
+   "label": "Cambodia - Tai and Vietnamese Hegemony - Britannica",
+   "url": "https://www.britannica.com/place/Cambodia/Tai-and-Vietnamese-hegemony"
+  },
+  {
+   "label": "Post-Angkor period - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Post-Angkor_period"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Cambodia's territorial extent in this period is poorly documented; boundaries fluctuated continuously with military fortunes and no formal delimitation with Siam or Vietnam was established, making any cartographic representation approximate. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Cambodia Middle Period",
+ "rulers": [
+  {
+   "qid": "Q2963137",
+   "name": "Chey Chestha III",
+   "start": 1705,
+   "end": 1706,
+   "image": null,
+   "nativeName": "ជ័យជេស្ឋាទី៣",
+   "nativeLang": "km"
+  },
+  {
+   "qid": "Q3525739",
+   "name": "Dhamma Reachea III",
+   "start": 1707,
+   "end": 1714,
+   "image": null,
+   "nativeName": "ធម្មរាជាទី៣",
+   "nativeLang": "km"
+  },
+  {
+   "qid": "Q2849237",
+   "name": "Preah Keo Fa III",
+   "start": 1714,
+   "end": 1722,
+   "image": null,
+   "nativeName": "ព្រះកែវហ៊្វាទី៣",
+   "nativeLang": "km"
+  },
+  {
+   "qid": "Q3525740",
+   "name": "Thommo Reachea IV",
+   "start": 1747,
+   "end": 1747,
+   "image": null,
+   "nativeName": "ស្រីធម្មរាជា",
+   "nativeLang": "km"
+  },
+  {
+   "qid": "Q2963140",
+   "name": "Chey Chettha V",
+   "start": 1749,
+   "end": 1755,
+   "image": null,
+   "nativeName": "ស្រីជ័យជេដ្ឋទី២",
+   "nativeLang": "km"
+  },
+  {
+   "qid": "Q3473926",
+   "name": "Satha II",
+   "start": 1749,
+   "end": 1749,
+   "image": null,
+   "nativeName": "ព្រះសត្ថាទី២អង្គជី",
+   "nativeLang": "km"
+  },
+  {
+   "qid": "Q2849241",
+   "name": "Ang Tong",
+   "start": 1756,
+   "end": 1757,
+   "image": null,
+   "nativeName": "ព្រះបាទរាមាធិបតីទី៣អង្គទង",
+   "nativeLang": "km"
+  },
+  {
+   "qid": "Q3358615",
+   "name": "Outey II",
+   "start": 1758,
+   "end": 1777,
+   "image": null,
+   "nativeName": "ព្រះបាទនារាយណ៍រាជាទី២អង្តតន់",
+   "nativeLang": "km"
+  },
+  {
+   "qid": "Q2849242",
+   "name": "Ang Non II",
+   "start": 1775,
+   "end": 1779,
+   "image": null,
+   "nativeName": "ព្រះរាមរាជាអង្គនន់",
+   "nativeLang": "km"
+  },
+  {
+   "qid": "Q2849240",
+   "name": "Ang Eng",
+   "start": 1779,
+   "end": 1796,
+   "image": null,
+   "nativeName": "អង្គអេង",
+   "nativeLang": "km"
+  },
+  {
+   "qid": "Q25543397",
+   "name": "Talaha (Pok)",
+   "start": 1796,
+   "end": 1806,
+   "image": null,
+   "nativeName": "ចៅហ្វាទឡ្ហៈប៉ុក",
+   "nativeLang": "km"
+  }
+ ],
+ "blurbKey": "Q424__cambodia"
+}

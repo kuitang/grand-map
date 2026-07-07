@@ -1,0 +1,82 @@
+{
+ "qid": "Q1968654",
+ "names": [
+  "Beylik of Saruhan"
+ ],
+ "title": "Beylik of Saruhan",
+ "variantOf": "Q1968654",
+ "endonym": {
+  "native": "سروهان بيليگي",
+  "roman": "Saruhan Beyliği",
+  "lang": "ota"
+ },
+ "capsule": "The Beylik of Saruhan (Sarukhanids) was a Turkish Anatolian principality founded around 1313 when the frontier chieftain Saruhan Bey seized Manisa (Byzantine Magnesia) in the Gediz valley, one of several beyliks that filled the vacuum left by the Seljuk Sultanate of Rum's collapse. Centered on Manisa, it expanded along the Aegean coast under Saruhan's successors İlyas Bey and İshak Çelebi, the latter commissioning the Ulu Cami mosque complex in the 1360s–70s. Annexed by the Ottoman sultan Bayezid I in 1390 and restored under Hızır Şah after Timur's 1402 intervention, the beylik was finally extinguished around 1410 when Mehmed Çelebi retook Manisa — a principality with no connection to the ancient Chinese state of Han.",
+ "citations": [
+  {
+   "label": "Sarukhanids - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sarukhanids"
+  },
+  {
+   "label": "Saruhan dynasty - Britannica",
+   "url": "https://www.britannica.com/topic/Saruhan-dynasty"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Han's core territories are reconstructed primarily from Warring States textual sources (Shiji, Zhanguo Ce) with limited archaeological corroboration; the irregular fragmented boundaries typical of this state make precise geometric rendering inherently conjectural. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Han (state)",
+ "rulers": [
+  {
+   "name": "Saruhan Bey",
+   "roman": "Saruhan Bey",
+   "start": 1313,
+   "end": 1345,
+   "nativeName": null
+  },
+  {
+   "name": "İlyas Bey",
+   "roman": "İlyas Bey",
+   "start": 1345,
+   "end": 1362,
+   "nativeName": null
+  },
+  {
+   "name": "İshak Çelebi",
+   "roman": "İshak Çelebi",
+   "start": 1362,
+   "end": 1388,
+   "nativeName": null
+  },
+  {
+   "name": "Hızır Şah Bey",
+   "roman": "Hızır Şah Bey",
+   "start": 1388,
+   "end": 1390,
+   "nativeName": null
+  },
+  {
+   "name": "Orhan Bey",
+   "roman": "Orhan Bey",
+   "start": 1402,
+   "end": 1404,
+   "nativeName": null
+  },
+  {
+   "name": "Hızır Şah Bey",
+   "roman": "Hızır Şah Bey",
+   "start": 1404,
+   "end": 1410,
+   "nativeName": null
+  }
+ ],
+ "blurbKey": "Q1968654__beylik-of-saruhan"
+}

@@ -1,0 +1,281 @@
+{
+ "qid": "Q154667",
+ "names": [
+  "Georgia"
+ ],
+ "title": "Georgia",
+ "variantOf": "Q154667",
+ "endonym": {
+  "native": "საქართველო",
+  "roman": "Sakartvelo"
+ },
+ "capsule": "In this atlas, 'Georgia' denotes the continuous Georgian national entity known to its own people as Sakartvelo, tracing from the early Christian principality of Kartli (Iberia) under local eristavis and the presiding prince Guaram I (curopalates from c. 575-588), through centuries of Byzantine, Sasanian, Arab and Mongol overlordship, medieval unification and later fragmentation into rival kingdoms, absorption into the Russian Empire after 1801 and the Soviet Georgian SSR after 1921, to the independent republic proclaimed in 1991. Its heartland has always centered on the Kartli-Kakheti plain and South Caucasus highlands between the Black and Caspian Seas, with Tbilisi as its capital since the sixth century. Modern Georgia, independent since 1991, remains organized around this same historic core.",
+ "citations": [
+  {
+   "label": "Unification of the Georgian realm - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Unification_of_the_Georgian_realm"
+  },
+  {
+   "label": "Bagrationi dynasty - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bagrationi_dynasty"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases (Times Atlas of World History; Kinder & Hilgemann; Shepherd 1926) at ~0.07° resolution. Core Kartli/Imereti well attested; trans-Caucasian vassal fringes fluid. Confidence: moderate–high. Capsule researched for this polity/era specifically (confidence: medium).",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Bagrat III",
+   "nativeName": "ბაგრატ III",
+   "roman": "Bagrat III",
+   "start": 1008,
+   "end": 1014,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "George I",
+   "nativeName": "გიორგი I",
+   "roman": "Giorgi I",
+   "start": 1014,
+   "end": 1027,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Bagrat IV",
+   "nativeName": "ბაგრატ IV",
+   "roman": "Bagrat IV",
+   "start": 1027,
+   "end": 1072,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "George II",
+   "nativeName": "გიორგი II",
+   "roman": "Giorgi II",
+   "start": 1072,
+   "end": 1089,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "David IV the Builder",
+   "nativeName": "დავით IV",
+   "roman": "Davit IV",
+   "start": 1089,
+   "end": 1125,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Demetrius I",
+   "nativeName": "დემეტრე I",
+   "roman": "Demetre I",
+   "start": 1125,
+   "end": 1156,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "George III",
+   "nativeName": "გიორგი III",
+   "roman": "Giorgi III",
+   "start": 1156,
+   "end": 1184,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Tamar the Great",
+   "nativeName": "თამარი",
+   "roman": "Tamar",
+   "start": 1184,
+   "end": 1213,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "George IV Lasha",
+   "nativeName": "გიორგი IV ლაშა",
+   "roman": "Giorgi IV Lasha",
+   "start": 1213,
+   "end": 1223,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Rusudan",
+   "nativeName": "რუსუდანი",
+   "roman": "Rusudan",
+   "start": 1223,
+   "end": 1245,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "David VI & David VII (co-rulers)",
+   "nativeName": "დავით VI და დავით VII",
+   "roman": "Davit VI & Davit VII",
+   "start": 1245,
+   "end": 1259,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Demetrius II the Devoted",
+   "nativeName": "დემეტრე II",
+   "roman": "Demetre II",
+   "start": 1259,
+   "end": 1289,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "David VIII",
+   "nativeName": "დავით VIII",
+   "roman": "Davit VIII",
+   "start": 1293,
+   "end": 1311,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "George V the Brilliant",
+   "nativeName": "გიორგი V ბრწყინვალე",
+   "roman": "Giorgi V Brtskinvale",
+   "start": 1314,
+   "end": 1346,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "David IX",
+   "nativeName": "დავით IX",
+   "roman": "Davit IX",
+   "start": 1346,
+   "end": 1360,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Bagrat V the Great",
+   "nativeName": "ბაგრატ V",
+   "roman": "Bagrat V",
+   "start": 1360,
+   "end": 1393,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "George VII",
+   "nativeName": "გიორგი VII",
+   "roman": "Giorgi VII",
+   "start": 1393,
+   "end": 1407,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Constantine I",
+   "nativeName": "კონსტანტინე I",
+   "roman": "Konstantine I",
+   "start": 1407,
+   "end": 1412,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Alexander I the Great",
+   "nativeName": "ალექსანდრე I",
+   "roman": "Aleksandre I",
+   "start": 1412,
+   "end": 1442,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Vakhtang IV",
+   "nativeName": "ვახტანგ IV",
+   "roman": "Vakhtang IV",
+   "start": 1442,
+   "end": 1446,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "George VIII",
+   "nativeName": "გიორგი VIII",
+   "roman": "Giorgi VIII",
+   "start": 1446,
+   "end": 1465,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Bagrat VI",
+   "nativeName": "ბაგრატ VI",
+   "roman": "Bagrat VI",
+   "start": 1465,
+   "end": 1478,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Constantine II",
+   "nativeName": "კონსტანტინე II",
+   "roman": "Konstantine II",
+   "start": 1478,
+   "end": 1505,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q154667__georgia"
+}

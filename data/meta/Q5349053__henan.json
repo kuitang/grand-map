@@ -1,0 +1,50 @@
+{
+ "qid": "Q5349053",
+ "names": [
+  "Henan"
+ ],
+ "title": "Henan",
+ "variantOf": "Q5349053",
+ "endonym": {
+  "native": "河南",
+  "roman": "Hénán"
+ },
+ "capsule": "The Kingdom of Henan was created by Xiang Yu in 206 BC for Shen Yang, a subordinate of the Zhao chancellor Zhang Er, who was granted the territory around Luoyang, the old Zhou royal domain that Qin had annexed two generations earlier. It was among the smaller and shorter-lived of the Eighteen Kingdoms established after the Qin dynasty's collapse. In 205 BC, amid the Chu–Han Contention, Shen Yang surrendered to Liu Bang, and Henan was absorbed as a commandery of the nascent Han dynasty.",
+ "citations": [
+  {
+   "label": "Shen Yang (Eighteen Kingdoms) - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Shen_Yang_(Eighteen_Kingdoms)"
+  },
+  {
+   "label": "Eighteen Kingdoms - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Eighteen_Kingdoms"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The political divisions are documented in Sima Qian's Shiji and Ban Gu's Hanshu, but the precise territories assigned to each king are reconstructed from textual sources alone; archaeological demarcation of boundaries is largely impossible. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Eighteen Kingdoms",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Xiang Yu, Hegemon-King (overlord of the Eighteen Kingdoms)",
+   "nativeName": "西楚霸王項羽",
+   "roman": "Xī Chǔ Bàwáng Xiàng Yǔ",
+   "start": -206,
+   "end": -203,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q5349053__henan"
+}

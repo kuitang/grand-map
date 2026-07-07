@@ -1,0 +1,72 @@
+{
+ "qid": "Q2006756",
+ "names": [
+  "Haiti"
+ ],
+ "title": "Haiti",
+ "variantOf": "Q2006756",
+ "endonym": {
+  "native": "Saint-Domingue",
+  "roman": "Saint-Domingue"
+ },
+ "capsule": "Between 1792 and 1803, the territory later renamed Haiti was still nominally the French colony of Saint-Domingue, convulsed by the slave uprising that began in August 1791 and the abolition of slavery decreed by French civil commissioners in 1793-94. Former slave Toussaint Louverture rose to dominate the colony militarily and politically, defeating British and Spanish interventions, and by 1801 issued an autonomous constitution naming himself governor-for-life while nominally retaining French sovereignty. Napoleon's 1802 expedition under General Leclerc captured and deported Louverture, but yellow fever and fierce guerrilla resistance under Jean-Jacques Dessalines destroyed the French army, culminating in the rebel victory at the Battle of Vertieres on 18 November 1803 that ended French control weeks before independence was proclaimed.",
+ "citations": [
+  {
+   "label": "Haitian Revolution - Britannica",
+   "url": "https://www.britannica.com/topic/Haitian-Revolution"
+  },
+  {
+   "label": "Haitian Revolution - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Haitian_Revolution"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The geographic extent of the revolutionary state covered the French colony of Saint-Domingue (western Hispaniola), which is well-defined cartographically; zones of effective control shifted continuously during the military campaigns and are only approximately mapped. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Haiti",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Léger-Félicité Sonthonax (Civil Commissioner)",
+   "nativeName": "",
+   "roman": "",
+   "start": 1792,
+   "end": 1797,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Toussaint Louverture (Governor-General)",
+   "nativeName": "",
+   "roman": "",
+   "start": 1797,
+   "end": 1802,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Jean-Jacques Dessalines",
+   "nativeName": "",
+   "roman": "",
+   "start": 1802,
+   "end": 1803,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q2006756__haiti"
+}

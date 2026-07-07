@@ -1,0 +1,83 @@
+{
+ "qid": "Q203493",
+ "names": [
+  "Kingdom of Romania"
+ ],
+ "title": "Kingdom of Romania",
+ "variantOf": "Q203493",
+ "endonym": {
+  "native": "Regatul României",
+  "roman": "Regatul României"
+ },
+ "capsule": "The Kingdom of Romania emerged from World War I roughly doubled in territory as 'Greater Romania,' absorbing Transylvania, Bessarabia, and Bukovina, with Ferdinand I crowned at Alba Iulia in 1922. King Carol II imposed a royal dictatorship in 1938, but territorial losses to the Soviet Union, Hungary, and Bulgaria in 1940 forced his abdication in favor of his son Michael I under the fascist National Legionary State and then Marshal Ion Antonescu's military dictatorship. Romania fought alongside, then after Michael's August 1944 coup against Antonescu, against Nazi Germany, before Soviet occupation forced Michael's abdication and the monarchy's abolition on 30 December 1947.",
+ "citations": [
+  {
+   "label": "Britannica: Romania",
+   "url": "https://www.britannica.com/place/Romania"
+  },
+  {
+   "label": "Wikipedia: Kingdom of Romania",
+   "url": "https://en.wikipedia.org/wiki/Kingdom_of_Romania"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Boundaries are well documented through successive peace treaties; the 1940 territorial changes are precisely recorded, and the state's geographic extent at each phase is well established in modern historiography. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Kingdom of Romania",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Ferdinand I",
+   "nativeName": "Ferdinand I al României",
+   "roman": "",
+   "start": 1914,
+   "end": 1927,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Michael I",
+   "nativeName": "Mihai I al României",
+   "roman": "",
+   "start": 1927,
+   "end": 1930,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Carol II",
+   "nativeName": "Carol al II-lea al României",
+   "roman": "",
+   "start": 1930,
+   "end": 1940,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Michael I (second reign)",
+   "nativeName": "Mihai I al României",
+   "roman": "",
+   "start": 1940,
+   "end": 1947,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q203493__kingdom-of-romania"
+}

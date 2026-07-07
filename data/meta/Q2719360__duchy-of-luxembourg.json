@@ -1,0 +1,55 @@
+{
+ "qid": "Q2719360",
+ "names": [
+  "Duchy of Luxembourg"
+ ],
+ "title": "Duchy of Luxembourg",
+ "variantOf": "Q2719360",
+ "endonym": {
+  "native": "Herzogtum Luxemburg",
+  "roman": "Herzogtum Luxemburg"
+ },
+ "capsule": "In this 1429–1450 window the Duchy of Luxembourg was held by its last resident duchess, Elisabeth of Görlitz, who under mounting Burgundian pressure ceded her succession rights to Philip the Good in the 1441 Treaty of Hesdin. Philip seized the duchy by force in 1443, expelling Elisabeth, and by 1451 was its undisputed master, folding Luxembourg into the Burgundian Netherlands.",
+ "citations": [
+  {
+   "label": "Elizabeth of Görlitz – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Elisabeth,_Duchess_of_Luxembourg"
+  },
+  {
+   "label": "Luxembourg – Britannica (History)",
+   "url": "https://www.britannica.com/place/Luxembourg/History"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The duchy's core territory and the 1443 transfer to Burgundy are well-documented in imperial and Burgundian records; exact extent of peripheral dependencies and forest boundaries in this period carries moderate uncertainty. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Duchy of Luxembourg",
+ "rulers": [
+  {
+   "name": "Elisabeth of Görlitz",
+   "native": "Elisabeth von Görlitz",
+   "roman": "Elisabeth of Görlitz",
+   "start": 1411,
+   "end": 1443,
+   "nativeName": "Elisabeth von Görlitz"
+  },
+  {
+   "name": "Philip the Good",
+   "native": "Philippe le Bon",
+   "roman": "Philip the Good",
+   "start": 1443,
+   "end": 1467,
+   "nativeName": "Philippe le Bon"
+  }
+ ],
+ "blurbKey": "Q2719360__duchy-of-luxembourg"
+}

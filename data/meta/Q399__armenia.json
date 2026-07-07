@@ -1,0 +1,71 @@
+{
+ "qid": "Q399",
+ "names": [
+  "Armenia"
+ ],
+ "title": "Armenia",
+ "variantOf": "Q399",
+ "endonym": {
+  "native": "Հայաստանի Հանրապետություն",
+  "roman": "Hayastani Hanrapetut'yun"
+ },
+ "capsule": "The First Republic of Armenia was proclaimed at Yerevan on 28 May 1918 after the collapse of the Transcaucasian Federation, and was governed throughout its brief existence by cabinets of the Armenian Revolutionary Federation (Dashnaktsutyun). Battered by the 1918 Ottoman invasion, waves of genocide refugees, and the disastrous 1920 war with Turkish nationalist forces, the republic was invaded by the Soviet Eleventh Army and ceased to exist on 2 December 1920, when its last government handed power to a Bolshevik revolutionary committee.",
+ "citations": [
+  {
+   "label": "Wikipedia: First Republic of Armenia",
+   "url": "https://en.wikipedia.org/wiki/First_Republic_of_Armenia"
+  },
+  {
+   "label": "Wikipedia: Cabinets of the First Republic of Armenia",
+   "url": "https://en.wikipedia.org/wiki/Cabinets_of_the_First_Republic_of_Armenia"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The republic's borders were in constant flux owing to warfare with Turkey, Azerbaijan, and the advance of Soviet forces; the maximum extent after Ottoman withdrawal in late 1918 is reasonably documented but precise boundaries at any specific date remain contested in scholarship. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Armenia",
+ "rulers": [
+  {
+   "name": "Hovhannes Kajaznuni",
+   "native": "Հովհաննես Քաջազնունի",
+   "roman": "Hovhannes Kajaznuni",
+   "start": 1918,
+   "end": 1919,
+   "nativeName": "Հովհաննես Քաջազնունի"
+  },
+  {
+   "name": "Alexander Khatisian",
+   "native": "Ալեքսանդր Խատիսյան",
+   "roman": "Alek'sandr Khatisyan",
+   "start": 1919,
+   "end": 1920,
+   "nativeName": "Ալեքսանդր Խատիսյան"
+  },
+  {
+   "name": "Hamo Ohanjanyan",
+   "native": "Համո Օհանջանյան",
+   "roman": "Hamo Ohanjanyan",
+   "start": 1920,
+   "end": 1920,
+   "nativeName": "Համո Օհանջանյան"
+  },
+  {
+   "name": "Simon Vratsian",
+   "native": "Սիմոն Վրացյան",
+   "roman": "Simon Vrats'yan",
+   "start": 1920,
+   "end": 1920,
+   "nativeName": "Սիմոն Վրացյան"
+  }
+ ],
+ "blurbKey": "Q399__armenia"
+}

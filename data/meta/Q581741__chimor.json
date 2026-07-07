@@ -1,0 +1,73 @@
+{
+ "qid": "Q581741",
+ "names": [
+  "Chimor"
+ ],
+ "title": "Chimor",
+ "variantOf": "Q581741",
+ "endonym": {
+  "native": "Chimor",
+  "roman": "Chimor",
+  "lang": "moc"
+ },
+ "capsule": "Chimor arose on Peru's arid north coast in the wake of the Moche culture's collapse, traditionally founded when the legendary figure Taycanamo arrived by balsa raft in the Moche Valley and established his court at what became Chan Chan, an adobe capital that would grow into one of the largest pre-Columbian cities in the Americas. Oral traditions recorded after the Spanish conquest credit Taycanamo's son Guacricaur with consolidating rule over the lower Moche Valley, laying institutional foundations - centralized irrigation management, hierarchical craft production, a stratified nobility - that later Chimu kings would use for wider expansion. Through the close of this period Chimor remained essentially a valley-based polity, its explosive coastal expansion still to come.",
+ "citations": [
+  {
+   "label": "Chimor - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chimor"
+  },
+  {
+   "label": "Chimu Civilization | World History Encyclopedia",
+   "url": "https://www.worldhistory.org/Chimu_Civilization/"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Chan Chan's urban layout and Chimor's approximate territorial limits are well established through archaeology; the dynastic sequence and precise dates rely on transcribed oral king lists recorded after Spanish conquest and are subject to substantial revision. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Chimor",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Taycanamo",
+   "nativeName": "Taycanamo",
+   "roman": "Taycanamo",
+   "start": 911,
+   "end": 950,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Guacricaur",
+   "nativeName": "Guacricaur",
+   "roman": "Guacricaur",
+   "start": 950,
+   "end": 1000,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ñancenpinco",
+   "nativeName": "Ñancenpinco",
+   "roman": "Nancenpinco",
+   "start": 1000,
+   "end": 1050,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q581741__chimor"
+}

@@ -1,0 +1,145 @@
+{
+ "qid": "Q1311990",
+ "names": [
+  "Principality of Serbia"
+ ],
+ "title": "Principality of Serbia",
+ "variantOf": "Q1311990",
+ "endonym": {
+  "native": "Србија",
+  "roman": "Srbija"
+ },
+ "capsule": "The early medieval Principality of Serbia, centered on the region later called Raška, is first attested in Byzantine sources through the dynasty of the 'Unknown Archon', its first ruler known by name being Prince Višeslav (fl. c. 780), and reached clearer historical definition under Prince Vlastimir (r. c. 830-851), who repelled a three-year Bulgarian invasion under Presian and founded the Vlastimirović dynasty. His descendants, including Mutimir, Petar Gojniković and Časlav Klonimirović, ruled amid recurring wars with Bulgaria and shifting allegiance between Constantinople and the Bulgarian court, with Bulgarian-backed pretenders repeatedly installed until Simeon I annexed the principality outright in 924; Časlav escaped Bulgarian captivity after Simeon's death and restored it under Byzantine protection in 933. Časlav's death fighting the Magyars around 950-960 left the principality fragmented, closing this earliest phase of organized Serbian statehood.",
+ "citations": [
+  {
+   "label": "Serbian Principality - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Serbian_Principality"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Territorial extent is poorly attested; the principality's borders are reconstructed primarily from Byzantine De Administrando Imperio and archaeological inference, with considerable scholarly uncertainty. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Principality of Serbia",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Višeslav",
+   "nativeName": "Вишеслав",
+   "roman": "Višeslav",
+   "start": 780,
+   "end": 800,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Radoslav",
+   "nativeName": "Радослав",
+   "roman": "Radoslav",
+   "start": 800,
+   "end": 820,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Prosigoj",
+   "nativeName": "Просигој",
+   "roman": "Prosigoj",
+   "start": 820,
+   "end": 830,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Vlastimir",
+   "nativeName": "Властимир",
+   "roman": "Vlastimir",
+   "start": 830,
+   "end": 851,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Mutimir",
+   "nativeName": "Мутимир",
+   "roman": "Mutimir",
+   "start": 851,
+   "end": 891,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Pribislav",
+   "nativeName": "Прибислав",
+   "roman": "Pribislav",
+   "start": 891,
+   "end": 892,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Petar Gojniković",
+   "nativeName": "Петар Гојниковић",
+   "roman": "Petar Gojniković",
+   "start": 892,
+   "end": 917,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Pavle Branović",
+   "nativeName": "Павле Брановић",
+   "roman": "Pavle Branović",
+   "start": 917,
+   "end": 921,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Zaharije Pribisavljević",
+   "nativeName": "Захарије Прибисављевић",
+   "roman": "Zaharije Pribisavljević",
+   "start": 921,
+   "end": 924,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Časlav Klonimirović",
+   "nativeName": "Часлав Клонимировић",
+   "roman": "Časlav Klonimirović",
+   "start": 933,
+   "end": 960,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q1311990__principality-of-serbia"
+}

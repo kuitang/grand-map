@@ -1,0 +1,63 @@
+{
+ "qid": "Q1936158",
+ "names": [
+  "Minyue"
+ ],
+ "title": "Minyue",
+ "variantOf": "Q1936158",
+ "endonym": {
+  "native": "閩越",
+  "roman": "Mǐnyuè"
+ },
+ "capsule": "Minyue (閩越) was a kingdom in what is now Fujian, established by members of the royal house of Yue who fled south after Yue's destruction by Chu in 333 BC and settled among the local Min peoples near modern Fuzhou. Its ruler Wuzhu, a descendant of King Goujian, was stripped of his royal title by the Qin conquest and reduced to a chieftaincy, then formally re-enfeoffed in 202 BC by Han emperor Gaozu as king over the former Qin commandery of Minzhong. The kingdom was destroyed in 110 BC when the armies of Han emperor Wu, among them general Yang Pu's, crushed the revolt of King Zou Yushan — who had declared himself emperor and was killed by his own nobles as the Han closed in — ending Minyue's independence and dispersing its population northward.",
+ "citations": [
+  {
+   "label": "Minyue - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Minyue"
+  },
+  {
+   "label": "Minyue - Britannica",
+   "url": "https://www.britannica.com/place/Minyue"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Minyue's territorial extent is poorly attested; the Shiji and Hanshu provide political narrative but no administrative boundary data, and the dataset geometry is a scholarly reconstruction based on the distribution of archaeological Yue culture sites and the known Han commandery system that replaced it. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Yue (state)",
+ "rulers": [
+  {
+   "name": "Zou Wuzhu",
+   "native": "騶無諸",
+   "roman": "Zou Wuzhu",
+   "start": -202,
+   "end": -157,
+   "nativeName": "騶無諸"
+  },
+  {
+   "name": "Zou Chou",
+   "native": "騶丑",
+   "roman": "Zou Chou",
+   "start": -135,
+   "end": -135,
+   "nativeName": "騶丑"
+  },
+  {
+   "name": "Zou Yushan",
+   "native": "騶餘善",
+   "roman": "Zou Yushan",
+   "start": -135,
+   "end": -110,
+   "nativeName": "騶餘善"
+  }
+ ],
+ "blurbKey": "Q1936158__minyue"
+}

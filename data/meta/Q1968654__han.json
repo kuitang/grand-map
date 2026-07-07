@@ -1,0 +1,171 @@
+{
+ "qid": "Q1968654",
+ "names": [
+  "Han"
+ ],
+ "title": "Han",
+ "variantOf": "Q1968654",
+ "endonym": {
+  "native": "韓",
+  "roman": "Hán"
+ },
+ "capsule": "Han (韓) was one of the Seven Warring States of ancient China, formed in 453 BC when the ministerial Han, Wei, and Zhao families partitioned the state of Jin, with Han's independence formally recognized by the Zhou king in 403 BC. Hemmed in by Qin, Chu, Qi, and Wei across a mountainous stretch of southern Shanxi and central Henan, Han was the smallest and most vulnerable of the seven states, despite administrative reforms under chancellor Shen Buhai. It became the first of the seven to fall to Qin's unification campaigns, conquered in 230 BC — an ancient Chinese state wholly unrelated to the medieval Anatolian Beylik of Saruhan, more than fifteen centuries its junior.",
+ "citations": [
+  {
+   "label": "Han (Warring States) - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Han_(Warring_States)"
+  },
+  {
+   "label": "Seven Warring States - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Seven_Warring_States"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Han's core territories are reconstructed primarily from Warring States textual sources (Shiji, Zhanguo Ce) with limited archaeological corroboration; the irregular fragmented boundaries typical of this state make precise geometric rendering inherently conjectural. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Han (state)",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Marquis Jing of Han",
+   "nativeName": "韓景侯",
+   "roman": "Hán Jǐng Hóu (Hán Qū)",
+   "start": -424,
+   "end": -409,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Marquis Lie of Han",
+   "nativeName": "韓烈侯",
+   "roman": "Hán Liè Hóu (Hán Qǔ)",
+   "start": -409,
+   "end": -400,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Marquis Wen of Han",
+   "nativeName": "韓文侯",
+   "roman": "Hán Wén Hóu (Hán Dū)",
+   "start": -400,
+   "end": -387,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Marquis Ai of Han",
+   "nativeName": "韓哀侯",
+   "roman": "Hán Āi Hóu",
+   "start": -387,
+   "end": -377,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Marquis Zhuang of Han (Marquis Yi)",
+   "nativeName": "韓莊侯",
+   "roman": "Hán Zhuāng Hóu",
+   "start": -377,
+   "end": -375,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Han Ruoshan (Marquis Xuan/Yi of Han)",
+   "nativeName": "韓懿侯",
+   "roman": "Hán Yì Hóu",
+   "start": -375,
+   "end": -363,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "King Zhao of Han",
+   "nativeName": "韓昭侯",
+   "roman": "Hán Zhāo Hóu",
+   "start": -363,
+   "end": -333,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "King Xuan of Han",
+   "nativeName": "韓宣惠王",
+   "roman": "Hán Xuān Huì Wáng",
+   "start": -333,
+   "end": -312,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "King Xiang of Han",
+   "nativeName": "韓襄王",
+   "roman": "Hán Xiāng Wáng",
+   "start": -312,
+   "end": -296,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "King Xi of Han",
+   "nativeName": "韓釐王",
+   "roman": "Hán Xī Wáng",
+   "start": -296,
+   "end": -273,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "King Huan of Han",
+   "nativeName": "韓桓惠王",
+   "roman": "Hán Huán Huì Wáng",
+   "start": -273,
+   "end": -239,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "King An of Han",
+   "nativeName": "韓王安",
+   "roman": "Hán Wáng Ān",
+   "start": -239,
+   "end": -230,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q1968654__han"
+}

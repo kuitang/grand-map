@@ -1,0 +1,38 @@
+{
+ "qid": "Q478805",
+ "names": [
+  "Puebloans - Aztec Regional System"
+ ],
+ "title": "Puebloans - Aztec Regional System",
+ "variantOf": "Q478805",
+ "endonym": {
+  "native": "Puebloans",
+  "roman": "Puebloans",
+  "lang": "und"
+ },
+ "capsule": "As Chaco Canyon's role as a central place ended around 1150, the great houses at Aztec and Salmon on the Animas and San Juan rivers - themselves built a generation earlier as Chacoan outliers - emerged as the successor focus of the Ancestral Puebloan regional network, their multi-storied masonry pueblos and great kivas echoing Chacoan architectural forms. The Aztec Regional System never matched Chaco's earlier scale of ceremonial centralization, and by around 1300 the entire Four Corners region, including the Aztec and Mesa Verde communities, was depopulated in a coordinated southward migration whose descendants became the Pueblo peoples of the Rio Grande and Hopi mesas.",
+ "citations": [
+  {
+   "label": "Aztec Ruins National Monument | National Park Service",
+   "url": "https://www.nps.gov/azru/index.htm"
+  },
+  {
+   "label": "Chaco Culture National Historical Park - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chaco_Culture_National_Historical_Park"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The core Chaco Canyon monuments are thoroughly documented archaeologically and Chaco is a UNESCO World Heritage Site; the precise extent of the regional system's political authority versus ritual influence over outlier communities is debated among archaeologists. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Ancestral Puebloans",
+ "blurbKey": "Q478805__puebloans-aztec-regional-system"
+}

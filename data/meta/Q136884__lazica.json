@@ -1,0 +1,76 @@
+{
+ "qid": "Q136884",
+ "names": [
+  "Lazica"
+ ],
+ "title": "Lazica",
+ "variantOf": "Q136884",
+ "endonym": {
+  "native": "ეგრისი",
+  "roman": "Egrisi"
+ },
+ "capsule": "Lazica (Egrisi in Georgian) emerged as a kingdom on the eastern Black Sea coast of western Georgia from around the mid-1st century BCE, appearing in Roman sources as a strategically vital buffer state, and by the 3rd century CE it held formal, if unequal, client status within the Roman/Byzantine orbit. Through the 4th–6th centuries its kings balanced pressure from Rome/Byzantium and Sasanian Persia, a rivalry that erupted into the Lazic War (541–562) after King Gubazes II sought Persian protection against Byzantine exploitation. This span covers Lazica's rise and its embroilment in the Byzantine–Sasanian struggle up to the war's midpoint in 546, distinct from the later, differently structured 'Kingdom of Lazica' of the 7th–8th centuries that shares this Wikidata entry.",
+ "citations": [
+  {
+   "label": "Lazica - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lazica"
+  },
+  {
+   "label": "Gubazes II of Lazica - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gubazes_II_of_Lazica"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The kingdom's general territory along the eastern Black Sea coast is established by Byzantine and Persian sources; precise interior boundaries are difficult to map given the mountainous terrain and clientage relationships that made frontiers fluid. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Lazica",
+ "rulers": [
+  {
+   "name": "Gubazes I",
+   "start": 450,
+   "end": 466,
+   "nativeName": null,
+   "roman": ""
+  },
+  {
+   "name": "Damnazes",
+   "start": 500,
+   "end": 522,
+   "nativeName": null,
+   "roman": ""
+  },
+  {
+   "name": "Tzath I",
+   "native": "წათე",
+   "roman": "Ts'ate",
+   "start": 522,
+   "end": 540,
+   "nativeName": "წათე"
+  },
+  {
+   "name": "Gubazes II",
+   "start": 541,
+   "end": 555,
+   "nativeName": null,
+   "roman": ""
+  },
+  {
+   "name": "Tzath II",
+   "native": "წათე",
+   "roman": "Ts'ate",
+   "start": 556,
+   "end": 565,
+   "nativeName": "წათე"
+  }
+ ],
+ "blurbKey": "Q136884__lazica"
+}

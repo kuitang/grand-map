@@ -1,0 +1,37 @@
+{
+ "qid": "Q1108445",
+ "names": [
+  "Rus'"
+ ],
+ "title": "Rus'",
+ "variantOf": "Q1108445",
+ "endonym": {
+  "native": "Русь",
+  "roman": "Rus'"
+ },
+ "capsule": "In the years immediately before the seizure of Kiev, the nascent Rus' polity was centered on Novgorod in the north, where Oleg (Helgi), a kinsman of the recently deceased Varangian chieftain Rurik, ruled as regent for Rurik's young son Igor according to the account preserved in the Russian Primary Chronicle. From this northern base on the Volkhov river, Oleg mounted campaigns southward along the river routes linking the Baltic to the Black Sea, subduing Slavic and Finnic tribes along the way. In 882 he moved south, killed the Kievan chieftains Askold and Dir by trickery, and transferred his capital to Kiev - the act later chroniclers took as the founding moment of Kievan Rus'.",
+ "citations": [
+  {
+   "label": "Kievan Rus' - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kievan_Rus%27"
+  },
+  {
+   "label": "Rurik dynasty | Britannica",
+   "url": "https://www.britannica.com/topic/Rurik-dynasty"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases (Times Atlas of World History; Kinder & Hilgemann; Shepherd 1926) at ~0.07° resolution. \"Boundaries\" of Rus' were zones of tribute over forest peoples, not lines; northern and eastern extents are schematic. Confidence: low–moderate, core river towns excepted. Capsule researched for this polity/era specifically (confidence: medium).",
+ "wikipedia": "Rus",
+ "rulers": [
+  {
+   "name": "Oleg of Novgorod",
+   "native": "Олег",
+   "roman": "Oleg",
+   "start": 879,
+   "end": 882,
+   "nativeName": "Олег"
+  }
+ ],
+ "blurbKey": "Q1108445__rus"
+}

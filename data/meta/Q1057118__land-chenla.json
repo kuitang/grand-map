@@ -1,0 +1,47 @@
+{
+ "qid": "Q1057118",
+ "names": [
+  "Land Chenla"
+ ],
+ "title": "Land Chenla",
+ "variantOf": "Q1057118",
+ "endonym": {
+  "native": "Land Chenla",
+  "roman": "Land Chenla",
+  "lang": "km"
+ },
+ "capsule": "Land Chenla (Upper/northern Zhenla, also called Wendan) was the interior, upland half of the Khmer realm after the early eighth-century split, centered near modern Champasak in southern Laos with reported authority over some thirty provincial centers. More centralized than its southern counterpart, it sent an embassy to Tang China in 717 and reportedly supported the Vietnamese rebel Mai Thuc Loan's uprising against Chinese rule in 722-723. Land Chenla preserved greater political continuity than Water Chenla, and the era of division ended only in 802, when Jayavarman II — a prince who by tradition had returned from 'Java' — unified both halves and proclaimed the Khmer Empire.",
+ "citations": [
+  {
+   "label": "Chenla - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chenla"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Chenla's political history rests primarily on Chinese annals and a limited corpus of Old Khmer inscriptions; territorial boundaries are approximate reconstructions and debate continues over whether 'Chenla' denotes a unified polity or a loosely connected set of principalities. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Chenla",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Jayadevi",
+   "nativeName": "ជ័យទេវី",
+   "roman": "Jayadevi",
+   "start": 681,
+   "end": 713,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q1057118__land-chenla"
+}

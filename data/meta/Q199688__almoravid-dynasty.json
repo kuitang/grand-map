@@ -1,0 +1,126 @@
+{
+ "qid": "Q199688",
+ "names": [
+  "Almoravid Dynasty"
+ ],
+ "title": "Almoravid Dynasty",
+ "variantOf": "Q199688",
+ "endonym": {
+  "native": "المرابطون",
+  "roman": "Al-Murabitun"
+ },
+ "capsule": "A confederation of Sanhaja Berber tribes galvanized by the reformist preaching of Abdallah ibn Yasin, the Almoravids (al-Murabitun) swept out of the Sahara to conquer Morocco, founding Marrakesh as their capital around 1070 under Yusuf ibn Tashfin. Crossing into Iberia at the request of Andalusian rulers, Yusuf crushed Alfonso VI of Castile at the Battle of Sagrajas (Zallaqa) in 1086 and went on to annex the fractured taifa kingdoms, but the dynasty collapsed under Almohad pressure by 1147, with a last remnant, the Banu Ghaniya of Mallorca, holding out into the early 13th century.",
+ "citations": [
+  {
+   "label": "Almoravids - Britannica",
+   "url": "https://www.britannica.com/topic/Almoravids"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases (Times Atlas of World History; Kinder & Hilgemann; Shepherd 1926) at ~0.07° resolution. Coastal Maghreb and Andalusi cores are well attested; Saharan limits are conventional lines through thinly governed territory — shown with low confidence. (Almoravid-era shapes share this entry before c. 1150.) Capsule researched for this polity/era specifically (confidence: high).",
+ "rulers": [
+  {
+   "qid": "Q307312",
+   "name": "Abd al-Mu'min",
+   "start": 1130,
+   "end": 1163,
+   "ordinal": null,
+   "image": "Abdalmumin ben ali nedroma statue.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Abdalmumin%20ben%20ali%20nedroma%20statue.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Askelaadden",
+    "attributionRequired": true
+   },
+   "nativeName": "عبد المؤمن بن علي الكومي التلمساني",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q335489",
+   "name": "Abu Yaqub Yusuf I",
+   "start": 1163,
+   "end": 1184,
+   "ordinal": null,
+   "image": null,
+   "nativeName": "أبو يعقوب يوسف بن عبد المؤمن",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q455739",
+   "name": "Abu Yusuf Yaqub al-Mansur",
+   "start": 1184,
+   "end": 1199,
+   "ordinal": null,
+   "image": null,
+   "nativeName": "أبو يوسف يعقوب بن يوسف بن عبد المؤمن الكومي التلمساني المنصور",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q715749",
+   "name": "Muhammad al-Nasir",
+   "start": 1199,
+   "end": 1213,
+   "ordinal": null,
+   "image": "محمد الناصر.png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1.png?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Ali ahmed andalousi",
+    "attributionRequired": true
+   },
+   "nativeName": "أبو عبد الله محمد بن يعقوب بن يوسف بن عبد المؤمن الكومي التلمساني المنصور الناصر لدين الله",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q2142023",
+   "name": "Yusuf II al-Mustansir",
+   "start": 1213,
+   "end": 1224,
+   "ordinal": null,
+   "image": null,
+   "nativeName": "يوسف المستنصر",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q307610",
+   "name": "Abdallah al-Adil",
+   "start": 1224,
+   "end": 1227,
+   "ordinal": null,
+   "image": null,
+   "nativeName": "أبو محمد عبد الله بن يعقوب بن يوسف بن عبد المؤمن الكومي التلمساني المنصور العادل",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q2627497",
+   "name": "Abdul-Wahid I, Almohad Caliph",
+   "start": 1224,
+   "end": 1224,
+   "ordinal": null,
+   "image": null,
+   "nativeName": "أبو محمد عبد الواحد بن يوسف بن عبد المؤمن الكومي التلمساني المخلوع",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q3083966",
+   "name": "Yahya, Almohad Caliph",
+   "start": 1227,
+   "end": 1229,
+   "ordinal": null,
+   "image": null,
+   "nativeName": "أبو زكريا يحيى المعتصم بن محمد الناصر لدين الله",
+   "nativeLang": "ar"
+  },
+  {
+   "qid": "Q1361969",
+   "name": "Idris al-Ma'mun",
+   "start": 1229,
+   "end": 1232,
+   "ordinal": null,
+   "image": null,
+   "nativeName": "إدريس المأمون",
+   "nativeLang": "ar"
+  }
+ ],
+ "blurbKey": "Q199688__almoravid-dynasty"
+}

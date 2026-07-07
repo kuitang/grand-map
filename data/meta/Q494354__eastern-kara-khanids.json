@@ -1,0 +1,96 @@
+{
+ "qid": "Q494354",
+ "names": [
+  "Eastern Kara-Khanids"
+ ],
+ "title": "Eastern Kara-Khanids",
+ "variantOf": "Q494354",
+ "endonym": {
+  "native": "قراخانیان",
+  "roman": "Qarakhāniyān",
+  "lang": "fa"
+ },
+ "capsule": "After the Qarakhanid khanate split around 1042, the Eastern Kara-Khanids retained the senior Arslan Khan title and the historic core territories of Semirech'ye and the Tarim Basin, ruling from Balasaghun and later Kashgar. Weakened by wars with the Western Kara-Khanids and by Qarluq and Qangli unrest, the eastern khanate fell increasingly under Seljuk and then Qara Khitai pressure, as the latter, refugees from the fallen Liao dynasty of North China, pushed into Central Asia in the 1130s. After the Qara Khitai crushed the Seljuk sultan Sanjar at the Battle of Qatwan in 1141, the Eastern Kara-Khanid rulers were reduced to vassal status, ending independent eastern Qarakhanid rule.",
+ "citations": [
+  {
+   "label": "The Karakhanids | UNESCO History of Civilizations of Central Asia",
+   "url": "https://en.unesco.org/silkroad/sites/default/files/knowledge-bank-article/vol_IVa%20silk%20road_the%20karakhanids.pdf"
+  },
+  {
+   "label": "Kara-Khanid Khanate - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kara-Khanid_Khanate"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Core Transoxianan territory (Fergana, Bukhara, Samarkand) is attested from administrative and numismatic records; the Tarim Basin and eastern extent depend more heavily on narrative sources and are geometrically approximate, particularly for the earlier period before the khanate's formal division. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Kara-Khanid Khanate",
+ "rulers": [
+  {
+   "name": "Muhammad bin Yusuf",
+   "native": "محمد بن يوسف",
+   "roman": "Muhammad bin Yusuf",
+   "start": 1056,
+   "end": 1057,
+   "nativeName": "محمد بن يوسف"
+  },
+  {
+   "name": "Ibrahim bin Muhammad",
+   "native": "إبراهيم بن محمد",
+   "roman": "Ibrahim bin Muhammad",
+   "start": 1057,
+   "end": 1059,
+   "nativeName": "إبراهيم بن محمد"
+  },
+  {
+   "name": "Mahmud Khan",
+   "native": "محمود خان",
+   "roman": "Mahmud Khan",
+   "start": 1059,
+   "end": 1075,
+   "nativeName": "محمود خان"
+  },
+  {
+   "name": "Umar Khan",
+   "native": "عمر خان",
+   "roman": "Umar Khan",
+   "start": 1075,
+   "end": 1075,
+   "nativeName": "عمر خان"
+  },
+  {
+   "name": "Hasan bin Sulayman",
+   "native": "حسن بن سليمان",
+   "roman": "Hasan bin Sulayman",
+   "start": 1075,
+   "end": 1102,
+   "nativeName": "حسن بن سليمان"
+  },
+  {
+   "name": "Ahmad Khan",
+   "native": "أحمد خان",
+   "roman": "Ahmad Khan",
+   "start": 1102,
+   "end": 1128,
+   "nativeName": "أحمد خان"
+  },
+  {
+   "name": "Ibrahim bin Ahmad",
+   "native": "إبراهيم بن أحمد",
+   "roman": "Ibrahim bin Ahmad",
+   "start": 1128,
+   "end": 1158,
+   "nativeName": "إبراهيم بن أحمد"
+  }
+ ],
+ "blurbKey": "Q494354__eastern-kara-khanids"
+}

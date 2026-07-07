@@ -1,0 +1,424 @@
+{
+ "qid": "Q179876",
+ "names": [
+  "Kingdom of England"
+ ],
+ "title": "Kingdom of England",
+ "variantOf": "Q179876",
+ "endonym": {
+  "native": "Engla land",
+  "roman": "England"
+ },
+ "capsule": "Unified as a single realm under Æthelstan, who was acclaimed king of the English in 927 and secured the union by crushing a Scottish-Viking coalition at the Battle of Brunanburh in 937, the Kingdom of England (Old English: Engla land) endured through Anglo-Saxon, Danish, Norman, Plantagenet, Tudor, and Stuart dynasties. It absorbed Wales under the Statute of Rhuddlan in 1284, and following the 1603 union of crowns with Scotland it was merged into the Kingdom of Great Britain by the Acts of Union of 1707.",
+ "citations": [
+  {
+   "label": "England - Britannica",
+   "url": "https://www.britannica.com/place/England"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases (Times Atlas of World History; Kinder & Hilgemann; Shepherd 1926) at ~0.07° resolution. English borders (Welsh march, Scottish border) are comparatively well documented; continental holdings of English kings are drawn as separate polities. Confidence: high. Capsule researched for this polity/era specifically (confidence: high).",
+ "rulers": [
+  {
+   "name": "Æthelstan",
+   "native": "Æthelstan",
+   "roman": "Athelstan",
+   "start": 927,
+   "end": 939,
+   "nativeName": "Æthelstan"
+  },
+  {
+   "name": "Edmund I",
+   "native": "Eadmund",
+   "roman": "Edmund I",
+   "start": 939,
+   "end": 946,
+   "nativeName": "Eadmund"
+  },
+  {
+   "name": "Eadred",
+   "native": "Eadred",
+   "roman": "Edred",
+   "start": 946,
+   "end": 955,
+   "nativeName": "Eadred"
+  },
+  {
+   "name": "Eadwig",
+   "native": "Eadwig",
+   "roman": "Edwy",
+   "start": 955,
+   "end": 959,
+   "nativeName": "Eadwig"
+  },
+  {
+   "name": "Edgar the Peaceful",
+   "native": "Eadgar",
+   "roman": "Edgar",
+   "start": 959,
+   "end": 975,
+   "nativeName": "Eadgar"
+  },
+  {
+   "name": "Edward the Martyr",
+   "native": "Eadweard",
+   "roman": "Edward the Martyr",
+   "start": 975,
+   "end": 978,
+   "nativeName": "Eadweard"
+  },
+  {
+   "name": "Æthelred the Unready (1st reign)",
+   "native": "Æthelred",
+   "roman": "Ethelred II",
+   "start": 978,
+   "end": 1013,
+   "nativeName": "Æthelred"
+  },
+  {
+   "name": "Sweyn Forkbeard",
+   "native": "Sveinn Tjúguskegg",
+   "roman": "Sweyn I",
+   "start": 1013,
+   "end": 1014,
+   "nativeName": "Sveinn Tjúguskegg"
+  },
+  {
+   "name": "Æthelred the Unready (restored)",
+   "native": "Æthelred",
+   "roman": "Ethelred II",
+   "start": 1014,
+   "end": 1016,
+   "nativeName": "Æthelred"
+  },
+  {
+   "name": "Edmund Ironside",
+   "native": "Eadmund",
+   "roman": "Edmund II",
+   "start": 1016,
+   "end": 1016,
+   "nativeName": "Eadmund"
+  },
+  {
+   "name": "Cnut the Great",
+   "native": "Knútr",
+   "roman": "Canute",
+   "start": 1016,
+   "end": 1035,
+   "nativeName": "Knútr"
+  },
+  {
+   "name": "Harold Harefoot",
+   "native": "Harold I",
+   "roman": "Harold I",
+   "start": 1035,
+   "end": 1040,
+   "nativeName": "Harold I"
+  },
+  {
+   "name": "Harthacnut",
+   "native": "Hörða-Knútr",
+   "roman": "Harthacanute",
+   "start": 1040,
+   "end": 1042,
+   "nativeName": "Hörða-Knútr"
+  },
+  {
+   "name": "Edward the Confessor",
+   "native": "Eadweard",
+   "roman": "Edward the Confessor",
+   "start": 1042,
+   "end": 1066,
+   "nativeName": "Eadweard"
+  },
+  {
+   "name": "Harold Godwinson",
+   "native": "Harold II",
+   "roman": "Harold II",
+   "start": 1066,
+   "end": 1066,
+   "nativeName": "Harold II"
+  },
+  {
+   "name": "William the Conqueror",
+   "native": "Guillaume le Conquérant",
+   "roman": "William I",
+   "start": 1066,
+   "end": 1087,
+   "nativeName": "Guillaume le Conquérant"
+  },
+  {
+   "name": "William II Rufus",
+   "native": "William II",
+   "roman": "William II",
+   "start": 1087,
+   "end": 1100,
+   "nativeName": "William II"
+  },
+  {
+   "name": "Henry I",
+   "native": "Henry I",
+   "roman": "Henry I",
+   "start": 1100,
+   "end": 1135,
+   "nativeName": "Henry I"
+  },
+  {
+   "name": "Stephen",
+   "native": "Stephen",
+   "roman": "Stephen",
+   "start": 1135,
+   "end": 1154,
+   "nativeName": "Stephen"
+  },
+  {
+   "name": "Henry II",
+   "native": "Henry II",
+   "roman": "Henry II",
+   "start": 1154,
+   "end": 1189,
+   "nativeName": "Henry II"
+  },
+  {
+   "name": "Richard I",
+   "native": "Richard Cœur de Lion",
+   "roman": "Richard the Lionheart",
+   "start": 1189,
+   "end": 1199,
+   "nativeName": "Richard Cœur de Lion"
+  },
+  {
+   "name": "John",
+   "native": "John",
+   "roman": "John",
+   "start": 1199,
+   "end": 1216,
+   "nativeName": "John"
+  },
+  {
+   "name": "Henry III",
+   "native": "Henry III",
+   "roman": "Henry III",
+   "start": 1216,
+   "end": 1272,
+   "nativeName": "Henry III"
+  },
+  {
+   "name": "Edward I",
+   "native": "Edward I",
+   "roman": "Edward I",
+   "start": 1272,
+   "end": 1307,
+   "nativeName": "Edward I"
+  },
+  {
+   "name": "Edward II",
+   "native": "Edward II",
+   "roman": "Edward II",
+   "start": 1307,
+   "end": 1327,
+   "nativeName": "Edward II"
+  },
+  {
+   "name": "Edward III",
+   "native": "Edward III",
+   "roman": "Edward III",
+   "start": 1327,
+   "end": 1377,
+   "nativeName": "Edward III"
+  },
+  {
+   "name": "Richard II",
+   "native": "Richard II",
+   "roman": "Richard II",
+   "start": 1377,
+   "end": 1399,
+   "nativeName": "Richard II"
+  },
+  {
+   "name": "Henry IV",
+   "native": "Henry IV",
+   "roman": "Henry IV",
+   "start": 1399,
+   "end": 1413,
+   "nativeName": "Henry IV"
+  },
+  {
+   "name": "Henry V",
+   "native": "Henry V",
+   "roman": "Henry V",
+   "start": 1413,
+   "end": 1422,
+   "nativeName": "Henry V"
+  },
+  {
+   "name": "Henry VI (1st reign)",
+   "native": "Henry VI",
+   "roman": "Henry VI",
+   "start": 1422,
+   "end": 1461,
+   "nativeName": "Henry VI"
+  },
+  {
+   "name": "Edward IV (1st reign)",
+   "native": "Edward IV",
+   "roman": "Edward IV",
+   "start": 1461,
+   "end": 1470,
+   "nativeName": "Edward IV"
+  },
+  {
+   "name": "Henry VI (restored)",
+   "native": "Henry VI",
+   "roman": "Henry VI",
+   "start": 1470,
+   "end": 1471,
+   "nativeName": "Henry VI"
+  },
+  {
+   "name": "Edward IV (restored)",
+   "native": "Edward IV",
+   "roman": "Edward IV",
+   "start": 1471,
+   "end": 1483,
+   "nativeName": "Edward IV"
+  },
+  {
+   "name": "Edward V",
+   "native": "Edward V",
+   "roman": "Edward V",
+   "start": 1483,
+   "end": 1483,
+   "nativeName": "Edward V"
+  },
+  {
+   "name": "Richard III",
+   "native": "Richard III",
+   "roman": "Richard III",
+   "start": 1483,
+   "end": 1485,
+   "nativeName": "Richard III"
+  },
+  {
+   "name": "Henry VII",
+   "native": "Henry VII",
+   "roman": "Henry VII",
+   "start": 1485,
+   "end": 1509,
+   "nativeName": "Henry VII"
+  },
+  {
+   "name": "Henry VIII",
+   "native": "Henry VIII",
+   "roman": "Henry VIII",
+   "start": 1509,
+   "end": 1547,
+   "nativeName": "Henry VIII"
+  },
+  {
+   "name": "Edward VI",
+   "native": "Edward VI",
+   "roman": "Edward VI",
+   "start": 1547,
+   "end": 1553,
+   "nativeName": "Edward VI"
+  },
+  {
+   "name": "Jane (Lady Jane Grey)",
+   "native": "Jane Grey",
+   "roman": "Jane Grey",
+   "start": 1553,
+   "end": 1553,
+   "nativeName": "Jane Grey"
+  },
+  {
+   "name": "Mary I",
+   "native": "Mary I",
+   "roman": "Mary I",
+   "start": 1553,
+   "end": 1558,
+   "nativeName": "Mary I"
+  },
+  {
+   "name": "Elizabeth I",
+   "native": "Elizabeth I",
+   "roman": "Elizabeth I",
+   "start": 1558,
+   "end": 1603,
+   "nativeName": "Elizabeth I"
+  },
+  {
+   "name": "James I",
+   "native": "James I",
+   "roman": "James I",
+   "start": 1603,
+   "end": 1625,
+   "nativeName": "James I"
+  },
+  {
+   "name": "Charles I",
+   "native": "Charles I",
+   "roman": "Charles I",
+   "start": 1625,
+   "end": 1649,
+   "nativeName": "Charles I"
+  },
+  {
+   "name": "Oliver Cromwell (Lord Protector)",
+   "native": "Oliver Cromwell",
+   "roman": "Oliver Cromwell",
+   "start": 1653,
+   "end": 1658,
+   "nativeName": "Oliver Cromwell"
+  },
+  {
+   "name": "Richard Cromwell (Lord Protector)",
+   "native": "Richard Cromwell",
+   "roman": "Richard Cromwell",
+   "start": 1658,
+   "end": 1659,
+   "nativeName": "Richard Cromwell"
+  },
+  {
+   "name": "Charles II",
+   "native": "Charles II",
+   "roman": "Charles II",
+   "start": 1660,
+   "end": 1685,
+   "nativeName": "Charles II"
+  },
+  {
+   "name": "James II",
+   "native": "James II",
+   "roman": "James II",
+   "start": 1685,
+   "end": 1688,
+   "nativeName": "James II"
+  },
+  {
+   "name": "William III & Mary II",
+   "native": "William III & Mary II",
+   "roman": "William III & Mary II",
+   "start": 1689,
+   "end": 1694,
+   "nativeName": "William III & Mary II"
+  },
+  {
+   "name": "William III (sole rule)",
+   "native": "William III",
+   "roman": "William III",
+   "start": 1694,
+   "end": 1702,
+   "nativeName": "William III"
+  },
+  {
+   "name": "Anne",
+   "native": "Anne",
+   "roman": "Anne",
+   "start": 1702,
+   "end": 1707,
+   "nativeName": "Anne"
+  }
+ ],
+ "blurbKey": "Q179876__kingdom-of-england"
+}

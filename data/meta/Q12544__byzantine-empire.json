@@ -1,0 +1,897 @@
+{
+ "qid": "Q12544",
+ "names": [
+  "Byzantine Empire"
+ ],
+ "title": "Byzantine Empire",
+ "variantOf": "Q12544",
+ "endonym": {
+  "native": "Βασιλεία Ῥωμαίων",
+  "roman": "Basileía Rhōmaíōn"
+ },
+ "capsule": "As the Arab conquests stripped away Syria, Palestine, and Egypt after 633, the empire reorganized around a system of military provinces (themes) and endured centuries of contraction and recovery, from Herakleios's reforms through the Macedonian dynasty's 9th-11th century resurgence and the Komnenian restoration. Constantinople fell to the Fourth Crusade in 1204, and though the Palaiologan dynasty recovered the city in 1261 and ruled a much-reduced state until the Ottoman conquest of 1453, a last Byzantine Greek remnant, the Principality of Theodoro in Crimea, survived until the Ottomans overran it in 1475.",
+ "citations": [
+  {
+   "label": "Britannica, \"Byzantine Empire\"",
+   "url": "https://www.britannica.com/place/Byzantine-Empire"
+  },
+  {
+   "label": "Wikipedia, \"Principality of Theodoro\"",
+   "url": "https://en.wikipedia.org/wiki/Principality_of_Theodoro"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases (Times Atlas of World History; Kinder & Hilgemann; Shepherd 1926) at ~0.07° resolution. Core Anatolian/Balkan extents are well attested in Byzantine administrative sources (themes); frontier zones in eastern Anatolia and the Balkans fluctuated faster than the snapshot record. Confidence: high for cores, moderate for frontiers. Capsule researched for this polity/era specifically (confidence: high).",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Phocas",
+   "nativeName": "Flavius Phocas",
+   "roman": "Flavius Phocas",
+   "start": 602,
+   "end": 610,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Heraclius",
+   "nativeName": "Ἡράκλειος",
+   "roman": "Hērákleios",
+   "start": 610,
+   "end": 641,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Constantine III",
+   "nativeName": "Κωνσταντῖνος Γʹ",
+   "roman": "Kōnstantînos III",
+   "start": 641,
+   "end": 641,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Heraklonas",
+   "nativeName": "Ἡρακλωνᾶς",
+   "roman": "Hēraklōnâs",
+   "start": 641,
+   "end": 641,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Constans II",
+   "nativeName": "Κώνστας Βʹ",
+   "roman": "Kṓnstas II",
+   "start": 641,
+   "end": 668,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Constantine IV",
+   "nativeName": "Κωνσταντῖνος Δʹ",
+   "roman": "Kōnstantînos IV",
+   "start": 668,
+   "end": 685,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Justinian II",
+   "nativeName": "Ἰουστινιανὸς Βʹ",
+   "roman": "Ioustinianòs II",
+   "start": 685,
+   "end": 695,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Leontios",
+   "nativeName": "Λεόντιος",
+   "roman": "Leóntios",
+   "start": 695,
+   "end": 698,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Tiberios III",
+   "nativeName": "Τιβέριος Γʹ",
+   "roman": "Tibérios III",
+   "start": 698,
+   "end": 705,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Justinian II (second reign)",
+   "nativeName": "Ἰουστινιανὸς Βʹ",
+   "roman": "Ioustinianòs II",
+   "start": 705,
+   "end": 711,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Philippikos",
+   "nativeName": "Φιλιππικὸς Βαρδάνης",
+   "roman": "Philippikòs Bardánēs",
+   "start": 711,
+   "end": 713,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Anastasios II",
+   "nativeName": "Ἀναστάσιος Βʹ",
+   "roman": "Anastásios II",
+   "start": 713,
+   "end": 715,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Theodosios III",
+   "nativeName": "Θεοδόσιος Γʹ",
+   "roman": "Theodósios III",
+   "start": 715,
+   "end": 717,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Leo III the Isaurian",
+   "nativeName": "Λέων Γʹ ὁ Ἴσαυρος",
+   "roman": "Léōn III ho Ísauros",
+   "start": 717,
+   "end": 741,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Constantine V",
+   "nativeName": "Κωνσταντῖνος Εʹ",
+   "roman": "Kōnstantînos V",
+   "start": 741,
+   "end": 775,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Artabasdos",
+   "nativeName": "Ἀρτάβασδος",
+   "roman": "Artábasdos",
+   "start": 741,
+   "end": 743,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Leo IV the Khazar",
+   "nativeName": "Λέων Δʹ ὁ Χάζαρος",
+   "roman": "Léōn IV ho Cházaros",
+   "start": 775,
+   "end": 780,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Constantine VI",
+   "nativeName": "Κωνσταντῖνος Ϛʹ",
+   "roman": "Kōnstantînos VI",
+   "start": 780,
+   "end": 797,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Irene",
+   "nativeName": "Εἰρήνη ἡ Ἀθηναία",
+   "roman": "Eirḗnē hē Athēnaía",
+   "start": 797,
+   "end": 802,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Nikephoros I",
+   "nativeName": "Νικηφόρος Αʹ",
+   "roman": "Nikēphóros I",
+   "start": 802,
+   "end": 811,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Staurakios",
+   "nativeName": "Σταυράκιος",
+   "roman": "Staurákios",
+   "start": 811,
+   "end": 811,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Michael I Rangabe",
+   "nativeName": "Μιχαὴλ Αʹ Ῥαγγαβέ",
+   "roman": "Michaḕl I Rhangabé",
+   "start": 811,
+   "end": 813,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Leo V the Armenian",
+   "nativeName": "Λέων Εʹ ὁ Ἀρμένιος",
+   "roman": "Léōn V ho Arménios",
+   "start": 813,
+   "end": 820,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Michael II",
+   "nativeName": "Μιχαὴλ Βʹ ὁ Τραυλός",
+   "roman": "Michaḕl II ho Traulós",
+   "start": 820,
+   "end": 829,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Theophilos",
+   "nativeName": "Θεόφιλος",
+   "roman": "Theóphilos",
+   "start": 829,
+   "end": 842,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Michael III",
+   "nativeName": "Μιχαὴλ Γʹ",
+   "roman": "Michaḕl III",
+   "start": 842,
+   "end": 867,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Basil I the Macedonian",
+   "nativeName": "Βασίλειος Αʹ ὁ Μακεδών",
+   "roman": "Basíleios I ho Makedṓn",
+   "start": 867,
+   "end": 886,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Leo VI the Wise",
+   "nativeName": "Λέων Ϛʹ ὁ Σοφός",
+   "roman": "Léōn VI ho Sophós",
+   "start": 886,
+   "end": 912,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Alexander",
+   "nativeName": "Ἀλέξανδρος",
+   "roman": "Aléxandros",
+   "start": 912,
+   "end": 913,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Constantine VII Porphyrogennetos",
+   "nativeName": "Κωνσταντῖνος Ζʹ Πορφυρογέννητος",
+   "roman": "Kōnstantînos VII Porphyrogénnētos",
+   "start": 913,
+   "end": 959,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Romanos I Lekapenos",
+   "nativeName": "Ῥωμανὸς Αʹ Λεκαπηνός",
+   "roman": "Rhōmanòs I Lekapēnós",
+   "start": 920,
+   "end": 944,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Romanos II",
+   "nativeName": "Ῥωμανὸς Βʹ",
+   "roman": "Rhōmanòs II",
+   "start": 959,
+   "end": 963,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Nikephoros II Phokas",
+   "nativeName": "Νικηφόρος Βʹ Φωκᾶς",
+   "roman": "Nikēphóros II Phōkâs",
+   "start": 963,
+   "end": 969,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "John I Tzimiskes",
+   "nativeName": "Ἰωάννης Αʹ Τζιμισκῆς",
+   "roman": "Iōánnēs I Tzimiskês",
+   "start": 969,
+   "end": 976,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Basil II Boulgaroktonos",
+   "nativeName": "Βασίλειος Βʹ ὁ Βουλγαροκτόνος",
+   "roman": "Basíleios II ho Boulgaroktónos",
+   "start": 976,
+   "end": 1025,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Constantine VIII",
+   "nativeName": "Κωνσταντῖνος Ηʹ",
+   "roman": "Kōnstantînos VIII",
+   "start": 1025,
+   "end": 1028,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": "Q41657",
+   "name": "Romanos III Argyros",
+   "nativeName": "Ῥωμανὸς Γʹ Ἀργυρός",
+   "roman": "Rhōmanòs III Argyrós",
+   "start": 1028,
+   "end": 1034,
+   "image": "Miliaresion-Romanus III-sb1822.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Miliaresion-Romanus%20III-sb1822.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "CNG",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q41654",
+   "name": "Michael IV the Paphlagonian",
+   "nativeName": "Μιχαὴλ Δʹ ὁ Παφλαγών",
+   "roman": "Michaḕl IV ho Paphlagṓn",
+   "start": 1034,
+   "end": 1041,
+   "image": "Michael IV histamenon.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael%20IV%20histamenon.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 2.5",
+    "artist": "Cplakidas (uploader)",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q41838",
+   "name": "Michael V Kalaphates",
+   "nativeName": "Μιχαὴλ Εʹ Καλαφάτης",
+   "roman": "Michaḕl V Kalaphátēs",
+   "start": 1041,
+   "end": 1042,
+   "image": "Histamenon nomisma-Micael V-sb1776.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Histamenon%20nomisma-Micael%20V-sb1776.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "Panairjdde",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": null,
+   "name": "Zoe and Theodora",
+   "nativeName": "Ζωὴ καὶ Θεοδώρα",
+   "roman": "Zōḕ kaì Theodṓra",
+   "start": 1042,
+   "end": 1042,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Constantine IX Monomachos",
+   "nativeName": "Κωνσταντῖνος Θʹ Μονομάχος",
+   "roman": "Kōnstantînos IX Monomáchos",
+   "start": 1042,
+   "end": 1055,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Theodora",
+   "nativeName": "Θεοδώρα",
+   "roman": "Theodṓra",
+   "start": 1055,
+   "end": 1056,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": "Q41681",
+   "name": "Michael VI Bringas",
+   "nativeName": "Μιχαὴλ Ϛʹ Βρίγγας",
+   "roman": "Michaḕl VI Bríngas",
+   "start": 1056,
+   "end": 1057,
+   "image": "Michael VI tetarteron.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael%20VI%20tetarteron.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "User:Cplakidas (uploader)",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q41643",
+   "name": "Isaac I Komnenos",
+   "nativeName": "Ἰσαάκιος Αʹ Κομνηνός",
+   "roman": "Isaákios I Komnēnós",
+   "start": 1057,
+   "end": 1059,
+   "image": "INC-3060-r Номисма тетартерон. Исаак I Комнин. Ок. 1057—1059 гг. (реверс).png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/INC-3060-r%20%D0%9D%D0%BE%D0%BC%D0%B8%D1%81%D0%BC%D0%B0%20%D1%82%D0%B5%D1%82%D0%B0%D1%80%D1%82%D0%B5%D1%80%D0%BE%D0%BD.%20%D0%98%D1%81%D0%B0%D0%B0%D0%BA%20I%20%D0%9A%D0%BE%D0%BC%D0%BD%D0%B8%D0%BD.%20%D0%9E%D0%BA.%201057%E2%80%941059%20%D0%B3%D0%B3.%20(%D1%80%D0%B5%D0%B2%D0%B5%D1%80%D1%81).png?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "АНО \"Международный нумизматический клуб\"",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": null,
+   "name": "Constantine X Doukas",
+   "nativeName": "Κωνσταντῖνος Ιʹ Δούκας",
+   "roman": "Kōnstantînos X Doúkas",
+   "start": 1059,
+   "end": 1067,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": "Q41834",
+   "name": "Romanos IV Diogenes",
+   "nativeName": "Ῥωμανὸς Δʹ Διογένης",
+   "roman": "Rhōmanòs IV Diogénēs",
+   "start": 1068,
+   "end": 1071,
+   "image": "Romanus IV coin crop.png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Romanus%20IV%20coin%20crop.png?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "UnknownUnknown  / Photography: CNG coins",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q210564",
+   "name": "Michael VII Doukas",
+   "nativeName": "Μιχαὴλ Ζʹ Δούκας",
+   "roman": "Michaḕl VII Doúkas",
+   "start": 1071,
+   "end": 1078,
+   "image": "NomismaMikaelVIIDoukas.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/NomismaMikaelVIIDoukas.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "PHGCOM",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q41689",
+   "name": "Nikephoros III Botaneiates",
+   "nativeName": "Νικηφόρος Γʹ Βοτανειάτης",
+   "roman": "Nikēphóros III Botaneiátēs",
+   "start": 1078,
+   "end": 1081,
+   "image": "Meister der Predigtsammlung des Heiligen Johannes Chrysostomus 001.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Meister%20der%20Predigtsammlung%20des%20Heiligen%20Johannes%20Chrysostomus%20001.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Meister der Predigtsammlung des Heiligen Johannes Chrysostomus",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q41600",
+   "name": "Alexios I Komnenos",
+   "nativeName": "Ἀλέξιος Αʹ Κομνηνός",
+   "roman": "Aléxios I Komnēnós",
+   "start": 1081,
+   "end": 1118,
+   "image": "Alexios I Komnenos.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexios%20I%20Komnenos.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Alexios1komnenos.jpg: UnknownUnknown \nderivative work: Constantine   ✍",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q41628",
+   "name": "John II Komnenos",
+   "nativeName": "Ἰωάννης Βʹ Κομνηνός",
+   "roman": "Iōánnēs II Komnēnós",
+   "start": 1118,
+   "end": 1143,
+   "image": "Jean II Comnene.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20II%20Comnene.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q41610",
+   "name": "Manuel I Komnenos",
+   "nativeName": "Μανουὴλ Αʹ Κομνηνός",
+   "roman": "Manouḕl I Komnēnós",
+   "start": 1143,
+   "end": 1180,
+   "image": "Manuel I Comnenus.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Manuel%20I%20Comnenus.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Uploader: User:Tokle",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q41849",
+   "name": "Alexios II Komnenos",
+   "nativeName": "Ἀλέξιος Βʹ Κομνηνός",
+   "roman": "Aléxios II Komnēnós",
+   "start": 1180,
+   "end": 1183,
+   "image": "Alexios II - komnenos.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexios%20II%20-%20komnenos.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Published by Guillaume Rouille (1518?-1589)",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q41830",
+   "name": "Andronikos I Komnenos",
+   "nativeName": "Ἀνδρόνικος Αʹ Κομνηνός",
+   "roman": "Andrónikos I Komnēnós",
+   "start": 1183,
+   "end": 1185,
+   "image": "143 - Andronikos I Komnenos (Mutinensis - color).png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/143%20-%20Andronikos%20I%20Komnenos%20(Mutinensis%20-%20color).png?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown Byzantine scribes",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q37135",
+   "name": "Isaac II Angelos",
+   "nativeName": "Ἰσαάκιος Βʹ Ἄγγελος",
+   "roman": "Isaákios II Ángelos",
+   "start": 1185,
+   "end": 1195,
+   "image": "IsaacIIAnge.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/IsaacIIAnge.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "PHGCOM",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q37065",
+   "name": "Alexios III Angelos",
+   "nativeName": "Ἀλέξιος Γʹ Ἄγγελος",
+   "roman": "Aléxios III Ángelos",
+   "start": 1195,
+   "end": 1203,
+   "image": "Alexios III.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexios%20III.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "John Zonaras",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": null,
+   "name": "Isaac II Angelos and Alexios IV",
+   "nativeName": "Ἰσαάκιος Βʹ καὶ Ἀλέξιος Δʹ",
+   "roman": "Isaákios II kaì Aléxios IV",
+   "start": 1203,
+   "end": 1204,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": "Q37076",
+   "name": "Alexios V Doukas",
+   "nativeName": "Ἀλέξιος Εʹ Δούκας Μούρτζουφλος",
+   "roman": "Aléxios V Doúkas Moúrtzouphlos",
+   "start": 1204,
+   "end": 1204,
+   "image": "147 - Alexios V Doukas (Mutinensis - color).png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/147%20-%20Alexios%20V%20Doukas%20(Mutinensis%20-%20color).png?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown Byzantine scribes",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q37086",
+   "name": "Theodore I Laskaris",
+   "nativeName": "Θεόδωρος Αʹ Λάσκαρις",
+   "roman": "Theódōros I Láskaris",
+   "start": 1205,
+   "end": 1221,
+   "image": "Theodore I Laskaris miniature.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Theodore%20I%20Laskaris%20miniature.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown Byzantine artist",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q37072",
+   "name": "John III Doukas Vatatzes",
+   "nativeName": "Ἰωάννης Γʹ Δούκας Βατάτζης",
+   "roman": "Iōánnēs III Doúkas Vatátzēs",
+   "start": 1221,
+   "end": 1254,
+   "image": "John III Doukas Vatatzes.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20III%20Doukas%20Vatatzes.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown Byzantine artist",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q37082",
+   "name": "Theodore II Laskaris",
+   "nativeName": "Θεόδωρος Βʹ Λάσκαρις",
+   "roman": "Theódōros II Láskaris",
+   "start": 1254,
+   "end": 1258,
+   "image": "Theodoros II Laskaris.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Theodoros%20II%20Laskaris.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "George Pachymeres",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q37088",
+   "name": "John IV Laskaris",
+   "nativeName": "Ἰωάννης Δʹ Λάσκαρις",
+   "roman": "Iōánnēs IV Láskaris",
+   "start": 1258,
+   "end": 1261,
+   "image": "John IV Laskaris miniature.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20IV%20Laskaris%20miniature.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown Byzantine artist",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q200033",
+   "name": "Michael VIII Palaiologos",
+   "nativeName": "Μιχαὴλ Ηʹ Παλαιολόγος",
+   "roman": "Michaḕl VIII Palaiológos",
+   "start": 1259,
+   "end": 1282,
+   "image": "Michael VIII Palaiologos.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael%20VIII%20Palaiologos.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "unknown Byzantine illuminator.",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q37067",
+   "name": "Andronikos II Palaiologos",
+   "nativeName": "Ἀνδρόνικος Βʹ Παλαιολόγος",
+   "roman": "Andrónikos II Palaiológos",
+   "start": 1282,
+   "end": 1328,
+   "image": "Andronikos II Palaiologos (head).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Andronikos%20II%20Palaiologos%20(head).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "unknown, Byzantine period art.",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": null,
+   "name": "Andronikos III Palaiologos",
+   "nativeName": "Ἀνδρόνικος Γʹ Παλαιολόγος",
+   "roman": "Andrónikos III Palaiológos",
+   "start": 1328,
+   "end": 1341,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "John V Palaiologos",
+   "nativeName": "Ἰωάννης Εʹ Παλαιολόγος",
+   "roman": "Iōánnēs V Palaiológos",
+   "start": 1341,
+   "end": 1391,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "John VI Kantakouzenos",
+   "nativeName": "Ἰωάννης Ϛʹ Καντακουζηνός",
+   "roman": "Iōánnēs VI Kantakouzēnós",
+   "start": 1347,
+   "end": 1354,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Andronikos IV Palaiologos",
+   "nativeName": "Ἀνδρόνικος Δʹ Παλαιολόγος",
+   "roman": "Andrónikos IV Palaiológos",
+   "start": 1376,
+   "end": 1379,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "John VII Palaiologos",
+   "nativeName": "Ἰωάννης Ζʹ Παλαιολόγος",
+   "roman": "Iōánnēs VII Palaiológos",
+   "start": 1390,
+   "end": 1390,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Manuel II Palaiologos",
+   "nativeName": "Μανουὴλ Βʹ Παλαιολόγος",
+   "roman": "Manouḕl II Palaiológos",
+   "start": 1391,
+   "end": 1425,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "John VIII Palaiologos",
+   "nativeName": "Ἰωάννης Ηʹ Παλαιολόγος",
+   "roman": "Iōánnēs VIII Palaiológos",
+   "start": 1425,
+   "end": 1448,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Constantine XI Palaiologos",
+   "nativeName": "Κωνσταντῖνος ΙΑʹ Παλαιολόγος",
+   "roman": "Kōnstantînos XI Palaiológos",
+   "start": 1449,
+   "end": 1453,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q12544__byzantine-empire"
+}

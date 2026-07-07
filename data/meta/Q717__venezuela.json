@@ -1,0 +1,650 @@
+{
+ "qid": "Q717",
+ "names": [
+  "Venezuela"
+ ],
+ "title": "Venezuela",
+ "variantOf": "Q717",
+ "endonym": {
+  "native": "Venezuela",
+  "roman": "Venezuela"
+ },
+ "capsule": "This Venezuela denotes the state that emerged from Gran Colombia's 1830 dissolution under José Antonio Páez, consolidating through the nineteenth-century caudillo era, the long Juan Vicente Gómez dictatorship (1908–1935), and the 1958 transition to elected civilian rule. From 1999 it was reconstituted as the Bolivarian Republic of Venezuela under Hugo Chávez and, after his 2013 death, Nicolás Maduro, a period marked by economic collapse and mass emigration in the 2010s–2020s. It is distinct from the short-lived revolutionary First and Second Republics of 1811–1814 that share this Wikidata identifier.",
+ "citations": [
+  {
+   "label": "History of Venezuela — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/History_of_Venezuela"
+  },
+  {
+   "label": "Venezuela — Britannica",
+   "url": "https://www.britannica.com/place/Venezuela"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Modern state boundaries are precisely defined by international treaties; the dataset geometry reflects post-independence republican borders, which are well documented in diplomatic and cartographic records from 1830 onward. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Venezuela",
+ "rulers": [
+  {
+   "qid": "Q16569064",
+   "name": "Francisco Javier Ustáriz",
+   "start": 1812,
+   "end": 1812,
+   "image": "Francisco Ustáriz.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20Ust%C3%A1riz.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q8605",
+   "name": "Simón Bolívar",
+   "start": 1817,
+   "end": 1819,
+   "image": "Simón Bolívar by Acevedo Bernal, 1922.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sim%C3%B3n%20Bol%C3%ADvar%20by%20Acevedo%20Bernal%2C%201922.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Ricardo Acevedo Bernal",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q2256182",
+   "name": "Santiago Mariño",
+   "start": 1835,
+   "end": 1835,
+   "image": "Martin Tovar y Tovar 34.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Tovar%20y%20Tovar%2034.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Martín Tovar y Tovar (1827 - 1902)",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q2358589",
+   "name": "José María Vargas",
+   "start": 1835,
+   "end": 1835,
+   "image": "José María Vargas by Martín Tovar y Tovar.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Mar%C3%ADa%20Vargas%20by%20Mart%C3%ADn%20Tovar%20y%20Tovar.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Martin Tovar y Tovar",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q2487449",
+   "name": "Andrés Narvarte",
+   "start": 1835,
+   "end": 1835,
+   "image": "Andres Narvarte 000.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Andres%20Narvarte%20000.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Martín Tovar y Tovar (1827-1902)",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q2497517",
+   "name": "José María Carreño",
+   "start": 1835,
+   "end": 1835,
+   "image": "José María Carreño.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Mar%C3%ADa%20Carre%C3%B1o.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Tito Salas",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q2497526",
+   "name": "Carlos Soublette",
+   "start": 1837,
+   "end": 1839,
+   "image": "Carlos Soublette.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20Soublette.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Martin Tovar y Tovar",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q8470911",
+   "name": "Diego Bautista Urbaneja Sturdy",
+   "start": 1847,
+   "end": 1847,
+   "image": "Diego Bautista Urbaneja.JPG",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Bautista%20Urbaneja.JPG?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "AnonymousUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q2080751",
+   "name": "José Gregorio Monagas",
+   "start": 1851,
+   "end": 1855,
+   "image": "JoseGregorioMonagas.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/JoseGregorioMonagas.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Martin Tovar y Tovar",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q5408382",
+   "name": "Antonio Leocadio Guzmán",
+   "start": 1851,
+   "end": 1851,
+   "image": "Antonio Leocadio Guzmán- Martín Tovar y Tovar.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Leocadio%20Guzm%C3%A1n-%20Mart%C3%ADn%20Tovar%20y%20Tovar.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Martin Tovar y Tovar",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q970332",
+   "name": "José Tadeo Monagas",
+   "start": 1855,
+   "end": 1858,
+   "image": "Martin Tovar y Tovar 28.JPG",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Tovar%20y%20Tovar%2028.JPG?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Martin Tovar y Tovar",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q2498267",
+   "name": "Julián Castro",
+   "start": 1858,
+   "end": 1859,
+   "image": "Juliancastro.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Juliancastro.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q2497205",
+   "name": "Pedro Gual",
+   "start": 1859,
+   "end": 1859,
+   "image": "Pedro Gual Escandon.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20Gual%20Escandon.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Carlos Rivero",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q2498276",
+   "name": "Manuel Felipe de Tovar",
+   "start": 1859,
+   "end": 1861,
+   "image": "Manuel Felipe de Tovar - by Martin Tovar y Tovar 22.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Manuel%20Felipe%20de%20Tovar%20-%20by%20Martin%20Tovar%20y%20Tovar%2022.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Martín Tovar y Tovar (1827 - 1902)",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q304900",
+   "name": "José Antonio Páez",
+   "start": 1861,
+   "end": 1863,
+   "image": "Jose Antonio Páez restored.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jose%20Antonio%20P%C3%A1ez%20restored.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unidentified photographer / Wilfredor",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q887139",
+   "name": "Juan Crisóstomo Falcón",
+   "start": 1863,
+   "end": 1868,
+   "image": "Carpeta asociada 023.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Carpeta%20asociada%20023.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q2498257",
+   "name": "Guillermo Tell Villegas",
+   "start": 1868,
+   "end": 1869,
+   "image": "Guillermo Tell Villegas 1.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Guillermo%20Tell%20Villegas%201.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": null,
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q2498979",
+   "name": "Manuel Ezequiel Bruzual",
+   "start": 1868,
+   "end": 1868,
+   "image": "General Manuel Ezequiel Bruzual.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/General%20Manuel%20Ezequiel%20Bruzual.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q602420",
+   "name": "Antonio Guzmán Blanco",
+   "start": 1870,
+   "end": 1877,
+   "image": "Martin Tovar y Tovar 20 restored.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Tovar%20y%20Tovar%2020%20restored.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Martín Tovar y Tovar (1827 - 1902), restored version",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q2497665",
+   "name": "Francisco Linares Alcántara",
+   "start": 1877,
+   "end": 1878,
+   "image": "Sketch Linares Alcántara.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sketch%20Linares%20Alc%C3%A1ntara.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Antonio Esteban Frías",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q936988",
+   "name": "Hermógenes López",
+   "start": 1887,
+   "end": 1888,
+   "image": "Hermogenes López.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hermogenes%20L%C3%B3pez.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q2497578",
+   "name": "Juan Pablo Rojas Paúl",
+   "start": 1888,
+   "end": 1890,
+   "image": "Presidente Rojas Paúl (1890) by Cristobal Rojas.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Presidente%20Rojas%20Pa%C3%BAl%20(1890)%20by%20Cristobal%20Rojas.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Cristóbal Rojas",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q2497541",
+   "name": "Joaquín Crespo",
+   "start": 1892,
+   "end": 1898,
+   "image": "JoaquinCrespo.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/JoaquinCrespo.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": null,
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q2585466",
+   "name": "Guillermo Tell Villegas Pulido",
+   "start": 1892,
+   "end": 1892,
+   "image": "Guillermo Tell Villegas Pulido.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Guillermo%20Tell%20Villegas%20Pulido.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q469575",
+   "name": "Cipriano Castro",
+   "start": 1899,
+   "end": 1902,
+   "image": "Cipriano Castro 1908.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cipriano%20Castro%201908.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Nicola Perscheid",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q317990",
+   "name": "Juan Vicente Gómez",
+   "start": 1908,
+   "end": 1913,
+   "image": "Juan Vicente Gómez.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Vicente%20G%C3%B3mez.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Revista Selecta",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q2585455",
+   "name": "José Gil Fortoul",
+   "start": 1913,
+   "end": 1914,
+   "image": "Gil Fortoul BNV.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gil%20Fortoul%20BNV.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q2585486",
+   "name": "Juan Bautista Pérez",
+   "start": 1929,
+   "end": 1931,
+   "image": "Juan Bautista Pérez.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Bautista%20P%C3%A9rez.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": null,
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q878504",
+   "name": "Eleazar López Contreras",
+   "start": 1935,
+   "end": 1941,
+   "image": "Eleazar López Contreras.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eleazar%20L%C3%B3pez%20Contreras.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q676987",
+   "name": "Isaías Medina Angarita",
+   "start": 1941,
+   "end": 1945,
+   "image": "IMAngarita.JPG",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/IMAngarita.JPG?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q332081",
+   "name": "Rómulo Betancourt",
+   "start": 1945,
+   "end": 1948,
+   "image": "Foto oficial Rómulo Betancourt 1959.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Foto%20oficial%20R%C3%B3mulo%20Betancourt%201959.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Presidencia de la República de Venezuela",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q311401",
+   "name": "Rómulo Gallegos",
+   "start": 1948,
+   "end": 1948,
+   "image": "Rómulo Gallegos.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/R%C3%B3mulo%20Gallegos.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": null,
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q888147",
+   "name": "Carlos Delgado Chalbaud",
+   "start": 1948,
+   "end": 1950,
+   "image": "Carlos Delgado Chalbaud1.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20Delgado%20Chalbaud1.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "Router1 at English Wikipedia",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q878409",
+   "name": "Germán Suárez Flamerich",
+   "start": 1950,
+   "end": 1952,
+   "image": "President Germán Suárez Flamerich.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/President%20Germ%C3%A1n%20Su%C3%A1rez%20Flamerich.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Government of Venezuela.",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q459118",
+   "name": "Marcos Pérez Jiménez",
+   "start": 1953,
+   "end": 1958,
+   "image": "General Marcos Evangelista Pérez Jiménez, Venezuela.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/General%20Marcos%20Evangelista%20P%C3%A9rez%20Jim%C3%A9nez%2C%20Venezuela.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Wilfredor",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q879003",
+   "name": "Raúl Leoni",
+   "start": 1964,
+   "end": 1969,
+   "image": "Raúl Leoni 1965.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ra%C3%BAl%20Leoni%201965.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0 nl",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q455661",
+   "name": "Luis Herrera Campins",
+   "start": 1979,
+   "end": 1984,
+   "image": "Luis Herrera Campins.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Luis%20Herrera%20Campins.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Michael Evans",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q727036",
+   "name": "Jaime Lusinchi",
+   "start": 1984,
+   "end": 1989,
+   "image": "Lusinchi 89.JPG",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lusinchi%2089.JPG?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Grandmother of Guillermo Ramos Flamerich",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q295790",
+   "name": "Carlos Andrés Pérez",
+   "start": 1989,
+   "end": 1993,
+   "image": "Carlos Andrés Pérez - World Economic Forum Annual Meeting 1989.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20Andr%C3%A9s%20P%C3%A9rez%20-%20World%20Economic%20Forum%20Annual%20Meeting%201989.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 2.0",
+    "artist": "World Economic Forum from Cologny, Switzerland",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q143499",
+   "name": "Ramón José Velásquez",
+   "start": 1993,
+   "end": 1994,
+   "image": "Ramón J. Velásquez, 2009.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ram%C3%B3n%20J.%20Vel%C3%A1squez%2C%202009.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "Guillermo Ramos Flamerich",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q1064011",
+   "name": "Octavio Lepage",
+   "start": 1993,
+   "end": 1994,
+   "image": "Octavio Lepage 2.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Octavio%20Lepage%202.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "Guillermo Ramos Flamerich",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q311323",
+   "name": "Rafael Caldera",
+   "start": 1994,
+   "end": 1999,
+   "image": "1967. Retrato de Rafael Caldera.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/1967.%20Retrato%20de%20Rafael%20Caldera.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Familia Caldera Pietri",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q8440",
+   "name": "Hugo Chávez",
+   "start": 1999,
+   "end": 2013,
+   "image": "Hugo Chávez (02-04-2010) (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hugo%20Ch%C3%A1vez%20(02-04-2010)%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 4.0",
+    "artist": "Premier.gov.ru",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q878705",
+   "name": "Pedro Carmona",
+   "start": 2002,
+   "end": 2002,
+   "image": "Pedro Carmona 2002.png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20Carmona%202002.png?width=320",
+   "imageLicense": {
+    "license": "CC BY 3.0",
+    "artist": "Prensa Presidencial - Venezuelan Government",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q1227076",
+   "name": "Diosdado Cabello",
+   "start": 2002,
+   "end": 2002,
+   "image": "Diosdado Cabello 2025.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Diosdado%20Cabello%202025.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Con El Mazo Dando, Venezolana de Televisión",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q58132",
+   "name": "Nicolás Maduro",
+   "start": 2013,
+   "end": 2026,
+   "image": "Nicolás Maduro in 2023 (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicol%C3%A1s%20Maduro%20in%202023%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 2.0",
+    "artist": "Palácio do Planalto from Brasilia, Brasil",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q58833335",
+   "name": "Juan Guaidó",
+   "start": 2019,
+   "end": 2023,
+   "image": "Juan Guaidó 2019 portrait.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Guaid%C3%B3%202019%20portrait.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Leo Alvarez",
+    "attributionRequired": true
+   }
+  }
+ ],
+ "blurbKey": "Q717__venezuela"
+}

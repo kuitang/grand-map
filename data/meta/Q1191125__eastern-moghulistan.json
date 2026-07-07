@@ -1,0 +1,112 @@
+{
+ "qid": "Q1191125",
+ "names": [
+  "Eastern Moghulistan"
+ ],
+ "title": "Eastern Moghulistan",
+ "variantOf": "Q1191125",
+ "endonym": {
+  "native": "مغولستان",
+  "roman": "مغولستان",
+  "lang": "fa"
+ },
+ "capsule": "Eastern Moghulistan denotes the Turpan-based Chagatayid khanate that formed the eastern half of the divided Moghul realm after the 1514-16 split, ruled first by Mansur Khan (d. 1543) and then by his descendants from their oasis capital at Turpan and Qara Khoja. Squeezed between the rival Yarkent Khanate to the west and expanding Oirat power to the north, the Turpan line's authority steadily eroded, and most of its territory was absorbed by the Yarkent Khanate around 1570. The remaining Turpan Chagatayids survived as a diminished principality into the later seventeenth century until Dzungar expansion extinguished the line by the 1680s.",
+ "citations": [
+  {
+   "label": "Turpan Khanate - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Turpan_Khanate"
+  },
+  {
+   "label": "Moghulistan - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Moghulistan"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Moghulistan's territorial extent is reconstructed from Timurid chronicles, Chinese dynastic histories, and later Chagatai-language sources; the steppe frontiers were fluid and seasonal, and the polity's boundaries are broadly approximate rather than administratively demarcated. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Moghulistan",
+ "rulers": [
+  {
+   "name": "Mansur Khan",
+   "native": "منصور خان",
+   "roman": "Manṣūr Khān",
+   "start": 1503,
+   "end": 1543,
+   "nativeName": "منصور خان"
+  },
+  {
+   "name": "Shah Khan",
+   "native": "شاه خان",
+   "roman": "Shāh Khān",
+   "start": 1543,
+   "end": 1560,
+   "nativeName": "شاه خان"
+  },
+  {
+   "name": "Muhammad Khan ibn Mansur Khan",
+   "native": "محمد خان بن منصور خان",
+   "roman": "Muḥammad Khān ibn Manṣūr Khān",
+   "start": 1570,
+   "end": 1570,
+   "nativeName": "محمد خان بن منصور خان"
+  },
+  {
+   "name": "Koraish Sultan",
+   "native": "قریش سلطان",
+   "roman": "Quraysh Sulṭān",
+   "start": 1570,
+   "end": 1588,
+   "nativeName": "قریش سلطان"
+  },
+  {
+   "name": "Muhammad Sultan",
+   "native": "محمد سلطان",
+   "roman": "Muḥammad Sulṭān",
+   "start": 1588,
+   "end": 1591,
+   "nativeName": "محمد سلطان"
+  },
+  {
+   "name": "Abduraim Khan",
+   "native": "عبدالرحیم خان",
+   "roman": "ʿAbd al-Raḥīm Khān",
+   "start": 1591,
+   "end": 1636,
+   "nativeName": "عبدالرحیم خان"
+  },
+  {
+   "name": "Abu'l Muhammad Khan",
+   "native": "ابوالمحمد خان",
+   "roman": "Abū'l-Muḥammad Khān",
+   "start": 1636,
+   "end": 1653,
+   "nativeName": "ابوالمحمد خان"
+  },
+  {
+   "name": "Ibrahim Sultan",
+   "native": "ابراهیم سلطان",
+   "roman": "Ibrāhīm Sulṭān",
+   "start": 1653,
+   "end": 1655,
+   "nativeName": "ابراهیم سلطان"
+  },
+  {
+   "name": "Sultan Said Baba Khan",
+   "native": "سلطان سعید بابا خان",
+   "roman": "Sulṭān Saʿīd Bābā Khān",
+   "start": 1655,
+   "end": 1680,
+   "nativeName": "سلطان سعید بابا خان"
+  }
+ ],
+ "blurbKey": "Q1191125__eastern-moghulistan"
+}

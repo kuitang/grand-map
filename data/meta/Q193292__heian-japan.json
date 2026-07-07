@@ -1,0 +1,332 @@
+{
+ "qid": "Q193292",
+ "names": [
+  "Heian Japan"
+ ],
+ "title": "Heian Japan",
+ "variantOf": "Q193292",
+ "endonym": {
+  "native": "平安時代",
+  "roman": "Heian jidai"
+ },
+ "capsule": "The Heian period began in 794 when Emperor Kanmu relocated the imperial capital to Heian-kyo (Kyoto), ushering in centuries of aristocratic court culture in which Chinese-derived ritsuryo bureaucracy steadily gave way to private shoen estates and provincial power. From the mid-9th century the Fujiwara clan dominated the throne as hereditary regents (sessho) and chancellors (kampaku), marrying daughters into the imperial line and peaking under Fujiwara no Michinaga (995-1027); after 1086 retired emperors ruled from cloistered government (insei). Heian Japan produced the classical high point of court literature, including Murasaki Shikibu's Tale of Genji, before the Genpei War (1180-1185) destroyed Taira power and opened the way for Minamoto no Yoritomo's warrior government.",
+ "citations": [
+  {
+   "label": "Heian period | Britannica",
+   "url": "https://www.britannica.com/event/Heian-period"
+  },
+  {
+   "label": "Heian Period (794-1185) | The Met",
+   "url": "https://www.metmuseum.org/essays/heian-period-794-1185"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases (Times Atlas of World History; Kinder & Hilgemann; Shepherd 1926) at ~0.07° resolution. The archipelago bounds the state; the effective northern frontier against the Emishi/Ezo lands is approximate. Confidence: high. Capsule researched for this polity/era specifically (confidence: high).",
+ "rulers": [
+  {
+   "qid": "Q449540",
+   "name": "Ichijō",
+   "start": 986,
+   "end": 1011,
+   "ordinal": null,
+   "image": "Emperor Ichijō.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Ichij%C5%8D.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown",
+    "attributionRequired": false
+   },
+   "nativeName": "一条天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q357231",
+   "name": "Sanjō",
+   "start": 1011,
+   "end": 1016,
+   "ordinal": null,
+   "image": "Emperor Sanjō.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Sanj%C5%8D.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Kanō Tsunenobu",
+    "attributionRequired": false
+   },
+   "nativeName": "三条天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q374087",
+   "name": "Go-Ichijō",
+   "start": 1016,
+   "end": 1036,
+   "ordinal": null,
+   "image": "Empress Shoshi and son (cropped to Shoshi and son).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Empress%20Shoshi%20and%20son%20(cropped%20to%20Shoshi%20and%20son).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "後一条天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q349296",
+   "name": "Go-Suzaku",
+   "start": 1036,
+   "end": 1045,
+   "ordinal": null,
+   "image": "Emperor Go-Suzaku.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Go-Suzaku.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "三宅幸太郎 (Miyake Kōtarō)",
+    "attributionRequired": false
+   },
+   "nativeName": "後朱雀天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q356060",
+   "name": "Go-Reizei",
+   "start": 1045,
+   "end": 1068,
+   "ordinal": null,
+   "image": "Emperor Go-Reizei.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Go-Reizei.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "明治天皇聖徳奉讃会",
+    "attributionRequired": false
+   },
+   "nativeName": "後冷泉天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q45844",
+   "name": "Go-Sanjō",
+   "start": 1068,
+   "end": 1073,
+   "ordinal": null,
+   "image": "Emperor Gosanjō.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Gosanj%C5%8D.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Published by 三英舎 (San'ei-sha)",
+    "attributionRequired": false
+   },
+   "nativeName": "後三条天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q60949",
+   "name": "Emperor Shirakawa",
+   "start": 1073,
+   "end": 1087,
+   "ordinal": null,
+   "image": "Emperor Shirakawa.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Shirakawa.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "白河天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q464267",
+   "name": "Emperor Horikawa",
+   "start": 1087,
+   "end": 1107,
+   "ordinal": null,
+   "image": "堀河天皇.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%E5%A0%80%E6%B2%B3%E5%A4%A9%E7%9A%87.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "三宅幸太郎",
+    "attributionRequired": false
+   },
+   "nativeName": "堀河天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q349284",
+   "name": "Toba",
+   "start": 1107,
+   "end": 1123,
+   "ordinal": null,
+   "image": "Emperor Toba.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Toba.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": null,
+    "attributionRequired": false
+   },
+   "nativeName": "鳥羽天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q349287",
+   "name": "Emperor Sutoku",
+   "start": 1123,
+   "end": 1142,
+   "ordinal": null,
+   "image": "Emperor Sutoku2.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Sutoku2.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Fujiwara no Tamenobu",
+    "attributionRequired": false
+   },
+   "nativeName": "崇徳天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q373997",
+   "name": "Emperor Konoe",
+   "start": 1142,
+   "end": 1155,
+   "ordinal": null,
+   "image": "Emperor Konoe by Kōtarō Miyake.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Konoe%20by%20K%C5%8Dtar%C5%8D%20Miyake.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "三宅幸太郎",
+    "attributionRequired": false
+   },
+   "nativeName": "近衛天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q317984",
+   "name": "Go-Shirakawa",
+   "start": 1155,
+   "end": 1158,
+   "ordinal": null,
+   "image": "Emperor Goshirakawa.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Goshirakawa.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": null,
+    "attributionRequired": false
+   },
+   "nativeName": "後白河天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q440149",
+   "name": "Nijō",
+   "start": 1158,
+   "end": 1165,
+   "ordinal": null,
+   "image": "Emperor Nijō.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Nij%C5%8D.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Fujiwara no Tamenobu",
+    "attributionRequired": false
+   },
+   "nativeName": "二条天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q357046",
+   "name": "Rokujō",
+   "start": 1165,
+   "end": 1168,
+   "ordinal": null,
+   "image": "Emperor Rokujō by Kōtarō Miyake.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Rokuj%C5%8D%20by%20K%C5%8Dtar%C5%8D%20Miyake.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "三宅幸太郎",
+    "attributionRequired": false
+   },
+   "nativeName": "六条天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q357261",
+   "name": "Takakura",
+   "start": 1168,
+   "end": 1180,
+   "ordinal": null,
+   "image": "Emperor Takakura.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Takakura.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Fujiwara no Tamenobu",
+    "attributionRequired": false
+   },
+   "nativeName": "高倉天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q316651",
+   "name": "Antoku",
+   "start": 1180,
+   "end": 1185,
+   "ordinal": null,
+   "image": "Emperor Antoku.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Antoku.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown",
+    "attributionRequired": false
+   },
+   "nativeName": "安徳天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q316658",
+   "name": "Go-Toba",
+   "start": 1183,
+   "end": 1198,
+   "ordinal": null,
+   "image": "Emperor Go-Toba.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Go-Toba.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Fujiwara no Nobuzane",
+    "attributionRequired": false
+   },
+   "nativeName": "後鳥羽天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q357269",
+   "name": "Tsuchimikado",
+   "start": 1198,
+   "end": 1210,
+   "ordinal": null,
+   "image": "Emperor Tsuchimikado.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Tsuchimikado.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Fujiwara no Tamenobu",
+    "attributionRequired": false
+   },
+   "nativeName": "土御門天皇",
+   "nativeLang": "ja"
+  },
+  {
+   "qid": "Q357249",
+   "name": "Juntoku",
+   "start": 1210,
+   "end": 1221,
+   "ordinal": null,
+   "image": "Emperor Juntoku large.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Juntoku%20large.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Fujiwara no Tamenobu",
+    "attributionRequired": false
+   },
+   "nativeName": "順徳天皇",
+   "nativeLang": "ja"
+  }
+ ],
+ "blurbKey": "Q193292__heian-japan"
+}

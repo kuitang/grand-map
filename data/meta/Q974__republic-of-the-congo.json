@@ -1,0 +1,326 @@
+{
+ "qid": "Q974",
+ "names": [
+  "Republic of the Congo"
+ ],
+ "title": "Republic of the Congo",
+ "variantOf": "Q974",
+ "endonym": {
+  "native": "République du Congo",
+  "roman": "République du Congo"
+ },
+ "capsule": "The Republic of the Congo (Congo-Brazzaville), which gained independence from France in August 1960, adopted single-party 'scientific socialist' rule under Alphonse Massamba-Debat's 1963 constitution and became explicitly Marxist-Leninist as the People's Republic of the Congo from 1970 to 1991. Multiparty elections in 1992 gave way to civil war later in the decade, after which Denis Sassou Nguesso, president from 1979 to 1992, returned to power in 1997 and has ruled the oil-producing state ever since.",
+ "citations": [
+  {
+   "label": "Britannica: History of Republic of the Congo",
+   "url": "https://www.britannica.com/place/Republic-of-the-Congo/History"
+  },
+  {
+   "label": "Wikipedia: History of the Republic of the Congo",
+   "url": "https://en.wikipedia.org/wiki/History_of_the_Republic_of_the_Congo"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. National boundaries are inherited from the Congo Free State / Belgian Congo and are defined by colonial treaties; the boundaries with Zambia, Angola, Republic of the Congo, and Uganda are documented, though the border with Rwanda and the eastern frontier have been de facto contested during ongoing conflicts. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Democratic Republic of the Congo",
+ "rulers": [
+  {
+   "qid": "Q206048",
+   "name": "Joseph Kasa-Vubu",
+   "start": 1960,
+   "end": 1965,
+   "image": "Joseph Kasa-Vubu in 1960 (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Kasa-Vubu%20in%201960%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC0",
+    "artist": "Anefo",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q161672",
+   "name": "Patrice Lumumba",
+   "start": 1960,
+   "end": 1960,
+   "image": "PatriceLumumba1960.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/PatriceLumumba1960.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 4.0",
+    "artist": "Harry Pot for Anefo )",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q1429232",
+   "name": "Joseph Iléo",
+   "start": 1960,
+   "end": 1960,
+   "image": "Joseph Iléo.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Il%C3%A9o.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "unknown, Le Courrier d’Afrique",
+    "attributionRequired": false
+   },
+   "nativeName": "Joseph Ileo",
+   "nativeLang": "fr"
+  },
+  {
+   "qid": "Q3190411",
+   "name": "Justin Marie Bomboko",
+   "start": 1960,
+   "end": 1961,
+   "image": "Aankomst op Schiphol van Justin Bomboko minister in reg Ileo op doorreis naar P, Bestanddeelnr 911-6367.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Aankomst%20op%20Schiphol%20van%20Justin%20Bomboko%20minister%20in%20reg%20Ileo%20op%20doorreis%20naar%20P%2C%20Bestanddeelnr%20911-6367.jpg?width=320",
+   "imageLicense": {
+    "license": "CC0",
+    "artist": "Hugo van Gelderen / Anefo",
+    "attributionRequired": false
+   },
+   "nativeName": "Justin Bomboko",
+   "nativeLang": "fr"
+  },
+  {
+   "qid": "Q182309",
+   "name": "Cyrille Adoula",
+   "start": 1961,
+   "end": 1964,
+   "image": "Bundesarchiv B 145 Bild-F017179-0014, Auswärtiges Amt, Besuch Ministerpräsident Kongo.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20B%20145%20Bild-F017179-0014%2C%20Ausw%C3%A4rtiges%20Amt%2C%20Besuch%20Ministerpr%C3%A4sident%20Kongo.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0 de",
+    "artist": "Gerhard Heisler",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q334830",
+   "name": "Tshombé Moïse",
+   "start": 1964,
+   "end": 1965,
+   "image": "26.2.63. Moïse Tshombe arrive à Toulouse (1963) - 53Fi5440 (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/26.2.63.%20Mo%C3%AFse%20Tshombe%20arrive%20%C3%A0%20Toulouse%20(1963)%20-%2053Fi5440%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "André Cros",
+    "attributionRequired": true
+   },
+   "nativeName": "Moïse Tshombe",
+   "nativeLang": "fr"
+  },
+  {
+   "qid": "Q164535",
+   "name": "Mobutu Sese Seko",
+   "start": 1965,
+   "end": 1997,
+   "image": "Mobutu.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mobutu.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Frank Hall",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q176414",
+   "name": "Évariste Kimba",
+   "start": 1965,
+   "end": 1965,
+   "image": null
+  },
+  {
+   "qid": "Q1879477",
+   "name": "Léonard Mulamba",
+   "start": 1965,
+   "end": 1966,
+   "image": "Léonard Mulamba.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/L%C3%A9onard%20Mulamba.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Moshe Pridan",
+    "attributionRequired": false
+   },
+   "nativeName": "Léonard Mulamba Nyunyi wa Kadima",
+   "nativeLang": "fr"
+  },
+  {
+   "qid": "Q135547",
+   "name": "Laurent-Désiré Kabila",
+   "start": 1997,
+   "end": 2001,
+   "image": "Visit of Laurent Désiré Kabila, President of the Democratic Republic of Congo, to the EC (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Visit%20of%20Laurent%20D%C3%A9sir%C3%A9%20Kabila%2C%20President%20of%20the%20Democratic%20Republic%20of%20Congo%2C%20to%20the%20EC%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 4.0",
+    "artist": "Etienne Scholasse, European Communities",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q57416",
+   "name": "Joseph Kabila",
+   "start": 2001,
+   "end": 2019,
+   "image": "Joseph Kabila April 2016.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Kabila%20April%202016.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "U.S. Department of State from United States",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q316942",
+   "name": "Antoine Gizenga",
+   "start": 2006,
+   "end": 2008,
+   "image": "Antoine Gizenga.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Antoine%20Gizenga.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 2.0",
+    "artist": "Radio Okapi",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q365790",
+   "name": "Adolphe Muzito",
+   "start": 2008,
+   "end": 2012,
+   "image": "Adolphe Muzito - 2009.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Adolphe%20Muzito%20-%202009.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 2.0",
+    "artist": "Radio Okapi",
+    "attributionRequired": true
+   },
+   "nativeName": "Adolphe Muzito Fumutshi",
+   "nativeLang": "fr"
+  },
+  {
+   "qid": "Q57883",
+   "name": "Matata Ponyo Mapon Augustin",
+   "start": 2012,
+   "end": 2016,
+   "image": "Matata Ponyo Mapon.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Matata%20Ponyo%20Mapon.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "Mmmbutho",
+    "attributionRequired": true
+   },
+   "nativeName": "Augustin Matata Ponyo Mapon",
+   "nativeLang": "fr"
+  },
+  {
+   "qid": "Q3078546",
+   "name": "Koyagialo Ngbase te Gerengo Louis Alphonse",
+   "start": 2012,
+   "end": 2012,
+   "image": "Photo Louis Koyagialo.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Photo%20Louis%20Koyagialo.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Radio Okapi",
+    "attributionRequired": true
+   },
+   "nativeName": "Louis Alphonse Koyagialo Ngbase te Gerengo",
+   "nativeLang": "fr"
+  },
+  {
+   "qid": "Q17639110",
+   "name": "Samy Badibanga",
+   "start": 2016,
+   "end": 2017,
+   "image": "Samy Badibanga 2016 (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Samy%20Badibanga%202016%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Top Congo (VOA)",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q29239480",
+   "name": "Bruno Tshibala",
+   "start": 2017,
+   "end": 2019,
+   "image": "Bruno Tshibala.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruno%20Tshibala.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 2.0",
+    "artist": "MONUSCO",
+    "attributionRequired": true
+   },
+   "nativeName": "Bruno Tshibala Nzenze",
+   "nativeLang": "fr"
+  },
+  {
+   "qid": "Q29032770",
+   "name": "Félix Tshisekedi",
+   "start": 2019,
+   "end": null,
+   "image": "Felix Tshisekedi, President of the Democratic Republic of the Congo (55078564106) (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Felix%20Tshisekedi%2C%20President%20of%20the%20Democratic%20Republic%20of%20the%20Congo%20(55078564106)%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "U.S. Department of State",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q63967715",
+   "name": "Ilunga Ilunkamba Sylvestre",
+   "start": 2019,
+   "end": 2021,
+   "image": "Sylvestre Ilunga Ilunkamba (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sylvestre%20Ilunga%20Ilunkamba%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 2.0",
+    "artist": "MONUSCO Photos",
+    "attributionRequired": true
+   },
+   "nativeName": "Sylvestre Ilunga Ilunkamba",
+   "nativeLang": "fr"
+  },
+  {
+   "qid": "Q105523479",
+   "name": "Jean-Michel Sama Lukonde Kyenge",
+   "start": 2021,
+   "end": 2024,
+   "image": "Secretary Blinken Meets With DRC Prime Minister Lukonde (52276160562) (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Blinken%20Meets%20With%20DRC%20Prime%20Minister%20Lukonde%20(52276160562)%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "U.S. Department of State from United States",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q117472023",
+   "name": "Judith Suminwa",
+   "start": 2024,
+   "end": null,
+   "image": "Prime Minister of DRC Judith Suminwa Tuluka (2025) (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Prime%20Minister%20of%20DRC%20Judith%20Suminwa%20Tuluka%20(2025)%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 4.0",
+    "artist": "首相官邸ホームページ",
+    "attributionRequired": true
+   },
+   "nativeName": "Judith Tuluka Suminwa",
+   "nativeLang": "fr"
+  }
+ ],
+ "blurbKey": "Q974__republic-of-the-congo"
+}

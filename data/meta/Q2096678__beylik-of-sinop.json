@@ -1,0 +1,58 @@
+{
+ "qid": "Q2096678",
+ "names": [
+  "Beylik of Sinop"
+ ],
+ "title": "Beylik of Sinop",
+ "variantOf": "Q2096678",
+ "endonym": {
+  "native": "جاندارلى اوغوللارى",
+  "roman": "Cāndārlı Oğulları",
+  "lang": "ota"
+ },
+ "capsule": "In this 1305–1333 phase, the Beylik of Sinop was the fledgling Candarid principality on the Black Sea, where Süleyman I Pasha's family wrested the port of Sinop from its Pervaneid rulers by the mid-1320s. Ruling under nominal Ilkhanid Mongol suzerainty, it functioned as a contested trade hub frequented by the Genoese, predating the dynastic strife of the 1330s–80s that later split the realm.",
+ "citations": [
+  {
+   "label": "Candar dynasty – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Candar_dynasty"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The beylik's territorial footprint is only approximately attested; boundaries are inferred from Ottoman administrative records and Byzantine sources, with no surviving contemporary maps. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Candar dynasty",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Şemseddin Yaman Candar",
+   "nativeName": "شمس‌الدین یمان جاندار",
+   "roman": "Şemseddin Yaman Candar",
+   "start": 1292,
+   "end": 1308,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Süleyman I Paşa",
+   "nativeName": "سلیمان پاشا",
+   "roman": "Süleyman I Paşa",
+   "start": 1308,
+   "end": 1341,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q2096678__beylik-of-sinop"
+}

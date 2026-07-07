@@ -1,0 +1,101 @@
+{
+ "qid": "Q1057118",
+ "names": [
+  "Chenla"
+ ],
+ "title": "Chenla",
+ "variantOf": "Q1057118",
+ "endonym": {
+  "native": "ចេនឡា",
+  "roman": "Chenla"
+ },
+ "capsule": "Chenla (Zhenla in Chinese Tang-dynasty annals) denotes the Khmer-speaking successor state to Funan that emerged in the lower Mekong-Tonle Sap basin from the mid-sixth century, traditionally founded by Bhavavarman I and consolidated by his brother Citrasena-Mahendravarman and the latter's son Ishanavarman I, who built the capital Ishanapura (Sambor Prei Kuk) around 615-628. Under Jayavarman I (r. c. 657-681) the kingdom reached its greatest extent across central Cambodia, but his death without a male heir left his widow Queen Jayadevi struggling to hold the court together amid factional strife. By the early eighth century this breakdown produced the division Chinese sources recorded, after 707, as Land Chenla and Water Chenla, ending Chenla's existence as a single unified realm.",
+ "citations": [
+  {
+   "label": "Chenla - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chenla"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Chenla's political history rests primarily on Chinese annals and a limited corpus of Old Khmer inscriptions; territorial boundaries are approximate reconstructions and debate continues over whether 'Chenla' denotes a unified polity or a loosely connected set of principalities. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Chenla",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Bhavavarman I",
+   "nativeName": "ភវវរ្ម័នទី១",
+   "roman": "Bhavavarman I",
+   "start": 550,
+   "end": 600,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Mahendravarman",
+   "nativeName": "មហេន្ទ្រវរ្ម័ន",
+   "roman": "Mahendravarman",
+   "start": 600,
+   "end": 616,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Isanavarman I",
+   "nativeName": "ឦសានវរ្ម័នទី១",
+   "roman": "Isanavarman I",
+   "start": 616,
+   "end": 637,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Bhavavarman II",
+   "nativeName": "ភវវរ្ម័នទី២",
+   "roman": "Bhavavarman II",
+   "start": 637,
+   "end": 650,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Jayavarman I",
+   "nativeName": "ជ័យវរ្ម័នទី១",
+   "roman": "Jayavarman I",
+   "start": 657,
+   "end": 681,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Jayadevi",
+   "nativeName": "ជ័យទេវី",
+   "roman": "Jayadevi",
+   "start": 681,
+   "end": 713,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q1057118__chenla"
+}

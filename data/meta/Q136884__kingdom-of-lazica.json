@@ -1,0 +1,63 @@
+{
+ "qid": "Q136884",
+ "names": [
+  "Kingdom of Lazica"
+ ],
+ "title": "Kingdom of Lazica",
+ "variantOf": "Q136884",
+ "endonym": {
+  "native": "ეგრისი",
+  "roman": "Egrisi"
+ },
+ "capsule": "By the 7th century the former kingdom of Lazica (Egrisi) no longer had kings of its own — the native monarchy lapsed after the Lazic War ended in 562 — and the land was instead governed as a Byzantine-dependent principality under local patricians and eristavis (dukes), caught between Constantinople's authority and the advancing Arab Caliphate after the Arab conquests of the 640s onward. Byzantine control fluctuated, exemplified by the Lazic patrician Sergius, who defected to the Arabs around 697, and Arab raids repeatedly tested the region through the 8th century even as it retained nominal Byzantine allegiance. Egrisi's separate political identity ended around 778, when the Abkhazian prince Leon II, backed by the Khazars, expelled Byzantine authority and united Egrisi/Lazica with Abkhazia under his own kingship — a transition distinct from the earlier Roman-era 'Lazica' kingdom recorded under this same Wikidata identifier.",
+ "citations": [
+  {
+   "label": "Lazica - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lazica"
+  },
+  {
+   "label": "Kingdom of Abkhazia - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kingdom_of_Abkhazia"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The kingdom's general territory along the eastern Black Sea coast is established by Byzantine and Persian sources; precise interior boundaries are difficult to map given the mountainous terrain and clientage relationships that made frontiers fluid. Capsule researched for this polity/era specifically (confidence: low).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Lazica",
+ "rulers": [
+  {
+   "name": "Lebarnicius",
+   "native": "ლებარნიციუსი",
+   "roman": "Lebarnicius",
+   "start": 662,
+   "end": 662,
+   "nativeName": "ლებარნიციუსი"
+  },
+  {
+   "name": "Grigor",
+   "native": "გრიგოლი",
+   "roman": "Grigor",
+   "start": 670,
+   "end": 675,
+   "nativeName": "გრიგოლი"
+  },
+  {
+   "name": "Sergius",
+   "native": "სერგი",
+   "roman": "Sergius",
+   "start": 696,
+   "end": 697,
+   "nativeName": "სერგი"
+  }
+ ],
+ "blurbKey": "Q136884__kingdom-of-lazica"
+}

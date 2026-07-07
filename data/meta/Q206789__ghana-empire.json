@@ -1,0 +1,182 @@
+{
+ "qid": "Q206789",
+ "names": [
+  "Ghana Empire"
+ ],
+ "title": "Ghana Empire",
+ "variantOf": "Q206789",
+ "endonym": {
+  "native": "Wagadu",
+  "roman": "Wagadu"
+ },
+ "capsule": "The Ghana Empire, known to its own Soninke rulers as Wagadu (the title 'ghana' meaning war-chief was applied by Arab writers to its kings), dominated the western Sahel from its capital, most likely Koumbi Saleh, controlling the trans-Saharan trade in gold from the Bambuk and Bure fields exchanged for Saharan salt. Arab geographers from the eighth century onward, such as al-Fazari and later al-Bakri in the eleventh century, describe Ghana as fabulously wealthy, its king able to field large cavalry armies and exact tribute from surrounding Sahelian peoples along the upper Senegal and Niger. Weakened by Almoravid pressure from the north in the later eleventh century and by the exhaustion of easily worked gold deposits, Ghana's authority fragmented through the twelfth century, and by 1203 the Sosso ruler Sumanguru Kante had eclipsed it, opening the way for its eventual absorption into the rising Mali Empire.",
+ "citations": [
+  {
+   "label": "Ghana | History, Culture & Legacy - Britannica",
+   "url": "https://www.britannica.com/place/Ghana-historical-West-African-empire"
+  },
+  {
+   "label": "Ghana Empire - World History Encyclopedia",
+   "url": "https://www.worldhistory.org/Ghana_Empire/"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases (Times Atlas of World History; Kinder & Hilgemann; Shepherd 1926) at ~0.07° resolution. Extents rest on a handful of Arabic accounts and archaeology (Koumbi Saleh); all lines are conjectural conventions. Confidence: low — rendered with maximal uncertainty shading. Attested primarily in textual sources (al-Bakri, later Ibn Khaldun). Capsule researched for this polity/era specifically (confidence: high).",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Gandé Cissé",
+   "nativeName": "Gandé Cissé",
+   "roman": "Gandé Cissé",
+   "start": 750,
+   "end": 780,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Mané Cissé",
+   "nativeName": "Mané Cissé",
+   "roman": "Mané Cissé",
+   "start": 780,
+   "end": 800,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Birama Cissé",
+   "nativeName": "Birama Cissé",
+   "roman": "Birama Cissé",
+   "start": 800,
+   "end": 820,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ghana Dinga Cissé",
+   "nativeName": "Ghana Dinga Cissé",
+   "roman": "Ghana Dinga Cissé",
+   "start": 820,
+   "end": 840,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Soroke Cissé",
+   "nativeName": "Soroke Cissé",
+   "roman": "Soroke Cissé",
+   "start": 840,
+   "end": 860,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Maghan Cissé",
+   "nativeName": "Maghan Cissé",
+   "roman": "Maghan Cissé",
+   "start": 860,
+   "end": 890,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Tunka Manin",
+   "nativeName": "Tunka Manin",
+   "roman": "Tunka Manin",
+   "start": 1062,
+   "end": 1076,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Abu Bakr ibn Umar (Almoravid overlord)",
+   "nativeName": "أبو بكر بن عمر",
+   "roman": "Abū Bakr ibn ʿUmar",
+   "start": 1076,
+   "end": 1087,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Kambine Diaresso II",
+   "nativeName": "Kambine Diaresso",
+   "roman": "Kambine Diaresso II",
+   "start": 1087,
+   "end": 1100,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Suleiman-Nantam",
+   "nativeName": "Suleiman-Nantam",
+   "roman": "Suleiman-Nantam",
+   "start": 1100,
+   "end": 1120,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Bannu Bubu",
+   "nativeName": "Bannu Bubu",
+   "roman": "Bannu Bubu",
+   "start": 1120,
+   "end": 1150,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Majan Wati",
+   "nativeName": "Majan Wati",
+   "roman": "Majan Wati",
+   "start": 1150,
+   "end": 1180,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Diara Kante",
+   "nativeName": "Diara Kante",
+   "roman": "Diara Kante",
+   "start": 1180,
+   "end": 1202,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Soumaba Cissé",
+   "nativeName": "Soumaba Cissé",
+   "roman": "Soumaba Cissé",
+   "start": 1202,
+   "end": 1235,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q206789__ghana-empire"
+}

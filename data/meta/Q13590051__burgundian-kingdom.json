@@ -1,0 +1,116 @@
+{
+ "qid": "Q13590051",
+ "names": [
+  "Burgundian Kingdom"
+ ],
+ "title": "Burgundian Kingdom",
+ "variantOf": "Q13590051",
+ "endonym": {
+  "native": "Regnum Burgundionum",
+  "roman": "Regnum Burgundionum",
+  "lang": "la"
+ },
+ "capsule": "Settled as Roman foederati under King Gundahar around 413 near Worms, a setting later mythologized in the Nibelungenlied, the Burgundian kingdom was crushed by Hunnic forces allied with the Roman general Aetius in 436. Resettled around Geneva and Sapaudia, it was refounded under Gundioc and expanded by his son Gundobad, whose law code (the Lex Burgundionum) governed a realm centered on Lyon and Geneva. Conquered by the Franks in 534, Burgundy continued for over a century afterward as a distinct Merovingian sub-kingdom before its institutions were fully absorbed into the wider Frankish realm.",
+ "citations": [
+  {
+   "label": "Wikipedia, \"Kingdom of the Burgundians\"",
+   "url": "https://en.wikipedia.org/wiki/Kingdom_of_the_Burgundians"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Written sources attest the Burgundians' Rhine settlement and Sapaudian resettlement; their earlier territorial range before the 5th century is poorly defined. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Burgundians",
+ "rulers": [
+  {
+   "name": "Gundahar (Gundicar)",
+   "native": "Gundaharius",
+   "roman": "Gundahar",
+   "start": 411,
+   "end": 436,
+   "nativeName": "Gundaharius"
+  },
+  {
+   "name": "Gundioc",
+   "native": "Gundiocus",
+   "roman": "Gundioc",
+   "start": 443,
+   "end": 473,
+   "nativeName": "Gundiocus"
+  },
+  {
+   "name": "Chilperic I",
+   "native": "Chilpericus",
+   "roman": "Chilperic I",
+   "start": 473,
+   "end": 480,
+   "nativeName": "Chilpericus"
+  },
+  {
+   "name": "Godegisel",
+   "native": "Godegiselus",
+   "roman": "Godegisel",
+   "start": 473,
+   "end": 500,
+   "nativeName": "Godegiselus"
+  },
+  {
+   "name": "Gundobad",
+   "native": "Gundobadus",
+   "roman": "Gundobad",
+   "start": 480,
+   "end": 516,
+   "nativeName": "Gundobadus"
+  },
+  {
+   "name": "Sigismund",
+   "native": "Sigismundus",
+   "roman": "Sigismund",
+   "start": 516,
+   "end": 523,
+   "nativeName": "Sigismundus"
+  },
+  {
+   "name": "Godomar II",
+   "native": "Godomarus",
+   "roman": "Godomar II",
+   "start": 524,
+   "end": 534,
+   "nativeName": "Godomarus"
+  },
+  {
+   "name": "Guntram (King of Burgundy)",
+   "native": "Guntchramnus",
+   "roman": "Guntram",
+   "start": 561,
+   "end": 592,
+   "nativeName": "Guntchramnus"
+  },
+  {
+   "name": "Childebert II",
+   "native": "Childebertus",
+   "roman": "Childebert II",
+   "start": 592,
+   "end": 595,
+   "nativeName": "Childebertus"
+  },
+  {
+   "name": "Theuderic II",
+   "native": "Theodericus",
+   "roman": "Theuderic II",
+   "start": 595,
+   "end": 613,
+   "nativeName": "Theodericus"
+  }
+ ],
+ "blurbKey": "Q13590051__burgundian-kingdom"
+}

@@ -1,0 +1,65 @@
+{
+ "qid": "Q83286",
+ "names": [
+  "Socialist Federal Republic of Yugoslavia"
+ ],
+ "title": "Socialist Federal Republic of Yugoslavia",
+ "variantOf": "Q83286",
+ "endonym": {
+  "native": "Социјалистичка Федеративна Република Југославија",
+  "roman": "Socijalistička Federativna Republika Jugoslavija"
+ },
+ "capsule": "Proclaimed a federal socialist republic on 29 November 1945 (formally renamed in 1963), Tito's Yugoslavia united six constituent republics under one-party communist rule while pursuing an independent path after the 1948 Tito-Stalin split and co-founding the Non-Aligned Movement in 1961. A relatively liberal 'market socialism' and open borders distinguished it from the Soviet bloc, but after Tito's death in 1980 mounting nationalist tensions and economic crisis eroded federal authority, and the federation disintegrated in 1991-1992 as Slovenia, Croatia, Bosnia and Herzegovina, and Macedonia seceded, leaving only Serbia and Montenegro in a rump state.",
+ "citations": [
+  {
+   "label": "Britannica: Yugoslavia (historical federated nation, 1929-2003)",
+   "url": "https://www.britannica.com/place/Yugoslavia-former-federated-nation-1929-2003"
+  },
+  {
+   "label": "Wikipedia: Socialist Federal Republic of Yugoslavia",
+   "url": "https://en.wikipedia.org/wiki/Socialist_Federal_Republic_of_Yugoslavia"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The interwar Yugoslavia's territory is precisely defined by post-WWI treaties (Trianon, Rapallo, Saint-Germain); the dataset's to date of 1946 reflects the socialist reorganization rather than territorial dissolution. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Yugoslavia",
+ "rulers": [
+  {
+   "qid": "Q9161",
+   "name": "Josip Broz Tito",
+   "start": 1953,
+   "end": 1980,
+   "image": "Josip Broz Tito uniform portrait.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Josip%20Broz%20Tito%20uniform%20portrait.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q893817",
+   "name": "Borisav Jović",
+   "start": 1990,
+   "end": 1991,
+   "image": "Borisav Jović.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Borisav%20Jovi%C4%87.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "Medija centar Beograd",
+    "attributionRequired": true
+   }
+  }
+ ],
+ "blurbKey": "Q83286__socialist-federal-republic-of-yugoslavia"
+}

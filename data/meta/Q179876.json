@@ -1,0 +1,340 @@
+{
+ "qid": "Q179876",
+ "names": [
+  "Kingdom of England",
+  "Norman England",
+  "Denmark-England"
+ ],
+ "title": "Kingdom of England",
+ "endonym": {
+  "native": "Regnum Angliae",
+  "lang": "Latin",
+  "roman": "Englaland (Old English)"
+ },
+ "endonymWikidata": {
+  "p1705": [
+   "Kingdom of England (en)"
+  ],
+  "p1448": []
+ },
+ "capsule": "Conquered by William of Normandy in 1066 and bound thereafter to continental politics, England developed Europe’s most centralized royal administration — Domesday Book, the exchequer, common law — and, after the barons’ revolt of 1215, the constitutional landmark of Magna Carta.",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases (Times Atlas of World History; Kinder & Hilgemann; Shepherd 1926) at ~0.07° resolution. English borders (Welsh march, Scottish border) are comparatively well documented; continental holdings of English kings are drawn as separate polities. Confidence: high.",
+ "citations": [
+  {
+   "label": "Bartlett, England under the Norman and Angevin Kings (Oxford UP)",
+   "url": "https://global.oup.com/academic/product/england-under-the-norman-and-angevin-kings-10751225-9780199251018"
+  },
+  {
+   "label": "Anglo-Saxon Chronicle (Project Gutenberg)",
+   "url": "https://www.gutenberg.org/ebooks/657"
+  }
+ ],
+ "britannica": null,
+ "wikipedia": "Kingdom of England",
+ "positions": [
+  "Q12201093",
+  "Q18018860",
+  "Q18810062",
+  "Q56285355",
+  "Q56285388",
+  "Q56285398",
+  "Q60576668",
+  "Q60576676",
+  "Q60576685",
+  "Q60576692"
+ ],
+ "rulers": [
+  {
+   "qid": "Q183499",
+   "name": "Æthelred the Unready",
+   "start": 978,
+   "end": 1013,
+   "ordinal": null,
+   "image": "Ethelred the Unready.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ethelred%20the%20Unready.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "See description",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q181896",
+   "name": "Sweyn I of Denmark",
+   "start": 1013,
+   "end": 1014,
+   "ordinal": null,
+   "image": "Sweyn Forkbeard by L. Frølich (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sweyn%20Forkbeard%20by%20L.%20Fr%C3%B8lich%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Oleryhlolsson",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q134128",
+   "name": "Cnut the Great",
+   "start": 1016,
+   "end": 1035,
+   "ordinal": null,
+   "image": "Knut der Große cropped.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Knut%20der%20Gro%C3%9Fe%20cropped.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q188684",
+   "name": "Edmund II of England",
+   "start": 1016,
+   "end": 1016,
+   "ordinal": null,
+   "image": "Edmund Iron.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edmund%20Iron.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "AnonymousUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q188627",
+   "name": "Harold Harefoot",
+   "start": 1037,
+   "end": 1040,
+   "ordinal": null,
+   "image": "Harold Harefoot in the Cambridge University Library.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Harold%20Harefoot%20in%20the%20Cambridge%20University%20Library.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "AnonymousUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q190091",
+   "name": "Harthacanute",
+   "start": 1040,
+   "end": 1042,
+   "ordinal": null,
+   "image": "Coin danish and english king Harthacnut, Hardeknut (1018-1042).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Coin%20danish%20and%20english%20king%20Harthacnut%2C%20Hardeknut%20(1018-1042).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "Hedning",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q130005",
+   "name": "Edward the Confessor",
+   "start": 1042,
+   "end": 1066,
+   "ordinal": null,
+   "image": "Bayeux Tapestry scene1 EDWARD REX.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bayeux%20Tapestry%20scene1%20EDWARD%20REX.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Myrabella",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q159597",
+   "name": "Harold Godwinson",
+   "start": 1066,
+   "end": 1066,
+   "ordinal": null,
+   "image": "Harold Godwinson 02 (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Harold%20Godwinson%2002%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Georgemiller381",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q37594",
+   "name": "William the Conqueror",
+   "start": 1066,
+   "end": 1087,
+   "ordinal": null,
+   "image": "Bayeux Tapestry William.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bayeux%20Tapestry%20William.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Myrabella",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q102005",
+   "name": "William II of England",
+   "start": 1087,
+   "end": 1100,
+   "ordinal": null,
+   "image": "William II of England.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/William%20II%20of%20England.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Matthew Paris",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q101384",
+   "name": "Henry I of England",
+   "start": 1100,
+   "end": 1135,
+   "ordinal": null,
+   "image": "Henry1.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Henry1.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Matthew Paris",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q60849",
+   "name": "Stephen, King of England",
+   "start": 1135,
+   "end": 1141,
+   "ordinal": null,
+   "image": "Stepan Blois.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Stepan%20Blois.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Matthew Paris",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q178525",
+   "name": "Eleanor of Aquitaine",
+   "start": 1154,
+   "end": 1189,
+   "ordinal": null,
+   "image": "Queen Eleanor (Frederick Sandys, 1858).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen%20Eleanor%20(Frederick%20Sandys%2C%201858).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Frederick Sandys",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q102140",
+   "name": "Henry II of England",
+   "start": 1154,
+   "end": 1189,
+   "ordinal": null,
+   "image": "Henry II of England.png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Henry%20II%20of%20England.png?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": null,
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q42305",
+   "name": "Richard I of England",
+   "start": 1189,
+   "end": 1199,
+   "ordinal": null,
+   "image": "Richard I of England in the Brief Abridgement of the Chronicles of England.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Richard%20I%20of%20England%20in%20the%20Brief%20Abridgement%20of%20the%20Chronicles%20of%20England.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Matthew Paris",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q129308",
+   "name": "John, King of England",
+   "start": 1199,
+   "end": 1216,
+   "ordinal": null,
+   "image": "King John hunting - Statutes of England (14th C), f.116 - BL Cotton MS Claudius D II.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/King%20John%20hunting%20-%20Statutes%20of%20England%20(14th%20C)%2C%20f.116%20-%20BL%20Cotton%20MS%20Claudius%20D%20II.jpg?width=320",
+   "imageLicense": {
+    "license": "CC0",
+    "artist": null,
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q160311",
+   "name": "Henry III of England",
+   "start": 1216,
+   "end": 1272,
+   "ordinal": null,
+   "image": "Henrytreti.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Henrytreti.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Matthew Paris",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q57798",
+   "name": "Edward I of England",
+   "start": 1272,
+   "end": 1307,
+   "ordinal": null,
+   "image": "Gal nations edward i.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gal%20nations%20edward%20i.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Remiguis Goebel",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q50097181",
+   "name": "John of Pattishall",
+   "start": 1290,
+   "end": 1290,
+   "ordinal": null,
+   "image": null
+  },
+  {
+   "qid": "Q64577501",
+   "name": "Anketil de Coleshull",
+   "start": 1295,
+   "end": null,
+   "ordinal": null,
+   "image": null
+  },
+  {
+   "qid": "Q64577518",
+   "name": "Richard de Weston",
+   "start": 1295,
+   "end": null,
+   "ordinal": null,
+   "image": null
+  },
+  {
+   "qid": "Q64577200",
+   "name": "Robert Russell",
+   "start": 1298,
+   "end": null,
+   "ordinal": null,
+   "image": null
+  },
+  {
+   "qid": "Q64577527",
+   "name": "Robert Kelle",
+   "start": 1298,
+   "end": null,
+   "ordinal": null,
+   "image": null
+  }
+ ]
+}

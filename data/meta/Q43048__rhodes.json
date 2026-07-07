@@ -1,0 +1,37 @@
+{
+ "qid": "Q43048",
+ "names": [
+  "Rhodes"
+ ],
+ "title": "Rhodes",
+ "variantOf": "Q43048",
+ "endonym": {
+  "native": "Ῥόδος",
+  "roman": "Rhodos"
+ },
+ "capsule": "In this window ancient Rhodes was a wealthy, formally independent Greek maritime republic — governed by an elected prytanis and Council rather than a monarch — that had just been rewarded by Rome with the Carian and Lycian mainland possessions (the Rhodian Peraea) under the 188 BCE Treaty of Apamea for its role against the Seleucids. Rhodian rule over the unwilling Lycians proved costly, and Rhodian equivocation during Rome's Third Macedonian War against Perseus of Macedon (171–168 BCE) provoked Roman retaliation: Rome stripped Rhodes of its mainland territories and, by declaring Delos a free port in 167 BCE, gutted the harbor-toll and transit-trade revenue underpinning its economy. By 164 BCE Rhodes had been forced into a formal, unequal alliance (foedus) with Rome, ending its era as a fully independent great power while retaining internal autonomy.",
+ "citations": [
+  {
+   "label": "Rhodes - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rhodes"
+  },
+  {
+   "label": "Rhodes - Livius",
+   "url": "https://www.livius.org/articles/place/rhodes/"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The island's boundaries are geographically fixed; its continental possessions in Lycia and Caria after 188 BCE are documented in ancient sources but their precise limits fluctuated with political circumstances. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Rhodes",
+ "blurbKey": "Q43048__rhodes"
+}

@@ -1,0 +1,314 @@
+{
+ "qid": "Q146246",
+ "names": [
+  "Kingdom of the Franks"
+ ],
+ "title": "Kingdom of the Franks",
+ "variantOf": "Q146246",
+ "endonym": {
+  "native": "Regnum Francorum",
+  "roman": "Regnum Francorum"
+ },
+ "capsule": "By the mid-5th century the Salian Franks under Childeric I (r. c. 458-481) held a foothold in northern Gaul as Roman federates; his son Clovis I (r. 481-511) unified the Frankish tribes, defeated the last Roman enclave and rival Germanic kingdoms, and converted to Catholic Christianity, founding the Merovingian royal line. His successors, and later the Carolingian mayors-turned-kings, most notably Charlemagne (crowned emperor in 800), expanded Frankish rule across most of Western Europe. The realm was formally partitioned among Louis the Pious's grandsons by the Treaty of Verdun (843), a division essentially finalized by 850 into West, Middle, and East Francia.",
+ "citations": [
+  {
+   "label": "Wikipedia, \"Kingdom of the Franks\"",
+   "url": "https://en.wikipedia.org/wiki/Francia"
+  },
+  {
+   "label": "Britannica, \"Merovingian dynasty\"",
+   "url": "https://www.britannica.com/topic/Merovingian-dynasty"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Core Frankish territories in Gaul and the Rhineland are well attested by royal diplomas, capitularies, and ecclesiastical records from the sixth century onward; the extent of tributary or nominal Frankish authority over peripheral peoples such as Bretons and Basques is less precisely bounded. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Francia",
+ "rulers": [
+  {
+   "qid": "Q193869",
+   "name": "Childeric I",
+   "start": 458,
+   "end": 481,
+   "image": "CHILDERICI REGIS.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CHILDERICI%20REGIS.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "Childericus I",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q82339",
+   "name": "Clovis I",
+   "start": 481,
+   "end": 511,
+   "image": "Jean de Tillet - Clovis Ier roy crestien - Recueil des rois de France.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20de%20Tillet%20-%20Clovis%20Ier%20roy%20crestien%20-%20Recueil%20des%20rois%20de%20France.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Jean Du Tillet http://mandragore.bnf.fr/",
+    "attributionRequired": false
+   },
+   "nativeName": "Chlodovechus I",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q316881",
+   "name": "Charibert II",
+   "start": 629,
+   "end": 632,
+   "image": "Caribert II tiers de sou d'or (trémissis)-2.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Caribert%20II%20tiers%20de%20sou%20d'or%20(tr%C3%A9missis)-2.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "derivative work: Peer (talk)\nCaribert_II_tiers_de_sou_d'or_(trémissis).jpg: Atelier de Banassac http://www.bnf.fr",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q1259648",
+   "name": "Chilperic of Aquitaine",
+   "start": 632,
+   "end": 633,
+   "image": null
+  },
+  {
+   "qid": "Q309909",
+   "name": "Childeric II",
+   "start": 673,
+   "end": 675,
+   "image": "Portrait Roi de france Childéric II.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20Roi%20de%20france%20Child%C3%A9ric%20II.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "The original uploader was Rinaldum at French Wikipedia.",
+    "attributionRequired": true
+   },
+   "nativeName": "Childericus II",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q295175",
+   "name": "Theuderic III",
+   "start": 675,
+   "end": 679,
+   "image": "Theuderic III.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Theuderic%20III.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Published by Guillaume Rouille(1518?-1589)",
+    "attributionRequired": false
+   },
+   "nativeName": "Theudericus III",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q316874",
+   "name": "Dagobert II",
+   "start": 676,
+   "end": 679,
+   "image": "Dagobert II..png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dagobert%20II..png?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Virgil Solis",
+    "attributionRequired": false
+   },
+   "nativeName": "Dagobertus II",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q309934",
+   "name": "Clovis IV",
+   "start": 691,
+   "end": 695,
+   "image": "Georges Rouget (1783-1869) - Clovis III roi d'Austrasie en 691 (682-695).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Rouget%20(1783-1869)%20-%20Clovis%20III%20roi%20d'Austrasie%20en%20691%20(682-695).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Georges Rouget",
+    "attributionRequired": false
+   },
+   "nativeName": "Chlodovechus IV",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q109223",
+   "name": "Childebert III",
+   "start": 695,
+   "end": 711,
+   "image": "Childebert III 694 711.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Childebert%20III%20694%20711.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "PHGCOM",
+    "attributionRequired": false
+   },
+   "nativeName": "Childebertus III",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q109248",
+   "name": "Dagobert III",
+   "start": 711,
+   "end": 715,
+   "image": "Portrait Roi de france Dagobert II (i.e III).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20Roi%20de%20france%20Dagobert%20II%20(i.e%20III).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "The original uploader was Rinaldum at French Wikipedia.",
+    "attributionRequired": true
+   },
+   "nativeName": "Dagobertus III",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q316908",
+   "name": "Chlothar IV",
+   "start": 717,
+   "end": 719,
+   "image": "Portrait Roi de france Clovis IV.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20Roi%20de%20france%20Clovis%20IV.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "The original uploader was Rinaldum at French Wikipedia.",
+    "attributionRequired": true
+   },
+   "nativeName": "Chlotarius IV",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q109240",
+   "name": "Chilperic II",
+   "start": 719,
+   "end": 721,
+   "image": "Jean Dassier (1676-1763) - Chilpéric II roy de France (670-721).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Dassier%20(1676-1763)%20-%20Chilp%C3%A9ric%20II%20roy%20de%20France%20(670-721).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Jean Dassier / Bibliothèque nationale de France",
+    "attributionRequired": false
+   },
+   "nativeName": "Chilpericus II",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q108331",
+   "name": "Theuderic IV",
+   "start": 721,
+   "end": 737,
+   "image": "Theuderic IV.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Theuderic%20IV.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Published by Guillaume Rouille(1518?-1589)",
+    "attributionRequired": false
+   },
+   "nativeName": "Theudericus IV",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q295157",
+   "name": "Childeric III",
+   "start": 743,
+   "end": 751,
+   "image": "Signol - Childeric III.png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Signol%20-%20Childeric%20III.png?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Émile Signol",
+    "attributionRequired": false
+   },
+   "nativeName": "Childericus III",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q81212",
+   "name": "Pepin the Short",
+   "start": 751,
+   "end": 768,
+   "image": "Amiel - Pepin the Short.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Amiel%20-%20Pepin%20the%20Short.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Louis-Félix Amiel",
+    "attributionRequired": false
+   },
+   "nativeName": "Pippinus III",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q3044",
+   "name": "Charlemagne",
+   "start": 768,
+   "end": 814,
+   "image": "Charlemagne denier Mayence 812 814.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Charlemagne%20denier%20Mayence%20812%20814.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Charlemagne. Autorité émettrice de monnaie\n\nindéterminé. Atelier monétaire. Émetteur",
+    "attributionRequired": false
+   },
+   "nativeName": "Carolus Magnus",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q191003",
+   "name": "Carloman I",
+   "start": 768,
+   "end": 771,
+   "image": "Carloman1.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Carloman1.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Dessin: Charles Fichot",
+    "attributionRequired": false
+   },
+   "nativeName": "Carlomannus I",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q43974",
+   "name": "Louis the Pious",
+   "start": 814,
+   "end": 840,
+   "image": "Ludwik I Pobożny.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ludwik%20I%20Pobo%C5%BCny.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": null,
+    "attributionRequired": false
+   },
+   "nativeName": "Ludovicus Pius",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q298945",
+   "name": "Lothair II of Lotharingia",
+   "start": 855,
+   "end": 869,
+   "image": "Lothar II. König von Lothringe.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lothar%20II.%20K%C3%B6nig%20von%20Lothringe.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "Lotharius II",
+   "nativeLang": "la"
+  }
+ ],
+ "blurbKey": "Q146246__kingdom-of-the-franks"
+}

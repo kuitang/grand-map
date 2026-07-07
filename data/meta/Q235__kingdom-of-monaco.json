@@ -1,0 +1,221 @@
+{
+ "qid": "Q235",
+ "names": [
+  "Kingdom of Monaco"
+ ],
+ "title": "Kingdom of Monaco",
+ "variantOf": "Q235",
+ "endonym": {
+  "native": "Principauté de Monaco",
+  "roman": "Principauté de Monaco"
+ },
+ "capsule": "Despite the label, Monaco was never actually elevated to a kingdom in this era: the 1815 Congress of Vienna and 1817 Treaty of Stupinigi placed the Grimaldi-ruled Principality of Monaco under the protection of the Kingdom of Sardinia, whose own king held that royal title, and Italian, not French, served as Monaco's official language throughout the protectorate. Internal unrest culminated in 1848 when the towns of Menton and Roquebrune declared themselves free, hoping for Sardinian annexation; Sardinia declined, and the reigning prince ultimately ceded the towns to France in 1861 for four million francs. Sardinian protection ended with the 1860 Treaty of Turin, after which Monaco reverted to French protection under the 1861 Franco-Monegasque Treaty, a relationship that persisted through the interwar years until the eve of Monaco's World War II-era occupation.",
+ "citations": [
+  {
+   "label": "History of Monaco - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/History_of_Monaco"
+  },
+  {
+   "label": "Monaco Background Notes - U.S. Department of State",
+   "url": "https://2009-2017.state.gov/outofdate/bgn/monaco/103365.htm"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Monaco's tiny enclave territory is precisely documented; its boundaries were fixed by the 1861 Franco-Monégasque Treaty and subsequent agreements. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Monaco",
+ "rulers": [
+  {
+   "qid": "Q382433",
+   "name": "Charles III, Prince of Monaco",
+   "start": 1856,
+   "end": 1889,
+   "image": "Karl III (Monaco).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Karl%20III%20(Monaco).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "Charles III de Monaco",
+   "nativeLang": "fr"
+  },
+  {
+   "qid": "Q159646",
+   "name": "Albert I, Prince of Monaco",
+   "start": 1889,
+   "end": 1922,
+   "image": "Prince Albert I of Monaco - circa 1910.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Prince%20Albert%20I%20of%20Monaco%20-%20circa%201910.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "J. B. E. Detaille",
+    "attributionRequired": false
+   },
+   "nativeName": "Albert Ier",
+   "nativeLang": "fr"
+  },
+  {
+   "qid": "Q8078279",
+   "name": "Émile Flach",
+   "start": 1911,
+   "end": 1917,
+   "image": "Émile Flach by Georges Prade. 1911 (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89mile%20Flach%20by%20Georges%20Prade.%201911%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Agence Rol. Photographic agency (sponsor).",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q7298954",
+   "name": "Raymond Le Bourdon",
+   "start": 1919,
+   "end": 1923,
+   "image": null
+  },
+  {
+   "qid": "Q316543",
+   "name": "Louis II, Prince of Monaco",
+   "start": 1922,
+   "end": 1949,
+   "image": "Prince Louis II of Monaco 05670r.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Prince%20Louis%20II%20of%20Monaco%2005670r.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Georges Detaille",
+    "attributionRequired": false
+   },
+   "nativeName": "Louis II de Monaco",
+   "nativeLang": "fr"
+  },
+  {
+   "qid": "Q6793413",
+   "name": "Maurice Piette",
+   "start": 1923,
+   "end": 1932,
+   "image": null
+  },
+  {
+   "qid": "Q3300465",
+   "name": "Maurice Bouilloux-Lafont",
+   "start": 1932,
+   "end": 1937,
+   "image": "Maurice Bouilloux-Lafont (1875-1937).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Maurice%20Bouilloux-Lafont%20(1875-1937).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Agence Roll, 1927",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q8078312",
+   "name": "Émile Roblot",
+   "start": 1937,
+   "end": 1944,
+   "image": "Portrait d'Emile Roblot - Archives de Strasbourg.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20d'Emile%20Roblot%20-%20Archives%20de%20Strasbourg.jpg?width=320",
+   "imageLicense": {
+    "license": "CC0",
+    "artist": "Archives de Strasbourg",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q7192530",
+   "name": "Pierre de Witasse",
+   "start": 1944,
+   "end": 1948,
+   "image": null
+  },
+  {
+   "qid": "Q1398687",
+   "name": "Jacques Rueff",
+   "start": 1949,
+   "end": 1950,
+   "image": "Jacques Rueff 1938.png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacques%20Rueff%201938.png?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "AnonymousUnknown author, no author disclosure",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q185025",
+   "name": "Rainier III, Prince of Monaco",
+   "start": 1949,
+   "end": 2005,
+   "image": "Rainier III (JFKWHP-KN-C17888, cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rainier%20III%20(JFKWHP-KN-C17888%2C%20cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Robert LeRoy Knudsen",
+    "attributionRequired": false
+   },
+   "nativeName": "Rainier III de Monaco",
+   "nativeLang": "fr"
+  },
+  {
+   "qid": "Q961184",
+   "name": "Pierre Voizard",
+   "start": 1950,
+   "end": 1953,
+   "image": "Pierre Voizard 1953.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Voizard%201953.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "LOR377",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q5728515",
+   "name": "Henry Soum",
+   "start": 1953,
+   "end": 1959,
+   "image": null
+  },
+  {
+   "qid": "Q3588689",
+   "name": "Émile Pelletier",
+   "start": 1959,
+   "end": 1962,
+   "image": "Portrait ministre de l'Intérieur Pelletier - Archives nationales (France).png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20ministre%20de%20l'Int%C3%A9rieur%20Pelletier%20-%20Archives%20nationales%20(France).png?width=320",
+   "imageLicense": {
+    "license": "CC0",
+    "artist": "[Service de l'information et des relations publiques du ministère de l'Intérieur]",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q3384034",
+   "name": "Pierre Blanchy",
+   "start": 1962,
+   "end": 1963,
+   "image": null
+  },
+  {
+   "qid": "Q4392628",
+   "name": "Jean Émile Reymond",
+   "start": 1963,
+   "end": 1966,
+   "image": null,
+   "nativeName": "Jean-Émile Reymond",
+   "nativeLang": "fr"
+  }
+ ],
+ "blurbKey": "Q235__kingdom-of-monaco"
+}

@@ -1,0 +1,105 @@
+{
+ "qid": "Q1794655",
+ "names": [
+  "Kutai Kingdom"
+ ],
+ "title": "Kutai Kingdom",
+ "variantOf": "Q1794655",
+ "endonym": {
+  "native": "Kutai Kartanegara ing Martadipura",
+  "roman": "Kutai Kartanegara ing Martadipura"
+ },
+ "capsule": "In this window, the polity commonly called the Kutai Kingdom, though already nominally Islamic since a sixteenth-century conversion, was ruled by a line of Aji-titled monarchs descended from the 1635 conquest of the neighboring Hindu kingdom of Kutai Martapura, after which the realm took the compound name Kutai Kartanegara ing Martadipura. Rulers such as Aji Pangeran Sinum Panji Mendapa (r. 1635-1650) and his successors governed from Kutai Lama at the mouth of the Mahakam River, presiding over river-borne trade in forest produce linking interior Dayak communities to coastal and Bugis merchants. The kingdom continued to use Hindu-Javanese-derived court titles even as Islam spread among its population, until the early 1730s relocation of the capital under Aji Muhammad Idris, the first ruler to adopt an explicitly Islamic regnal name, ushered in the more overtly sultanate identity of the following era.",
+ "citations": [
+  {
+   "label": "Kutai Kartanegara Sultanate - Kerajaan Nusantara",
+   "url": "https://www.kerajaannusantara.com/en/kutai-kartanegara/history"
+  },
+  {
+   "label": "Sultanate of Kutai - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sultanate_of_Kutai"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The territory controlled by Kutai in the 1648–1734 window is poorly mapped; the sultanate's sphere of influence along the Mahakam is probable but its exact boundaries relative to neighboring polities are unattested. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Kutai",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Aji Pangeran Sinum Panji Mendapa",
+   "nativeName": "Aji Pangeran Sinum Panji Mendapa",
+   "roman": "",
+   "start": 1648,
+   "end": 1650,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Aji Pangeran Dipati Agung",
+   "nativeName": "Aji Pangeran Dipati Agung",
+   "roman": "",
+   "start": 1650,
+   "end": 1665,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Aji Pangeran Dipati Maja Kusuma",
+   "nativeName": "Aji Pangeran Dipati Maja Kusuma",
+   "roman": "",
+   "start": 1665,
+   "end": 1686,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Aji Ragi",
+   "nativeName": "Aji Ragi",
+   "roman": "",
+   "start": 1686,
+   "end": 1700,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Aji Pangeran Dipati Tua",
+   "nativeName": "Aji Pangeran Dipati Tua",
+   "roman": "",
+   "start": 1700,
+   "end": 1710,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Aji Pangeran Anum Panji Mendapa",
+   "nativeName": "Aji Pangeran Anum Panji Mendapa",
+   "roman": "",
+   "start": 1710,
+   "end": 1734,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q1794655__kutai-kingdom"
+}

@@ -1,0 +1,72 @@
+{
+ "qid": "Q1069868",
+ "names": [
+  "Southern Liang"
+ ],
+ "title": "Southern Liang",
+ "variantOf": "Q1069868",
+ "endonym": {
+  "native": "南涼",
+  "roman": "Nán Liáng"
+ },
+ "capsule": "The Southern Liang (南涼) was a Xianbei state of the Sixteen Kingdoms era in northwest China, founded in 397 when the Tufa chieftain Tufa Wugu broke from Later Liang allegiance and proclaimed himself a king based in the Hexi Corridor around modern Xining and Ledu. Ruled successively by Tufa Wugu, Tufa Lilugu, and Tufa Rutan, the kingdom fought recurring wars with its Xianbei and Xiongnu neighbors, including Western Qin and Northern Liang. It was extinguished in 414 when its last king, Tufa Rutan, surrendered to Western Qin's ruler Qifu Chipan.",
+ "citations": [
+  {
+   "label": "Wikipedia, \"Southern Liang\"",
+   "url": "https://en.wikipedia.org/wiki/Southern_Liang"
+  },
+  {
+   "label": "Chinaknowledge.de, \"Southern Liang 南涼 (rulers)\"",
+   "url": "http://www.chinaknowledge.de/History/Division/rulers-nanliang.html"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Core political events are recorded in Chinese dynastic histories (Jin Shu, Wei Shu), but the spatial extent of Southern Liang control at any given year is imprecisely defined. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Liang dynasty",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Tufa Wugu",
+   "nativeName": "禿髮烏孤",
+   "roman": "Tūfà Wūgū",
+   "start": 397,
+   "end": 399,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Tufa Lilugu",
+   "nativeName": "禿髮利鹿孤",
+   "roman": "Tūfà Lìlùgū",
+   "start": 399,
+   "end": 402,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Tufa Rutan",
+   "nativeName": "禿髮傉檀",
+   "roman": "Tūfà Rùtán",
+   "start": 402,
+   "end": 414,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q1069868__southern-liang"
+}

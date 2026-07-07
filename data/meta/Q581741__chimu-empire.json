@@ -1,0 +1,68 @@
+{
+ "qid": "Q581741",
+ "names": [
+  "Chimu Empire"
+ ],
+ "title": "Chimu Empire",
+ "variantOf": "Q581741",
+ "endonym": {
+  "native": "Chimor",
+  "roman": "Chimor",
+  "lang": "und"
+ },
+ "capsule": "Beginning under Nancinpinco, grandson of the founder Taycanamo, Chimor's rulers expanded far beyond the Moche Valley, conquering neighboring valleys from Santa to Jequetepeque and absorbing the Sican (Lambayeque) culture in the later 14th century into what is now termed the Chimu Empire, the largest polity of Peru's Late Intermediate Period. After a line of kings whose names went unrecorded by Spanish chroniclers, Minchancaman, ruling by the mid-15th century, brought Chimu territory to its greatest extent along roughly 1,000 kilometers of coastline, from Chillon to Tumbes, administered from the monumental capital of Chan Chan. The empire fell to the Inca Topa Inca Yupanqui around 1470, when Minchancaman was captured and taken to Cuzco as a hostage.",
+ "citations": [
+  {
+   "label": "Minchancaman | Britannica",
+   "url": "https://www.britannica.com/biography/Minchancaman"
+  },
+  {
+   "label": "Chimu Civilization | World History Encyclopedia",
+   "url": "https://www.worldhistory.org/Chimu_Civilization/"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Chan Chan's urban layout and Chimor's approximate territorial limits are well established through archaeology; the dynastic sequence and precise dates rely on transcribed oral king lists recorded after Spanish conquest and are subject to substantial revision. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Chimor",
+ "rulers": [
+  {
+   "name": "Taycanamo",
+   "roman": "Taycanamo",
+   "start": 1300,
+   "end": 1340,
+   "nativeName": null
+  },
+  {
+   "name": "Guacricaur",
+   "roman": "Guacricaur",
+   "start": 1340,
+   "end": 1375,
+   "nativeName": null
+  },
+  {
+   "name": "Ñancenpinco",
+   "roman": "Ñancenpinco",
+   "start": 1375,
+   "end": 1400,
+   "nativeName": null
+  },
+  {
+   "name": "Minchançaman",
+   "roman": "Minchançaman",
+   "start": 1450,
+   "end": 1470,
+   "nativeName": null
+  }
+ ],
+ "blurbKey": "Q581741__chimu-empire"
+}

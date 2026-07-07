@@ -1,0 +1,183 @@
+{
+ "qid": "Q3136869",
+ "names": [
+  "Ceylon"
+ ],
+ "title": "Ceylon",
+ "variantOf": "Q3136869",
+ "endonym": {
+  "native": "ලංකා",
+  "roman": "Lanka"
+ },
+ "capsule": "Across this long span, the term 'Ceylon' designates the succession of Sinhalese kingdoms that governed most of the island after the Dambadeniya dynasty's recovery from Kalinga Magha's occupation: the capital moved from Dambadeniya to Yapahuwa (1273), Kurunegala, and Gampola (c.1341) before Alagakkonara's fortress at Sri Jayawardhanapura-Kotte became the seat of Parakramabahu VI, who reunified the whole island under Kotte rule from 1412 to 1467. Buddhism, Sinhala literature, and custody of the sacred Tooth Relic remained the unifying threads of royal legitimacy through these shifting capitals, even as Pandyan, Malay and Chinese naval interventions repeatedly disrupted the throne. The era named here closes in 1507, two years after a storm-driven Portuguese fleet under Lourenço de Almeida first reached Kotte in 1505, opening the age of European contact that would fracture the island's kingdoms within a generation.",
+ "citations": [
+  {
+   "label": "Britannica: History of Sri Lanka",
+   "url": "https://www.britannica.com/topic/history-of-Sri-Lanka/Drift-to-the-southwest-1255-1505"
+  },
+  {
+   "label": "Wikipedia: Kingdom of Dambadeniya",
+   "url": "https://en.wikipedia.org/wiki/Kingdom_of_Dambadeniya"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The core zone around Dambadeniya fortress is archaeologically confirmed; the kingdom's administrative extent in the surrounding districts is inferred from chronicle sources and is imprecisely mapped. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Sri Lanka",
+ "rulers": [
+  {
+   "name": "Parakramabahu II",
+   "native": "පරාක්‍රමබාහු",
+   "roman": "Parakramabahu II",
+   "start": 1236,
+   "end": 1270,
+   "nativeName": "පරාක්‍රමබාහු"
+  },
+  {
+   "name": "Vijayabahu IV",
+   "native": "විජයබාහු",
+   "roman": "Vijayabahu IV",
+   "start": 1270,
+   "end": 1272,
+   "nativeName": "විජයබාහු"
+  },
+  {
+   "name": "Bhuvanekabahu I",
+   "native": "භුවනෙකබාහු",
+   "roman": "Bhuvanekabahu I",
+   "start": 1272,
+   "end": 1284,
+   "nativeName": "භුවනෙකබාහු"
+  },
+  {
+   "name": "Parakramabahu III",
+   "native": "පරාක්‍රමබාහු",
+   "roman": "Parakramabahu III",
+   "start": 1287,
+   "end": 1302,
+   "nativeName": "පරාක්‍රමබාහු"
+  },
+  {
+   "name": "Bhuvanekabahu II",
+   "native": "භුවනෙකබාහු",
+   "roman": "Bhuvanekabahu II",
+   "start": 1302,
+   "end": 1326,
+   "nativeName": "භුවනෙකබාහු"
+  },
+  {
+   "name": "Parakramabahu IV",
+   "native": "පරාක්‍රමබාහු",
+   "roman": "Parakramabahu IV",
+   "start": 1326,
+   "end": 1335,
+   "nativeName": "පරාක්‍රමබාහු"
+  },
+  {
+   "name": "Bhuvanekabahu III",
+   "native": "භුවනෙකබාහු",
+   "roman": "Bhuvanekabahu III",
+   "start": 1335,
+   "end": 1341,
+   "nativeName": "භුවනෙකබාහු"
+  },
+  {
+   "name": "Vijayabahu V",
+   "native": "විජයබාහු",
+   "roman": "Vijayabahu V",
+   "start": 1330,
+   "end": 1341,
+   "nativeName": "විජයබාහු"
+  },
+  {
+   "name": "Bhuvanekabahu IV",
+   "native": "භුවනෙකබාහු",
+   "roman": "Bhuvanekabahu IV",
+   "start": 1341,
+   "end": 1351,
+   "nativeName": "භුවනෙකබාහු"
+  },
+  {
+   "name": "Parakramabahu V",
+   "native": "පරාක්‍රමබාහු",
+   "roman": "Parakramabahu V",
+   "start": 1344,
+   "end": 1359,
+   "nativeName": "පරාක්‍රමබාහු"
+  },
+  {
+   "name": "Vikramabahu III",
+   "native": "වික්‍රමබාහු",
+   "roman": "Vikramabahu III",
+   "start": 1357,
+   "end": 1374,
+   "nativeName": "වික්‍රමබාහු"
+  },
+  {
+   "name": "Bhuvanekabahu V",
+   "native": "භුවනෙකබාහු",
+   "roman": "Bhuvanekabahu V",
+   "start": 1371,
+   "end": 1408,
+   "nativeName": "භුවනෙකබාහු"
+  },
+  {
+   "name": "Parakramabahu VI",
+   "native": "පරාක්‍රමබාහු",
+   "roman": "Parakramabahu VI",
+   "start": 1411,
+   "end": 1466,
+   "nativeName": "පරාක්‍රමබාහු"
+  },
+  {
+   "name": "Jayavira Parakramabahu",
+   "native": "ජයවීර පරාක්‍රමබාහු",
+   "roman": "Jayavira Parakramabahu",
+   "start": 1466,
+   "end": 1469,
+   "nativeName": "ජයවීර පරාක්‍රමබාහු"
+  },
+  {
+   "name": "Bhuvanekabahu VI",
+   "native": "භුවනෙකබාහු",
+   "roman": "Bhuvanekabahu VI",
+   "start": 1469,
+   "end": 1477,
+   "nativeName": "භුවනෙකබාහු"
+  },
+  {
+   "name": "Parakramabahu VII",
+   "native": "පරාක්‍රමබාහු",
+   "roman": "Parakramabahu VII",
+   "start": 1477,
+   "end": 1477,
+   "nativeName": "පරාක්‍රමබාහු"
+  },
+  {
+   "name": "Parakramabahu VIII",
+   "native": "පරාක්‍රමබාහු",
+   "roman": "Parakramabahu VIII",
+   "start": 1477,
+   "end": 1489,
+   "nativeName": "පරාක්‍රමබාහු"
+  },
+  {
+   "name": "Parakramabahu IX",
+   "native": "පරාක්‍රමබාහු",
+   "roman": "Parakramabahu IX",
+   "start": 1489,
+   "end": 1507,
+   "nativeName": "පරාක්‍රමබාහු"
+  }
+ ],
+ "blurbKey": "Q3136869__ceylon"
+}

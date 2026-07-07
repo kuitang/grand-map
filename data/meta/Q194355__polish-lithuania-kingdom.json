@@ -1,0 +1,61 @@
+{
+ "qid": "Q194355",
+ "names": [
+  "Polish-Lithuania Kingdom"
+ ],
+ "title": "Polish-Lithuania Kingdom",
+ "variantOf": "Q194355",
+ "endonym": {
+  "native": "Królestwo Polskie i Wielkie Księstwo Litewskie",
+  "roman": "Królestwo Polskie i Wielkie Księstwo Litewskie"
+ },
+ "capsule": "Distinct from the Jagiellonian ruling house itself, this entry denotes the personal-union state joining the Kingdom of Poland and the Grand Duchy of Lithuania, begun by Grand Duke Jogaila's 1386 marriage to Queen Hedwig of Poland and formalized as a single Commonwealth by the 1569 Union of Lublin, which endured as one of early modern Europe's largest states until the partitions erased it by 1795. No fixed date range is attached to this record, and its rulers are covered under the Jagiellon dynasty entry rather than repeated here.",
+ "citations": [
+  {
+   "label": "Polish–Lithuanian Commonwealth – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian_Commonwealth"
+  },
+  {
+   "label": "Jagiellonian dynasty – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jagiellonian_dynasty"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Jagiellonian territorial extent is well attested from royal charters, diet records, and ecclesiastical sources for Poland and Lithuania; Bohemian and Hungarian holdings are documented but the dataset geometry for the composite state carries moderate spatial uncertainty at frontiers. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Jagiellonian dynasty",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Władysław II Jagiełło (Jogaila)",
+   "nativeName": "Władysław II Jagiełło",
+   "roman": "Władysław II Jagiełło",
+   "start": 1395,
+   "end": 1434,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Władysław III Warneńczyk",
+   "nativeName": "Władysław III Warneńczyk",
+   "roman": "Władysław III Warneńczyk",
+   "start": 1434,
+   "end": 1444,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q194355__polish-lithuania-kingdom"
+}

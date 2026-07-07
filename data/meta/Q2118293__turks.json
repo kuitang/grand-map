@@ -1,0 +1,127 @@
+{
+ "qid": "Q2118293",
+ "names": [
+  "Turks"
+ ],
+ "title": "Turks",
+ "variantOf": "Q2118293",
+ "endonym": {
+  "native": "𐱅𐰇𐰼𐰰",
+  "roman": "Türk"
+ },
+ "capsule": "This 'Turks' entry covers the terminal phase of Western Turkic power in the Chu-Ili river country of Zhetysu (Semirechye) after the qaghanate's shattering defeat by Tang China in 657-659, when authority fragmented among rival clans and Tang-appointed puppet qaghans of the Ashina line struggled for control against Tang garrisons and Arab pressure from the Syr Darya. Out of this vacuum the Turgesh tribal confederation, under the Duolu-branch leader Wuzhile (Üch-elig, r. 699-706) and later Suluk (r. 716-738), built a new center of power at Suyab, resisting Umayyad incursions and eclipsing the old Western Turkic house entirely. Following Suluk's assassination the Turgesh state collapsed into civil war during the 730s-740s and was overrun by the Karluks by 766, ending independent Turkic rule in Zhetysu.",
+ "citations": [
+  {
+   "label": "Western Turkic Khaganate - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Western_Turkic_Khaganate"
+  },
+  {
+   "label": "Türgesh - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/T%C3%BCrgesh"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The steppe extent of the Western Turkic Khaganate is reconstructed from Chinese dynastic histories (Sui shu, Tang shu) and Sogdian documents; core territories in the Ili and Chu valleys are reasonably established, but peripheral nomadic frontiers are broadly estimated and seasonal in character. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Turk",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Ilterish Qaghan",
+   "nativeName": "𐰃𐰠𐱅𐰼𐰾 𐰴𐰍𐰣",
+   "roman": "Elteris qaɣan",
+   "start": 682,
+   "end": 691,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Qapaghan Qaghan",
+   "nativeName": "𐰴𐰯𐰍𐰣 𐰴𐰍𐰣",
+   "roman": "Qapaghan qaɣan",
+   "start": 691,
+   "end": 716,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Inel Qaghan",
+   "nativeName": "𐰃𐰤𐰠 𐰴𐰍𐰣",
+   "roman": "Inel qaɣan",
+   "start": 716,
+   "end": 716,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Bilge Qaghan",
+   "nativeName": "𐰋𐰃𐰠𐰏𐰀 𐰴𐰍𐰣",
+   "roman": "Bilge qaɣan",
+   "start": 716,
+   "end": 734,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Yollıg Qaghan",
+   "nativeName": "𐰖𐰆𐰞𐰞𐰍 𐰴𐰍𐰣",
+   "roman": "Yollïg qaɣan",
+   "start": 734,
+   "end": 739,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Tengri Qaghan",
+   "nativeName": "𐱅𐰭𐰼𐰃 𐰴𐰍𐰣",
+   "roman": "Tengri qaɣan",
+   "start": 739,
+   "end": 741,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ozmish Qaghan",
+   "nativeName": "𐰆𐰔𐰢𐰾 𐰴𐰍𐰣",
+   "roman": "Ozmïš qaɣan",
+   "start": 741,
+   "end": 744,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Kulun Beg",
+   "nativeName": "𐰴𐰆𐰞𐰆𐰣 𐰋𐰏",
+   "roman": "Kulun beg",
+   "start": 744,
+   "end": 745,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q2118293__turks"
+}

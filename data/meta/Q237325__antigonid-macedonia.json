@@ -1,0 +1,79 @@
+{
+ "qid": "Q237325",
+ "names": [
+  "Antigonid Macedonia"
+ ],
+ "title": "Antigonid Macedonia",
+ "variantOf": "Q237325",
+ "endonym": {
+  "native": "Μακεδονία",
+  "roman": "Makedonía"
+ },
+ "capsule": "Antigonid Macedonia was the stable Hellenistic kingdom established when Antigonus II Gonatas secured the Macedonian throne after his 277 BC victory over invading Gauls at Lysimacheia, founding a dynasty that endured for over a century. Antigonus II and his successors — Demetrius II, Antigonus III Doson, Philip V, and Perseus — ruled Macedonia proper and exercised varying hegemony over the Greek city-states through wars against the Aetolian and Achaean Leagues and, later, Rome. The dynasty ended when Rome crushed King Perseus at the Battle of Pydna in 168 BC, after which Macedonia was broken into four client republics before its eventual incorporation as a Roman province.",
+ "citations": [
+  {
+   "label": "Antigonid dynasty - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Antigonid_dynasty"
+  },
+  {
+   "label": "Antigonid dynasty - Britannica",
+   "url": "https://www.britannica.com/topic/Antigonid-dynasty"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Macedonia's core territory is well attested, but the Antigonids' fluctuating control over Thessaly, Corinth, and Aegean island dependencies is variable and debated; the dataset window (c. 291–277 BCE) captures the turbulent founding period. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Antigonid dynasty",
+ "rulers": [
+  {
+   "name": "Antigonus II Gonatas",
+   "native": "Ἀντίγονος Β΄ Γονατᾶς",
+   "roman": "Antigonos II Gonatas",
+   "start": -277,
+   "end": -239,
+   "nativeName": "Ἀντίγονος Β΄ Γονατᾶς"
+  },
+  {
+   "name": "Demetrius II Aetolicus",
+   "native": "Δημήτριος Β΄ Αἰτωλικός",
+   "roman": "Demetrios II Aitolikos",
+   "start": -239,
+   "end": -229,
+   "nativeName": "Δημήτριος Β΄ Αἰτωλικός"
+  },
+  {
+   "name": "Antigonus III Doson",
+   "native": "Ἀντίγονος Γ΄ Δώσων",
+   "roman": "Antigonos III Doson",
+   "start": -229,
+   "end": -221,
+   "nativeName": "Ἀντίγονος Γ΄ Δώσων"
+  },
+  {
+   "name": "Philip V",
+   "native": "Φίλιππος Ε΄",
+   "roman": "Philippos V",
+   "start": -221,
+   "end": -179,
+   "nativeName": "Φίλιππος Ε΄"
+  },
+  {
+   "name": "Perseus",
+   "native": "Περσεύς",
+   "roman": "Perseus",
+   "start": -179,
+   "end": -168,
+   "nativeName": "Περσεύς"
+  }
+ ],
+ "blurbKey": "Q237325__antigonid-macedonia"
+}

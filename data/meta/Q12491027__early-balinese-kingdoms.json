@@ -1,0 +1,168 @@
+{
+ "qid": "Q12491027",
+ "names": [
+  "Early Balinese Kingdoms"
+ ],
+ "title": "Early Balinese Kingdoms",
+ "variantOf": "Q12491027",
+ "endonym": {
+  "native": "Bali",
+  "roman": "Bali",
+  "lang": "ban"
+ },
+ "capsule": "The earliest datable Balinese polity appears in the Belanjong pillar inscription of 914 CE from Sanur, written in Old Balinese and Sanskrit and naming a ruler, Sri Kesari Warmadewa, associated with the Warmadewa dynasty that dominated the island for the next four centuries. Under kings such as Udayana Warmadewa (r. c. 989-1011) and his queen Mahendradatta, sister of the Javanese king Dharmawangsa, Bali absorbed strong Javanese Hindu-Buddhist influence while retaining a distinct courtly and subak irrigation culture attested through royal inscriptions and temple foundations rather than a single fixed capital. This early kingdom's independence ended in 1343 when the Majapahit general Gajah Mada conquered Bali, installing the Kepakisan dynasty as vassal rulers.",
+ "citations": [
+  {
+   "label": "Bali Kingdom - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bali_Kingdom"
+  },
+  {
+   "label": "List of monarchs of Bali - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/List_of_monarchs_of_Bali"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Territorial extent is poorly attested; the polity is reconstructed primarily from epigraphic sources and Javanese chronicles, and the geographic scope of its control beyond the Balinese heartland is uncertain. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Bali Kingdom",
+ "rulers": [
+  {
+   "name": "Sri Kesari Warmadewa",
+   "native": "Śri Kesari Warmadewa",
+   "roman": "Sri Kesari Warmadewa",
+   "start": 913,
+   "end": 915,
+   "nativeName": "Śri Kesari Warmadewa"
+  },
+  {
+   "name": "Ugrasena",
+   "native": "Ugrasena",
+   "roman": "Ugrasena",
+   "start": 915,
+   "end": 942,
+   "nativeName": "Ugrasena"
+  },
+  {
+   "name": "Tabanendra Warmadewa",
+   "native": "Tabanendra Warmadewa",
+   "roman": "Tabanendra Warmadewa",
+   "start": 955,
+   "end": 967,
+   "nativeName": "Tabanendra Warmadewa"
+  },
+  {
+   "name": "Janasadhu Warmadewa",
+   "native": "Janasadhu Warmadewa",
+   "roman": "Janasadhu Warmadewa",
+   "start": 975,
+   "end": 983,
+   "nativeName": "Janasadhu Warmadewa"
+  },
+  {
+   "name": "Sri Wijaya Mahadewi",
+   "native": "Śri Wijaya Mahadewi",
+   "roman": "Sri Wijaya Mahadewi",
+   "start": 983,
+   "end": 989,
+   "nativeName": "Śri Wijaya Mahadewi"
+  },
+  {
+   "name": "Dharma Udayana Warmadewa",
+   "native": "Dharma Udayana Warmadewa",
+   "roman": "Dharma Udayana Warmadewa",
+   "start": 989,
+   "end": 1011,
+   "nativeName": "Dharma Udayana Warmadewa"
+  },
+  {
+   "name": "Sri Ajnadewi",
+   "native": "Śri Ajñadewi",
+   "roman": "Sri Ajnadewi",
+   "start": 1016,
+   "end": 1022,
+   "nativeName": "Śri Ajñadewi"
+  },
+  {
+   "name": "Dharmawangsa Wardhana Marakatapangkaja",
+   "native": "Dharmawangsa Wardhana Marakatapangkaja",
+   "roman": "Dharmawangsa Wardhana Marakatapangkaja",
+   "start": 1022,
+   "end": 1025,
+   "nativeName": "Dharmawangsa Wardhana Marakatapangkaja"
+  },
+  {
+   "name": "Anak Wungsu",
+   "native": "Anak Wungsu",
+   "roman": "Anak Wungsu",
+   "start": 1049,
+   "end": 1077,
+   "nativeName": "Anak Wungsu"
+  },
+  {
+   "name": "Sri Maharaja Sakalendukirana",
+   "native": "Śri Maharaja Sakalendukirana",
+   "roman": "Sri Maharaja Sakalendukirana",
+   "start": 1088,
+   "end": 1101,
+   "nativeName": "Śri Maharaja Sakalendukirana"
+  },
+  {
+   "name": "Sri Suradhipa",
+   "native": "Śri Suradhipa",
+   "roman": "Sri Suradhipa",
+   "start": 1115,
+   "end": 1119,
+   "nativeName": "Śri Suradhipa"
+  },
+  {
+   "name": "Sri Jayasakti",
+   "native": "Śri Jayasakti",
+   "roman": "Sri Jayasakti",
+   "start": 1133,
+   "end": 1150,
+   "nativeName": "Śri Jayasakti"
+  },
+  {
+   "name": "Ragajaya",
+   "native": "Ragajaya",
+   "roman": "Ragajaya",
+   "start": 1155,
+   "end": 1178,
+   "nativeName": "Ragajaya"
+  },
+  {
+   "name": "Jayapangus",
+   "native": "Jayapangus",
+   "roman": "Jayapangus",
+   "start": 1178,
+   "end": 1181,
+   "nativeName": "Jayapangus"
+  },
+  {
+   "name": "Arjayadengjayaketana",
+   "native": "Arjayadengjayaketana",
+   "roman": "Arjayadengjayaketana",
+   "start": 1200,
+   "end": 1200,
+   "nativeName": "Arjayadengjayaketana"
+  },
+  {
+   "name": "Bhatara Guru Sri Adikuntiketana",
+   "native": "Bhatara Guru Śri Adikuntiketana",
+   "roman": "Bhatara Guru Sri Adikuntiketana",
+   "start": 1204,
+   "end": 1204,
+   "nativeName": "Bhatara Guru Śri Adikuntiketana"
+  }
+ ],
+ "blurbKey": "Q12491027__early-balinese-kingdoms"
+}

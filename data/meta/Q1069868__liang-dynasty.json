@@ -1,0 +1,71 @@
+{
+ "qid": "Q1069868",
+ "names": [
+  "Liang Dynasty"
+ ],
+ "title": "Liang Dynasty",
+ "variantOf": "Q1069868",
+ "endonym": {
+  "native": "梁",
+  "roman": "Liáng"
+ },
+ "capsule": "The Liang dynasty (梁朝, 502-557), third of China's Southern Dynasties, was founded when Xiao Yan deposed the Southern Qi and took the throne as Emperor Wu, a devout Buddhist patron whose 47-year reign became one of the most stable and culturally flourishing of the era. That stability collapsed after 548, when the renegade general Hou Jing rebelled, sacked the capital Jiankang, and effectively imprisoned Emperor Wu, who died in 549; his sons Emperor Jianwen and Emperor Yuan struggled to restore order amid civil war before the general Chen Baxian deposed the last Liang emperor, Emperor Jing, in 557 and founded the Chen dynasty. A rump Liang state, the Western Liang, survived as a Western Wei/Northern Zhou client at Jiangling into the 580s.",
+ "citations": [
+  {
+   "label": "Wikipedia, \"Liang dynasty\"",
+   "url": "https://en.wikipedia.org/wiki/Liang_dynasty"
+  },
+  {
+   "label": "Wikipedia, \"Emperor Wu of Liang\"",
+   "url": "https://en.wikipedia.org/wiki/Emperor_Wu_of_Liang"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Core political events are recorded in Chinese dynastic histories (Jin Shu, Wei Shu), but the spatial extent of Southern Liang control at any given year is imprecisely defined. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Liang dynasty",
+ "rulers": [
+  {
+   "name": "Emperor Wu of Liang",
+   "native": "蕭衍",
+   "roman": "Xiāo Yǎn",
+   "start": 502,
+   "end": 549,
+   "nativeName": "蕭衍"
+  },
+  {
+   "name": "Emperor Jianwen of Liang",
+   "native": "蕭綱",
+   "roman": "Xiāo Gāng",
+   "start": 549,
+   "end": 551,
+   "nativeName": "蕭綱"
+  },
+  {
+   "name": "Emperor Yuan of Liang",
+   "native": "蕭繹",
+   "roman": "Xiāo Yì",
+   "start": 552,
+   "end": 555,
+   "nativeName": "蕭繹"
+  },
+  {
+   "name": "Emperor Jing of Liang",
+   "native": "蕭方智",
+   "roman": "Xiāo Fāngzhì",
+   "start": 555,
+   "end": 557,
+   "nativeName": "蕭方智"
+  }
+ ],
+ "blurbKey": "Q1069868__liang-dynasty"
+}

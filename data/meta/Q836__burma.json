@@ -1,0 +1,153 @@
+{
+ "qid": "Q836",
+ "names": [
+  "Burma"
+ ],
+ "title": "Burma",
+ "variantOf": "Q836",
+ "endonym": {
+  "native": "ဗမာ",
+  "roman": "Bama"
+ },
+ "capsule": "Burma across this 1820–1990 span covers the final decades of the Konbaung dynasty, which fought three wars against British forces (1824–26, 1852, 1885) culminating in full annexation as a province of British India in 1886. Independence came in 1948 under U Nu, followed by Ne Win's 1962 coup and single-party 'Burmese Way to Socialism' military rule, which held until the 1988 pro-democracy uprising was crushed and the State Law and Order Restoration Council seized power. The country was officially renamed the Union of Myanmar in 1989, the distinct successor entity that shares this Wikidata identifier.",
+ "citations": [
+  {
+   "label": "Konbaung dynasty — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Konbaung_dynasty"
+  },
+  {
+   "label": "British rule in Burma — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/British_rule_in_Burma"
+  },
+  {
+   "label": "8888 Uprising — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/1988_8888_Uprising"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Burma's colonial-era boundaries were defined by British administrative surveys and treaties with neighboring powers (China, Siam, France for Indochina); they are generally well-attested, though hill-tribe frontier zones were loosely administered. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Myanmar",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Bodawpaya",
+   "nativeName": "ဘိုးတော်ဘုရား",
+   "roman": "Bodawpayā",
+   "start": 1781,
+   "end": 1819,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Bagyidaw",
+   "nativeName": "ဘကြီးတော်",
+   "roman": "Bagyidaw",
+   "start": 1819,
+   "end": 1837,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Tharrawaddy Min",
+   "nativeName": "သာရာဝတီမင်း",
+   "roman": "Tharrawaddy Min",
+   "start": 1837,
+   "end": 1846,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Pagan Min",
+   "nativeName": "ပုဂံမင်း",
+   "roman": "Pagan Min",
+   "start": 1846,
+   "end": 1853,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Mindon Min",
+   "nativeName": "မင်းတုန်းမင်း",
+   "roman": "Mindon Min",
+   "start": 1853,
+   "end": 1878,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Thibaw Min",
+   "nativeName": "သီပေါမင်း",
+   "roman": "Thibaw Min",
+   "start": 1878,
+   "end": 1885,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "British Burma (Chief Commissioner)",
+   "nativeName": "British Burma",
+   "roman": "British Burma",
+   "start": 1885,
+   "end": 1897,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "British Burma (Lieutenant-Governor)",
+   "nativeName": "British Burma",
+   "roman": "British Burma",
+   "start": 1897,
+   "end": 1923,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "British Burma (Governor, Province of Burma)",
+   "nativeName": "British Burma",
+   "roman": "British Burma",
+   "start": 1923,
+   "end": 1937,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Burma (Governor, Separate Colony)",
+   "nativeName": "Burma Colony",
+   "roman": "Burma Colony",
+   "start": 1937,
+   "end": 1948,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q836__burma"
+}

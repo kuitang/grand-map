@@ -1,0 +1,55 @@
+{
+ "qid": "Q200262",
+ "names": [
+  "Kingdom of Pamplona"
+ ],
+ "title": "Kingdom of Pamplona",
+ "variantOf": "Q200262",
+ "endonym": {
+  "native": "Iruñeko Erresuma",
+  "roman": "Iruñeko Erresuma"
+ },
+ "capsule": "The Kingdom of Pamplona (Iruñeko Erresuma) emerged in the western Pyrenees when the Basque chieftain Íñigo Arista was raised as ruler around the time a Carolingian force was defeated at the Battle of Roncesvalles in 824, founding a line that balanced alliance and rebellion against both the Franks and the Muslim Emirate of Cordoba. Arista's realm, centered on Pamplona, allied by marriage with the Muwallad Banu Qasi of the Ebro valley and used that connection to play Christian and Muslim powers off one another, preserving its autonomy. He ruled until his death around 851-852, when the throne passed to his son García Íñiguez, whose reign carried the young kingdom's independence forward.",
+ "citations": [
+  {
+   "label": "Íñigo Arista - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/%C3%8D%C3%B1igo_Arista"
+  },
+  {
+   "label": "García Íñiguez - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Garc%C3%ADa_%C3%8D%C3%B1iguez"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The dataset records this polity for 825–866, covering only the earliest Íñiguez phase; territorial reconstruction for this formative period is based on limited chronicles and Arab sources and carries considerable uncertainty about actual area controlled. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Kingdom of Navarre",
+ "rulers": [
+  {
+   "name": "Íñigo Arista",
+   "native": "Eneko Aritza",
+   "roman": "Íñigo Arista",
+   "start": 824,
+   "end": 852,
+   "nativeName": "Eneko Aritza"
+  },
+  {
+   "name": "García Íñiguez I",
+   "native": "Gartzea Enekoitz",
+   "roman": "García Íñiguez",
+   "start": 852,
+   "end": 870,
+   "nativeName": "Gartzea Enekoitz"
+  }
+ ],
+ "blurbKey": "Q200262__kingdom-of-pamplona"
+}

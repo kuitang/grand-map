@@ -1,0 +1,75 @@
+{
+ "qid": "Q269109",
+ "names": [
+  "Ryazan"
+ ],
+ "title": "Ryazan",
+ "variantOf": "Q269109",
+ "endonym": {
+  "native": "Великое княжество Рязанское",
+  "roman": "Velikoye knyazhestvo Ryazanskoye"
+ },
+ "capsule": "By the mid-15th century Ryazan survived as the last semi-independent Rus' principality, its princes ruling under ever-tightening Muscovite tutelage after Grand Prince Vasily II of Moscow took over guardianship of the young Vasily Ivanovich in 1456. Successive Ryazan princes married into and depended on the Muscovite court, and Ivan Vasilyevich divided the principality between his sons before his death in 1500. The last prince, Ivan Ivanovich, was imprisoned by Vasily III of Moscow in 1520, fled to Lithuania in 1521, and Ryazan was absorbed outright into the Grand Duchy of Moscow that same year.",
+ "citations": [
+  {
+   "label": "Wikipedia: Ivan V of Ryazan",
+   "url": "https://en.wikipedia.org/wiki/Ivan_V_of_Ryazan"
+  },
+  {
+   "label": "Wikipedia: Vasili III of Russia",
+   "url": "https://en.wikipedia.org/wiki/Vasili_III_of_Russia"
+  },
+  {
+   "label": "Wikipedia: Vasily Ivanovich of Ryazan",
+   "url": "https://en.wikipedia.org/wiki/Vasily_Ivanovich_of_Ryazan"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The principality's core territory on the Oka is reasonably attested; its shifting eastern and southern boundaries against steppe peoples are incompletely documented. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Principality of Ryazan",
+ "rulers": [
+  {
+   "name": "Ivan Fyodorovich",
+   "native": "Иван Фёдорович",
+   "roman": "Ivan Fyodorovich",
+   "start": 1427,
+   "end": 1456,
+   "nativeName": "Иван Фёдорович"
+  },
+  {
+   "name": "Vasily Ivanovich",
+   "native": "Василий Иванович",
+   "roman": "Vasily Ivanovich",
+   "start": 1456,
+   "end": 1483,
+   "nativeName": "Василий Иванович"
+  },
+  {
+   "name": "Ivan Vasilyevich",
+   "native": "Иван Васильевич",
+   "roman": "Ivan Vasilyevich",
+   "start": 1483,
+   "end": 1500,
+   "nativeName": "Иван Васильевич"
+  },
+  {
+   "name": "Ivan Ivanovich (Ivan V)",
+   "native": "Иван Иванович",
+   "roman": "Ivan Ivanovich",
+   "start": 1500,
+   "end": 1521,
+   "nativeName": "Иван Иванович"
+  }
+ ],
+ "blurbKey": "Q269109__ryazan"
+}

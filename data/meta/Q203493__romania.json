@@ -1,0 +1,95 @@
+{
+ "qid": "Q203493",
+ "names": [
+  "Romania"
+ ],
+ "title": "Romania",
+ "variantOf": "Q203493",
+ "endonym": {
+  "native": "România",
+  "roman": "România"
+ },
+ "capsule": "Following the December 1989 revolution that overthrew and executed Nicolae Ceaușescu, Romania adopted a new democratic constitution in 1991 establishing a semi-presidential republic, with Ion Iliescu elected its first post-communist president in 1990. The country joined NATO in 2004 and the European Union in 2007, and has since alternated between Iliescu, Emil Constantinescu, Traian Băsescu, Klaus Iohannis, and Nicușor Dan as president amid recurring corruption scandals and a contested, annulled 2024 presidential election that forced Iohannis's resignation in early 2025.",
+ "citations": [
+  {
+   "label": "Wikipedia: List of presidents of Romania",
+   "url": "https://en.wikipedia.org/wiki/List_of_presidents_of_Romania"
+  },
+  {
+   "label": "Britannica: Romania",
+   "url": "https://www.britannica.com/place/Romania"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Boundaries are well documented through successive peace treaties; the 1940 territorial changes are precisely recorded, and the state's geographic extent at each phase is well established in modern historiography. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Kingdom of Romania",
+ "rulers": [
+  {
+   "name": "Ion Iliescu",
+   "native": "Ion Iliescu",
+   "start": 1990,
+   "end": 1996,
+   "nativeName": "Ion Iliescu",
+   "roman": "Ion Iliescu"
+  },
+  {
+   "name": "Emil Constantinescu",
+   "native": "Emil Constantinescu",
+   "start": 1996,
+   "end": 2000,
+   "nativeName": "Emil Constantinescu",
+   "roman": "Emil Constantinescu"
+  },
+  {
+   "name": "Ion Iliescu",
+   "native": "Ion Iliescu",
+   "start": 2000,
+   "end": 2004,
+   "nativeName": "Ion Iliescu",
+   "roman": "Ion Iliescu"
+  },
+  {
+   "name": "Traian Băsescu",
+   "native": "Traian Băsescu",
+   "start": 2004,
+   "end": 2014,
+   "nativeName": "Traian Băsescu",
+   "roman": "Traian Băsescu"
+  },
+  {
+   "name": "Klaus Iohannis",
+   "native": "Klaus Iohannis",
+   "start": 2014,
+   "end": 2025,
+   "nativeName": "Klaus Iohannis",
+   "roman": "Klaus Iohannis"
+  },
+  {
+   "name": "Ilie Bolojan (acting)",
+   "native": "Ilie Bolojan",
+   "start": 2025,
+   "end": 2025,
+   "nativeName": "Ilie Bolojan",
+   "roman": "Ilie Bolojan"
+  },
+  {
+   "name": "Nicușor Dan",
+   "native": "Nicușor Dan",
+   "start": 2025,
+   "nativeName": "Nicușor Dan",
+   "roman": "Nicușor Dan",
+   "end": null
+  }
+ ],
+ "blurbKey": "Q203493__romania"
+}

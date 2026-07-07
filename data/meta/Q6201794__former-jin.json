@@ -1,0 +1,47 @@
+{
+ "qid": "Q6201794",
+ "names": [
+  "Former Jin"
+ ],
+ "title": "Former Jin",
+ "variantOf": "Q6201794",
+ "endonym": {
+  "native": "晉",
+  "roman": "Jìn"
+ },
+ "capsule": "Here 'Former Jin' denotes the Shatuo Turkic principality of Jin (晉), based at Jinyang (modern Taiyuan) in Shanxi, which by 922–923 was ruled by Li Cunxu as heir to his father Li Keyong's title of Prince of Jin. Fighting nominally as loyalists of the fallen Tang dynasty against the usurping Later Liang, Li Cunxu proclaimed himself emperor of a restored Tang in May 923 and that November captured the Later Liang capital Daliang (Kaifeng), transforming the Jin principality into the Later Tang dynasty. He was assassinated in a military mutiny in 926, only three years into his imperial reign.",
+ "citations": [
+  {
+   "label": "Li Cunxu – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Li_Cunxu"
+  },
+  {
+   "label": "Jin (Later Tang precursor) – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jin_(Later_Tang_precursor)"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Core territorial extent is reasonably attested through Zuozhuan and Shiji records, though exact border demarcations at any given year are scholarly reconstructions. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Jin (Chinese state)",
+ "rulers": [
+  {
+   "name": "Li Cunxu",
+   "native": "李存勖",
+   "roman": "Lǐ Cúnxù",
+   "start": 908,
+   "end": 926,
+   "nativeName": "李存勖"
+  }
+ ],
+ "blurbKey": "Q6201794__former-jin"
+}

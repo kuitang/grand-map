@@ -1,0 +1,84 @@
+{
+ "qid": "Q494354",
+ "names": [
+  "Western Karakhanid Khanate"
+ ],
+ "title": "Western Karakhanid Khanate",
+ "variantOf": "Q494354",
+ "endonym": {
+  "native": "قاراخانیلار",
+  "roman": "Qarakhānīlar",
+  "lang": "tr-x-old"
+ },
+ "capsule": "The Western Kara-Khanid khanate, formed in the 1042 partition, held Transoxiana - Samarkand, Bukhara, and the Ferghana valley - as the junior branch of the dynasty, initially led by Muhammad Ayn al-Dawla (r. 1041-1052) from Bukhara. Sandwiched between the rival Eastern Qarakhanids and the rising Great Seljuk sultanate, the western khans were progressively drawn into Seljuk vassalage as Seljuk power expanded into Transoxiana during the 1060s-1080s. Its independent existence effectively ended in the 1080s - Sultan Malik-Shah occupied Samarkand in 1089 - though a subordinate Qarakhanid line continued to administer Samarkand as Seljuk tributaries afterward.",
+ "citations": [
+  {
+   "label": "The Karakhanids | UNESCO History of Civilizations of Central Asia",
+   "url": "https://en.unesco.org/silkroad/sites/default/files/knowledge-bank-article/vol_IVa%20silk%20road_the%20karakhanids.pdf"
+  },
+  {
+   "label": "Kara-Khanid Khanate - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kara-Khanid_Khanate"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Core Transoxianan territory (Fergana, Bukhara, Samarkand) is attested from administrative and numismatic records; the Tarim Basin and eastern extent depend more heavily on narrative sources and are geometrically approximate, particularly for the earlier period before the khanate's formal division. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Kara-Khanid Khanate",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Mansur Arslan Khan",
+   "nativeName": "منصور ارسلان خان",
+   "roman": "Mansur Arslan Khan",
+   "start": 1017,
+   "end": 1024,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Muhammad Toghan Khan",
+   "nativeName": "محمد طغان خان",
+   "roman": "Muhammad Toghan Khan",
+   "start": 1024,
+   "end": 1026,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Yusuf Qadir Khan",
+   "nativeName": "یوسف قادرخان",
+   "roman": "Yusuf Qadir Khan",
+   "start": 1026,
+   "end": 1032,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Sulayman Arslan Qara Khan",
+   "nativeName": "سلیمان ارسلان قراخان",
+   "roman": "Sulayman Arslan Qara Khan",
+   "start": 1032,
+   "end": 1056,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q494354__western-karakhanid-khanate"
+}

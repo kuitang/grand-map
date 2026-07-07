@@ -1,0 +1,73 @@
+{
+ "qid": "Q33235",
+ "names": [
+  "Upper Burgundy"
+ ],
+ "title": "Upper Burgundy",
+ "variantOf": "Q33235",
+ "endonym": {
+  "native": "Regnum Burgundiae",
+  "roman": "Regnum Burgundiae",
+  "lang": "la"
+ },
+ "capsule": "Upper (Transjurane) Burgundy was proclaimed in January 888 when Rudolf, a Welf magnate who had inherited the Burgundian ducal title, was crowned king at the abbey of Saint-Maurice d'Agaune, carving an independent realm from Carolingian wreckage across the Jura, Valais, and western Switzerland. His son Rudolf II (r. 912-937) briefly added the Italian crown between 922 and 926 before losing it to Hugh of Arles, after which he consolidated rule over Upper Burgundy alone. In 933 Rudolf II traded away his claim to Italy for Hugh's kingdom of Lower Burgundy, uniting the two Burgundies under his own crown, a realm his son Conrad the Peaceable would govern from 937 as the single Kingdom of Burgundy.",
+ "citations": [
+  {
+   "label": "Rudolf I | Britannica",
+   "url": "https://www.britannica.com/biography/Rudolf-I-king-of-Burgundy"
+  },
+  {
+   "label": "Kingdom of Upper Burgundy - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kingdom_of_Upper_Burgundy"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Upper Burgundy's political extent is relatively well documented through Carolingian and Ottonian diplomas, though precise frontier zones with Lower Burgundy and the kingdom of Italy remained fluid. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Upper Burgundy",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Rudolf I",
+   "nativeName": "Rudolf I",
+   "roman": "",
+   "start": 888,
+   "end": 912,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Rudolf II",
+   "nativeName": "Rudolf II",
+   "roman": "",
+   "start": 912,
+   "end": 937,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Conrad the Peaceful",
+   "nativeName": "Conrad le Pacifique",
+   "roman": "",
+   "start": 937,
+   "end": 960,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q33235__upper-burgundy"
+}

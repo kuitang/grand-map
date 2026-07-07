@@ -1,0 +1,204 @@
+{
+ "qid": "Q206789",
+ "names": [
+  "Mali Empire"
+ ],
+ "title": "Mali Empire",
+ "variantOf": "Q206789",
+ "endonym": {
+  "native": "Manden Kurufaba",
+  "roman": "Manden Kurufaba"
+ },
+ "capsule": "Founded around 1235 when Sundiata Keita of the Keita clan defeated the Sosso ruler Sumanguru at the Battle of Kirina, the Mali Empire (Manden Kurufaba) became the dominant trading power of the western Sudan, controlling gold, salt, and copper routes along the upper Niger from its capital Niani. Under Mansa Musa I (r. 1312-1337), whose 1324 pilgrimage to Mecca broadcast Mali's wealth across the Mediterranean world, the empire reached its greatest territorial and scholarly reach, with Timbuktu flourishing as a center of Islamic learning. Weakened by Songhai and Mossi incursions from the 15th century, Mali shrank to a reduced Keita heartland that splintered among the sons of Mansa Mahmud IV after his death around 1610; tradition holds the Bamana delivered the final blow by sacking the old capital Niani in 1670.",
+ "citations": [
+  {
+   "label": "Mali empire | Britannica",
+   "url": "https://www.britannica.com/place/Mali-historical-empire-Africa"
+  },
+  {
+   "label": "The Empire of Mali (1230-1600) | South African History Online",
+   "url": "https://www.sahistory.org.za/article/empire-mali-1230-1600"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases (Times Atlas of World History; Kinder & Hilgemann; Shepherd 1926) at ~0.07° resolution. Extents rest on a handful of Arabic accounts and archaeology (Koumbi Saleh); all lines are conjectural conventions. Confidence: low — rendered with maximal uncertainty shading. Attested primarily in textual sources (al-Bakri, later Ibn Khaldun). Capsule researched for this polity/era specifically (confidence: high).",
+ "rulers": [
+  {
+   "name": "Mari Djata I (Sundiata Keita)",
+   "native": "Sunjata Keita",
+   "roman": "Sundiata Keita",
+   "start": 1235,
+   "end": 1255,
+   "nativeName": "Sunjata Keita"
+  },
+  {
+   "name": "Uli Keita",
+   "native": "Wali Keita",
+   "roman": "Uli Keita",
+   "start": 1255,
+   "end": 1270,
+   "nativeName": "Wali Keita"
+  },
+  {
+   "name": "Wati Keita",
+   "native": "Wati Keita",
+   "roman": "Wati Keita",
+   "start": 1270,
+   "end": 1274,
+   "nativeName": "Wati Keita"
+  },
+  {
+   "name": "Khalifa Keita",
+   "native": "Khalifa Keita",
+   "roman": "Khalifa Keita",
+   "start": 1274,
+   "end": 1275,
+   "nativeName": "Khalifa Keita"
+  },
+  {
+   "name": "Abubakari Keita I",
+   "native": "Abubakari Keita I",
+   "roman": "Abubakari Keita I",
+   "start": 1275,
+   "end": 1285,
+   "nativeName": "Abubakari Keita I"
+  },
+  {
+   "name": "Sakura",
+   "native": "Sakura",
+   "roman": "Sakura",
+   "start": 1285,
+   "end": 1300,
+   "nativeName": "Sakura"
+  },
+  {
+   "name": "Gao Keita",
+   "native": "Gao Keita",
+   "roman": "Gao Keita",
+   "start": 1300,
+   "end": 1305,
+   "nativeName": "Gao Keita"
+  },
+  {
+   "name": "Mohammed ibn Gao Keita",
+   "native": "Muhammad ibn Gao",
+   "roman": "Mohammed ibn Gao",
+   "start": 1305,
+   "end": 1312,
+   "nativeName": "Muhammad ibn Gao"
+  },
+  {
+   "name": "Mansa Musa Keita I",
+   "native": "Musa Keita",
+   "roman": "Mansa Musa",
+   "start": 1312,
+   "end": 1337,
+   "nativeName": "Musa Keita"
+  },
+  {
+   "name": "Maghan Keita I",
+   "native": "Maghan Keita I",
+   "roman": "Maghan Keita I",
+   "start": 1337,
+   "end": 1341,
+   "nativeName": "Maghan Keita I"
+  },
+  {
+   "name": "Souleyman Keita",
+   "native": "Sulayman Keita",
+   "roman": "Souleyman Keita",
+   "start": 1341,
+   "end": 1360,
+   "nativeName": "Sulayman Keita"
+  },
+  {
+   "name": "Camba Keita",
+   "native": "Camba Keita",
+   "roman": "Camba Keita",
+   "start": 1360,
+   "end": 1360,
+   "nativeName": "Camba Keita"
+  },
+  {
+   "name": "Mari Djata Keita II",
+   "native": "Mari Djata II",
+   "roman": "Mari Djata II",
+   "start": 1360,
+   "end": 1374,
+   "nativeName": "Mari Djata II"
+  },
+  {
+   "name": "Musa Keita II",
+   "native": "Musa Keita II",
+   "roman": "Musa Keita II",
+   "start": 1374,
+   "end": 1387,
+   "nativeName": "Musa Keita II"
+  },
+  {
+   "name": "Maghan Keita II",
+   "native": "Maghan Keita II",
+   "roman": "Maghan Keita II",
+   "start": 1387,
+   "end": 1389,
+   "nativeName": "Maghan Keita II"
+  },
+  {
+   "name": "Sandaki",
+   "native": "Sandaki",
+   "roman": "Sandaki",
+   "start": 1389,
+   "end": 1390,
+   "nativeName": "Sandaki"
+  },
+  {
+   "name": "Maghan Keita III",
+   "native": "Maghan Keita III",
+   "roman": "Maghan Keita III",
+   "start": 1390,
+   "end": 1404,
+   "nativeName": "Maghan Keita III"
+  },
+  {
+   "name": "Musa Keita III",
+   "native": "Musa Keita III",
+   "roman": "Musa Keita III",
+   "start": 1404,
+   "end": 1440,
+   "nativeName": "Musa Keita III"
+  },
+  {
+   "name": "Uli Keita II",
+   "native": "Wali Keita II",
+   "roman": "Uli Keita II",
+   "start": 1460,
+   "end": 1480,
+   "nativeName": "Wali Keita II"
+  },
+  {
+   "name": "Mahmud Keita II",
+   "native": "Mahmud Keita II",
+   "roman": "Mahmud Keita II",
+   "start": 1480,
+   "end": 1496,
+   "nativeName": "Mahmud Keita II"
+  },
+  {
+   "name": "Mahmud Keita III",
+   "native": "Mahmud Keita III",
+   "roman": "Mahmud Keita III",
+   "start": 1496,
+   "end": 1559,
+   "nativeName": "Mahmud Keita III"
+  },
+  {
+   "name": "Mahmud Keita IV",
+   "native": "Mahmud Keita IV",
+   "roman": "Mahmud Keita IV",
+   "start": 1590,
+   "end": 1610,
+   "nativeName": "Mahmud Keita IV"
+  }
+ ],
+ "blurbKey": "Q206789__mali-empire"
+}

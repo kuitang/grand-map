@@ -1,0 +1,325 @@
+{
+ "qid": "Q28405",
+ "names": [
+  "Joseon"
+ ],
+ "title": "Joseon",
+ "variantOf": "Q28405",
+ "endonym": {
+  "native": "조선 (朝鮮)",
+  "roman": "Joseon"
+ },
+ "capsule": "The Joseon dynasty (조선), founded in 1392 when General Yi Seong-gye (Taejo) deposed the last Goryeo king and moved the capital to Hanseong (modern Seoul), ruled the Korean peninsula for over five centuries under a Confucian bureaucratic state modeled on Ming China. Its long span encompassed the creation of the Hangul script under King Sejong, the devastating Imjin War with Japan (1592–1598), and late Enlightenment-era reforms, before ending formally when King Gojong proclaimed the Korean Empire in 1897. This dynasty is unrelated to the far older Gojoseon/Wiman Joseon kingdom of the 2nd century BCE that happens to share this entry's Wikidata identifier.",
+ "citations": [
+  {
+   "label": "Joseon - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Joseon"
+  },
+  {
+   "label": "Joseon dynasty - Britannica",
+   "url": "https://www.britannica.com/place/Joseon-dynasty"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Boundaries are well-attested from the fifteenth century onward through administrative records and border treaties establishing the Yalu and Tumen River frontier with Ming and later Qing China; pre-fifteenth-century northern limits are slightly less precise. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Gojoseon",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Taejo",
+   "nativeName": "太祖",
+   "roman": "Taejo",
+   "start": 1392,
+   "end": 1398,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Jeongjong",
+   "nativeName": "定宗",
+   "roman": "Jeongjong",
+   "start": 1398,
+   "end": 1400,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Taejong",
+   "nativeName": "太宗",
+   "roman": "Taejong",
+   "start": 1400,
+   "end": 1418,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Sejong the Great",
+   "nativeName": "世宗",
+   "roman": "Sejong",
+   "start": 1418,
+   "end": 1450,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Munjong",
+   "nativeName": "文宗",
+   "roman": "Munjong",
+   "start": 1450,
+   "end": 1452,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Danjong",
+   "nativeName": "端宗",
+   "roman": "Danjong",
+   "start": 1452,
+   "end": 1455,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Sejo",
+   "nativeName": "世祖",
+   "roman": "Sejo",
+   "start": 1455,
+   "end": 1468,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Yejong",
+   "nativeName": "睿宗",
+   "roman": "Yejong",
+   "start": 1468,
+   "end": 1469,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Seongjong",
+   "nativeName": "成宗",
+   "roman": "Seongjong",
+   "start": 1469,
+   "end": 1494,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Yeonsangun",
+   "nativeName": "燕山君",
+   "roman": "Yeonsangun",
+   "start": 1494,
+   "end": 1506,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Jungjong",
+   "nativeName": "中宗",
+   "roman": "Jungjong",
+   "start": 1506,
+   "end": 1544,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Injong",
+   "nativeName": "仁宗",
+   "roman": "Injong",
+   "start": 1544,
+   "end": 1545,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Myeongjong",
+   "nativeName": "明宗",
+   "roman": "Myeongjong",
+   "start": 1545,
+   "end": 1567,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Seonjo",
+   "nativeName": "宣祖",
+   "roman": "Seonjo",
+   "start": 1567,
+   "end": 1608,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Gwanghaegun",
+   "nativeName": "光海君",
+   "roman": "Gwanghaegun",
+   "start": 1608,
+   "end": 1623,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Injo",
+   "nativeName": "仁祖",
+   "roman": "Injo",
+   "start": 1623,
+   "end": 1649,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Hyojong",
+   "nativeName": "孝宗",
+   "roman": "Hyojong",
+   "start": 1649,
+   "end": 1659,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Hyeonjong",
+   "nativeName": "顯宗",
+   "roman": "Hyeonjong",
+   "start": 1659,
+   "end": 1674,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Sukjong",
+   "nativeName": "肅宗",
+   "roman": "Sukjong",
+   "start": 1674,
+   "end": 1720,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Gyeongjong",
+   "nativeName": "景宗",
+   "roman": "Gyeongjong",
+   "start": 1720,
+   "end": 1724,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Yeongjo",
+   "nativeName": "英祖",
+   "roman": "Yeongjo",
+   "start": 1724,
+   "end": 1776,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Jeongjo",
+   "nativeName": "正祖",
+   "roman": "Jeongjo",
+   "start": 1776,
+   "end": 1800,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Sunjo",
+   "nativeName": "純祖",
+   "roman": "Sunjo",
+   "start": 1800,
+   "end": 1834,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Heonjong",
+   "nativeName": "憲宗",
+   "roman": "Heonjong",
+   "start": 1834,
+   "end": 1849,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Cheoljong",
+   "nativeName": "哲宗",
+   "roman": "Cheoljong",
+   "start": 1849,
+   "end": 1864,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Gojong",
+   "nativeName": "高宗",
+   "roman": "Gojong",
+   "start": 1864,
+   "end": 1898,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q28405__joseon"
+}

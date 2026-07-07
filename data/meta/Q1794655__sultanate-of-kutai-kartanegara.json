@@ -1,0 +1,71 @@
+{
+ "qid": "Q1794655",
+ "names": [
+  "Sultanate of Kutai Kartanegara"
+ ],
+ "title": "Sultanate of Kutai Kartanegara",
+ "variantOf": "Q1794655",
+ "endonym": {
+  "native": "Kesultanan Kutai Kartanegara ing Martadipura",
+  "roman": "Kesultanan Kutai Kartanegara ing Martadipura"
+ },
+ "capsule": "The Sultanate of Kutai Kartanegara in this span denotes the fully Islamic monarchy inaugurated by Sultan Aji Muhammad Idris (r. c. 1732/35-1739), the first Kutai ruler to bear an explicitly Muslim regnal title, and continued by his eighteenth-century successors ruling from the upriver capitals of Pemarangan and later Tenggarong on the Mahakam River. Under these sultans the polity deepened commercial ties to Bugis, Malay, and Chinese traders exporting rattan, birds' nests, and other forest produce from Borneo's interior. The span closes on the eve of Sultan Aji Muhammad Sulaiman's 1845 accession, whose long subsequent reign brought the sultanate into direct treaty relations with the Dutch colonial administration.",
+ "citations": [
+  {
+   "label": "Kutai Kartanegara Sultanate - Kerajaan Nusantara",
+   "url": "https://www.kerajaannusantara.com/en/kutai-kartanegara/history"
+  },
+  {
+   "label": "Sultanate of Kutai - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sultanate_of_Kutai"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The territory controlled by Kutai in the 1648–1734 window is poorly mapped; the sultanate's sphere of influence along the Mahakam is probable but its exact boundaries relative to neighboring polities are unattested. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Kutai",
+ "rulers": [
+  {
+   "name": "Aji Muhammad Idris",
+   "native": "Aji Muhammad Idris",
+   "roman": "Aji Muhammad Idris",
+   "start": 1735,
+   "end": 1778,
+   "nativeName": "Aji Muhammad Idris"
+  },
+  {
+   "name": "Aji Kado (Sultan Aji Muhammad Aliyeddin)",
+   "native": "Aji Kado",
+   "roman": "Aji Muhammad Aliyeddin",
+   "start": 1778,
+   "end": 1780,
+   "nativeName": "Aji Kado"
+  },
+  {
+   "name": "Aji Imbut (Sultan Aji Muhammad Muslihuddin)",
+   "native": "Aji Muhammad Muslihuddin",
+   "roman": "Aji Muhammad Muslihuddin",
+   "start": 1780,
+   "end": 1816,
+   "nativeName": "Aji Muhammad Muslihuddin"
+  },
+  {
+   "name": "Aji Muhammad Salehuddin I",
+   "native": "Aji Muhammad Salehuddin",
+   "roman": "Aji Muhammad Salehuddin I",
+   "start": 1816,
+   "end": 1845,
+   "nativeName": "Aji Muhammad Salehuddin"
+  }
+ ],
+ "blurbKey": "Q1794655__sultanate-of-kutai-kartanegara"
+}

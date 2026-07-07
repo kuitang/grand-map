@@ -1,0 +1,62 @@
+{
+ "qid": "Q62651",
+ "names": [
+  "Norway-Denmark"
+ ],
+ "title": "Norway-Denmark",
+ "variantOf": "Q62651",
+ "endonym": {
+  "native": "Noregs-Danmörk",
+  "roman": "Noregs-Danmörk",
+  "lang": "non"
+ },
+ "capsule": "Rather than a stable state, \"Norway-Denmark\" here reflects the brief personal union forged when Norway's King Magnus the Good inherited the Danish throne in 1042 under an earlier mutual-succession pact with Harthacnut, a claim contested throughout by Cnut's nephew Sweyn Estridsen. Magnus secured Denmark by crushing a Wendish invasion at Lyrskov Heath in 1043 and repeatedly driving out Sweyn, most recently in 1046, but the union dissolved at Magnus's sudden death in October 1047, after which Sweyn took Denmark and Magnus's uncle Harald Hardrada kept Norway.",
+ "citations": [
+  {
+   "label": "Magnus the Good - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Magnus_the_Good"
+  },
+  {
+   "label": "Magnus I Olafsson - Britannica",
+   "url": "https://www.britannica.com/biography/Magnus-I-Olafsson"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Core territorial extents in Scandinavia are well-documented through administrative records and the chain of peace treaties. Overseas territories (Iceland, Faroe Islands, Greenland, and colonial possessions in the Caribbean) are tracked in Danish crown records; boundaries on the Scandinavian Peninsula reflect treaty lines whose surveying precision varies by period. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Denmark-Norway",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Magnus I the Good",
+   "nativeName": "Magnús góði",
+   "roman": "",
+   "start": 1046,
+   "end": 1047,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Harald III Hardrada",
+   "nativeName": "Haraldr Sigurðarson harðráði",
+   "roman": "",
+   "start": 1046,
+   "end": 1056,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q62651__norway-denmark"
+}

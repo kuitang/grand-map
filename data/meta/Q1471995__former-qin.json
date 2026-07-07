@@ -1,0 +1,87 @@
+{
+ "qid": "Q1471995",
+ "names": [
+  "Former Qin"
+ ],
+ "title": "Former Qin",
+ "variantOf": "Q1471995",
+ "endonym": {
+  "native": "前秦",
+  "roman": "Qián Qín"
+ },
+ "capsule": "The Former Qin (前秦, 351–394) was a Di-led state of the Sixteen Kingdoms period, founded when Fu Jian (苻健) seized the old Han-Zhao capital of Chang'an and declared himself Heavenly King of Qin. Under his nephew, the reform-minded Fu Jiān (苻堅, r. 357–385), Former Qin briefly unified all of northern China by 376, the only Sixteen Kingdoms state ever to do so, before his massive invasion of Eastern Jin in the south collapsed at the Battle of Fei River in 383. That defeat triggered rapid disintegration, and Former Qin was extinguished by 394 amid rebellions from its former subject peoples.",
+ "citations": [
+  {
+   "label": "Former Qin – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Former_Qin"
+  },
+  {
+   "label": "Battle of Fei River – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Battle_of_Fei_River"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Qin's territorial extent during the Warring States period is reconstructed from Shiji and Zhanguo Ce accounts of specific conquests and losses; map boundaries before 350 BC are substantially estimated, while the period 350–221 BC is better attested by conquest records. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Qin (state)",
+ "rulers": [
+  {
+   "name": "Fu Jian",
+   "native": "苻健",
+   "roman": "Fú Jiàn",
+   "start": 351,
+   "end": 355,
+   "nativeName": "苻健"
+  },
+  {
+   "name": "Fu Sheng",
+   "native": "苻生",
+   "roman": "Fú Shēng",
+   "start": 355,
+   "end": 357,
+   "nativeName": "苻生"
+  },
+  {
+   "name": "Fu Jiān",
+   "native": "苻堅",
+   "roman": "Fú Jiān",
+   "start": 357,
+   "end": 385,
+   "nativeName": "苻堅"
+  },
+  {
+   "name": "Fu Pi",
+   "native": "苻丕",
+   "roman": "Fú Pī",
+   "start": 385,
+   "end": 386,
+   "nativeName": "苻丕"
+  },
+  {
+   "name": "Fu Deng",
+   "native": "苻登",
+   "roman": "Fú Dēng",
+   "start": 386,
+   "end": 394,
+   "nativeName": "苻登"
+  },
+  {
+   "name": "Fu Chong",
+   "native": "苻崇",
+   "roman": "Fú Chóng",
+   "start": 394,
+   "end": 394,
+   "nativeName": "苻崇"
+  }
+ ],
+ "blurbKey": "Q1471995__former-qin"
+}

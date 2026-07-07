@@ -1,0 +1,117 @@
+{
+ "qid": "Q2719360",
+ "names": [
+  "Luxembourg"
+ ],
+ "title": "Luxembourg",
+ "variantOf": "Q2719360",
+ "endonym": {
+  "native": "Lëtzebuerg",
+  "roman": "Lëtzebuerg"
+ },
+ "capsule": "Since 1890, when the Nassau-Weilburg line succeeded on Adolphe's accession after the male line of the Orange-Nassau kings-grand dukes died out, Luxembourg has been an independent Grand Duchy under its own hereditary house — surviving two German occupations (1914–18, 1940–44) — to become a founding NATO and European Community member and one of the world's wealthiest states per capita under sovereigns from Adolphe to the present Grand Duke Guillaume.",
+ "citations": [
+  {
+   "label": "Luxembourg – Britannica (History)",
+   "url": "https://www.britannica.com/place/Luxembourg/History"
+  },
+  {
+   "label": "History of Luxembourg – Eupedia",
+   "url": "https://www.eupedia.com/luxembourg/luxembourg_history.shtml"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The duchy's core territory and the 1443 transfer to Burgundy are well-documented in imperial and Burgundian records; exact extent of peripheral dependencies and forest boundaries in this period carries moderate uncertainty. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Duchy of Luxembourg",
+ "rulers": [
+  {
+   "qid": "Q57302",
+   "name": "Adolphe, Grand Duke of Luxembourg",
+   "start": 1890,
+   "end": 1905,
+   "image": "Grand-duc Adolphe.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Grand-duc%20Adolphe.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Ferdinand d'Huart (1857-1919)",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q158235",
+   "name": "William IV, Grand Duke of Luxembourg",
+   "start": 1905,
+   "end": 1912,
+   "image": "Grand-duc Guillaume IV.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Grand-duc%20Guillaume%20IV.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Ferdinand d'Huart",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q159075",
+   "name": "Marie-Adélaïde, Grand Duchess of Luxembourg",
+   "start": 1912,
+   "end": 1919,
+   "image": "Marie-Adélaïde, Grand Duchess of Luxembourg 2.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Marie-Ad%C3%A9la%C3%AFde%2C%20Grand%20Duchess%20of%20Luxembourg%202.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Bain News Service, publisher",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q155608",
+   "name": "Charlotte, Grand Duchess of Luxembourg",
+   "start": 1919,
+   "end": 1964,
+   "image": "Charlotte, Grand Duchess of Luxembourg.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Charlotte%2C%20Grand%20Duchess%20of%20Luxembourg.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Arnott &amp; Rogers, Montreal",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q15988",
+   "name": "Jean, Grand Duke of Luxembourg",
+   "start": 1964,
+   "end": 2000,
+   "image": "GD Jean 1967.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/GD%20Jean%201967.jpg?width=320",
+   "imageLicense": {
+    "license": "CC0",
+    "artist": "Fotograaf: Kroon, Ron for Anefo . \n\nAuteursrechthebbende: Nationaal Archief",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q16004",
+   "name": "Henri I, Grand Duke of Luxembourg",
+   "start": 2000,
+   "end": 2025,
+   "image": "Saeimas priekšsēdētājs Edvards Smiltēns tiekas ar Luksemburgas lielhercogu - 52744479271 (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Saeimas%20priek%C5%A1s%C4%93d%C4%93t%C4%81js%20Edvards%20Smilt%C4%93ns%20tiekas%20ar%20Luksemburgas%20lielhercogu%20-%2052744479271%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 2.0",
+    "artist": "Ieva Ābele",
+    "attributionRequired": true
+   }
+  }
+ ],
+ "blurbKey": "Q2719360__luxembourg"
+}

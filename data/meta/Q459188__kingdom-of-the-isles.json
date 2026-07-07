@@ -1,0 +1,165 @@
+{
+ "qid": "Q459188",
+ "names": [
+  "Kingdom of the Isles"
+ ],
+ "title": "Kingdom of the Isles",
+ "variantOf": "Q459188",
+ "endonym": {
+  "native": "Suðreyjar",
+  "roman": "Sudreyjar"
+ },
+ "capsule": "The Kingdom of the Isles, called in Old Norse the Suðreyjar ('Southern Isles') and in Gaelic Innse Gall, was a Norse-Gaelic sea-kingdom that emerged from Viking settlement of the Hebrides and the Isle of Man from the 9th century and crystallized under Godred Crovan, who seized Man in 1079 and founded the dynasty styled Rex Manniae et Insularum. His descendants Olaf I (c.1113-1153) and Godred the Black (1153-1187) ruled the Hebrides and Man as vassals of Norway, but Somerled's naval victory over Godred in 1156 and his expulsion of him in 1158 permanently partitioned the realm: the Crovan kings retained Man and the northern Hebrides while Somerled's descendants held Argyll and the southern isles, leaving the once-unified sea-kingdom divided for good.",
+ "citations": [
+  {
+   "label": "Wikipedia: Kingdom of the Isles",
+   "url": "https://en.wikipedia.org/wiki/Kingdom_of_the_Isles"
+  },
+  {
+   "label": "Wikipedia: List of rulers of the Kingdom of the Isles",
+   "url": "https://en.wikipedia.org/wiki/List_of_rulers_of_the_Kingdom_of_the_Isles"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The island geography of the kingdom is fixed, but the extent of mainland territories under its control at different periods varied considerably and is imperfectly documented in Scottish and Norse sources. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Kingdom of the Isles",
+ "rulers": [
+  {
+   "name": "Ragnall ua Ímair",
+   "roman": "Ragnall ua Ímair",
+   "start": 900,
+   "end": 921,
+   "nativeName": null
+  },
+  {
+   "name": "Amlaíb Cuarán",
+   "roman": "Amlaíb Cuarán",
+   "start": 941,
+   "end": 980,
+   "nativeName": null
+  },
+  {
+   "name": "Maccus mac Arailt",
+   "roman": "Maccus mac Arailt",
+   "start": 980,
+   "end": 985,
+   "nativeName": null
+  },
+  {
+   "name": "Gofraid mac Arailt",
+   "roman": "Gofraid mac Arailt",
+   "start": 985,
+   "end": 989,
+   "nativeName": null
+  },
+  {
+   "name": "Ragnall mac Gofraid",
+   "roman": "Ragnall mac Gofraid",
+   "start": 989,
+   "end": 1004,
+   "nativeName": null
+  },
+  {
+   "name": "Sigurd the Stout",
+   "roman": "Sigurd the Stout",
+   "start": 1004,
+   "end": 1014,
+   "nativeName": null
+  },
+  {
+   "name": "Hákon Eiríksson",
+   "roman": "Hákon Eiríksson",
+   "start": 1014,
+   "end": 1030,
+   "nativeName": null
+  },
+  {
+   "name": "Thorfinn the Mighty",
+   "roman": "Thorfinn the Mighty",
+   "start": 1035,
+   "end": 1057,
+   "nativeName": null
+  },
+  {
+   "name": "Echmarcach mac Ragnaill",
+   "roman": "Echmarcach mac Ragnaill",
+   "start": 1052,
+   "end": 1061,
+   "nativeName": null
+  },
+  {
+   "name": "Diarmait mac Maíl na mBó",
+   "roman": "Diarmait mac Maíl na mBó",
+   "start": 1061,
+   "end": 1072,
+   "nativeName": null
+  },
+  {
+   "name": "Godred Sitricson (Fingal Godredson)",
+   "roman": "Godred Sitricson",
+   "start": 1072,
+   "end": 1079,
+   "nativeName": null
+  },
+  {
+   "name": "Godred Crovan",
+   "roman": "Godred Crovan",
+   "start": 1079,
+   "end": 1095,
+   "nativeName": null
+  },
+  {
+   "name": "Lagmann Godredsson",
+   "roman": "Lagmann Godredsson",
+   "start": 1095,
+   "end": 1102,
+   "nativeName": null
+  },
+  {
+   "name": "Magnus Barefoot (direct Norwegian rule)",
+   "roman": "Magnus Barefoot",
+   "start": 1098,
+   "end": 1103,
+   "nativeName": null
+  },
+  {
+   "name": "Domnall mac Taidc Ua Briain",
+   "roman": "Domnall mac Taidc",
+   "start": 1111,
+   "end": 1113,
+   "nativeName": null
+  },
+  {
+   "name": "Olave the Red (Godredsson)",
+   "roman": "Olave the Red",
+   "start": 1113,
+   "end": 1152,
+   "nativeName": null
+  },
+  {
+   "name": "Godred the Black",
+   "roman": "Godred the Black",
+   "start": 1152,
+   "end": 1187,
+   "nativeName": null
+  },
+  {
+   "name": "Somerled (rival claimant)",
+   "roman": "Somerled",
+   "start": 1156,
+   "end": 1164,
+   "nativeName": null
+  }
+ ],
+ "blurbKey": "Q459188__kingdom-of-the-isles"
+}

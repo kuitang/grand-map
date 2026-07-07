@@ -1,0 +1,234 @@
+{
+ "qid": "Q191",
+ "names": [
+  "Estonia"
+ ],
+ "title": "Estonia",
+ "variantOf": "Q191",
+ "endonym": {
+  "native": "Eesti Vabariik",
+  "roman": "Eesti Vabariik"
+ },
+ "capsule": "Having declared independence on 24 February 1918, the Republic of Estonia secured it by defeating Soviet and German-allied forces in the War of Independence (1918-1920) and the Tartu Peace Treaty of February 1920, after which it functioned as a parliamentary democracy under successive State Elders. Political instability during the Depression let Konstantin Päts seize authoritarian power in the 1934 'era of silence' coup, ruling as State Elder and later President; independence ended in June 1940 when the Soviet Union, acting under the Molotov-Ribbentrop Pact, occupied and annexed the country.",
+ "citations": [
+  {
+   "label": "Britannica: Estonia",
+   "url": "https://www.britannica.com/place/Estonia"
+  },
+  {
+   "label": "Wikipedia: Interwar Estonia",
+   "url": "https://en.wikipedia.org/wiki/Interwar_Estonia"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Estonia's interwar territory is precisely defined by the 1920 Treaty of Tartu and well documented; the period 1919–1940 is thoroughly attested. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Estonia",
+ "rulers": [
+  {
+   "qid": "Q887019",
+   "name": "Otto Strandman",
+   "start": 1919,
+   "end": 1919,
+   "image": "Otto Strandman (1-E-2966).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Otto%20Strandman%20(1-E-2966).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q300781",
+   "name": "Ado Birk",
+   "start": 1920,
+   "end": 1920,
+   "image": "Ado Birk (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ado%20Birk%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q887682",
+   "name": "Ants Piip",
+   "start": 1920,
+   "end": 1921,
+   "image": "Ants Piip, 1923.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ants%20Piip%2C%201923.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "National Photo Company",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q887260",
+   "name": "Juhan Kukk",
+   "start": 1922,
+   "end": 1923,
+   "image": "Juhan kukk.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Juhan%20kukk.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "не известно",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q571670",
+   "name": "Friedrich Akel",
+   "start": 1924,
+   "end": 1924,
+   "image": "Friedrich Akel (1-E-2929).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%20Akel%20(1-E-2929).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q887247",
+   "name": "Jüri Jaakson",
+   "start": 1924,
+   "end": 1925,
+   "image": "Portree, Eesti Panga president J. Jaakson, AM F 27238-2 (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Portree%2C%20Eesti%20Panga%20president%20J.%20Jaakson%2C%20AM%20F%2027238-2%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Karl Akel",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q887238",
+   "name": "Jaan Teemant",
+   "start": 1925,
+   "end": 1927,
+   "image": "Jaan teemant.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jaan%20teemant.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q710956",
+   "name": "Jaan Tõnisson",
+   "start": 1927,
+   "end": 1928,
+   "image": "Jaan Tonisson1928.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jaan%20Tonisson1928.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Karl Akel",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q725322",
+   "name": "August Rei",
+   "start": 1928,
+   "end": 1929,
+   "image": "August Rej.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/August%20Rej.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q126704",
+   "name": "Kaarel Eenpalu",
+   "start": 1932,
+   "end": 1932,
+   "image": "Karl Einbund (1-E-2932).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Einbund%20(1-E-2932).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q299114",
+   "name": "Konstantin Päts",
+   "start": 1933,
+   "end": 1934,
+   "image": "Konstantin Päts.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Konstantin%20P%C3%A4ts.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q887277",
+   "name": "Jüri Uluots",
+   "start": 1939,
+   "end": 1940,
+   "image": "Jüri Uluots.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/J%C3%BCri%20Uluots.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Heinrich Riedel",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q4242571",
+   "name": "Hans Kruus",
+   "start": 1940,
+   "end": 1940,
+   "image": "Hans Kruus, 1920s.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Kruus%2C%201920s.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Heinrich Riedel",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q1375532",
+   "name": "Otto Tief",
+   "start": 1944,
+   "end": 1953,
+   "image": "Otto Tief.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Otto%20Tief.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q888932",
+   "name": "Aleksander Warma",
+   "start": 1963,
+   "end": 1970,
+   "image": "Warma ja rouva.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Warma%20ja%20rouva.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  }
+ ],
+ "blurbKey": "Q191__estonia"
+}

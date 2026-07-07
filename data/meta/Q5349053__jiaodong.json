@@ -1,0 +1,50 @@
+{
+ "qid": "Q5349053",
+ "names": [
+  "Jiaodong"
+ ],
+ "title": "Jiaodong",
+ "variantOf": "Q5349053",
+ "endonym": {
+  "native": "膠東",
+  "roman": "Jiāodōng"
+ },
+ "capsule": "Jiaodong (膠東) was one of the Eighteen Kingdoms Xiang Yu created in 206 BCE by splitting the old state of Qi, granted to the Qi prince Tian Fu with its seat at Jimo in eastern Shandong. Tian Fu's kinsman Tian Rong, angered at the three-way division of Qi, rebelled in 205 BCE, killed Tian Fu, and reunited Jiaodong with Qi and Jibei under his own control. Jiaodong's separate existence thus lasted barely a year.",
+ "citations": [
+  {
+   "label": "Eighteen Kingdoms - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Eighteen_Kingdoms"
+  },
+  {
+   "label": "Tian Rong - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tian_Rong"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The political divisions are documented in Sima Qian's Shiji and Ban Gu's Hanshu, but the precise territories assigned to each king are reconstructed from textual sources alone; archaeological demarcation of boundaries is largely impossible. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Eighteen Kingdoms",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Xiang Yu, Hegemon-King (overlord of the Eighteen Kingdoms)",
+   "nativeName": "西楚霸王項羽",
+   "roman": "Xī Chǔ Bàwáng Xiàng Yǔ",
+   "start": -206,
+   "end": -203,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q5349053__jiaodong"
+}

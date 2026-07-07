@@ -1,0 +1,271 @@
+{
+ "qid": "Q1143524",
+ "names": [
+  "Qi"
+ ],
+ "title": "Qi",
+ "variantOf": "Q1143524",
+ "endonym": {
+  "native": "齊",
+  "roman": "Qí"
+ },
+ "capsule": "The state of Qi (齊) was a major Zhou fief on the Shandong Peninsula, traditionally founded around 1046 BCE when King Wu of Zhou enfeoffed the strategist Jiang Ziya (Duke Tai), with its long-lived capital at Linzi. Duke Huan (r. 685–643 BCE) made Qi the first hegemon of the Spring and Autumn period with the aid of his minister Guan Zhong, and in 386 BCE the ducal throne passed from the Jiang lineage to the Tian (Chen) clan, who ruled Qi as one of the seven major Warring States. Qi was the last independent state absorbed by Qin's unification wars, falling in 221 BCE.",
+ "citations": [
+  {
+   "label": "Qi (state) – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Qi_(state)"
+  },
+  {
+   "label": "Guan Zhong – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Guan_Zhong"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Core territorial extent is reasonably reconstructed from Shiji and Zhanguoce, but precise annual boundaries during the Warring States period involve scholarly interpolation. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Qi (state)",
+ "rulers": [
+  {
+   "name": "Duke Zhuang I",
+   "native": "齊莊公 (呂購)",
+   "roman": "Gòu",
+   "start": -794,
+   "end": -731,
+   "nativeName": "齊莊公 (呂購)"
+  },
+  {
+   "name": "Duke Xi",
+   "native": "齊僖公 (呂祿甫)",
+   "roman": "Lùfǔ",
+   "start": -730,
+   "end": -698,
+   "nativeName": "齊僖公 (呂祿甫)"
+  },
+  {
+   "name": "Duke Xiang",
+   "native": "齊襄公 (呂諸兒)",
+   "roman": "Zhū'ér",
+   "start": -697,
+   "end": -686,
+   "nativeName": "齊襄公 (呂諸兒)"
+  },
+  {
+   "name": "Wuzhi",
+   "native": "無知",
+   "roman": "Wúzhī",
+   "start": -686,
+   "end": -686,
+   "nativeName": "無知"
+  },
+  {
+   "name": "Duke Huan",
+   "native": "齊桓公 (呂小白)",
+   "roman": "Xiǎobái",
+   "start": -685,
+   "end": -643,
+   "nativeName": "齊桓公 (呂小白)"
+  },
+  {
+   "name": "Wukui",
+   "native": "無虧",
+   "roman": "Wúkuī",
+   "start": -643,
+   "end": -643,
+   "nativeName": "無虧"
+  },
+  {
+   "name": "Duke Xiao",
+   "native": "齊孝公 (呂昭)",
+   "roman": "Zhāo",
+   "start": -642,
+   "end": -633,
+   "nativeName": "齊孝公 (呂昭)"
+  },
+  {
+   "name": "Duke Zhao",
+   "native": "齊昭公 (呂潘)",
+   "roman": "Pān",
+   "start": -632,
+   "end": -613,
+   "nativeName": "齊昭公 (呂潘)"
+  },
+  {
+   "name": "She",
+   "native": "舍",
+   "roman": "Shě",
+   "start": -613,
+   "end": -613,
+   "nativeName": "舍"
+  },
+  {
+   "name": "Duke Yi",
+   "native": "齊懿公 (呂商人)",
+   "roman": "Shāngrén",
+   "start": -612,
+   "end": -609,
+   "nativeName": "齊懿公 (呂商人)"
+  },
+  {
+   "name": "Duke Hui",
+   "native": "齊惠公 (呂元)",
+   "roman": "Yuán",
+   "start": -608,
+   "end": -599,
+   "nativeName": "齊惠公 (呂元)"
+  },
+  {
+   "name": "Duke Qing",
+   "native": "齊頃公 (呂無野)",
+   "roman": "Wúyě",
+   "start": -598,
+   "end": -582,
+   "nativeName": "齊頃公 (呂無野)"
+  },
+  {
+   "name": "Duke Ling",
+   "native": "齊靈公 (呂環)",
+   "roman": "Huán",
+   "start": -581,
+   "end": -554,
+   "nativeName": "齊靈公 (呂環)"
+  },
+  {
+   "name": "Duke Zhuang II",
+   "native": "齊後莊公 (呂光)",
+   "roman": "Guāng",
+   "start": -553,
+   "end": -548,
+   "nativeName": "齊後莊公 (呂光)"
+  },
+  {
+   "name": "Duke Jing",
+   "native": "齊景公 (呂杵臼)",
+   "roman": "Chǔjiù",
+   "start": -547,
+   "end": -490,
+   "nativeName": "齊景公 (呂杵臼)"
+  },
+  {
+   "name": "An Ruzi",
+   "native": "安孺子 (呂荼)",
+   "roman": "Tú",
+   "start": -489,
+   "end": -489,
+   "nativeName": "安孺子 (呂荼)"
+  },
+  {
+   "name": "Duke Dao",
+   "native": "齊悼公 (呂陽生)",
+   "roman": "Yángshēng",
+   "start": -488,
+   "end": -485,
+   "nativeName": "齊悼公 (呂陽生)"
+  },
+  {
+   "name": "Duke Jian",
+   "native": "齊簡公 (呂壬)",
+   "roman": "Rén",
+   "start": -484,
+   "end": -481,
+   "nativeName": "齊簡公 (呂壬)"
+  },
+  {
+   "name": "Duke Ping",
+   "native": "齊平公 (呂驁)",
+   "roman": "Áo",
+   "start": -480,
+   "end": -456,
+   "nativeName": "齊平公 (呂驁)"
+  },
+  {
+   "name": "Duke Xuan",
+   "native": "齊宣公 (呂積)",
+   "roman": "Jī",
+   "start": -455,
+   "end": -405,
+   "nativeName": "齊宣公 (呂積)"
+  },
+  {
+   "name": "Duke Kang",
+   "native": "齊康公 (呂貸)",
+   "roman": "Dài",
+   "start": -404,
+   "end": -386,
+   "nativeName": "齊康公 (呂貸)"
+  },
+  {
+   "name": "Tian He",
+   "native": "田和",
+   "roman": "Tián Hé",
+   "start": -404,
+   "end": -384,
+   "nativeName": "田和"
+  },
+  {
+   "name": "Tian Yan",
+   "native": "田剡",
+   "roman": "Tián Yǎn",
+   "start": -383,
+   "end": -375,
+   "nativeName": "田剡"
+  },
+  {
+   "name": "Duke Huan (Tian)",
+   "native": "齊桓公 (田午)",
+   "roman": "Tián Wǔ",
+   "start": -374,
+   "end": -357,
+   "nativeName": "齊桓公 (田午)"
+  },
+  {
+   "name": "King Wei",
+   "native": "齊威王 (田因齊)",
+   "roman": "Tián Yīnqí",
+   "start": -356,
+   "end": -320,
+   "nativeName": "齊威王 (田因齊)"
+  },
+  {
+   "name": "King Xuan",
+   "native": "齊宣王 (田辟彊)",
+   "roman": "Tián Pìjiāng",
+   "start": -319,
+   "end": -301,
+   "nativeName": "齊宣王 (田辟彊)"
+  },
+  {
+   "name": "King Min",
+   "native": "齊湣王 (田地)",
+   "roman": "Tián Dì",
+   "start": -300,
+   "end": -284,
+   "nativeName": "齊湣王 (田地)"
+  },
+  {
+   "name": "King Xiang",
+   "native": "齊襄王 (田法章)",
+   "roman": "Tián Fǎzhāng",
+   "start": -283,
+   "end": -265,
+   "nativeName": "齊襄王 (田法章)"
+  },
+  {
+   "name": "Tian Jian",
+   "native": "田建",
+   "roman": "Tián Jiàn",
+   "start": -264,
+   "end": -221,
+   "nativeName": "田建"
+  }
+ ],
+ "blurbKey": "Q1143524__qi"
+}

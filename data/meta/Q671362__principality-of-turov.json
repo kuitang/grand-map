@@ -1,0 +1,51 @@
+{
+ "qid": "Q671362",
+ "names": [
+  "Principality of Turov"
+ ],
+ "title": "Principality of Turov",
+ "variantOf": "Q671362",
+ "endonym": {
+  "native": "Тураўскае княства",
+  "roman": "Turauskaye kniastva"
+ },
+ "capsule": "In this same early-14th-century window, Turov itself — the older of the two Pripyat river towns, once the senior seat from which princes like Svyatopolk II had ruled — persisted as its own diminished appanage separate from Pinsk, held by a junior branch of the descendants of Yury Yaroslavich. Long overshadowed by Pinsk's growing prominence and pressured from the west by the expanding Grand Duchy of Lithuania under Gediminas, Turov's Rurikid line lost independent standing in the 1320s as Lithuania absorbed the Turov-Pinsk lands. The principality's incorporation ended a Rurikid princely presence at Turov stretching back to the 10th century.",
+ "citations": [
+  {
+   "label": "Wikipedia: Principality of Turov",
+   "url": "https://en.wikipedia.org/wiki/Principality_of_Turov"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The core territory around Turov and Pinsk is well established, but the principality's exact boundaries and the precise extent of sub-principality control are not precisely mapped in surviving sources. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Principality of Turov",
+ "rulers": [
+  {
+   "name": "Dmytro Yuriyovych, Prince of Turov",
+   "native": "Дмитро Юрійович",
+   "roman": "Dmytro Yuriyovych",
+   "start": 1292,
+   "end": 1320,
+   "nativeName": "Дмитро Юрійович"
+  },
+  {
+   "name": "Danylo Dmytrovych, Prince of Turov",
+   "native": "Данило Дмитрович",
+   "roman": "Danylo Dmytrovych",
+   "start": 1320,
+   "end": 1366,
+   "nativeName": "Данило Дмитрович"
+  }
+ ],
+ "blurbKey": "Q671362__principality-of-turov"
+}

@@ -1,0 +1,297 @@
+{
+ "qid": "Q221",
+ "names": [
+  "North Macedonia"
+ ],
+ "title": "North Macedonia",
+ "variantOf": "Q221",
+ "endonym": {
+  "native": "Република Северна Македонија",
+  "roman": "Republika Severna Makedonija"
+ },
+ "capsule": "Under the Prespa Agreement, which entered into force on 12 February 2019, the country constitutionally renamed itself the Republic of North Macedonia, replacing the 'former Yugoslav Republic of Macedonia' reference under which it had operated since 1993. The renaming cleared the way for NATO membership, achieved on 27 March 2020 as the alliance's 30th member, while governments under Prime Ministers Zoran Zaev, Dimitar Kovacevski, and later Hristijan Mickoski pursued EU accession negotiations through 2025.",
+ "citations": [
+  {
+   "label": "Britannica: Prespa Agreement",
+   "url": "https://www.britannica.com/event/Prespa-Agreement"
+  },
+  {
+   "label": "Britannica: North Macedonia",
+   "url": "https://www.britannica.com/place/North-Macedonia"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Borders are internationally recognized with high cartographic precision; the territorial record is unambiguous for this period. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "North Macedonia",
+ "rulers": [
+  {
+   "qid": "Q153381",
+   "name": "Kiro Gligorov",
+   "start": 1991,
+   "end": 1999,
+   "image": "Киро Глигоров 03 (28-01-1993).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B8%D1%80%D0%BE%20%D0%93%D0%BB%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%2003%20(28-01-1993).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 4.0",
+    "artist": "European Commission",
+    "attributionRequired": true
+   },
+   "nativeName": "Киро Глигоров",
+   "nativeLang": "mk"
+  },
+  {
+   "qid": "Q956519",
+   "name": "Ljubčo Georgievski",
+   "start": 1998,
+   "end": 2002,
+   "image": "Ljubčo Georgievski.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ljub%C4%8Do%20Georgievski.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 4.0",
+    "artist": "European Commission",
+    "attributionRequired": true
+   },
+   "nativeName": "Љупчо Георгиевски",
+   "nativeLang": "mk"
+  },
+  {
+   "qid": "Q237782",
+   "name": "Boris Trajkovski",
+   "start": 1999,
+   "end": 2004,
+   "image": "Борис Трайковский (07-03-2002) (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%91%D0%BE%D1%80%D0%B8%D1%81%20%D0%A2%D1%80%D0%B0%D0%B9%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20(07-03-2002)%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 4.0",
+    "artist": "Christian Lambiotte / European Communities",
+    "attributionRequired": true
+   },
+   "nativeName": "Борис Трајковски",
+   "nativeLang": "mk"
+  },
+  {
+   "qid": "Q157111",
+   "name": "Branko Crvenkovski",
+   "start": 2004,
+   "end": 2009,
+   "image": "Branko Crvenkovski (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Branko%20Crvenkovski%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 4.0",
+    "artist": "European Commission",
+    "attributionRequired": true
+   },
+   "nativeName": "Бранко Црвенковски",
+   "nativeLang": "mk"
+  },
+  {
+   "qid": "Q1363047",
+   "name": "Ljupčo Jordanovski",
+   "start": 2004,
+   "end": 2004,
+   "image": null,
+   "nativeName": "Љупчо Јордановски",
+   "nativeLang": "mk"
+  },
+  {
+   "qid": "Q162983",
+   "name": "Radmila Šekerinska",
+   "start": 2004,
+   "end": 2004,
+   "image": "Radmila Shekerinska official portrait 2020 (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Radmila%20Shekerinska%20official%20portrait%202020%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Government of North Macedonia",
+    "attributionRequired": true
+   },
+   "nativeName": "Радмила Шекеринска",
+   "nativeLang": "mk"
+  },
+  {
+   "qid": "Q965523",
+   "name": "Hari Kostov",
+   "start": 2004,
+   "end": 2004,
+   "image": null,
+   "nativeName": "Хари Костов",
+   "nativeLang": "mk"
+  },
+  {
+   "qid": "Q2529738",
+   "name": "Vlado Bučkovski",
+   "start": 2004,
+   "end": 2006,
+   "image": "Vlado Bučkovski 2005.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vlado%20Bu%C4%8Dkovski%202005.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Helene C. Stikkel",
+    "attributionRequired": false
+   },
+   "nativeName": "Владо Бучковски",
+   "nativeLang": "mk"
+  },
+  {
+   "qid": "Q57766",
+   "name": "Nikola Gruevski",
+   "start": 2006,
+   "end": 2016,
+   "image": "C5E 0815 (16864370215) (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/C5E%200815%20(16864370215)%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 2.0",
+    "artist": "European People's Party",
+    "attributionRequired": true
+   },
+   "nativeName": "Никола Груевски",
+   "nativeLang": "mk"
+  },
+  {
+   "qid": "Q57436",
+   "name": "Gjorge Ivanov",
+   "start": 2009,
+   "end": 2019,
+   "image": "Gjorge Ivanov (2017-05-24) (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gjorge%20Ivanov%20(2017-05-24)%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 4.0",
+    "artist": "Пресс-служба Президента Российской Федерации",
+    "attributionRequired": true
+   },
+   "nativeName": "Ѓорге Иванов",
+   "nativeLang": "mk"
+  },
+  {
+   "qid": "Q22077723",
+   "name": "Emil Dimitriev",
+   "start": 2016,
+   "end": 2017,
+   "image": "Emil Dimitriev January 2016 (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Emil%20Dimitriev%20January%202016%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Georgi Licovski/EPA/Government of North Macedonia",
+    "attributionRequired": true
+   },
+   "nativeName": "Емил Димитриев",
+   "nativeLang": "mk"
+  },
+  {
+   "qid": "Q15967423",
+   "name": "Stevo Pendarovski",
+   "start": 2019,
+   "end": 2024,
+   "image": "Stevo Pendarovski (29-10-2023).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Stevo%20Pendarovski%20(29-10-2023).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 4.0",
+    "artist": "Christophe Licoppe / European Commission",
+    "attributionRequired": true
+   },
+   "nativeName": "Стево Пендаровски",
+   "nativeLang": "mk"
+  },
+  {
+   "qid": "Q220579",
+   "name": "Zoran Zaev",
+   "start": 2020,
+   "end": 2022,
+   "image": "Zoran Zaev official portrait 2020 (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Zoran%20Zaev%20official%20portrait%202020%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Government of North Macedonia",
+    "attributionRequired": true
+   },
+   "nativeName": "Зоран Заев",
+   "nativeLang": "mk"
+  },
+  {
+   "qid": "Q21467814",
+   "name": "Oliver Spasovski",
+   "start": 2020,
+   "end": 2020,
+   "image": "Oliver Spasovski official portrait 2020 (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Oliver%20Spasovski%20official%20portrait%202020%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Government of North Macedonia",
+    "attributionRequired": true
+   },
+   "nativeName": "Оливер Спасовски",
+   "nativeLang": "mk"
+  },
+  {
+   "qid": "Q110288715",
+   "name": "Dimitar Kovačevski",
+   "start": 2022,
+   "end": 2024,
+   "image": "Obisk predsednika vlade Severne Makedonija Dimitarja Kovačevskega - 3. 4. 2023 (52789983136) (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Obisk%20predsednika%20vlade%20Severne%20Makedonija%20Dimitarja%20Kova%C4%8Devskega%20-%203.%204.%202023%20(52789983136)%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Vlada Republike Slovenije from Ljubljana, Slovenia",
+    "attributionRequired": false
+   },
+   "nativeName": "Димитар Ковачевски",
+   "nativeLang": "mk"
+  },
+  {
+   "qid": "Q12277168",
+   "name": "Gordana Siljanovska-Davkova",
+   "start": 2024,
+   "end": null,
+   "image": "Gordana Siljanovska-Davkova (2025-05-15).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gordana%20Siljanovska-Davkova%20(2025-05-15).jpg?width=320",
+   "imageLicense": {
+    "license": "Attribution",
+    "artist": "European Union",
+    "attributionRequired": false
+   },
+   "nativeName": "Гордана Силјановска-Давкова",
+   "nativeLang": "mk"
+  },
+  {
+   "qid": "Q5860953",
+   "name": "Talat Xhaferi",
+   "start": 2024,
+   "end": 2024,
+   "image": "Këshillit për koordinimin e aktiviteteve të NATO-s (07.02.2024) - 53514793843 (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/K%C3%ABshillit%20p%C3%ABr%20koordinimin%20e%20aktiviteteve%20t%C3%AB%20NATO-s%20(07.02.2024)%20-%2053514793843%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Влада на РСМ",
+    "attributionRequired": false
+   },
+   "nativeName": "Талат Џафери",
+   "nativeLang": "mk"
+  },
+  {
+   "qid": "Q46675558",
+   "name": "Hristijan Mickoski",
+   "start": 2024,
+   "end": null,
+   "image": "Hristijan Mickoski 2024 (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hristijan%20Mickoski%202024%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Влада на Република Северна Македонија",
+    "attributionRequired": false
+   },
+   "nativeName": "Христијан Мицкоски",
+   "nativeLang": "mk"
+  }
+ ],
+ "blurbKey": "Q221__north-macedonia"
+}

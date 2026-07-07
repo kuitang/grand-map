@@ -1,0 +1,124 @@
+{
+ "qid": "Q12557",
+ "names": [
+  "Mongol Empire"
+ ],
+ "title": "Mongol Empire",
+ "variantOf": "Q12557",
+ "endonym": {
+  "native": "ᠶᠡᠬᠡ ᠮᠣᠩᠭᠣᠯ ᠤᠯᠤᠰ",
+  "roman": "Yeke Mongghol Ulus"
+ },
+ "capsule": "United under Chinggis Khan's proclamation as universal khan at a 1206 kurultai, the Mongol Empire (Yeke Mongghol Ulus, the 'Great Mongol State') expanded within two generations into history's largest contiguous land empire, conquering the Khwarazmian Empire, the Jin and Western Xia states, Rus', and much of the Islamic Middle East under Chinggis's successors Ögedei, Güyük and Möngke. Möngke's death in 1259 triggered the Toluid Civil War between his brothers Kublai and Ariq Böke, after which the empire fractured into autonomous khanates — the Yuan dynasty in China, the Ilkhanate in Persia, the Chagatai Khanate in Central Asia, and the Golden Horde in the Pontic-Caspian steppe. By Kublai Khan's death in 1294, the once-unified empire persisted only as a loose, largely ceremonial confederation of these separate Chinggisid states.",
+ "citations": [
+  {
+   "label": "Britannica: Mongol empire",
+   "url": "https://www.britannica.com/place/Mongol-empire"
+  },
+  {
+   "label": "Wikipedia: Mongol Empire",
+   "url": "https://en.wikipedia.org/wiki/Mongol_Empire"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases (Times Atlas of World History; Kinder & Hilgemann; Shepherd 1926) at ~0.07° resolution. Steppe empires governed peoples more than lines; outer limits are campaign reaches, not borders. Confidence: low at the margins, by the nature of the polity. Capsule researched for this polity/era specifically (confidence: high).",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Genghis Khan (Temüjin)",
+   "nativeName": "ᠴᠢᠩᠭᠢᠰ ᠬᠠᠭᠠᠨ",
+   "roman": "Činggis Qaɣan",
+   "start": 1206,
+   "end": 1227,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Tolui (regent)",
+   "nativeName": "ᠲᠥᠯᠦᠢ",
+   "roman": "Tolui",
+   "start": 1227,
+   "end": 1229,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": "Q7519",
+   "name": "Ögedei Khan",
+   "nativeName": "ᠥᠭᠡᠳᠡᠢ ᠬᠠᠭᠠᠨ",
+   "roman": "Ögedei Qaɣan",
+   "start": 1229,
+   "end": 1241,
+   "image": "YuanEmperorAlbumOgedeiPortrait.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/YuanEmperorAlbumOgedeiPortrait.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "AnonymousUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": null,
+   "name": "Töregene Khatun (regent)",
+   "nativeName": "ᠲᠥᠷᠡᠭᠡᠨᠡ",
+   "roman": "Töregene Qatun",
+   "start": 1241,
+   "end": 1246,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": "Q7520",
+   "name": "Güyük Khan",
+   "nativeName": "ᠭᠦᠶᠦᠭ ᠬᠠᠭᠠᠨ",
+   "roman": "Güyüg Qaɣan",
+   "start": 1246,
+   "end": 1248,
+   "image": "Guyuk khan from Persian miniature.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Guyuk%20khan%20from%20Persian%20miniature.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Abdullâh Sultân (atelier). Shîrâz",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": null,
+   "name": "Oghul Qaimish (regent)",
+   "nativeName": "ᠣᠭᠤᠯ ᠬᠠᠶᠢᠮᠢᠰᠢ",
+   "roman": "Oɣul Qaimiš",
+   "start": 1248,
+   "end": 1251,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Möngke Khan",
+   "nativeName": "ᠮᠥᠩᠬᠡ ᠬᠠᠭᠠᠨ",
+   "roman": "Möngke Qaɣan",
+   "start": 1251,
+   "end": 1259,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Kublai Khan",
+   "nativeName": "ᠬᠤᠪᠢᠯᠠᠢ ᠬᠠᠭᠠᠨ",
+   "roman": "Qubilai Qaɣan",
+   "start": 1260,
+   "end": 1294,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q12557__mongol-empire"
+}

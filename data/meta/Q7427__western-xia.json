@@ -1,0 +1,135 @@
+{
+ "qid": "Q7427",
+ "names": [
+  "Western Xia"
+ ],
+ "title": "Western Xia",
+ "variantOf": "Q7427",
+ "endonym": {
+  "native": "白高大夏國",
+  "roman": "Báigāo Dàxià Guó"
+ },
+ "capsule": "The Tangut state that became Western Xia had its roots in 982, when Li Jiqian broke from Song allegiance in the Ordos region and began building an autonomous base; his son Li Deming (r. 1004-1032) consolidated Tangut power and extended it westward. In 1038 Li Deming's son Li Yuanhao (Emperor Jingzong) formally declared the Tangut empire, adopting imperial ritual, a native Tangut script, and the capital Xingqing (Yinchuan), and fought Song and Liao to a negotiated peace in 1044. Ten emperors in all ruled Western Xia as a major regional power contesting the Song, Liao, and Jin, until Genghis Khan's Mongols besieged and annihilated the state in 1227.",
+ "citations": [
+  {
+   "label": "Wikipedia, \"Western Xia\"",
+   "url": "https://en.wikipedia.org/wiki/Western_Xia"
+  },
+  {
+   "label": "Britannica, \"Li Yuanhao\"",
+   "url": "https://www.britannica.com/biography/Li-Yuanhao"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Core territory along the Hexi Corridor is well-defined by Chinese dynastic cartography and administrative records; nomadic steppe boundaries to the north and northwest are approximate and inferred from military campaign accounts. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Xia",
+ "rulers": [
+  {
+   "name": "Li Jiqian",
+   "native": "李繼遷",
+   "roman": "Lǐ Jìqiān",
+   "start": 982,
+   "end": 1004,
+   "nativeName": "李繼遷"
+  },
+  {
+   "name": "Li Deming",
+   "native": "李德明",
+   "roman": "Lǐ Démíng",
+   "start": 1004,
+   "end": 1032,
+   "nativeName": "李德明"
+  },
+  {
+   "name": "Emperor Jingzong (Li Yuanhao)",
+   "native": "李元昊",
+   "roman": "Lǐ Yuánhào",
+   "start": 1038,
+   "end": 1048,
+   "nativeName": "李元昊"
+  },
+  {
+   "name": "Emperor Yizong (Li Liangzuo)",
+   "native": "李諒祚",
+   "roman": "Lǐ Liàngzuò",
+   "start": 1048,
+   "end": 1067,
+   "nativeName": "李諒祚"
+  },
+  {
+   "name": "Emperor Huizong (Li Bingchang)",
+   "native": "李秉常",
+   "roman": "Lǐ Bǐngcháng",
+   "start": 1067,
+   "end": 1086,
+   "nativeName": "李秉常"
+  },
+  {
+   "name": "Emperor Chongzong (Li Qianshun)",
+   "native": "李乾順",
+   "roman": "Lǐ Qiánshùn",
+   "start": 1086,
+   "end": 1139,
+   "nativeName": "李乾順"
+  },
+  {
+   "name": "Emperor Renzong (Li Renxiao)",
+   "native": "李仁孝",
+   "roman": "Lǐ Rénxiào",
+   "start": 1139,
+   "end": 1193,
+   "nativeName": "李仁孝"
+  },
+  {
+   "name": "Emperor Huanzong (Li Chunyou)",
+   "native": "李純祐",
+   "roman": "Lǐ Chúnyòu",
+   "start": 1193,
+   "end": 1206,
+   "nativeName": "李純祐"
+  },
+  {
+   "name": "Emperor Xiangzong (Li Anquan)",
+   "native": "李安全",
+   "roman": "Lǐ Ānquán",
+   "start": 1206,
+   "end": 1211,
+   "nativeName": "李安全"
+  },
+  {
+   "name": "Emperor Shenzong (Li Zunxu)",
+   "native": "李遵頊",
+   "roman": "Lǐ Zūnxū",
+   "start": 1211,
+   "end": 1223,
+   "nativeName": "李遵頊"
+  },
+  {
+   "name": "Emperor Xianzong (Li Dewang)",
+   "native": "李德旺",
+   "roman": "Lǐ Déwàng",
+   "start": 1223,
+   "end": 1226,
+   "nativeName": "李德旺"
+  },
+  {
+   "name": "Emperor Mo / Modi (Li Xian)",
+   "native": "李睍",
+   "roman": "Lǐ Xiàn",
+   "start": 1226,
+   "end": 1227,
+   "nativeName": "李睍"
+  }
+ ],
+ "blurbKey": "Q7427__western-xia"
+}

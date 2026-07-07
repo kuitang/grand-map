@@ -1,0 +1,167 @@
+{
+ "qid": "Q7313",
+ "names": [
+  "Yuan Dynasty"
+ ],
+ "title": "Yuan Dynasty",
+ "variantOf": "Q7313",
+ "endonym": {
+  "native": "大元",
+  "roman": "Dà Yuán"
+ },
+ "capsule": "This entry's 1294–1375 window covers the Mongol Yuan dynasty of China after the death of its founder Kublai Khan, beginning with his grandson and successor Temür Khan (Emperor Chengzong, r. 1294–1307) and running through the succession crises, court factionalism, and Red Turban Rebellion of the 1350s–60s that culminated in the fall of Yuan Khanbaliq to Ming forces in 1368. The last Yuan-titled emperor, Toghon Temür (Emperor Huizong), fled north to Mongolia, where the rump Yuan court (later called the Northern Yuan) persisted into the following years, within the tail of this span. This is the historical Mongol-Chinese Yuan dynasty proper, distinct from the ancient Ferghana kingdom Dayuan and the 20th-century Bogd Khanate/Great Mongol State that share this entry's Wikidata identifier.",
+ "citations": [
+  {
+   "label": "Yuan dynasty - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yuan_dynasty"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Yuan territorial extent over China proper is well-documented through official administrative records (hubu registers); control of the northern steppe marches and Yunnan is attested by provincial records, but exact outer frontier lines in Southeast Asia are conjectural, based on tributary relationships rather than administered boundaries. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Yuan dynasty",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Kublai Khan (Emperor Shizu)",
+   "nativeName": "忽必烈",
+   "roman": "Hūbìliè",
+   "start": 1260,
+   "end": 1294,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Temür Khan (Emperor Chengzong)",
+   "nativeName": "鐵穆耳",
+   "roman": "Tiěmù'ěr",
+   "start": 1294,
+   "end": 1307,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Külüg Khan (Emperor Wuzong)",
+   "nativeName": "海山",
+   "roman": "Hǎishān",
+   "start": 1307,
+   "end": 1311,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ayurbarwada Buyantu Khan (Emperor Renzong)",
+   "nativeName": "愛育黎拔力八達",
+   "roman": "Àiyùlíbálìbādá",
+   "start": 1311,
+   "end": 1320,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Gegeen Khan (Emperor Yingzong)",
+   "nativeName": "碩德八剌",
+   "roman": "Shuòdébālá",
+   "start": 1320,
+   "end": 1323,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Yesün Temür (Emperor Taiding)",
+   "nativeName": "也孫鐵木兒",
+   "roman": "Yěsūntiěmù'ěr",
+   "start": 1323,
+   "end": 1328,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ragibagh Khan (Emperor Tianshun)",
+   "nativeName": "阿速吉八",
+   "roman": "Āsùjíbā",
+   "start": 1328,
+   "end": 1328,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Jayaatu Khan Tugh Temür (Emperor Wenzong)",
+   "nativeName": "圖帖睦爾",
+   "roman": "Tútiēmù'ěr",
+   "start": 1328,
+   "end": 1329,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Khutughtu Khan Kusala (Emperor Mingzong)",
+   "nativeName": "和世㻋",
+   "roman": "Héshìlá",
+   "start": 1329,
+   "end": 1329,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Jayaatu Khan Tugh Temür (Emperor Wenzong, restored)",
+   "nativeName": "圖帖睦爾",
+   "roman": "Tútiēmù'ěr",
+   "start": 1329,
+   "end": 1332,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Rinchinbal Khan (Emperor Ningzong)",
+   "nativeName": "懿璘質班",
+   "roman": "Yìlínzhìbān",
+   "start": 1332,
+   "end": 1332,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Toghon Temür (Emperor Huizong/Shundi)",
+   "nativeName": "妥懽帖睦爾",
+   "roman": "Tuǒhuāntiēmù'ěr",
+   "start": 1333,
+   "end": 1370,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q7313__yuan-dynasty"
+}

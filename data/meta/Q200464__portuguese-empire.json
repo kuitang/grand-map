@@ -1,0 +1,193 @@
+{
+ "qid": "Q200464",
+ "names": [
+  "Portuguese Empire"
+ ],
+ "title": "Portuguese Empire",
+ "variantOf": "Q200464",
+ "endonym": {
+  "native": "Império Português",
+  "roman": "Império Português"
+ },
+ "capsule": "Between 1502 and 1824 the Portuguese Empire (Império Português) built and then began to lose the first global seaborne trading empire, using fortified feitorias and a licensing (cartaz) system imposed from 1502 to dominate Indian Ocean commerce. Viceroys Francisco de Almeida (1505-09) and Afonso de Albuquerque (1509-15) captured Goa (1510) and Malacca (1511), founding the Estado da India, while parallel footholds in Brazil, launched from 1500 and organized as captaincies from the 1530s, grew into a major sugar- and later gold-producing colony. The empire, at its territorial peak around 1820 encompassing roughly 5.5 million square kilometers, fractured when Pedro, son of King John VI, declared Brazilian independence on 7 September 1822, a rupture that reshaped Portugal's remaining dominion by 1824.",
+ "citations": [
+  {
+   "label": "History of Portugal - Britannica",
+   "url": "https://www.britannica.com/topic/history-of-Portugal"
+  },
+  {
+   "label": "Portuguese Empire - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Portuguese_Empire"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Coastal trading-post territories are well documented through the Casa da India's administrative records and cartography; inland territorial claims in Africa and Brazil were largely notional before the 19th century; moderate confidence for Brazil's colonial interior, high confidence for coastal enclaves. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Portuguese Empire",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Manuel I",
+   "nativeName": "Manuel I",
+   "roman": "Manuel I",
+   "start": 1495,
+   "end": 1521,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "John III",
+   "nativeName": "João III",
+   "roman": "João III",
+   "start": 1521,
+   "end": 1557,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Sebastian I",
+   "nativeName": "Sebastião I",
+   "roman": "Sebastião I",
+   "start": 1557,
+   "end": 1578,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Henry I",
+   "nativeName": "Henrique I",
+   "roman": "Henrique I",
+   "start": 1578,
+   "end": 1580,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Philip I (Philip II of Spain)",
+   "nativeName": "Filipe I",
+   "roman": "Filipe I",
+   "start": 1580,
+   "end": 1598,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Philip II (Philip III of Spain)",
+   "nativeName": "Filipe II",
+   "roman": "Filipe II",
+   "start": 1598,
+   "end": 1621,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Philip III (Philip IV of Spain)",
+   "nativeName": "Filipe III",
+   "roman": "Filipe III",
+   "start": 1621,
+   "end": 1640,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "John IV",
+   "nativeName": "João IV",
+   "roman": "João IV",
+   "start": 1640,
+   "end": 1656,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Afonso VI",
+   "nativeName": "Afonso VI",
+   "roman": "Afonso VI",
+   "start": 1656,
+   "end": 1683,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Peter II",
+   "nativeName": "Pedro II",
+   "roman": "Pedro II",
+   "start": 1683,
+   "end": 1706,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "John V",
+   "nativeName": "João V",
+   "roman": "João V",
+   "start": 1706,
+   "end": 1750,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Joseph I",
+   "nativeName": "José I",
+   "roman": "José I",
+   "start": 1750,
+   "end": 1777,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Maria I",
+   "nativeName": "Maria I",
+   "roman": "Maria I",
+   "start": 1777,
+   "end": 1816,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "John VI",
+   "nativeName": "João VI",
+   "roman": "João VI",
+   "start": 1816,
+   "end": 1826,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q200464__portuguese-empire"
+}

@@ -1,0 +1,149 @@
+{
+ "qid": "Q1936158",
+ "names": [
+  "Yue"
+ ],
+ "title": "Yue",
+ "variantOf": "Q1936158",
+ "endonym": {
+  "native": "越",
+  "roman": "Yuè"
+ },
+ "capsule": "Yue (越) was a state on China's southeastern seaboard that reached its height under King Goujian, who endured captivity under King Fuchai of Wu before destroying Wu in 473 BC and briefly dominating the eastern coast. Through the following Warring States period Yue remained a significant power contesting Chu and Qi for supremacy in the lower Yangzi region. Its royal house collapsed in 333 BC when King Wuqiang was lured into an ambush and killed by Chu, after which Yue fragmented into petty successor lordships along the coast — distinct from the later refugee kingdom of Minyue that fleeing Yue princes founded in Fujian.",
+ "citations": [
+  {
+   "label": "Yue (state) - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yue_(state)"
+  },
+  {
+   "label": "Goujian - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Goujian"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Minyue's territorial extent is poorly attested; the Shiji and Hanshu provide political narrative but no administrative boundary data, and the dataset geometry is a scholarly reconstruction based on the distribution of archaeological Yue culture sites and the known Han commandery system that replaced it. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Yue (state)",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Xialu",
+   "nativeName": "夕盧",
+   "roman": "Xīlú",
+   "start": -538,
+   "end": -496,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Yunchang",
+   "nativeName": "允常",
+   "roman": "Yǔncháng",
+   "start": -496,
+   "end": -496,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Goujian",
+   "nativeName": "勾踐",
+   "roman": "Gōujiàn",
+   "start": -496,
+   "end": -465,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Lüye (Shu Yu)",
+   "nativeName": "鹿郢",
+   "roman": "Lùyǐng",
+   "start": -465,
+   "end": -459,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Bulou",
+   "nativeName": "不壽",
+   "roman": "Bùshòu",
+   "start": -459,
+   "end": -449,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Weng",
+   "nativeName": "翁",
+   "roman": "Wēng",
+   "start": -449,
+   "end": -412,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Yi (Zhu Gou)",
+   "nativeName": "翳",
+   "roman": "Yì",
+   "start": -412,
+   "end": -375,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Zhucou",
+   "nativeName": "諸咎",
+   "roman": "Zhūjiù",
+   "start": -375,
+   "end": -374,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Zuo",
+   "nativeName": "錯枝",
+   "roman": "Zuò",
+   "start": -374,
+   "end": -370,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Wuzhang (Wujiang)",
+   "nativeName": "無疆",
+   "roman": "Wújiāng",
+   "start": -370,
+   "end": -334,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q1936158__yue"
+}

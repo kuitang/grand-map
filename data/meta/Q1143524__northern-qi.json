@@ -1,0 +1,70 @@
+{
+ "qid": "Q1143524",
+ "names": [
+  "Northern Qi"
+ ],
+ "title": "Northern Qi",
+ "variantOf": "Q1143524",
+ "endonym": {
+  "native": "北齊",
+  "roman": "Běi Qí"
+ },
+ "capsule": "Northern Qi (北齊) was a Chinese dynasty founded in 550 CE by Gao Yang, who deposed the Eastern Wei puppet emperor and ruled from the twin capitals of Ye and Jinyang in the Yellow River basin. Its warrior aristocracy of Xianbei-Xiongnu extraction sponsored lavish Buddhist cave art, such as the Xiangtangshan grottoes, even as a succession of erratic and often short-reigned emperors weakened central control. Locked in constant rivalry with Northern Zhou to its west, Northern Qi was conquered by Zhou forces in 577, reuniting northern China under one throne.",
+ "citations": [
+  {
+   "label": "Northern Qi – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Northern_Qi"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Core territorial extent is reasonably reconstructed from Shiji and Zhanguoce, but precise annual boundaries during the Warring States period involve scholarly interpolation. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Qi (state)",
+ "rulers": [
+  {
+   "qid": "Q712338",
+   "name": "Emperor Wenxuan of Northern Qi",
+   "start": 550,
+   "end": 559,
+   "image": null
+  },
+  {
+   "qid": "Q708368",
+   "name": "Emperor Fei of Northern Qi",
+   "start": 559,
+   "end": 560,
+   "image": null
+  },
+  {
+   "qid": "Q708325",
+   "name": "Emperor Xiaozhao of Northern Qi",
+   "start": 560,
+   "end": 561,
+   "image": null
+  },
+  {
+   "qid": "Q718243",
+   "name": "Emperor Wucheng of Northern Qi",
+   "start": 561,
+   "end": 565,
+   "image": null
+  },
+  {
+   "qid": "Q718181",
+   "name": "Gao Wei",
+   "start": 565,
+   "end": 577,
+   "image": null
+  }
+ ],
+ "blurbKey": "Q1143524__northern-qi"
+}

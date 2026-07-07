@@ -1,0 +1,87 @@
+{
+ "qid": "Q398",
+ "names": [
+  "Bahrain"
+ ],
+ "title": "Bahrain",
+ "variantOf": "Q398",
+ "endonym": {
+  "native": "البحرين",
+  "roman": "Al-Bahrayn"
+ },
+ "capsule": "In this period Bahrain passed from a nominal dependency of Zand Persia, governed since 1753 by the Bushire-based Al-Madhkur family under Nasr Al-Madhkur, to permanent Arab rule under the Al Khalifa branch of the Bani Utbah confederation. In 1782-83 the Al Khalifa and their allies, based at Zubarah in Qatar, repelled Nasr Al-Madhkur's assault on that town and then invaded and seized the Bahrain archipelago, ending Persian control and installing Ahmed ibn Muhammad Al Khalifa, 'Ahmed al-Fatih,' as the islands' first Al Khalifa ruler. His successors expanded pearl-diving revenues and fortified Riffa against recurring Wahhabi and Omani incursions, cementing a dynasty that has governed Bahrain without interruption since 1783.",
+ "citations": [
+  {
+   "label": "History of Bahrain (1783-1971) - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/History_of_Bahrain_(1783%E2%80%931971)"
+  },
+  {
+   "label": "History of Bahrain - Britannica",
+   "url": "https://www.britannica.com/topic/history-of-Bahrain"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The archipelago's defined insular boundaries are well established; the attestation window 1757–1846 captures the early Al-Khalifa period before full British protectorate formalization. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Bahrain",
+ "rulers": [
+  {
+   "name": "Nasr Al-Madhkur",
+   "native": "نصر آل مذكور",
+   "roman": "Nasr Al-Madhkur",
+   "start": 1757,
+   "end": 1783,
+   "nativeName": "نصر آل مذكور"
+  },
+  {
+   "name": "Ahmed ibn Muhammad Al Khalifa (Ahmed al-Fatih)",
+   "native": "أحمد بن محمد آل خليفة",
+   "roman": "Ahmad ibn Muhammad Al Khalifah",
+   "start": 1783,
+   "end": 1796,
+   "nativeName": "أحمد بن محمد آل خليفة"
+  },
+  {
+   "name": "Salman bin Ahmed Al Khalifa",
+   "native": "سلمان بن أحمد آل خليفة",
+   "roman": "Salman bin Ahmad Al Khalifah",
+   "start": 1796,
+   "end": 1825,
+   "nativeName": "سلمان بن أحمد آل خليفة"
+  },
+  {
+   "name": "Khalifa bin Salman Al Khalifa",
+   "native": "خليفة بن سلمان آل خليفة",
+   "roman": "Khalifah bin Salman Al Khalifah",
+   "start": 1825,
+   "end": 1834,
+   "nativeName": "خليفة بن سلمان آل خليفة"
+  },
+  {
+   "name": "Abdullah bin Ahmed Al Khalifa",
+   "native": "عبد الله بن أحمد آل خليفة",
+   "roman": "Abdullah bin Ahmad Al Khalifah",
+   "start": 1834,
+   "end": 1843,
+   "nativeName": "عبد الله بن أحمد آل خليفة"
+  },
+  {
+   "name": "Muhammad bin Khalifa Al Khalifa",
+   "native": "محمد بن خليفة آل خليفة",
+   "roman": "Muhammad bin Khalifah Al Khalifah",
+   "start": 1843,
+   "end": 1846,
+   "nativeName": "محمد بن خليفة آل خليفة"
+  }
+ ],
+ "blurbKey": "Q398__bahrain"
+}

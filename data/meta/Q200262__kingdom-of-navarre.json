@@ -1,0 +1,256 @@
+{
+ "qid": "Q200262",
+ "names": [
+  "Kingdom of Navarre"
+ ],
+ "title": "Kingdom of Navarre",
+ "variantOf": "Q200262",
+ "endonym": {
+  "native": "Nafarroako Erresuma",
+  "roman": "Nafarroako Erresuma"
+ },
+ "capsule": "In 1134 the crown of Pamplona regained independence from Aragon on the death of Alfonso the Battler, restoring a Basque-Navarrese monarchy, and from the reign of Sancho VI 'the Wise' (1150-1194) the realm was formally styled the Kingdom of Navarre (Nafarroako Erresuma). Wedged between Castile, Aragon, and France, Navarre lost its Basque coastal lands to Castile in 1200 but endured under a succession of French noble houses - Champagne, Capet, Évreux, and Foix-Albret - reaching a cultural high point under Charles III 'the Noble' (1387-1425). Ferdinand II of Aragon conquered Navarre south of the Pyrenees in 1512, annexing it to Castile by 1515, while an Albret rump kingdom survived north of the Pyrenees for decades longer.",
+ "citations": [
+  {
+   "label": "Kingdom of Navarre - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kingdom_of_Navarre"
+  },
+  {
+   "label": "Nafarroako Erresuma - Euskarazko Wikipedia",
+   "url": "https://eu.wikipedia.org/wiki/Nafarroako_Erresuma"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The dataset records this polity for 825–866, covering only the earliest Íñiguez phase; territorial reconstruction for this formative period is based on limited chronicles and Arab sources and carries considerable uncertainty about actual area controlled. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Kingdom of Navarre",
+ "rulers": [
+  {
+   "qid": "Q318258",
+   "name": "Sancho VI of Navarre",
+   "start": 1162,
+   "end": 1194,
+   "image": "SanchoelSabio.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SanchoelSabio.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "Sanctius VI",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q318272",
+   "name": "Sancho VII of Navarre",
+   "start": 1194,
+   "end": 1234,
+   "image": "Sancho VII de Navarra - Compendio de crónicas de reyes (Biblioteca Nacional de España).png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sancho%20VII%20de%20Navarra%20-%20Compendio%20de%20cr%C3%B3nicas%20de%20reyes%20(Biblioteca%20Nacional%20de%20Espa%C3%B1a).png?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "Sanctius VII",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q314562",
+   "name": "Theobald I of Navarre",
+   "start": 1234,
+   "end": 1253,
+   "image": "Thibault IV Comte de Champagne.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Thibault%20IV%20Comte%20de%20Champagne.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "http://www.provins.org/",
+    "attributionRequired": false
+   },
+   "nativeName": "Theobaldus I",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q351859",
+   "name": "Theobald II of Navarre",
+   "start": 1253,
+   "end": 1270,
+   "image": "Teobaldo II de Navarra.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Teobaldo%20II%20de%20Navarra.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Pinturas obra de Francisco Mendoza",
+    "attributionRequired": false
+   },
+   "nativeName": "Theobaldus II",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q366919",
+   "name": "Henry I of Navarre",
+   "start": 1271,
+   "end": 1274,
+   "image": "Henry 01 Navarre.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Henry%2001%20Navarre.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "Henricus I",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q229189",
+   "name": "Joan I of Navarre",
+   "start": 1284,
+   "end": 1305,
+   "image": "JanaNavarra BNf.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/JanaNavarra%20BNf.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "AnonymousUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "Ioanna I",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q8384",
+   "name": "Louis X of France",
+   "start": 1305,
+   "end": 1316,
+   "image": "Ludvík X.png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ludv%C3%ADk%20X.png?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "AnonymousUnknown author",
+    "attributionRequired": false
+   },
+   "nativeName": "Ludovicus X",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q8404",
+   "name": "John I of France",
+   "start": 1316,
+   "end": 1316,
+   "image": "JeanIposthume.JPG",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/JeanIposthume.JPG?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Phidelorme",
+    "attributionRequired": true
+   },
+   "nativeName": "Ioannes I",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q8433",
+   "name": "Philip V of France",
+   "start": 1316,
+   "end": 1322,
+   "image": "Sacre Philippe5 France 01 (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sacre%20Philippe5%20France%2001%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Grandes Chroniques de France",
+    "attributionRequired": false
+   },
+   "nativeName": "Philippus V",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q174964",
+   "name": "Charles IV of France",
+   "start": 1322,
+   "end": 1328,
+   "image": "Charles4 mini.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles4%20mini.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 3.0",
+    "artist": "Jean de Liège",
+    "attributionRequired": true
+   },
+   "nativeName": "Carolus IV",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q230031",
+   "name": "Joan II of Navarre",
+   "start": 1328,
+   "end": 1349,
+   "image": "Jana2Navarra hlava.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jana2Navarra%20hlava.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Jean Le Noir",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q43082",
+   "name": "Charles II of Navarre",
+   "start": 1349,
+   "end": 1387,
+   "image": "Charles II of Navarre.png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles%20II%20of%20Navarre.png?width=320",
+   "imageLicense": {
+    "license": "CC0",
+    "artist": "AnonymousUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q917090",
+   "name": "Joan of Valois, Queen of Navarre",
+   "start": 1352,
+   "end": null,
+   "image": "Joan of Valois, Queen of Navarre1.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Joan%20of%20Valois%2C%20Queen%20of%20Navarre1.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "AnonymousUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q358365",
+   "name": "Charles III of Navarre",
+   "start": 1387,
+   "end": 1425,
+   "image": "Karel3 hl.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Karel3%20hl.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "AnonymousUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q233865",
+   "name": "Blanche I of Navarre",
+   "start": 1425,
+   "end": 1441,
+   "image": "BlancaI navarra.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/BlancaI%20navarra.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "David Teniers the Younger / Jan van Kessel the Elder",
+    "attributionRequired": false
+   },
+   "nativeName": "Blanca I",
+   "nativeLang": "la"
+  }
+ ],
+ "blurbKey": "Q200262__kingdom-of-navarre"
+}

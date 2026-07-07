@@ -1,0 +1,118 @@
+{
+ "qid": "Q12536",
+ "names": [
+  "Abbasid Caliphate/Buyid Dynasty"
+ ],
+ "title": "Abbasid Caliphate/Buyid Dynasty",
+ "variantOf": "Q12536",
+ "endonym": {
+  "native": "الخلافة العباسية",
+  "roman": "al-Khilāfa al-ʿAbbāsiyya",
+  "lang": "Arabic"
+ },
+ "capsule": "This composite entry marks the specific quarter-century, from Mu'izz al-Dawla's decisive 947 victory over the rival Hamdanids of Mosul to Caliph al-Muti's incapacitating stroke in 970, when the Buyid amir of Iraq and the Abbasid caliph functioned as a single, tightly bound governing apparatus in Baghdad. Mu'izz al-Dawla (amir 945-967), who had installed al-Muti as a compliant replacement for the blinded al-Mustakfi in 946, kept the caliph under close watch, confiscated the former caliphal crown domains to pay his troops, and reduced al-Muti to a ceremonial figure retaining only religious legitimacy. His son Izz al-Dawla Bakhtiyar (amir 967-978) inherited this arrangement in 967, continuing the caliph's formal investiture of Buyid authority until al-Muti's declining health forced his abdication in 974, shortly after this window closes.",
+ "citations": [
+  {
+   "label": "Mu'izz al-Dawla - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mu%27izz_al-Dawla"
+  },
+  {
+   "label": "Al-Muti' - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Al-Muti%27"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases (Times Atlas of World History; Kinder & Hilgemann; Shepherd 1926) at ~0.07° resolution. The mapped polity is the caliphs' direct Iraqi domain, far smaller than their nominal suzerainty. Confidence: high for the domain; the wider claim is unmappable by design. Capsule researched for this polity/era specifically (confidence: high).",
+ "wikipedia": "Abbasid Caliphate",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "al-Muqtadir",
+   "nativeName": "اَلْمُقْتَدِر بِاللَّه",
+   "roman": "al-Muqtadir bi-llāh",
+   "start": 908,
+   "end": 932,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "al-Qahir",
+   "nativeName": "اَلْقَاهِر بِاللَّه",
+   "roman": "al-Qāhir bi-llāh",
+   "start": 932,
+   "end": 934,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "al-Radi",
+   "nativeName": "اَلرَّاضِي بِاللَّه",
+   "roman": "al-Rāḍī bi-llāh",
+   "start": 934,
+   "end": 940,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "al-Muttaqi",
+   "nativeName": "اَلْمُتَّقِي لِلَّه",
+   "roman": "al-Muttaqī li-llāh",
+   "start": 940,
+   "end": 944,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "al-Mustakfi",
+   "nativeName": "اَلْمُسْتَكْفِي بِاللَّه",
+   "roman": "al-Mustakfī bi-llāh",
+   "start": 944,
+   "end": 946,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "al-Muti'",
+   "nativeName": "اَلْمُطِيع لِلَّه",
+   "roman": "al-Muṭīʿ li-llāh",
+   "start": 946,
+   "end": 974,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "al-Ta'i'",
+   "nativeName": "اَلطَّائِع لِلَّه",
+   "roman": "al-Ṭāʾiʿ li-llāh",
+   "start": 974,
+   "end": 991,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": "Q284427",
+   "name": "al-Qadir",
+   "nativeName": "اَلْقَادِر بِاللَّه",
+   "roman": "al-Qādir bi-llāh",
+   "start": 991,
+   "end": 1031,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q12536__abbasid-caliphate-buyid-dynasty"
+}

@@ -1,0 +1,94 @@
+{
+ "qid": "Q2365048",
+ "names": [
+  "Sultanate of Harar"
+ ],
+ "title": "Sultanate of Harar",
+ "variantOf": "Q2365048",
+ "endonym": {
+  "native": "سلطنة هرر",
+  "roman": "Salṭanat Harar"
+ },
+ "capsule": "After Ahmad Gragn's death, his nephew Nur ibn Mujahid consolidated power as Emir of Harar around 1550–51, fortifying the city with the wall that still encircles it, and in 1559 killed Ethiopian Emperor Gelawdewos at the Battle of Fatagar. But Oromo incursions devastated his forces afterward, he died of plague in 1567, and Harar fell into instability under short-lived successors until the dynastic seat shifted to the Aussa oasis in 1577, near this window's close.",
+ "citations": [
+  {
+   "label": "Nur ibn Mujahid – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nur_ibn_Mujahid"
+  },
+  {
+   "label": "Sultanate of Harar – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sultanate_of_Harar"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The sultanate's core zones in the Ogaden and around Harar are documented in Abyssinian and Arabic sources, but peripheral boundaries — especially during Ahmad al-Ghazi's conquests — are expansive estimates derived from campaign narratives rather than fixed administrative lines. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Adal Sultanate",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Abu Bakr ibn Muhammad",
+   "nativeName": "أبو بكر بن محمد",
+   "roman": "Abū Bakr ibn Muḥammad",
+   "start": 1518,
+   "end": 1526,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ahmad ibn Ibrahim al-Ghazi (Ahmad Gran)",
+   "nativeName": "أحمد بن إبراهيم الغازي",
+   "roman": "Aḥmad ibn Ibrāhīm al-Ghāzī",
+   "start": 1527,
+   "end": 1543,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Nur ibn Mujahid",
+   "nativeName": "نور بن مجاهد",
+   "roman": "Nūr ibn Mujāhid",
+   "start": 1543,
+   "end": 1567,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Talha ibn Ahmad",
+   "nativeName": "طلحة بن أحمد",
+   "roman": "Ṭalḥa ibn Aḥmad",
+   "start": 1567,
+   "end": 1568,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Muhammad ibn Ibrahim",
+   "nativeName": "محمد بن إبراهيم",
+   "roman": "Muḥammad ibn Ibrāhīm",
+   "start": 1568,
+   "end": 1577,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q2365048__sultanate-of-harar"
+}

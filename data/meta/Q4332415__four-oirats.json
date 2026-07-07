@@ -1,0 +1,94 @@
+{
+ "qid": "Q4332415",
+ "names": [
+  "Four Oirats"
+ ],
+ "title": "Four Oirats",
+ "variantOf": "Q4332415",
+ "endonym": {
+  "native": "Дөрвөн Ойрад",
+  "roman": "Dörvön Oirad"
+ },
+ "capsule": "The Four Oirats (Dörben Oirad) — the Choros, Torghut, Dörbet and Khoshut tribes — rose as the dominant western Mongol confederation in this 1402–1475 window under leaders like Toghan and his son Esen Taishi, who ruled through puppet Chinggisid khans, crushed a Ming army and captured the Zhengtong Emperor at Tumu in 1449, then claimed the khan title himself in 1453, only for Oirat unity to collapse after his assassination in 1455.",
+ "citations": [
+  {
+   "label": "Oirat Confederation – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Oirat_Confederation"
+  },
+  {
+   "label": "Four Oirat – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Four_Oirat"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Four Oirat territorial extent is largely conjectural steppe geography, reconstructed from Ming shilu records and Mongol chronicle sources; boundaries with the Northern Yuan and Ming frontier zones are approximate. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Oirat Confederation",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Mahmud (Bahamu) Taishi",
+   "nativeName": "ᠮᠠᠬᠠᠮᠤᠳ",
+   "roman": "Mahamud Taishi",
+   "start": 1402,
+   "end": 1416,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Toghon Taishi",
+   "nativeName": "ᠲᠣᠭᠣᠨ",
+   "roman": "Toghon Taishi",
+   "start": 1416,
+   "end": 1438,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Esen Taishi",
+   "nativeName": "ᠡᠰᠡᠨ",
+   "roman": "Esen Taishi",
+   "start": 1438,
+   "end": 1455,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Amasanj Taishi",
+   "nativeName": "ᠠᠮᠠᠰᠠᠨᠵᠢ",
+   "roman": "Amasanj Taishi",
+   "start": 1455,
+   "end": 1469,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ibari (Ibrahim) Taishi",
+   "nativeName": "ᠢᠪᠠᠷᠢ",
+   "roman": "Ibari Taishi",
+   "start": 1469,
+   "end": 1475,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q4332415__four-oirats"
+}

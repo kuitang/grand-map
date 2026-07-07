@@ -1,0 +1,90 @@
+{
+ "qid": "Q671362",
+ "names": [
+  "Principality of Turov and Pinsk"
+ ],
+ "title": "Principality of Turov and Pinsk",
+ "variantOf": "Q671362",
+ "endonym": {
+  "native": "Турово-Пинское княжество",
+  "roman": "Turovo-Pinskoye knyazhestvo"
+ },
+ "capsule": "By the late 12th century the Principality of Turov, on the Pripyat river route linking Kiev to the Baltic, had won full independence from Kievan overlordship under Yury Yaroslavich, a descendant of Yaroslav the Wise, and stood as one of the senior Rurikid appanages of what is now southern Belarus. Styled jointly as 'Turov and Pinsk' for its two chief towns, the principality fragmented among the branch lines of Yury's descendants and increasingly fell under the sway of its powerful neighbors, above all the princes of Galicia-Volhynia. It remained a Rurikid principality through the Mongol invasion of 1237-1241, though the devastation that shattered neighboring Kiev and Chernigov left Turov comparatively marginal to the chronicles of the period.",
+ "citations": [
+  {
+   "label": "Wikipedia: Principality of Turov",
+   "url": "https://en.wikipedia.org/wiki/Principality_of_Turov"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The core territory around Turov and Pinsk is well established, but the principality's exact boundaries and the precise extent of sub-principality control are not precisely mapped in surviving sources. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Principality of Turov",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Ivan Yuryevich",
+   "nativeName": "Іван Юр'євич",
+   "roman": "Ivan Yuryevich",
+   "start": 1167,
+   "end": 1190,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Gleb Yuryevich",
+   "nativeName": "Гліб Юр'євич",
+   "roman": "Gleb Yuryevich",
+   "start": 1190,
+   "end": 1195,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ivan Yuryevich (restored)",
+   "nativeName": "Іван Юр'євич",
+   "roman": "Ivan Yuryevich",
+   "start": 1195,
+   "end": 1207,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Rostislav Glebovich",
+   "nativeName": "Ростислав Глібович",
+   "roman": "Rostislav Glebovich",
+   "start": 1207,
+   "end": 1228,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Yuri Volodymyrovich",
+   "nativeName": "Юрій Володимирович",
+   "roman": "Yuri Volodymyrovich",
+   "start": 1228,
+   "end": 1292,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q671362__principality-of-turov-and-pinsk"
+}

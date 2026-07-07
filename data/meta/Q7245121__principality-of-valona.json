@@ -1,0 +1,68 @@
+{
+ "qid": "Q7245121",
+ "names": [
+  "Principality of Valona"
+ ],
+ "title": "Principality of Valona",
+ "variantOf": "Q7245121",
+ "endonym": {
+  "native": "Principata e Vlorës",
+  "roman": "Principata e Vlorës"
+ },
+ "capsule": "In this 1333–1375 window the Principality of Valona began as a vassal territory won by Serbian Emperor Stefan Dušan's conquest of the port around 1345/46, then became a largely autonomous Adriatic lordship after Dušan's 1355 death under John Komnenos Asen (r. 1345–1363), a Bulgarian noble and Venetian citizen who built the city's prosperity on trade with Venice and Ragusa.",
+ "citations": [
+  {
+   "label": "Principality of Valona – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Principality_of_Valona"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The principality's core territory—the hinterland of Vlorë, Fier, and Berat—is described in Venetian and Serbian sources, but precise borders fluctuated considerably as rival Albanian lords competed for control. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Principality of Valona",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "John Komnenos Asen, Despot of Valona",
+   "nativeName": "Йоан Комнин Асен",
+   "roman": "Yoan Komnin Asen",
+   "start": 1346,
+   "end": 1363,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Alexander Komnenos Asen, Lord of Valona and Kanina",
+   "nativeName": "Александър Комнин Асен",
+   "roman": "Aleksandar Komnin Asen",
+   "start": 1363,
+   "end": 1372,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Balsha II Balsic, Lord of Valona",
+   "nativeName": "Балша II Балшић",
+   "roman": "Balša II Balšić",
+   "start": 1372,
+   "end": 1375,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q7245121__principality-of-valona"
+}

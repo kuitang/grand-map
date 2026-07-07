@@ -1,0 +1,182 @@
+{
+ "qid": "Q5062192",
+ "names": [
+  "Centralist Mexico"
+ ],
+ "title": "Centralist Mexico",
+ "variantOf": "Q5062192",
+ "endonym": {
+  "native": "República Centralista de México",
+  "roman": "República Centralista de México"
+ },
+ "capsule": "Centralist Mexico denotes the unitary regime instituted by the December 1836 Siete Leyes, which abolished the 1824 federal system and reorganized the states into departments run by centrally appointed governors, later continued under the 1843 Bases Orgánicas. This decade of chronic coups and secessions—including the loss of Texas (1836) and Yucatán rebellions—also encompassed the Pastry War (1838) and the ruinous Mexican-American War (1846–48); federalism and the 1824 constitution were formally restored on 22 August 1846. This unitary-republic phase is distinct from the later consolidated federal 'Mexico' sharing this identifier.",
+ "citations": [
+  {
+   "label": "Centralist Republic of Mexico — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Centralist_Republic_of_Mexico"
+  },
+  {
+   "label": "Mexico, Centralism — Encyclopedia.com",
+   "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/mexico-centralism"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Mexico's modern borders are defined by treaties — the Treaty of Guadalupe Hidalgo (1848) and Gadsden Purchase (1853) with the United States, and the Chamizal Convention (1963) — and are precisely documented; internal state boundaries are well-mapped. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Centralist Republic of Mexico",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "José Justo Corro",
+   "nativeName": "José Justo Corro",
+   "roman": "José Justo Corro",
+   "start": 1836,
+   "end": 1837,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Anastasio Bustamante",
+   "nativeName": "Anastasio Bustamante y Oseguera",
+   "roman": "Anastasio Bustamante",
+   "start": 1837,
+   "end": 1839,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Antonio López de Santa Anna",
+   "nativeName": "Antonio López de Santa Anna",
+   "roman": "Antonio López de Santa Anna",
+   "start": 1839,
+   "end": 1839,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Nicolás Bravo",
+   "nativeName": "Nicolás Bravo",
+   "roman": "Nicolás Bravo",
+   "start": 1839,
+   "end": 1839,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Anastasio Bustamante (2nd term)",
+   "nativeName": "Anastasio Bustamante y Oseguera",
+   "roman": "Anastasio Bustamante",
+   "start": 1839,
+   "end": 1841,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Antonio López de Santa Anna (2nd term)",
+   "nativeName": "Antonio López de Santa Anna",
+   "roman": "Antonio López de Santa Anna",
+   "start": 1841,
+   "end": 1842,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Nicolás Bravo (2nd term)",
+   "nativeName": "Nicolás Bravo",
+   "roman": "Nicolás Bravo",
+   "start": 1842,
+   "end": 1843,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Valentín Canalizo",
+   "nativeName": "Valentín Canalizo Bocadillo",
+   "roman": "Valentín Canalizo",
+   "start": 1843,
+   "end": 1844,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "José Joaquín de Herrera",
+   "nativeName": "José Joaquín de Herrera",
+   "roman": "José Joaquín de Herrera",
+   "start": 1844,
+   "end": 1845,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Mariano Paredes y Arrillaga",
+   "nativeName": "Mariano Paredes y Arrillaga",
+   "roman": "Mariano Paredes y Arrillaga",
+   "start": 1845,
+   "end": 1846,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Valentín Gómez Farías",
+   "nativeName": "Valentín Gómez Farías",
+   "roman": "Valentín Gómez Farías",
+   "start": 1846,
+   "end": 1847,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Antonio López de Santa Anna (final term)",
+   "nativeName": "Antonio López de Santa Anna",
+   "roman": "Antonio López de Santa Anna",
+   "start": 1847,
+   "end": 1847,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Manuel de la Peña y Peña",
+   "nativeName": "Manuel de la Peña y Peña",
+   "roman": "Manuel de la Peña y Peña",
+   "start": 1847,
+   "end": 1848,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q5062192__centralist-mexico"
+}

@@ -1,0 +1,73 @@
+{
+ "qid": "Q33235",
+ "names": [
+  "Upper Burgundy and Italy"
+ ],
+ "title": "Upper Burgundy and Italy",
+ "variantOf": "Q33235",
+ "endonym": {
+  "native": "Regnum Burgundiae et Italiae",
+  "roman": "Regnum Burgundiae et Italiae",
+  "lang": "la"
+ },
+ "capsule": "Between 922 and 926, Rudolf II of Upper Burgundy also wore the Italian crown, having been invited by Italian magnates dissatisfied with King Berengar I of Friuli; crowned at Pavia in 922, Rudolf defeated Berengar's forces near Piacenza, and after Berengar's assassination in 924 ruled both Upper Burgundy and Italy jointly, dividing his residence between the two realms. His hold on Italy proved brief: in 926 the Italian nobility turned against him, his father-in-law Duke Burchard II of Swabia was killed at Novara in the fighting, and Rudolf was driven out in favor of Hugh of Arles, who took the Iron Crown of Lombardy at Pavia that same year. Rudolf retained Upper Burgundy alone thereafter.",
+ "citations": [
+  {
+   "label": "Rudolf II | Britannica",
+   "url": "https://www.britannica.com/biography/Rudolf-II-king-of-Burgundy"
+  },
+  {
+   "label": "Rudolph II of Burgundy - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rudolph_II_of_Burgundy"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Upper Burgundy's political extent is relatively well documented through Carolingian and Ottonian diplomas, though precise frontier zones with Lower Burgundy and the kingdom of Italy remained fluid. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Upper Burgundy",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Rudolf I",
+   "nativeName": "Rudolf I",
+   "roman": "",
+   "start": 888,
+   "end": 912,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Rudolf II",
+   "nativeName": "Rudolf II",
+   "roman": "",
+   "start": 912,
+   "end": 937,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Conrad the Peaceful",
+   "nativeName": "Conrad le Pacifique",
+   "roman": "",
+   "start": 937,
+   "end": 960,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q33235__upper-burgundy-and-italy"
+}

@@ -1,0 +1,436 @@
+{
+ "qid": "Q79",
+ "names": [
+  "Arab Republic of Egypt"
+ ],
+ "title": "Arab Republic of Egypt",
+ "variantOf": "Q79",
+ "endonym": {
+  "native": "جمهورية مصر العربية",
+  "roman": "Jumhūriyyat Miṣr al-ʿArabiyyah"
+ },
+ "capsule": "Renamed the Arab Republic of Egypt under a new 1971 constitution, Egypt under President Anwar Sadat launched the October 1973 war against Israel before signing the US-brokered Camp David Accords and the 1979 Egypt-Israel peace treaty, the first between Israel and an Arab state. Sadat's assassination in 1981 brought Hosni Mubarak to a three-decade presidency ended by the 2011 uprising; a brief Muslim Brotherhood government under Mohamed Morsi was removed by the military in 2013, installing Abdel Fattah el-Sisi, president since 2014.",
+ "citations": [
+  {
+   "label": "Britannica: Egypt",
+   "url": "https://www.britannica.com/place/Egypt"
+  },
+  {
+   "label": "Wikipedia: Egypt",
+   "url": "https://en.wikipedia.org/wiki/Egypt"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Egypt's internationally recognized borders are precisely defined; the dataset's representation reflects the post-1973 return of Sinai and is well attested by treaty and administrative records. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Egypt",
+ "rulers": [
+  {
+   "qid": "Q104392",
+   "name": "Mohamed Naguib",
+   "start": 1953,
+   "end": 1954,
+   "image": "Mohamed Naguib1952.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mohamed%20Naguib1952.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Ashkroft Bombai",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q39524",
+   "name": "Gamal Abdel Nasser",
+   "start": 1956,
+   "end": 1970,
+   "image": "Official Portrait - Gamal Abdel Nasser.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Official%20Portrait%20-%20Gamal%20Abdel%20Nasser.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Press",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q3380878",
+   "name": "Kamal el-Din Hussein",
+   "start": 1960,
+   "end": 1961,
+   "image": "Kamel el-Din Hussein.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kamel%20el-Din%20Hussein.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Not credited",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q446851",
+   "name": "Ali Sabri",
+   "start": 1962,
+   "end": 1965,
+   "image": "Ali Sabri 1966.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ali%20Sabri%201966.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q983586",
+   "name": "Muhammad Sedki Sulayman",
+   "start": 1966,
+   "end": 1967,
+   "image": null
+  },
+  {
+   "qid": "Q144615",
+   "name": "Zakaria Mohieddin",
+   "start": 1967,
+   "end": 1967,
+   "image": "Zakaria Mohiedin as Interior Minister.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Zakaria%20Mohiedin%20as%20Interior%20Minister.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Not credited",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q42013",
+   "name": "Anwar Sadat",
+   "start": 1970,
+   "end": 1970,
+   "image": "Official Portrait - Anwar Sadat.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Official%20Portrait%20-%20Anwar%20Sadat.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Press",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q699336",
+   "name": "Mahmoud Fawzi",
+   "start": 1970,
+   "end": 1971,
+   "image": "Mahmoud Fawzy.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mahmoud%20Fawzy.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Bibliotheca Alexandrina",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q793859",
+   "name": "Aziz Sedki",
+   "start": 1972,
+   "end": 1973,
+   "image": "Aziz Sedki.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Aziz%20Sedki.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q224359",
+   "name": "Abd El Aziz Muhammad Hegazi",
+   "start": 1974,
+   "end": 1975,
+   "image": "Abdel Aziz Hegazy.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Abdel%20Aziz%20Hegazy.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q1391716",
+   "name": "Mamdouh Salem",
+   "start": 1975,
+   "end": 1978,
+   "image": "Mamdouh Salem.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mamdouh%20Salem.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q403740",
+   "name": "Mustafa Khalil",
+   "start": 1978,
+   "end": 1980,
+   "image": "Mustafa Khalil 1992 Dan Hadani Archive II (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mustafa%20Khalil%201992%20Dan%20Hadani%20Archive%20II%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 4.0",
+    "artist": "Beni Birk",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q34105",
+   "name": "Hosni Mubarak",
+   "start": 1981,
+   "end": 2011,
+   "image": "Hosni Mubarak - Official Photo.JPG",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hosni%20Mubarak%20-%20Official%20Photo.JPG?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q733919",
+   "name": "Sufi Abu Taleb",
+   "start": 1981,
+   "end": 1981,
+   "image": "Sufi Abu Taleb.gif",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sufi%20Abu%20Taleb.gif?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "People's Assembly of Egypt.",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q400643",
+   "name": "Ahmad Fuad Mohieddin",
+   "start": 1982,
+   "end": 1984,
+   "image": "Ahmad Fuad Mohieddin.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ahmad%20Fuad%20Mohieddin.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q1722834",
+   "name": "Kamal Hassan Ali",
+   "start": 1984,
+   "end": 1985,
+   "image": "Kamal Hassan Ali 1978.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kamal%20Hassan%20Ali%201978.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author or not provided",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q1391705",
+   "name": "Ali Lutfi Mahmud",
+   "start": 1985,
+   "end": 1986,
+   "image": "Ali Lutfi.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ali%20Lutfi.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Egyptian Shoura Assembly",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q755840",
+   "name": "Atef Sedki",
+   "start": 1986,
+   "end": 1996,
+   "image": "Atef Sedki.JPG",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Atef%20Sedki.JPG?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q559232",
+   "name": "Atef Ebeid",
+   "start": 1999,
+   "end": 2004,
+   "image": "Visit of Atef Ebeid, Egyptian Prime Minister, to the EC.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Visit%20of%20Atef%20Ebeid%2C%20Egyptian%20Prime%20Minister%2C%20to%20the%20EC.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 4.0",
+    "artist": "Christian Lambiotte / European Communities, 2002 /  EC - Audiovisual Service",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q220296",
+   "name": "Ahmed Nazif",
+   "start": 2004,
+   "end": 2011,
+   "image": "Ahmed Nazif IGF.JPG",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ahmed%20Nazif%20IGF.JPG?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "Henrik Ishihara Globaljuggler",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q57680",
+   "name": "Essam Sharaf",
+   "start": 2011,
+   "end": 2011,
+   "image": "Defense.gov News Photo 110323-D-XH843-004 - Secretary of Defense Robert M. Gates meets with Egyptian Prime Minister Essam Sharaf in Cairo, Egypt, on March 23, 2011 (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Defense.gov%20News%20Photo%20110323-D-XH843-004%20-%20Secretary%20of%20Defense%20Robert%20M.%20Gates%20meets%20with%20Egyptian%20Prime%20Minister%20Essam%20Sharaf%20in%20Cairo%2C%20Egypt%2C%20on%20March%2023%2C%202011%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Cherie Cullen",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q294765",
+   "name": "Ahmed Shafik",
+   "start": 2011,
+   "end": 2011,
+   "image": "Ahmed Shafik 2012 (cropped).png",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ahmed%20Shafik%202012%20(cropped).png?width=320",
+   "imageLicense": {
+    "license": "CC BY 3.0",
+    "artist": "Egypt Today",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q365922",
+   "name": "Kamal Ganzouri",
+   "start": 2011,
+   "end": 2012,
+   "image": "Kamal Ganzouri.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kamal%20Ganzouri.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "New Valley Governorate",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q4631",
+   "name": "Mohamed Morsi",
+   "start": 2012,
+   "end": 2013,
+   "image": "President Mohamed Morsi.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/President%20Mohamed%20Morsi.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Office of the President of Egypt",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q57728",
+   "name": "Hesham Qandil",
+   "start": 2012,
+   "end": 2013,
+   "image": "Hesham Qandil.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hesham%20Qandil.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Office of the Prime Minister of Egypt",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q13593432",
+   "name": "Adly Mansour",
+   "start": 2013,
+   "end": 2014,
+   "image": "President Adly Mansour (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/President%20Adly%20Mansour%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Ministry of Communications and Information Technology in Egypt",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q1592085",
+   "name": "Hazem Al Beblawi",
+   "start": 2013,
+   "end": 2014,
+   "image": "Hazem Beblawy.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hazem%20Beblawy.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "ElGasser",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q307871",
+   "name": "Abdel Fattah el-Sisi",
+   "start": 2014,
+   "end": null,
+   "image": "AbdelFattah Elsisi (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/AbdelFattah%20Elsisi%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 4.0",
+    "artist": "Ministry of Communications and Information Technology in Egypt",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q15830552",
+   "name": "Ibrahim Mahlab",
+   "start": 2014,
+   "end": 2015,
+   "image": "Ibrahim Mahlab.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ibrahim%20Mahlab.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Department of State",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q16250142",
+   "name": "Sherif Ismail",
+   "start": 2015,
+   "end": 2018,
+   "image": "Sherif Ismail (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sherif%20Ismail%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 2.0",
+    "artist": "Υπουργείο Εξωτερικών",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q54901515",
+   "name": "Mostafa Madbouly",
+   "start": 2018,
+   "end": null,
+   "image": "Mostafa Madbouly (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mostafa%20Madbouly%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Office of the Prime Minister of Egypt",
+    "attributionRequired": false
+   }
+  }
+ ],
+ "blurbKey": "Q79__arab-republic-of-egypt"
+}

@@ -1,0 +1,50 @@
+{
+ "qid": "Q5349053",
+ "names": [
+  "Jiujiang"
+ ],
+ "title": "Jiujiang",
+ "variantOf": "Q5349053",
+ "endonym": {
+  "native": "九江",
+  "roman": "Jiǔjiāng"
+ },
+ "capsule": "The Kingdom of Jiujiang was granted by Xiang Yu in 206 BC to Ying Bu, a Chu general who had served under him, comprising territory in modern central and southern Anhui along the lower Yangzi. As one of the more militarily capable of the Eighteen Kingdoms' rulers, Ying Bu was implicated in the assassination of the figurehead Emperor Yi of Chu on Xiang Yu's secret orders, an act that helped delegitimize Xiang Yu's settlement. Ying Bu later defected to Liu Bang during the Chu–Han Contention, and Jiujiang's territory was absorbed into the expanding Han domain after the Eighteen Kingdoms' collapse by 203 BC.",
+ "citations": [
+  {
+   "label": "Eighteen Kingdoms - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Eighteen_Kingdoms"
+  },
+  {
+   "label": "Chu–Han Contention - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chu%E2%80%93Han_Contention"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The political divisions are documented in Sima Qian's Shiji and Ban Gu's Hanshu, but the precise territories assigned to each king are reconstructed from textual sources alone; archaeological demarcation of boundaries is largely impossible. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Eighteen Kingdoms",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Xiang Yu, Hegemon-King (overlord of the Eighteen Kingdoms)",
+   "nativeName": "西楚霸王項羽",
+   "roman": "Xī Chǔ Bàwáng Xiàng Yǔ",
+   "start": -206,
+   "end": -203,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q5349053__jiujiang"
+}

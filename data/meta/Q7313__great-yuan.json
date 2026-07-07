@@ -1,0 +1,63 @@
+{
+ "qid": "Q7313",
+ "names": [
+  "Great Yuan"
+ ],
+ "title": "Great Yuan",
+ "variantOf": "Q7313",
+ "endonym": {
+  "native": "大宛",
+  "roman": "Dàyuān"
+ },
+ "capsule": "Despite sharing a Wikidata entry with the Mongol Yuan dynasty, 'Great Yuan' here denotes Dayuan (大宛, literally 'Great Yuan'), the Hellenistic-influenced kingdom of the Ferghana Valley — likely descended from Alexander's Central Asian colonists — encountered by the Han envoy Zhang Qian around 130 BCE and famed among the Han for its prized 'heavenly' horses. After Dayuan's king Wugua refused to trade horses and had a Han embassy plundered, Emperor Wu's general Li Guangli besieged the capital Ershi in 102 BCE; Dayuan's nobles killed Wugua and surrendered, and the Han installed the noble Meicai as king, who was himself soon killed and replaced by Wugua's brother Chanfeng as a Han-recognized client ruler. Dayuan continued as a minor, loosely Han-tributary state in Ferghana into the early Common Era, entirely distinct from the medieval Mongol-Chinese Yuan dynasty and 20th-century Bogd Khanate that also carry this Wikidata identifier.",
+ "citations": [
+  {
+   "label": "Dayuan - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dayuan"
+  },
+  {
+   "label": "War of the Heavenly Horses - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/War_of_the_Heavenly_Horses"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Yuan territorial extent over China proper is well-documented through official administrative records (hubu registers); control of the northern steppe marches and Yunnan is attested by provincial records, but exact outer frontier lines in Southeast Asia are conjectural, based on tributary relationships rather than administered boundaries. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Yuan dynasty",
+ "rulers": [
+  {
+   "name": "Wugua",
+   "native": "毋寡",
+   "roman": "Wugua",
+   "start": -110,
+   "end": -102,
+   "nativeName": "毋寡"
+  },
+  {
+   "name": "Meicai",
+   "native": "昧蔡",
+   "roman": "Meicai",
+   "start": -102,
+   "end": -101,
+   "nativeName": "昧蔡"
+  },
+  {
+   "name": "Chanfeng",
+   "native": "蟬封",
+   "roman": "Chanfeng",
+   "start": -101,
+   "nativeName": "蟬封",
+   "end": null
+  }
+ ],
+ "blurbKey": "Q7313__great-yuan"
+}

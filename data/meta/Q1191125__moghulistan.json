@@ -1,0 +1,182 @@
+{
+ "qid": "Q1191125",
+ "names": [
+  "Moghulistan"
+ ],
+ "title": "Moghulistan",
+ "variantOf": "Q1191125",
+ "endonym": {
+  "native": "مغولستان",
+  "roman": "Moghulestân"
+ },
+ "capsule": "Moghulistan was the Turco-Mongol successor khanate that broke from the Chagatai ulus in 1347, when the Dughlat amir Bulaji installed the Chagatayid Tughlugh Timur as khan over the nomadic tribes of the Ili region and the Tarim Basin oasis towns. Tughlugh Timur's 1354 conversion to Islam and his 1360-61 invasions of Transoxiana briefly reunited the eastern and western Chagatai lands before his 1363 death plunged the khanate into decades of Dughlat-dominated civil war. Later khans such as Yunus, Mahmud, and Ahmad Alaq ruled a still largely nomadic Moghulistan from bases like Tashkent and Aksu, resisting the Timurids, Oirats, and Uzbek Shaybanids until the realm's final division around 1514-16 into the Yarkent and Turfan khanates.",
+ "citations": [
+  {
+   "label": "Moghulistan - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Moghulistan"
+  },
+  {
+   "label": "مغولستان - Wiktionary",
+   "url": "https://en.wiktionary.org/wiki/%D9%85%D8%BA%D9%88%D9%84%D8%B3%D8%AA%D8%A7%D9%86"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Moghulistan's territorial extent is reconstructed from Timurid chronicles, Chinese dynastic histories, and later Chagatai-language sources; the steppe frontiers were fluid and seasonal, and the polity's boundaries are broadly approximate rather than administratively demarcated. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Moghulistan",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Tughlugh Timur Khan",
+   "nativeName": "تغلق تيمور خان",
+   "roman": "Tughluq Tīmūr Khān",
+   "start": 1347,
+   "end": 1363,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ilyas Khoja",
+   "nativeName": "الياس خواجه",
+   "roman": "Ilyās Khwāja",
+   "start": 1363,
+   "end": 1368,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Qamar ud-Din Dughlat (usurper amir)",
+   "nativeName": "قمر الدين",
+   "roman": "Qamar ud-Dīn",
+   "start": 1368,
+   "end": 1392,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Khizr Khoja Khan",
+   "nativeName": "خضر خواجه خان",
+   "roman": "Khiḍr Khwāja Khān",
+   "start": 1389,
+   "end": 1399,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Shams-i-Jahan Khan",
+   "nativeName": "شمس جهان خان",
+   "roman": "Shams-i-Jahān Khān",
+   "start": 1399,
+   "end": 1408,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Muhammad Khan",
+   "nativeName": "محمد خان",
+   "roman": "Muḥammad Khān",
+   "start": 1408,
+   "end": 1416,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Naqsh-i-Jahan Khan",
+   "nativeName": "نقش جهان خان",
+   "roman": "Naqsh-i-Jahān Khān",
+   "start": 1416,
+   "end": 1418,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Uwais Khan",
+   "nativeName": "اويس خان",
+   "roman": "Uwais Khān",
+   "start": 1418,
+   "end": 1428,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Esen Buqa II Khan",
+   "nativeName": "ايسن بوقا خان",
+   "roman": "Esen Buqā Khān",
+   "start": 1429,
+   "end": 1462,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Dost Muhammad Khan",
+   "nativeName": "دوست محمد خان",
+   "roman": "Dōst Muḥammad Khān",
+   "start": 1462,
+   "end": 1469,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Yunus Khan",
+   "nativeName": "يونس خان",
+   "roman": "Yūnus Khān",
+   "start": 1469,
+   "end": 1487,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ahmad Alaq Khan",
+   "nativeName": "احمد خان",
+   "roman": "Aḥmad Khān (Alāchā)",
+   "start": 1487,
+   "end": 1503,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Mansur Khan",
+   "nativeName": "منصور خان",
+   "roman": "Manṣūr Khān",
+   "start": 1503,
+   "end": 1519,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q1191125__moghulistan"
+}

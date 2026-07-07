@@ -1,0 +1,67 @@
+{
+ "qid": "Q239502",
+ "names": [
+  "Galicia-Volhynia"
+ ],
+ "title": "Galicia-Volhynia",
+ "variantOf": "Q239502",
+ "endonym": {
+  "native": "Галицько-Волинське королівство",
+  "roman": "Halytsko-Volynske korolivstvo"
+ },
+ "capsule": "In its final phase as a kingdom, Galicia-Volhynia was ruled by Daniel's descendants Yuri I (r. 1301–1308, styled \"King of Rus'\") and then jointly by his sons Andrew and Lev II until their deaths around 1323 extinguished the male Rurikid line. The throne passed to the Masovian Piast prince Bolesław, who converted to Orthodoxy as Yuri II Boleslav but was poisoned by rebellious boyars in 1340; the boyar leader Dmitry Detko then governed as regent for the Lithuanian claimant Liubartas until Poland's Casimir III and Lithuania partitioned the exhausted state between them by a 1352 truce.",
+ "citations": [
+  {
+   "label": "Kingdom of Galicia–Volhynia - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kingdom_of_Galicia%E2%80%93Volhynia"
+  },
+  {
+   "label": "Galicia–Volhynia Wars - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Galicia%E2%80%93Volhynia_Wars"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Core territorial extent is reasonably well-documented from charter evidence and chronicle sources for the thirteenth century; the dataset's start date of 1056 predates the formal union, likely reflecting earlier Volhynian principality geometry, which is less precisely defined. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Kingdom of Galicia-Volhynia",
+ "rulers": [
+  {
+   "name": "Yuri I Lvovich",
+   "start": 1301,
+   "end": 1308,
+   "nativeName": null,
+   "roman": ""
+  },
+  {
+   "name": "Andrew and Lev II (joint rule)",
+   "start": 1308,
+   "end": 1323,
+   "nativeName": null,
+   "roman": ""
+  },
+  {
+   "name": "Boleslaw-Yuri II Trojdenowicz",
+   "start": 1325,
+   "end": 1340,
+   "nativeName": null,
+   "roman": ""
+  },
+  {
+   "name": "Dmitry Detko (boyar regent)",
+   "start": 1340,
+   "end": 1344,
+   "nativeName": null,
+   "roman": ""
+  }
+ ],
+ "blurbKey": "Q239502__galicia-volhynia"
+}

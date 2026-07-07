@@ -1,0 +1,130 @@
+{
+ "qid": "Q717",
+ "names": [
+  "Republic of Venezuela"
+ ],
+ "title": "Republic of Venezuela",
+ "variantOf": "Q717",
+ "endonym": {
+  "native": "República de Venezuela",
+  "roman": "República de Venezuela"
+ },
+ "capsule": "The Republic of Venezuela in this 1811–1815 span denotes the First Republic, declared 5 July 1811 by the congress that broke from Spain under Francisco de Miranda, and the Second Republic proclaimed by Simón Bolívar in August 1813 after his Admirable Campaign. Both were short-lived: the First fell to royalist forces in 1812 after Miranda's capitulation, and the Second collapsed in 1814 under a royalist and llanero counter-offensive led by José Tomás Boves, driving Bolívar into exile. This revolutionary-era entity is distinct from the consolidated Venezuela that emerged after Gran Colombia's 1830 dissolution.",
+ "citations": [
+  {
+   "label": "First Republic of Venezuela — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/First_Republic_of_Venezuela"
+  },
+  {
+   "label": "Second Republic of Venezuela — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Second_Republic_of_Venezuela"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Modern state boundaries are precisely defined by international treaties; the dataset geometry reflects post-independence republican borders, which are well documented in diplomatic and cartographic records from 1830 onward. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Venezuela",
+ "rulers": [
+  {
+   "qid": "Q16569064",
+   "name": "Francisco Javier Ustáriz",
+   "start": 1812,
+   "end": 1812,
+   "image": "Francisco Ustáriz.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20Ust%C3%A1riz.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q8605",
+   "name": "Simón Bolívar",
+   "start": 1817,
+   "end": 1819,
+   "image": "Simón Bolívar by Acevedo Bernal, 1922.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sim%C3%B3n%20Bol%C3%ADvar%20by%20Acevedo%20Bernal%2C%201922.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Ricardo Acevedo Bernal",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q2256182",
+   "name": "Santiago Mariño",
+   "start": 1835,
+   "end": 1835,
+   "image": "Martin Tovar y Tovar 34.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Tovar%20y%20Tovar%2034.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Martín Tovar y Tovar (1827 - 1902)",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q2358589",
+   "name": "José María Vargas",
+   "start": 1835,
+   "end": 1835,
+   "image": "José María Vargas by Martín Tovar y Tovar.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Mar%C3%ADa%20Vargas%20by%20Mart%C3%ADn%20Tovar%20y%20Tovar.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Martin Tovar y Tovar",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q2487449",
+   "name": "Andrés Narvarte",
+   "start": 1835,
+   "end": 1835,
+   "image": "Andres Narvarte 000.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Andres%20Narvarte%20000.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Martín Tovar y Tovar (1827-1902)",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q2497517",
+   "name": "José María Carreño",
+   "start": 1835,
+   "end": 1835,
+   "image": "José María Carreño.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Mar%C3%ADa%20Carre%C3%B1o.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Tito Salas",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q2497526",
+   "name": "Carlos Soublette",
+   "start": 1837,
+   "end": 1839,
+   "image": "Carlos Soublette.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20Soublette.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Martin Tovar y Tovar",
+    "attributionRequired": false
+   }
+  }
+ ],
+ "blurbKey": "Q717__republic-of-venezuela"
+}

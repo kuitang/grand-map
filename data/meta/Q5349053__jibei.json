@@ -1,0 +1,50 @@
+{
+ "qid": "Q5349053",
+ "names": [
+  "Jibei"
+ ],
+ "title": "Jibei",
+ "variantOf": "Q5349053",
+ "endonym": {
+  "native": "濟北",
+  "roman": "Jǐběi"
+ },
+ "capsule": "The Kingdom of Jibei was one of three states — alongside Qi and Jiaodong — into which Xiang Yu divided the old state of Qi in 206 BC, installing the Qi rebel leader Tian An as its king over territory in northern Shandong. The partition was deeply resented by the powerful Qi strongman Tian Rong, whom Xiang Yu had excluded from the settlement entirely. Within months Tian Rong rebelled, drove out Xiang Yu's appointee in Qi, and overran Jibei and Jiaodong, killing Tian An and reunifying the three Qi kingdoms under his own control before the end of 206 BC.",
+ "citations": [
+  {
+   "label": "Eighteen Kingdoms - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Eighteen_Kingdoms"
+  },
+  {
+   "label": "Chu–Han Contention - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chu%E2%80%93Han_Contention"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The political divisions are documented in Sima Qian's Shiji and Ban Gu's Hanshu, but the precise territories assigned to each king are reconstructed from textual sources alone; archaeological demarcation of boundaries is largely impossible. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Eighteen Kingdoms",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Xiang Yu, Hegemon-King (overlord of the Eighteen Kingdoms)",
+   "nativeName": "西楚霸王項羽",
+   "roman": "Xī Chǔ Bàwáng Xiàng Yǔ",
+   "start": -206,
+   "end": -203,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q5349053__jibei"
+}

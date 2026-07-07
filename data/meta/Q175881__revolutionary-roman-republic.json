@@ -1,0 +1,41 @@
+{
+ "qid": "Q175881",
+ "names": [
+  "Revolutionary Roman Republic"
+ ],
+ "title": "Revolutionary Roman Republic",
+ "variantOf": "Q175881",
+ "endonym": {
+  "native": "Repubblica Romana",
+  "roman": "Repubblica Romana"
+ },
+ "capsule": "The Revolutionary Roman Republic in its final year, 1799-1800, was the French-installed sister republic proclaimed on 15 February 1798 after General Berthier's occupation of Rome and the deportation of Pope Pius VI, governed by a rotating five-member consulate, including figures such as Liborio Angelucci and the archaeologist Ennio Quirino Visconti, modeled on the French Directory constitution. Having survived a first Neapolitan assault in late 1798, the republic was extinguished for good on 30 September 1799, when a second Neapolitan army, exploiting the French withdrawal from Italy during the War of the Second Coalition, reoccupied Rome. Full papal government was not restored until Pius VII's entry into Rome in July 1800, closing the roughly eighteen-month interregnum of republican rule over the Papal States' capital.",
+ "citations": [
+  {
+   "label": "Roman Republic (1798-1799) - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Roman_Republic_(1798%E2%80%931799)"
+  },
+  {
+   "label": "Repubblica Romana (1798-1799) - Wikipedia (it)",
+   "url": "https://it.wikipedia.org/wiki/Repubblica_Romana_(1798-1799)"
+  },
+  {
+   "label": "Roman Republic - Britannica",
+   "url": "https://www.britannica.com/place/Roman-Republic-historical-territory-Italy-1798-1799"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Republican-era Roman boundaries are reconstructed from literary sources (Livy, Polybius), inscriptions, and archaeological surveys; provincial boundaries after the mid-second century BC are relatively well attested, but earlier extent in Italy and during the conquest period involves scholarly inference. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Roman Republic (1798-1799)",
+ "blurbKey": "Q175881__revolutionary-roman-republic"
+}

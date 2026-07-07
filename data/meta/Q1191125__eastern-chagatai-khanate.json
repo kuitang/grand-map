@@ -1,0 +1,84 @@
+{
+ "qid": "Q1191125",
+ "names": [
+  "Eastern Chagatai Khanate"
+ ],
+ "title": "Eastern Chagatai Khanate",
+ "variantOf": "Q1191125",
+ "endonym": {
+  "native": "مغولستان",
+  "roman": "مغولستان",
+  "lang": "fa"
+ },
+ "capsule": "Under the historiographic label 'Eastern Chagatai Khanate,' the 1492-1512 window covers the joint but rivalrous rule of Yunus Khan's sons after his 1487 death: Mahmud Khan governing the western steppe from Tashkent and Ahmad Alaq ruling the Turpan basin in the east. The brothers repelled a Timurid attempt to retake Tashkent in 1488 but were later drawn into the wars of Transoxiana, sheltering the Shaybanid claimant Muhammad Shaybani before he turned on them and defeated both khans around 1501-03. Mahmud Khan was captured a second time and executed by Shaybani Khan in 1508, marking the final Chagatayid expulsion from Transoxiana shortly before Mansur Khan and Sultan Said Khan split the khanate outright into Turfan and Yarkent realms.",
+ "citations": [
+  {
+   "label": "Moghulistan - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Moghulistan"
+  },
+  {
+   "label": "Mansur Khan (Moghul Khan) - Wikipedia",
+   "url": "https://en.m.wikipedia.org/wiki/Mansur_Khan_(Moghul_Khan)"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Moghulistan's territorial extent is reconstructed from Timurid chronicles, Chinese dynastic histories, and later Chagatai-language sources; the steppe frontiers were fluid and seasonal, and the polity's boundaries are broadly approximate rather than administratively demarcated. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Moghulistan",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Dost Muhammad Khan",
+   "nativeName": "دوست محمد خان",
+   "roman": "Dōst Muḥammad Khān",
+   "start": 1462,
+   "end": 1469,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Yunus Khan",
+   "nativeName": "يونس خان",
+   "roman": "Yūnus Khān",
+   "start": 1469,
+   "end": 1487,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ahmad Alaq Khan",
+   "nativeName": "احمد خان",
+   "roman": "Aḥmad Khān (Alāchā)",
+   "start": 1487,
+   "end": 1503,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Mansur Khan",
+   "nativeName": "منصور خان",
+   "roman": "Manṣūr Khān",
+   "start": 1503,
+   "end": 1519,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q1191125__eastern-chagatai-khanate"
+}

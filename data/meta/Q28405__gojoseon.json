@@ -1,0 +1,62 @@
+{
+ "qid": "Q28405",
+ "names": [
+  "Gojoseon"
+ ],
+ "title": "Gojoseon",
+ "variantOf": "Q28405",
+ "endonym": {
+  "native": "고조선 (古朝鮮)",
+  "roman": "Gojoseon"
+ },
+ "capsule": "Within its own historical span, Gojoseon was ruled by the Wiman (Wei Man) dynasty: the Yan-refugee general Wiman usurped the throne from King Jun around 194 BCE and founded Wiman Joseon at the fortress capital of Wanggeom-seong, near modern Pyongyang. Under Wiman and his successors the kingdom grew wealthy by controlling trade between Han China and the peoples of Manchuria and adopted iron-age military technology. The line ended with Wiman's grandson King Ugeo, whose standoff with Emperor Wu of Han over trade and diplomatic access triggered the Han invasion that captured Wanggeom-seong in 108 BCE — a history wholly separate from the later Joseon dynasty (1392–1897) that shares this entry's Wikidata identifier.",
+ "citations": [
+  {
+   "label": "Wiman of Gojoseon - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Wiman_of_Gojoseon"
+  },
+  {
+   "label": "Gojoseon - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gojoseon"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Boundaries are well-attested from the fifteenth century onward through administrative records and border treaties establishing the Yalu and Tumen River frontier with Ming and later Qing China; pre-fifteenth-century northern limits are slightly less precise. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Gojoseon",
+ "rulers": [
+  {
+   "name": "Wiman",
+   "native": "衛滿",
+   "roman": "Wiman",
+   "start": -194,
+   "end": -161,
+   "nativeName": "衛滿"
+  },
+  {
+   "name": "Son of Wiman (name not recorded)",
+   "roman": "unnamed son of Wiman",
+   "start": -161,
+   "end": -129,
+   "nativeName": null
+  },
+  {
+   "name": "Ugeo",
+   "native": "右渠王",
+   "roman": "Ugeo",
+   "start": -129,
+   "end": -108,
+   "nativeName": "右渠王"
+  }
+ ],
+ "blurbKey": "Q28405__gojoseon"
+}

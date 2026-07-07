@@ -1,0 +1,50 @@
+{
+ "qid": "Q5349053",
+ "names": [
+  "Eighteen Kingdoms"
+ ],
+ "title": "Eighteen Kingdoms",
+ "variantOf": "Q5349053",
+ "endonym": {
+  "native": "十八國",
+  "roman": "Shíbā Guó"
+ },
+ "capsule": "The Eighteen Kingdoms were the fengjian polities that the Chu warlord Xiang Yu carved out of the fallen Qin dynasty's territory in spring 206 BC, reviving a feudal-style order to reward allies and rival generals while retaining his own dominance as Hegemon-King of Western Chu. Xiang Yu distributed thrones among former rebel leaders, surrendered Qin generals, and restored regional nobility — including the states of Dai, Jibei, Jiujiang, Henan, Hán, and Linjiang, among others — while relegating his rival Liu Bang to the remote Kingdom of Han in Hanzhong and Bashu. The settlement collapsed almost immediately amid renewed rebellion in Qi and Xiang Yu's murder of the figurehead Emperor Yi, triggering the Chu–Han Contention that ended in 202 BC with Liu Bang's founding of the Han dynasty.",
+ "citations": [
+  {
+   "label": "Eighteen Kingdoms - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Eighteen_Kingdoms"
+  },
+  {
+   "label": "Xiang Yu - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Xiang_Yu"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The political divisions are documented in Sima Qian's Shiji and Ban Gu's Hanshu, but the precise territories assigned to each king are reconstructed from textual sources alone; archaeological demarcation of boundaries is largely impossible. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Eighteen Kingdoms",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Xiang Yu, Hegemon-King (overlord of the Eighteen Kingdoms)",
+   "nativeName": "西楚霸王項羽",
+   "roman": "Xī Chǔ Bàwáng Xiàng Yǔ",
+   "start": -206,
+   "end": -203,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q5349053__eighteen-kingdoms"
+}

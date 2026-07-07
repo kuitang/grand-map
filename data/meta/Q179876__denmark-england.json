@@ -1,0 +1,127 @@
+{
+ "qid": "Q179876",
+ "names": [
+  "Denmark-England"
+ ],
+ "title": "Denmark-England",
+ "variantOf": "Q179876",
+ "endonym": {
+  "native": "Danmǫrk ok Englaland",
+  "roman": "Danmǫrk ok Englaland",
+  "lang": "non"
+ },
+ "capsule": "In the last phase of Cnut the Great's North Sea Empire, his son Harthacnut ruled Denmark and England jointly from 1040 until he collapsed and died at a wedding feast in June 1042. Norway's King Magnus the Good then claimed the Danish throne under an earlier mutual-succession pact with Harthacnut and asserted a rival claim to England against the newly acclaimed Edward the Confessor, a dispute over the English crown that persisted until Magnus's own death in October 1047 ended the Norwegian bid.",
+ "citations": [
+  {
+   "label": "Harthacnut - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Harthacnut"
+  },
+  {
+   "label": "Magnus the Good - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Magnus_the_Good"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases (Times Atlas of World History; Kinder & Hilgemann; Shepherd 1926) at ~0.07° resolution. English borders (Welsh march, Scottish border) are comparatively well documented; continental holdings of English kings are drawn as separate polities. Confidence: high. Capsule researched for this polity/era specifically (confidence: high).",
+ "rulers": [
+  {
+   "qid": "Q134128",
+   "name": "Cnut the Great",
+   "start": 1016,
+   "end": 1035,
+   "ordinal": null,
+   "image": "Knut der Große cropped.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Knut%20der%20Gro%C3%9Fe%20cropped.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q188684",
+   "name": "Edmund II of England",
+   "start": 1016,
+   "end": 1016,
+   "ordinal": null,
+   "image": "Edmund Iron.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edmund%20Iron.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "AnonymousUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q188627",
+   "name": "Harold Harefoot",
+   "start": 1037,
+   "end": 1040,
+   "ordinal": null,
+   "image": "Harold Harefoot in the Cambridge University Library.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Harold%20Harefoot%20in%20the%20Cambridge%20University%20Library.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "AnonymousUnknown author",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q190091",
+   "name": "Harthacanute",
+   "start": 1040,
+   "end": 1042,
+   "ordinal": null,
+   "image": "Coin danish and english king Harthacnut, Hardeknut (1018-1042).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Coin%20danish%20and%20english%20king%20Harthacnut%2C%20Hardeknut%20(1018-1042).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "Hedning",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q130005",
+   "name": "Edward the Confessor",
+   "start": 1042,
+   "end": 1066,
+   "ordinal": null,
+   "image": "Bayeux Tapestry scene1 EDWARD REX.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bayeux%20Tapestry%20scene1%20EDWARD%20REX.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Myrabella",
+    "attributionRequired": false
+   }
+  },
+  {
+   "qid": "Q159597",
+   "name": "Harold Godwinson",
+   "start": 1066,
+   "end": 1066,
+   "ordinal": null,
+   "image": "Harold Godwinson 02 (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Harold%20Godwinson%2002%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Georgemiller381",
+    "attributionRequired": true
+   }
+  },
+  {
+   "qid": "Q37594",
+   "name": "William the Conqueror",
+   "start": 1066,
+   "end": 1087,
+   "ordinal": null,
+   "image": "Bayeux Tapestry William.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bayeux%20Tapestry%20William.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Myrabella",
+    "attributionRequired": false
+   }
+  }
+ ],
+ "blurbKey": "Q179876__denmark-england"
+}

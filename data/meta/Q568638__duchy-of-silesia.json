@@ -1,0 +1,83 @@
+{
+ "qid": "Q568638",
+ "names": [
+  "Duchy of Silesia"
+ ],
+ "title": "Duchy of Silesia",
+ "variantOf": "Q568638",
+ "endonym": {
+  "native": "Księstwo śląskie",
+  "roman": "Księstwo śląskie"
+ },
+ "capsule": "The Duchy of Silesia was carved out in 1138 when Bolesław III Wrymouth's testament assigned the region to his eldest son Władysław II the Exile, whose banishment in 1146 briefly ended direct Piast rule there. Restored with imperial backing under Frederick Barbarossa, Władysław's sons returned to rule jointly at Wrocław from 1163 until rivalry split the duchy in 1172 among Bolesław I the Tall, Mieszko I Tanglefoot and Konrad Spindleshanks, the first of a long series of Silesian partitions. This Silesian Piast line, based at Wrocław and Legnica, briefly held the senior Polish throne under Henry I the Bearded and Henry II the Pious, until the latter's death fighting the Mongols at Legnica in 1241 opened the way to ever-finer fragmentation of Silesia into smaller duchies through the rest of the 13th century.",
+ "citations": [
+  {
+   "label": "Wikipedia: Duchy of Silesia",
+   "url": "https://en.wikipedia.org/wiki/Duchy_of_Silesia"
+  },
+  {
+   "label": "Wikipedia: Duchies of Silesia",
+   "url": "https://en.wikipedia.org/wiki/Duchies_of_Silesia"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The original unified Duchy of Silesia's extent (modern Silesia) is well-established, but because it fragmented into dozens of sub-duchies after c. 1200, mapping it as a single entity after that point is a simplification. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Duchy of Silesia",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Władysław II the Exile",
+   "nativeName": "Władysław II Wygnaniec",
+   "roman": "",
+   "start": 1139,
+   "end": 1146,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Bolesław I the Tall",
+   "nativeName": "Bolesław I Wysoki",
+   "roman": "",
+   "start": 1163,
+   "end": 1201,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Henry I the Bearded",
+   "nativeName": "Henryk I Brodaty",
+   "roman": "",
+   "start": 1201,
+   "end": 1238,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Henry II the Pious",
+   "nativeName": "Henryk II Pobożny",
+   "roman": "",
+   "start": 1238,
+   "end": 1241,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q568638__duchy-of-silesia"
+}

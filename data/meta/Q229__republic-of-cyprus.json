@@ -1,0 +1,1111 @@
+{
+ "qid": "Q229",
+ "names": [
+  "Republic of Cyprus"
+ ],
+ "title": "Republic of Cyprus",
+ "variantOf": "Q229",
+ "endonym": {
+  "native": "Κυπριακή Δημοκρατία",
+  "roman": "Kypriaki Dimokratia"
+ },
+ "capsule": "The Republic of Cyprus is the modern sovereign state proclaimed on 16 August 1960 under the Zurich-London Agreements, ending British colonial rule and establishing a power-sharing constitution between the island's Greek Cypriot majority and Turkish Cypriot minority under President Makarios III. Communal breakdown in the 1960s and a Greek-backed coup in 1974 led to the Turkish invasion of July-August 1974, after which the Republic's effective jurisdiction was confined to the southern two-thirds of the island, with the north under a separate, internationally unrecognized Turkish Cypriot administration. Since 1 May 2004 the Republic has been a member of the European Union, though EU law is suspended in the north pending reunification, and UN-brokered talks, most recently at Crans-Montana in 2017, have repeatedly failed to produce a settlement.",
+ "citations": [
+  {
+   "label": "History of Cyprus - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/History_of_Cyprus"
+  },
+  {
+   "label": "Cyprus problem - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cyprus_problem"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The existence and general terms of the Cyprus condominium are attested in Byzantine and Arab chronicles, but the island's precise administrative division and the degree of day-to-day joint governance are debated among historians of the early medieval Mediterranean. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Cyprus",
+ "rulers": [
+  {
+   "qid": "Q153509",
+   "name": "Makarios III",
+   "start": 1968,
+   "end": 1973,
+   "image": "Makarios III and Robert F. Wagner NYWTS cropped.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Makarios%20III%20and%20Robert%20F.%20Wagner%20NYWTS%20cropped.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "New York World-Telegram and the Sun staff photographer: Fernandez, Orlando, photographer. Cropped by Badseed using The GIMP.",
+    "attributionRequired": false
+   },
+   "nativeName": "Αρχιεπίσκοπος Μακάριος Γ΄",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q552389",
+   "name": "Spiros Cyprianou",
+   "start": 1977,
+   "end": 1978,
+   "image": "Spyros Kyprianou 1981 crop.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Spyros%20Kyprianou%201981%20crop.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Mary Anne Fackelman",
+    "attributionRequired": false
+   },
+   "nativeName": "Σπύρος Κυπριανού",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q39180",
+   "name": "Giorgos Vasiliou",
+   "start": 1988,
+   "end": 1993,
+   "image": "George Vassiliou.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/George%20Vassiliou.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 4.0",
+    "artist": "Ревтум",
+    "attributionRequired": true
+   },
+   "nativeName": "Γιώργος Βασιλείου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q317648",
+   "name": "Glafcos Clerides",
+   "start": 1993,
+   "end": 1998,
+   "image": "Glafcos Clerides, 1993.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Glafcos%20Clerides%2C%201993.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 4.0",
+    "artist": "European Commission",
+    "attributionRequired": true
+   },
+   "nativeName": "Γλαύκος Κληρίδης",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q200776",
+   "name": "Tassos Papadopoulos",
+   "start": 2003,
+   "end": 2008,
+   "image": "Visit of Tassos Papadopoulos, President of Cyprus, to the EC (P-011163 00-02).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Visit%20of%20Tassos%20Papadopoulos%2C%20President%20of%20Cyprus%2C%20to%20the%20EC%20(P-011163%2000-02).jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY 4.0",
+    "artist": "Danny Gys",
+    "attributionRequired": true
+   },
+   "nativeName": "Τάσσος Παπαδόπουλος",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q16707839",
+   "name": "Nikos Patsiaouros",
+   "start": 2007,
+   "end": null,
+   "image": null,
+   "nativeName": "Νίκος Πατσιάουρος",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29474498",
+   "name": "Panagiotis Papadopoulos",
+   "start": 2007,
+   "end": null,
+   "image": null,
+   "nativeName": "Παναγιώτης Παπαδόπουλος",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29791422",
+   "name": "Andreas Orfanou",
+   "start": 2007,
+   "end": null,
+   "image": null,
+   "nativeName": "Ανδρέας Ορφανού",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q51735082",
+   "name": "Μιχαλάκης Κώστα",
+   "start": 2007,
+   "end": null,
+   "image": null
+  },
+  {
+   "qid": "Q57334",
+   "name": "Dimitris Christofias",
+   "start": 2008,
+   "end": 2013,
+   "image": "Demetris Christofias in February 2011.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Demetris%20Christofias%20in%20February%202011.jpg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 2.0",
+    "artist": "Υπουργείο Εξωτερικών",
+    "attributionRequired": true
+   },
+   "nativeName": "Δημήτρης Χριστόφιας",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29447647",
+   "name": "ANDREAS CHRISTOFI",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Ανδρέας Χριστοφή",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29449006",
+   "name": "Panicos Charalampous",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Πανίκος Χαραλάμπους",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29451912",
+   "name": "Giannakis Papaioannou",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Γιαννάκης Παπαΐωάννου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29453557",
+   "name": "Marinos Timotheou",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Μαρίνος Τιμόθεου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29462012",
+   "name": "Christakis Leontiou",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Χριστάκης Λεοντίου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29462735",
+   "name": "Michalis Konstantinides",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Μιχάλης Κωνσταντινίδης",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29462994",
+   "name": "Charis Anastasiades",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Χάρης Αναστασιάδης",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29463086",
+   "name": "Ionas Iona",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Ιωνάς Ιωνά",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29472624",
+   "name": "Kriton Kiriakides",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Κρίτων Κυριακίδης",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29474253",
+   "name": "Panikos Karkalli",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Πανίκος Καρκαλλή",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29474316",
+   "name": "Andreas Savva",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Ανδρέας Σάββα",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29474482",
+   "name": "Michael Evgenios",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Μιχαήλ Ευγένιος",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29547094",
+   "name": "Socrates Pavlou",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Σωκράτης Παύλου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29919667",
+   "name": "Andreas Konstantinou",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Ανδρέας Κωνσταντίνου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29920405",
+   "name": "Efstathios Georgiou",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Ευστάθιος Γεωργίου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29951298",
+   "name": "Costas Christofi",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Κώστας Χριστοφή",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29996944",
+   "name": "Michalakis Michael Onoufriou",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Μιχαλάκης Μιχαήλ Ονουφρίου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q30065482",
+   "name": "Simos Constantinou",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Σίμος Κωνσταντίνου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q30068079",
+   "name": "Andreas Kosti",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Ανδρέας Κωστή",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q33002266",
+   "name": "Lenas Markantonis",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Λένας Μαρκαντώνης",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q44949249",
+   "name": "Paraskevas Irakleous",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Παρασκευάς Ηρακλέους",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q52737778",
+   "name": "Neofytos Panayi",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Νεόφυτος Παναγή",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q53032515",
+   "name": "Panayiotis Tsolakis",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Παναγιώτης Τσολάκης",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q53041773",
+   "name": "Nikos Kallis",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Νίκος Καλλής",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q53155586",
+   "name": "Vaggelis Michail",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Βαγγέλης Μιχαήλ",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q53230618",
+   "name": "Andreas Antoniou",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Ανδρέας Αντωνίου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q53233447",
+   "name": "Aristos Kavkalias",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Άριστος Καυκαλιάς",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q53265279",
+   "name": "Evanthis Marnerou",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Ευάνθης Μαρνέρου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q53267494",
+   "name": "Constantinos Champoulides",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Κωνσταντίνος Χαμπουλίδης",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q53282025",
+   "name": "Apostolos Giannakas",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Απόστολος Γιάννακας",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q53358347",
+   "name": "Andreas Perkleous",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Ανδρέας Περικλέους",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q53744977",
+   "name": "Andreas Aristotelous",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Ανδρέας Αριστοτέλους",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q53747077",
+   "name": "Christakis Chrisostomou",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Χριστάκης Χρυσοστόμου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q53764636",
+   "name": "Christakis Christodoulou",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Χριστάκης Χριστοδούλου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q53776131",
+   "name": "Renos Moiseos",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Ρένος Μωυσέως",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q53790603",
+   "name": "Georgios Evripidou",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Γεώργιος Ευριπίδου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q53792455",
+   "name": "Charalampos Konstantinides",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Χαράλαμπος Κωνσταντινίδης",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q53799065",
+   "name": "Panikos Panayiotou",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Πανικός Παναγιώτου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q53866570",
+   "name": "Pampos Zorbas",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Πάμπος Ζορμπάς",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q53866741",
+   "name": "Alexandros Prodromou",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Αλέξανδρος Προδρόμου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q56271128",
+   "name": "Dimos Yiagkou",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Δήμος Γιάγκου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q56285073",
+   "name": "Savvas Xiouris",
+   "start": 2012,
+   "end": null,
+   "image": null,
+   "nativeName": "Σάββας Ξιούρης",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q2112764",
+   "name": "Nikos Anastasiades",
+   "start": 2013,
+   "end": 2023,
+   "image": "Nicos Anastasiades, November 2022 (ABG GPO1).jpeg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicos%20Anastasiades%2C%20November%202022%20(ABG%20GPO1).jpeg?width=320",
+   "imageLicense": {
+    "license": "CC BY-SA 3.0",
+    "artist": "Amos Ben Gershom",
+    "attributionRequired": true
+   },
+   "nativeName": "Νίκος Αναστασιάδης",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q56271924",
+   "name": "Andreas Vasiliades",
+   "start": 2014,
+   "end": null,
+   "image": null,
+   "nativeName": "Ανδρέας Βασιλειάδης",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29450682",
+   "name": "Vasos Koumbaros",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Βάσος Κουμπάρος",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29461407",
+   "name": "Christodoulos Milonas",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Χριστόδουλος Μυλωνάς",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29461533",
+   "name": "Markos Christofi",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Μάρκος Χριστοφή",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29461612",
+   "name": "Michael Ioakim",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Μιχαήλ Ιωακείμ",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29462297",
+   "name": "Andréas Xydás",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Ανδρέας Ξυδάς",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29462357",
+   "name": "Achilleas Antoniou",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Αχιλλέας Αντωνίου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29462463",
+   "name": "Charalampos Ioannou",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Χαράλαμπος Ιωάννου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29462667",
+   "name": "Andreas Evgeniou",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Ανδρέας Ευγενίου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29463210",
+   "name": "Georgios Stilianou",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Γεώργιος Στυλιανού",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29463284",
+   "name": "Aimilios Ttofalis",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Αιμίλιος Ττοφαλλής",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29463465",
+   "name": "Kiriakos Mavris",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Kυριάκος Μαυρής",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29472579",
+   "name": "Efthivoulos Charalampous",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Ευθύβουλος Χαραλάμπους",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29472715",
+   "name": "Fivos Nikolaou",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Φοίβος Νικολάου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29472785",
+   "name": "Lefteris Perikli",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Λευτέρης Περικλή",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29474341",
+   "name": "Andreas Stavrou",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Ανδρέας Σταύρου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29474427",
+   "name": "Georgios Panayiotou",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Γεώργιος Παναγιώτου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29474570",
+   "name": "Kyriakos Christodoulou",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Κυριάκος Χριστοδούλου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29474887",
+   "name": "Michalakis Xatziargyrou",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Μιχαλάκης Χατζηαργυρού",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29474946",
+   "name": "Lazaros Lazarou",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Λάζαρος Λαζάρου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29538119",
+   "name": "Christoforos Ioannides",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Χριστόφορος Ιωαννίδης",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29646842",
+   "name": "Philactis Heracleous",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Φυλακτής Ηρακλέους",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29705784",
+   "name": "Giorgos Charalampous",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Γιώργος Χαραλάμπους",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29909523",
+   "name": "Nicos Nicolaou",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Νίκος Νικολάου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29912841",
+   "name": "Nicos Aresti",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Νίκος Αρέστη",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29914770",
+   "name": "Charalampos Charalampous",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Χαράλαμπος Χαραλάμπους",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29989468",
+   "name": "Andreas Spirou",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Ανδρέας Σπύρου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29993247",
+   "name": "Neofytos Neofytou",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Νεόφυτος Νεοφύτου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q29996573",
+   "name": "Adonis Papachristoforou",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Aδωνης Παπαχριστοφορου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q30001582",
+   "name": "Andreas Pampakas",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Ανδρέας Παμπακάς",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q51459534",
+   "name": "Vasileiou Vasos",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Βασιλείου Βάσος",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q51497522",
+   "name": "Christos Champou",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Χρίστος Χάμπου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q51541726",
+   "name": "Andreas Psilos",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Αντρέας Ψηλός",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q51551460",
+   "name": "Eleni Themistokleous",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Ελένη Θεμιστοκλέους",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q51581432",
+   "name": "Andreas Fotiou",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Ανδρέας Φωτίου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q51600091",
+   "name": "Marios Polikarpou",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Μάριος Πολυκάρπου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q51690661",
+   "name": "Pantelis Georgiou",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Παντελής Γεωργίου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q51695310",
+   "name": "Michales Mosfiles",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Μιχάλης Μοσφίλης",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q51730225",
+   "name": "Mathaios Protopapas",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Ματθαίος Πρωτοπαπάς",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q51875886",
+   "name": "Vasos Menelaou",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Βάσος Μενελάου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q52792978",
+   "name": "Christakis Theocharous",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Χριστάκης Θεοχάρους",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q52814693",
+   "name": "Filippos Karseras",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Φίλιππος Καρσεράς",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q53022475",
+   "name": "Lefkios Prodromou",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Λεύκιος Προδρόμου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q53224545",
+   "name": "Sofoklis Georgiou",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Σοφοκλής Γεωργίου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q53260684",
+   "name": "Konstantia Antzouli",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Κωνσταντία Αντζουλή",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q53351839",
+   "name": "Loukas Genethliou",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Λούκας Γενεθλίου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q53363528",
+   "name": "Michales Georgiades",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Μιχάλης Γεωργιάδης",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q53368471",
+   "name": "Konstantinos Papatheodorou",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Κωνσταντίνος Παπαθεοδώρου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q53724401",
+   "name": "Michalis Papaelissaios",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Μιχάλης Παπαελισσαίος",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q53747874",
+   "name": "Nikos Spirou",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Νίκος Σπύρου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q53764737",
+   "name": "Charalampous Charalampos",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Χαραλάμπους Χαράλαμπος",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q53788269",
+   "name": "Andreas Konstantinou",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Ανδρέας Κωνσταντίνου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q53869183",
+   "name": "Panayiotis Mappas",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Παναγιώτης Μάππας",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q53871470",
+   "name": "Pampos Charalampous",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Πάμπος Χαραλάμπους",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q56285390",
+   "name": "Andreas Stavrou",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Ανδρέας Σταύρου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q56285684",
+   "name": "Savvas Karamanos",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Σάββας Καραμάνος",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q56285752",
+   "name": "Nikos Anthimou",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Νίκος Ανθίμου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q56333787",
+   "name": "Antonis Karachanas",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Αντώνης Καραχάννας",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q56654401",
+   "name": "Savvas Gregoriou",
+   "start": 2017,
+   "end": null,
+   "image": null,
+   "nativeName": "Σάββας Γρηγορίου",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q53037554",
+   "name": "Andreas Aresti",
+   "start": 2020,
+   "end": null,
+   "image": null,
+   "nativeName": "Ανδρέας Αρέστη",
+   "nativeLang": "el"
+  },
+  {
+   "qid": "Q48905549",
+   "name": "Nicos Christodoulides",
+   "start": 2023,
+   "end": null,
+   "image": "Nikos CHRISTODOULIDES (cropped).jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikos%20CHRISTODOULIDES%20(cropped).jpg?width=320",
+   "imageLicense": {
+    "license": "Attribution",
+    "artist": "European Union",
+    "attributionRequired": false
+   },
+   "nativeName": "Νίκος Χριστοδουλίδης",
+   "nativeLang": "el"
+  }
+ ],
+ "blurbKey": "Q229__republic-of-cyprus"
+}

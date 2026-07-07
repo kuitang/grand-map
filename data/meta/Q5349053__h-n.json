@@ -1,0 +1,50 @@
+{
+ "qid": "Q5349053",
+ "names": [
+  "Hán"
+ ],
+ "title": "Hán",
+ "variantOf": "Q5349053",
+ "endonym": {
+  "native": "韓",
+  "roman": "Hán"
+ },
+ "capsule": "The Kingdom of Hán (written with an extra letter to distinguish it from the Han dynasty) was the fief Xiang Yu allowed King Cheng to retain in 206 BC over part of the former Warring States territory of Han, with its capital at Yangzhai. Unlike most of the Eighteen Kingdoms' rulers, Han Cheng was a scion of the old Warring States Han royal house rather than a rebel general. Xiang Yu grew distrustful of him, never let him take up his fief, and had him executed later that year, installing his own follower Zheng Chang as king — who was soon defeated by Liu Bang's forces and surrendered, helping trigger the wider collapse of the Eighteen Kingdoms settlement.",
+ "citations": [
+  {
+   "label": "Eighteen Kingdoms - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Eighteen_Kingdoms"
+  },
+  {
+   "label": "Chu–Han Contention - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chu%E2%80%93Han_Contention"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The political divisions are documented in Sima Qian's Shiji and Ban Gu's Hanshu, but the precise territories assigned to each king are reconstructed from textual sources alone; archaeological demarcation of boundaries is largely impossible. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Eighteen Kingdoms",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Xiang Yu, Hegemon-King (overlord of the Eighteen Kingdoms)",
+   "nativeName": "西楚霸王項羽",
+   "roman": "Xī Chǔ Bàwáng Xiàng Yǔ",
+   "start": -206,
+   "end": -203,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q5349053__h-n"
+}

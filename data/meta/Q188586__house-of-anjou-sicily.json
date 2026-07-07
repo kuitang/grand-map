@@ -1,0 +1,60 @@
+{
+ "qid": "Q188586",
+ "names": [
+  "House of Anjou-Sicily"
+ ],
+ "title": "House of Anjou-Sicily",
+ "variantOf": "Q188586",
+ "endonym": {
+  "native": "Regnum Siciliae",
+  "roman": "Regnum Siciliae"
+ },
+ "capsule": "After the Sicilian Vespers revolt of 1282 stripped Charles I of Anjou's dynasty of the island of Sicily, his Angevin heirs retained the mainland provinces from their capital at Naples, still styling themselves kings of Sicily ('citra Pharum,' this side of the strait) even as Aragon ruled the island itself. Charles II (r. 1285-1309) and his son Robert the Wise (r. 1309-1343) built Naples into a major center of Trecento art and learning, patronizing Petrarch and Boccaccio and hosting Giotto's frescoes. The dynasty's fortunes declined under the contested reign of Robert's granddaughter Joanna I (r. 1343-1382), who was deposed by her cousin Charles of Durazzo in 1381 and murdered in 1382, passing the Neapolitan throne to the rival Angevin-Durazzo line amid the War of the Angevin Succession.",
+ "citations": [
+  {
+   "label": "Wikipedia: Charles I of Anjou",
+   "url": "https://en.wikipedia.org/wiki/Charles_I_of_Anjou"
+  },
+  {
+   "label": "Wikipedia: Joanna I of Naples",
+   "url": "https://en.wikipedia.org/wiki/Joanna_I_of_Naples"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases (Times Atlas of World History; Kinder & Hilgemann; Shepherd 1926) at ~0.07° resolution. Insular and peninsular extents well attested. Confidence: high. Capsule researched for this polity/era specifically (confidence: high).",
+ "rulers": [
+  {
+   "qid": "Q312311",
+   "name": "Peter III of Aragon",
+   "start": 1282,
+   "end": 1285,
+   "ordinal": null,
+   "image": "Pedro III de Aragón.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20III%20de%20Arag%C3%B3n.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Filippo Ariosto",
+    "attributionRequired": false
+   },
+   "nativeName": "Petrus III",
+   "nativeLang": "la"
+  },
+  {
+   "qid": "Q367226",
+   "name": "Frederick III of Sicily",
+   "start": 1295,
+   "end": 1337,
+   "ordinal": null,
+   "image": "Federico III.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Federico%20III.jpg?width=320",
+   "imageLicense": {
+    "license": "Public domain",
+    "artist": "Unknown Master",
+    "attributionRequired": false
+   },
+   "nativeName": "Fridericus III Siciliae",
+   "nativeLang": "la"
+  }
+ ],
+ "blurbKey": "Q188586__house-of-anjou-sicily"
+}

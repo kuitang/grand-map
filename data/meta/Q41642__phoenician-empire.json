@@ -1,0 +1,172 @@
+{
+ "qid": "Q41642",
+ "names": [
+  "Phoenician Empire"
+ ],
+ "title": "Phoenician Empire",
+ "variantOf": "Q41642",
+ "endonym": {
+  "native": "𐤊𐤍𐤏𐤍",
+  "roman": "Kena'an",
+  "lang": "phn"
+ },
+ "capsule": "'Phoenician Empire' is a loose modern label for the wider Mediterranean network of Phoenician colonies and trading posts — including Carthage, Gadir (Cádiz), Utica, and outposts in Cyprus, Sardinia, and Sicily — rather than for a single centralized state ruled from the Levantine homeland. Unlike Phoenicia's autonomous city-kingdoms, this colonial web had no unified sovereign; its most powerful node, Carthage, only emerged as a genuine imperial power over the western Mediterranean centuries after its traditional founding date, eventually overshadowing older colonies like Utica and Gadir. This loosely termed 'empire' effectively ended with Carthage's destruction by Rome in 146 BCE.",
+ "citations": [
+  {
+   "label": "History of Carthage – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/History_of_Carthage"
+  },
+  {
+   "label": "Phoenicia – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Phoenicia"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The core coastal city-states are well attested in Assyrian annals, Hebrew scriptures, and Greek sources, but mapping Phoenicia as a territorial unit is inherently problematic because it was never a unified polity; extent polygons are necessarily schematic. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Phoenicia",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Abibaal",
+   "nativeName": "",
+   "roman": "Abibaal",
+   "start": -993,
+   "end": -981,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Hiram I",
+   "nativeName": "",
+   "roman": "Hiram I",
+   "start": -980,
+   "end": -947,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Baal-Eser I",
+   "nativeName": "",
+   "roman": "Baal-Eser I",
+   "start": -947,
+   "end": -930,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Abdastratus",
+   "nativeName": "",
+   "roman": "Abdastratus",
+   "start": -930,
+   "end": -919,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ithobaal I",
+   "nativeName": "",
+   "roman": "Ithobaal I (Ethbaal)",
+   "start": -887,
+   "end": -856,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Mattan I",
+   "nativeName": "",
+   "roman": "Mattan I",
+   "start": -840,
+   "end": -832,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Pygmalion",
+   "nativeName": "",
+   "roman": "Pygmalion (Pumayyaton)",
+   "start": -831,
+   "end": -785,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Luli",
+   "nativeName": "",
+   "roman": "Luli (Elulaios)",
+   "start": -729,
+   "end": -694,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Baal I",
+   "nativeName": "",
+   "roman": "Baal I",
+   "start": -680,
+   "end": -660,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ithobaal III",
+   "nativeName": "",
+   "roman": "Ithobaal III",
+   "start": -591,
+   "end": -573,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Baal II",
+   "nativeName": "",
+   "roman": "Baal II",
+   "start": -573,
+   "end": -564,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Hiram III",
+   "nativeName": "",
+   "roman": "Hiram III",
+   "start": -551,
+   "end": -532,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q41642__phoenician-empire"
+}

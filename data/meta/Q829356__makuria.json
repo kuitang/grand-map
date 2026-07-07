@@ -1,0 +1,359 @@
+{
+ "qid": "Q829356",
+ "names": [
+  "Makuria"
+ ],
+ "title": "Makuria",
+ "variantOf": "Q829356",
+ "endonym": {
+  "native": "ⲇⲱⲧⲁⲩⲟ",
+  "roman": "Dotawo",
+  "lang": "xnz"
+ },
+ "capsule": "Makuria emerged as a Christian Nubian kingdom centered on Dongola in the Nile's Dongola Reach, converting from Nubian traditional religion to Christianity around the mid-6th century under Byzantine missionary influence. It became the dominant power of medieval Nubia, later absorbing the neighboring kingdom of Nobadia and holding off Arab-Egyptian invasions after negotiating the Baqt treaty (c. 652). Makuria's central authority weathered internal succession disputes and periodic Mamluk incursions until dynastic collapse and civil war in the early 14th century eroded its power, though a much-reduced kingdom persisted at Dongola into the 15th century.",
+ "citations": [
+  {
+   "label": "Wikipedia, \"Makuria\"",
+   "url": "https://en.wikipedia.org/wiki/Makuria"
+  },
+  {
+   "label": "World History Encyclopedia, \"Old Dongola\"",
+   "url": "https://www.worldhistory.org/Old_Dongola/"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Makuria's core territory along the Nile from the Third Cataract to the confluence is well-established archaeologically, but lateral extent into the Bayuda Desert and eastern steppes is poorly documented and boundary reconstructions rely heavily on inference. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Makuria",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Merkurios",
+   "nativeName": "ⲙⲉⲣⲕⲟⲩⲣⲓⲟⲥ",
+   "roman": "Merkurios",
+   "start": 697,
+   "end": 722,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Simon",
+   "nativeName": "ⲥⲓⲙⲱⲛ",
+   "roman": "Simon",
+   "start": 722,
+   "end": 742,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Abraham",
+   "nativeName": "ⲁⲃⲣⲁϩⲁⲙ",
+   "roman": "Abraham",
+   "start": 742,
+   "end": 768,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Kyriakos",
+   "nativeName": "ⲕⲩⲣⲓⲁⲕⲟⲥ",
+   "roman": "Kyriakos",
+   "start": 768,
+   "end": 808,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Zacharias I",
+   "nativeName": "ⲍⲁⲭⲁⲣⲓⲁⲥ",
+   "roman": "Zacharias I",
+   "start": 808,
+   "end": 835,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "George I",
+   "nativeName": "ⲅⲉⲱⲣⲅⲓⲟⲥ",
+   "roman": "George I",
+   "start": 835,
+   "end": 871,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Zacharias II",
+   "nativeName": "ⲍⲁⲭⲁⲣⲓⲁⲥ",
+   "roman": "Zacharias II",
+   "start": 871,
+   "end": 892,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "George II",
+   "nativeName": "ⲅⲉⲱⲣⲅⲓⲟⲥ",
+   "roman": "George II",
+   "start": 892,
+   "end": 920,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Zacharias III",
+   "nativeName": "ⲍⲁⲭⲁⲣⲓⲁⲥ",
+   "roman": "Zacharias III",
+   "start": 920,
+   "end": 956,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "George III",
+   "nativeName": "ⲅⲉⲱⲣⲅⲓⲟⲥ",
+   "roman": "George III",
+   "start": 956,
+   "end": 1000,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Raphael",
+   "nativeName": "ⲣⲁⲫⲁⲏⲗ",
+   "roman": "Raphael",
+   "start": 1000,
+   "end": 1002,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "George IV",
+   "nativeName": "ⲅⲉⲱⲣⲅⲓⲟⲥ",
+   "roman": "George IV",
+   "start": 1002,
+   "end": 1010,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Zacharias IV",
+   "nativeName": "ⲍⲁⲭⲁⲣⲓⲁⲥ",
+   "roman": "Zacharias IV",
+   "start": 1010,
+   "end": 1015,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Basil",
+   "nativeName": "ⲃⲁⲥⲓⲗⲉⲓⲟⲥ",
+   "roman": "Basil",
+   "start": 1015,
+   "end": 1040,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "George V",
+   "nativeName": "ⲅⲉⲱⲣⲅⲓⲟⲥ",
+   "roman": "George V",
+   "start": 1040,
+   "end": 1065,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Solomon",
+   "nativeName": "ⲥⲟⲗⲟⲙⲱⲛ",
+   "roman": "Solomon",
+   "start": 1065,
+   "end": 1092,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Moses Giorgios",
+   "nativeName": "ⲙⲱⲩⲥⲏⲥ ⲅⲉⲱⲣⲅⲓⲟⲥ",
+   "roman": "Moses Giorgios",
+   "start": 1092,
+   "end": 1130,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Basil II",
+   "nativeName": "ⲃⲁⲥⲓⲗⲉⲓⲟⲥ",
+   "roman": "Basil II",
+   "start": 1130,
+   "end": 1158,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Moses II",
+   "nativeName": "ⲙⲱⲩⲥⲏⲥ",
+   "roman": "Moses II",
+   "start": 1158,
+   "end": 1210,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "John I",
+   "nativeName": "ⲓⲱϩⲁⲛⲛⲏⲥ",
+   "roman": "John I",
+   "start": 1210,
+   "end": 1268,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "David I",
+   "nativeName": "ⲇⲁⲩⲓⲇ",
+   "roman": "David I",
+   "start": 1268,
+   "end": 1272,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Shekanda",
+   "nativeName": "Shekanda",
+   "roman": "Shekanda",
+   "start": 1272,
+   "end": 1286,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Barak",
+   "nativeName": "Barak",
+   "roman": "Barak",
+   "start": 1286,
+   "end": 1289,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Samamoun",
+   "nativeName": "Samamoun",
+   "roman": "Samamoun",
+   "start": 1289,
+   "end": 1300,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Ayay",
+   "nativeName": "Ayay",
+   "roman": "Ayay",
+   "start": 1300,
+   "end": 1305,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Keranbes",
+   "nativeName": "Keranbes",
+   "roman": "Keranbes",
+   "start": 1305,
+   "end": 1320,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "David II",
+   "nativeName": "ⲇⲁⲩⲓⲇ",
+   "roman": "David II",
+   "start": 1320,
+   "end": 1323,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Kanz ad-Dawla",
+   "nativeName": "كنز الدولة",
+   "roman": "Kanz ad-Dawla",
+   "start": 1323,
+   "end": 1365,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Unknown rulers",
+   "nativeName": "Unknown",
+   "roman": "Unknown",
+   "start": 1365,
+   "end": 1412,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q829356__makuria"
+}

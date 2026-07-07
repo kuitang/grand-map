@@ -1,0 +1,204 @@
+{
+ "qid": "Q83546",
+ "names": [
+  "Principality of Rostov-Suzdal"
+ ],
+ "title": "Principality of Rostov-Suzdal",
+ "variantOf": "Q83546",
+ "endonym": {
+  "native": "Ростово-Суздальское княжество",
+  "roman": "Rostovo-Suzdal'skoye knyazhestvo"
+ },
+ "capsule": "Rostov-Suzdal grew out of lands assigned to Vsevolod Yaroslavich's line from 1054 and was confirmed to Vladimir Monomakh's family at the Council of Lyubech in 1097; his son Yuri Dolgoruky moved its seat to Suzdal in 1125 and founded Moscow in 1147 while building up the principality's cities and boyar class. After the senior line shifted its capital to Vladimir in 1157, a separate Rostov branch under Konstantin Vsevolodovich (from 1207) and his son Vasilko continued to rule Rostov and Yaroslavl as an appanage, ending when Vasilko was killed refusing submission to Batu Khan's Mongols after the Battle of the Sit River in 1238.",
+ "citations": [
+  {
+   "label": "Wikipedia: Vladimir-Suzdal",
+   "url": "https://en.wikipedia.org/wiki/Vladimir-Suzdal"
+  },
+  {
+   "label": "Wikipedia: Konstantin of Rostov",
+   "url": "https://en.wikipedia.org/wiki/Konstantin_of_Rostov"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The principality's core territorial extent is reasonably well documented in chronicle sources; the outer boundaries of its northeastern frontier zone are approximately known. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Vladimir-Suzdal",
+ "rulers": [
+  {
+   "qid": null,
+   "name": "Vsevolod I of Kiev",
+   "nativeName": "Всеволод Ярославич",
+   "roman": "Vsevolod Yaroslavich",
+   "start": 1054,
+   "end": 1073,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Vladimir Monomakh",
+   "nativeName": "Владимир Мономах",
+   "roman": "Vladimir Monomakh",
+   "start": 1073,
+   "end": 1093,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Yuri Dolgorukiy",
+   "nativeName": "Юрий Долгорукий",
+   "roman": "Yury Dolgoruky",
+   "start": 1125,
+   "end": 1157,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Andrei Bogolyubsky",
+   "nativeName": "Андрей Боголюбский",
+   "roman": "Andrey Bogolubsky",
+   "start": 1157,
+   "end": 1174,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Mikhalko Yuryevich",
+   "nativeName": "Михалко Юрьевич",
+   "roman": "Mikhalko Yuryevich",
+   "start": 1174,
+   "end": 1176,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Vsevolod the Big Nest",
+   "nativeName": "Всеволод Большое Гнездо",
+   "roman": "Vsevolod Bolshoye Gnezdo",
+   "start": 1176,
+   "end": 1212,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Yuri II of Vladimir",
+   "nativeName": "Юрий Всеволодович",
+   "roman": "Yury Vsevolodovich",
+   "start": 1212,
+   "end": 1216,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Konstantin of Rostov",
+   "nativeName": "Константин Всеволодович",
+   "roman": "Konstantin Vsevolodovich",
+   "start": 1216,
+   "end": 1218,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Yuri II of Vladimir (restored)",
+   "nativeName": "Юрий Всеволодович",
+   "roman": "Yury Vsevolodovich",
+   "start": 1218,
+   "end": 1238,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Yaroslav II of Vladimir",
+   "nativeName": "Ярослав Всеволодович",
+   "roman": "Yaroslav Vsevolodovich",
+   "start": 1238,
+   "end": 1246,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Sviatoslav III of Vladimir",
+   "nativeName": "Святослав Всеволодович",
+   "roman": "Svyatoslav Vsevolodovich",
+   "start": 1246,
+   "end": 1248,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Mikhail Khorobrit",
+   "nativeName": "Михаил Хоробрит",
+   "roman": "Mikhail Khorobrit",
+   "start": 1248,
+   "end": 1248,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Andrei II of Vladimir",
+   "nativeName": "Андрей Ярославич",
+   "roman": "Andrey Yaroslavich",
+   "start": 1248,
+   "end": 1252,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Alexander Nevsky",
+   "nativeName": "Александр Невский",
+   "roman": "Aleksandr Nevsky",
+   "start": 1252,
+   "end": 1263,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  },
+  {
+   "qid": null,
+   "name": "Yaroslav III of Vladimir",
+   "nativeName": "Ярослав Ярославич",
+   "roman": "Yaroslav Yaroslavich",
+   "start": 1263,
+   "end": 1272,
+   "image": null,
+   "imageUrl": null,
+   "imageLicense": null
+  }
+ ],
+ "blurbKey": "Q83546__principality-of-rostov-suzdal"
+}

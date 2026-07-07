@@ -1,0 +1,38 @@
+{
+ "qid": "Q849967",
+ "names": [
+  "Brythons"
+ ],
+ "title": "Brythons",
+ "variantOf": "Q849967",
+ "endonym": {
+  "native": "Brython",
+  "roman": "Brython",
+  "lang": "wlm"
+ },
+ "capsule": "As a people, the Brythons (Common Brittonic-speaking Celtic Britons) inhabited most of Great Britain south of the Forth-Clyde line through the Roman period and after Roman withdrawal in the early 5th century, when Anglo-Saxon, Irish, and Pictish pressure fragmented their territory into numerous separate kingdoms. Brythonic-speaking communities also migrated overseas in this period, founding Brittany in Armorica and the short-lived Britonia in northwestern Spain. Over the following centuries Brythonic political and linguistic identity narrowed mainly to Wales, Cornwall/Dumnonia, and Cumbric-speaking Strathclyde (annexed by Scotland in the 11th century), with independent Welsh rule persisting into the 13th century.",
+ "citations": [
+  {
+   "label": "Wikipedia, \"Celtic Britons\"",
+   "url": "https://en.wikipedia.org/wiki/Celtic_Britons"
+  },
+  {
+   "label": "Wikipedia, \"Brittonic languages\"",
+   "url": "https://en.wikipedia.org/wiki/Brittonic_languages"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. The Brythons are not a single bounded polity; the dataset geometry likely represents their collective presence across Britain as reconstructed from archaeological and linguistic evidence. Pre-Roman extents are broadly estimated; Roman-period territories are better documented, and post-Roman Brythonic kingdoms are reconstructed from early medieval Welsh chronicles and genealogical texts with significant uncertainty about boundaries. Capsule researched for this polity/era specifically (confidence: medium).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Celtic Britons",
+ "blurbKey": "Q849967__brythons"
+}

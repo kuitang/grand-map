@@ -1,0 +1,319 @@
+{
+ "qid": "Q5062192",
+ "names": [
+  "Mexico"
+ ],
+ "title": "Mexico",
+ "variantOf": "Q5062192",
+ "endonym": {
+  "native": "México",
+  "roman": "México"
+ },
+ "capsule": "This 'Mexico' denotes the consolidated federal republic from the 1867 Restored Republic under Benito Juárez, following the fall of Maximilian's Second Mexican Empire, through the Porfiriato, the 1910 Revolution, seven decades of PRI-dominated one-party rule, and the democratic alternation beginning with Vicente Fox's 2000 election. It remains a federal presidential republic under the 1917 constitution into the 2020s. This modern federal state is distinct from the 1836–1846 unitary Centralist Republic sharing this Wikidata identifier.",
+ "citations": [
+  {
+   "label": "History of Mexico — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/History_of_Mexico"
+  },
+  {
+   "label": "Mexico — Britannica",
+   "url": "https://www.britannica.com/place/Mexico"
+  }
+ ],
+ "edited": "era-variant",
+ "attestation": "Boundaries from Seshat Cliopatria (Bennett et al., Scientific Data 2025; CC BY 4.0), digitized from standard historical atlases at ~0.07° resolution. Mexico's modern borders are defined by treaties — the Treaty of Guadalupe Hidalgo (1848) and Gadsden Purchase (1853) with the United States, and the Chamizal Convention (1963) — and are precisely documented; internal state boundaries are well-mapped. Capsule researched for this polity/era specifically (confidence: high).",
+ "attestationLinks": [
+  {
+   "label": "Cliopatria dataset (Seshat, CC BY 4.0)",
+   "url": "https://github.com/Seshat-Global-History-Databank/cliopatria"
+  },
+  {
+   "label": "Bennett et al. 2025, Scientific Data",
+   "url": "https://www.nature.com/articles/s41597-025-04516-9"
+  }
+ ],
+ "wikipedia": "Centralist Republic of Mexico",
+ "rulers": [
+  {
+   "name": "Benito Juárez",
+   "native": "Benito Juárez",
+   "roman": "Benito Juárez",
+   "start": 1867,
+   "end": 1872,
+   "nativeName": "Benito Juárez"
+  },
+  {
+   "name": "Sebastián Lerdo de Tejada",
+   "native": "Sebastián Lerdo de Tejada",
+   "roman": "Sebastián Lerdo de Tejada",
+   "start": 1872,
+   "end": 1876,
+   "nativeName": "Sebastián Lerdo de Tejada"
+  },
+  {
+   "name": "Porfirio Díaz",
+   "native": "Porfirio Díaz",
+   "roman": "Porfirio Díaz",
+   "start": 1876,
+   "end": 1876,
+   "nativeName": "Porfirio Díaz"
+  },
+  {
+   "name": "Juan N. Méndez",
+   "native": "Juan N. Méndez",
+   "roman": "Juan N. Méndez",
+   "start": 1876,
+   "end": 1877,
+   "nativeName": "Juan N. Méndez"
+  },
+  {
+   "name": "Porfirio Díaz (2nd term)",
+   "native": "Porfirio Díaz",
+   "roman": "Porfirio Díaz",
+   "start": 1877,
+   "end": 1880,
+   "nativeName": "Porfirio Díaz"
+  },
+  {
+   "name": "Manuel González",
+   "native": "Manuel González Flores",
+   "roman": "Manuel González Flores",
+   "start": 1880,
+   "end": 1884,
+   "nativeName": "Manuel González Flores"
+  },
+  {
+   "name": "Porfirio Díaz (3rd term)",
+   "native": "Porfirio Díaz",
+   "roman": "Porfirio Díaz",
+   "start": 1884,
+   "end": 1911,
+   "nativeName": "Porfirio Díaz"
+  },
+  {
+   "name": "Francisco León de la Barra",
+   "native": "Francisco León de la Barra",
+   "roman": "Francisco León de la Barra",
+   "start": 1911,
+   "end": 1911,
+   "nativeName": "Francisco León de la Barra"
+  },
+  {
+   "name": "Francisco I. Madero",
+   "native": "Francisco I. Madero",
+   "roman": "Francisco I. Madero",
+   "start": 1911,
+   "end": 1913,
+   "nativeName": "Francisco I. Madero"
+  },
+  {
+   "name": "Pedro Lascuráin",
+   "native": "Pedro Lascuráin",
+   "roman": "Pedro Lascuráin",
+   "start": 1913,
+   "end": 1913,
+   "nativeName": "Pedro Lascuráin"
+  },
+  {
+   "name": "Victoriano Huerta",
+   "native": "Victoriano Huerta",
+   "roman": "Victoriano Huerta",
+   "start": 1913,
+   "end": 1914,
+   "nativeName": "Victoriano Huerta"
+  },
+  {
+   "name": "Francisco S. Carvajal",
+   "native": "Francisco S. Carvajal",
+   "roman": "Francisco S. Carvajal",
+   "start": 1914,
+   "end": 1914,
+   "nativeName": "Francisco S. Carvajal"
+  },
+  {
+   "name": "Venustiano Carranza",
+   "native": "Venustiano Carranza",
+   "roman": "Venustiano Carranza",
+   "start": 1914,
+   "end": 1920,
+   "nativeName": "Venustiano Carranza"
+  },
+  {
+   "name": "Adolfo de la Huerta",
+   "native": "Adolfo de la Huerta",
+   "roman": "Adolfo de la Huerta",
+   "start": 1920,
+   "end": 1920,
+   "nativeName": "Adolfo de la Huerta"
+  },
+  {
+   "name": "Álvaro Obregón",
+   "native": "Álvaro Obregón",
+   "roman": "Álvaro Obregón",
+   "start": 1920,
+   "end": 1924,
+   "nativeName": "Álvaro Obregón"
+  },
+  {
+   "name": "Plutarco Elías Calles",
+   "native": "Plutarco Elías Calles",
+   "roman": "Plutarco Elías Calles",
+   "start": 1924,
+   "end": 1928,
+   "nativeName": "Plutarco Elías Calles"
+  },
+  {
+   "name": "Emilio Portes Gil",
+   "native": "Emilio Portes Gil",
+   "roman": "Emilio Portes Gil",
+   "start": 1928,
+   "end": 1930,
+   "nativeName": "Emilio Portes Gil"
+  },
+  {
+   "name": "Pascual Ortiz Rubio",
+   "native": "Pascual Ortiz Rubio",
+   "roman": "Pascual Ortiz Rubio",
+   "start": 1930,
+   "end": 1932,
+   "nativeName": "Pascual Ortiz Rubio"
+  },
+  {
+   "name": "Abelardo L. Rodríguez",
+   "native": "Abelardo L. Rodríguez",
+   "roman": "Abelardo L. Rodríguez",
+   "start": 1932,
+   "end": 1934,
+   "nativeName": "Abelardo L. Rodríguez"
+  },
+  {
+   "name": "Lázaro Cárdenas",
+   "native": "Lázaro Cárdenas",
+   "roman": "Lázaro Cárdenas",
+   "start": 1934,
+   "end": 1940,
+   "nativeName": "Lázaro Cárdenas"
+  },
+  {
+   "name": "Manuel Ávila Camacho",
+   "native": "Manuel Ávila Camacho",
+   "roman": "Manuel Ávila Camacho",
+   "start": 1940,
+   "end": 1946,
+   "nativeName": "Manuel Ávila Camacho"
+  },
+  {
+   "name": "Miguel Alemán Valdés",
+   "native": "Miguel Alemán Valdés",
+   "roman": "Miguel Alemán Valdés",
+   "start": 1946,
+   "end": 1952,
+   "nativeName": "Miguel Alemán Valdés"
+  },
+  {
+   "name": "Adolfo Ruiz Cortines",
+   "native": "Adolfo Ruiz Cortines",
+   "roman": "Adolfo Ruiz Cortines",
+   "start": 1952,
+   "end": 1958,
+   "nativeName": "Adolfo Ruiz Cortines"
+  },
+  {
+   "name": "Adolfo López Mateos",
+   "native": "Adolfo López Mateos",
+   "roman": "Adolfo López Mateos",
+   "start": 1958,
+   "end": 1964,
+   "nativeName": "Adolfo López Mateos"
+  },
+  {
+   "name": "Gustavo Díaz Ordaz",
+   "native": "Gustavo Díaz Ordaz",
+   "roman": "Gustavo Díaz Ordaz",
+   "start": 1964,
+   "end": 1970,
+   "nativeName": "Gustavo Díaz Ordaz"
+  },
+  {
+   "name": "Luis Echeverría",
+   "native": "Luis Echeverría",
+   "roman": "Luis Echeverría",
+   "start": 1970,
+   "end": 1976,
+   "nativeName": "Luis Echeverría"
+  },
+  {
+   "name": "José López Portillo",
+   "native": "José López Portillo",
+   "roman": "José López Portillo",
+   "start": 1976,
+   "end": 1982,
+   "nativeName": "José López Portillo"
+  },
+  {
+   "name": "Miguel de la Madrid",
+   "native": "Miguel de la Madrid",
+   "roman": "Miguel de la Madrid",
+   "start": 1982,
+   "end": 1988,
+   "nativeName": "Miguel de la Madrid"
+  },
+  {
+   "name": "Carlos Salinas de Gortari",
+   "native": "Carlos Salinas de Gortari",
+   "roman": "Carlos Salinas de Gortari",
+   "start": 1988,
+   "end": 1994,
+   "nativeName": "Carlos Salinas de Gortari"
+  },
+  {
+   "name": "Ernesto Zedillo",
+   "native": "Ernesto Zedillo",
+   "roman": "Ernesto Zedillo",
+   "start": 1994,
+   "end": 2000,
+   "nativeName": "Ernesto Zedillo"
+  },
+  {
+   "name": "Vicente Fox",
+   "native": "Vicente Fox",
+   "roman": "Vicente Fox",
+   "start": 2000,
+   "end": 2006,
+   "nativeName": "Vicente Fox"
+  },
+  {
+   "name": "Felipe Calderón",
+   "native": "Felipe Calderón",
+   "roman": "Felipe Calderón",
+   "start": 2006,
+   "end": 2012,
+   "nativeName": "Felipe Calderón"
+  },
+  {
+   "name": "Enrique Peña Nieto",
+   "native": "Enrique Peña Nieto",
+   "roman": "Enrique Peña Nieto",
+   "start": 2012,
+   "end": 2018,
+   "nativeName": "Enrique Peña Nieto"
+  },
+  {
+   "name": "Andrés Manuel López Obrador",
+   "native": "Andrés Manuel López Obrador",
+   "roman": "Andrés Manuel López Obrador",
+   "start": 2018,
+   "end": 2024,
+   "nativeName": "Andrés Manuel López Obrador"
+  },
+  {
+   "name": "Claudia Sheinbaum",
+   "native": "Claudia Sheinbaum",
+   "roman": "Claudia Sheinbaum",
+   "start": 2024,
+   "end": 2025,
+   "nativeName": "Claudia Sheinbaum"
+  }
+ ],
+ "blurbKey": "Q5062192__mexico"
+}
